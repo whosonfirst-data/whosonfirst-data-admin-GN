@@ -1,0 +1,68 @@
+{
+  "id": 1276910947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.85,10.26667,-12.85,10.26667",
+    "geom:latitude":10.26667,
+    "geom:longitude":-12.85,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Dodo",
+    "gn:country_code":"GN",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421783,
+    "gn:latitude":10.26667,
+    "gn:longitude":-12.85,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421783
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"aee72fc5ef91cd8b005aef9f4454941a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1276910947,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1276910947,
+    "wof:lastmodified":1536998771,
+    "wof:name":"Dodo",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.85,
+    10.26667,
+    -12.85,
+    10.26667
+],
+  "geometry": {"coordinates":[-12.85,10.26667],"type":"Point"}
+}

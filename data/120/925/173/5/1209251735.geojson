@@ -1,0 +1,62 @@
+{
+  "id": 1209251735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.10124,12.07741,-11.10124,12.07741",
+    "geom:latitude":12.07741,
+    "geom:longitude":-11.10124,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Yorolokoure",
+    "gn:country_code":"GN",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414065,
+    "gn:latitude":12.07741,
+    "gn:longitude":-11.10124,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yorolokour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414065
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2b84a821344a2ca278bc17fa52597704",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209251735
+        }
+    ],
+    "wof:id":1209251735,
+    "wof:lastmodified":1536292983,
+    "wof:name":"Yorolokoure",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.10124,
+    12.07741,
+    -11.10124,
+    12.07741
+],
+  "geometry": {"coordinates":[-11.10124,12.07741],"type":"Point"}
+}

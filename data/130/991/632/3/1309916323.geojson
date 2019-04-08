@@ -1,0 +1,68 @@
+{
+  "id": 1309916323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.665,8.77139,-9.665,8.77139",
+    "geom:latitude":8.77139,
+    "geom:longitude":-9.665,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Yarazou",
+    "gn:country_code":"GN",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414218,
+    "gn:latitude":8.77139,
+    "gn:longitude":-9.665,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yarazou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414218
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4adb28f204918b565f0e27611349d5cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1309916323,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1309916323,
+    "wof:lastmodified":1536772265,
+    "wof:name":"Yarazou",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.665,
+    8.77139,
+    -9.665,
+    8.77139
+],
+  "geometry": {"coordinates":[-9.665,8.77139],"type":"Point"}
+}

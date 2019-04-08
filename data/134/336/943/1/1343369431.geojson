@@ -1,0 +1,68 @@
+{
+  "id": 1343369431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26833,7.71889,-8.26833,7.71889",
+    "geom:latitude":7.71889,
+    "geom:longitude":-8.26833,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Zougouta",
+    "gn:country_code":"GN",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414000,
+    "gn:latitude":7.71889,
+    "gn:longitude":-8.26833,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Zougouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414000
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"bfad4d835f66c9ed5d2c1cbc4fa254e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1343369431,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1343369431,
+    "wof:lastmodified":1536876593,
+    "wof:name":"Zougouta",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26833,
+    7.71889,
+    -8.26833,
+    7.71889
+],
+  "geometry": {"coordinates":[-8.26833,7.71889],"type":"Point"}
+}

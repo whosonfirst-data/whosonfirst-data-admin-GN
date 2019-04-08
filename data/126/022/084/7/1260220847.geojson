@@ -1,0 +1,68 @@
+{
+  "id": 1260220847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95,9.91667,-12.95,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":-12.95,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Daboia",
+    "gn:country_code":"GN",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422443,
+    "gn:latitude":9.91667,
+    "gn:longitude":-12.95,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dabo\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422443
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8e3e0e62b0f0dfef3ca5e74b2ce4da50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1260220847,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1260220847,
+    "wof:lastmodified":1536797143,
+    "wof:name":"Daboia",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95,
+    9.91667,
+    -12.95,
+    9.91667
+],
+  "geometry": {"coordinates":[-12.95,9.91667],"type":"Point"}
+}

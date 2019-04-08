@@ -1,0 +1,67 @@
+{
+  "id": 1310441449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.68333,11.03333,-14.68333,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":-14.68333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Bomfira",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422848,
+    "gn:latitude":11.03333,
+    "gn:longitude":-14.68333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bomfira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonzira",
+        "Bomfira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422848
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ca7c262ad25adc7b08e23352c328738d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310441449,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310441449,
+    "wof:lastmodified":1537623995,
+    "wof:name":"Bomfira",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.68333,
+    11.03333,
+    -14.68333,
+    11.03333
+],
+  "geometry": {"coordinates":[-14.68333,11.03333],"type":"Point"}
+}

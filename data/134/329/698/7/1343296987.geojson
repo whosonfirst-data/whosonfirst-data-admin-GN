@@ -1,0 +1,68 @@
+{
+  "id": 1343296987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.14472,9.82389,-13.14472,9.82389",
+    "geom:latitude":9.82389,
+    "geom:longitude":-13.14472,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Labota",
+    "gn:country_code":"GN",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592738,
+    "gn:latitude":9.82389,
+    "gn:longitude":-13.14472,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Labota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592738
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"eb378b6de50020122b612f36cc2e69a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1343296987,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1343296987,
+    "wof:lastmodified":1536981457,
+    "wof:name":"Labota",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.14472,
+    9.82389,
+    -13.14472,
+    9.82389
+],
+  "geometry": {"coordinates":[-13.14472,9.82389],"type":"Point"}
+}

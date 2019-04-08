@@ -1,0 +1,72 @@
+{
+  "id": 1276803975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83333,10.65,-8.83333,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":-8.83333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Marina",
+    "gn:country_code":"GN",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417695,
+    "gn:latitude":10.65,
+    "gn:longitude":-8.83333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Marina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u00e9na",
+        "Marina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417695
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cb113d92dd413e1f7bcff80ec52e3b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1276803975,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1276803975,
+    "wof:lastmodified":1537623944,
+    "wof:name":"Marina",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83333,
+    10.65,
+    -8.83333,
+    10.65
+],
+  "geometry": {"coordinates":[-8.83333,10.65],"type":"Point"}
+}

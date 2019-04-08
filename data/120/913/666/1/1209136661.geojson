@@ -1,0 +1,66 @@
+{
+  "id": 1209136661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.25694,9.61778,-13.25694,9.61778",
+    "geom:latitude":9.61778,
+    "geom:longitude":-13.25694,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Kiriya",
+    "gn:country_code":"GN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419483,
+    "gn:latitude":9.61778,
+    "gn:longitude":-13.25694,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kiriya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiria",
+        "Kiriya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419483
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d16e3e7e9390121aaa908b0e902ca7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209136661
+        }
+    ],
+    "wof:id":1209136661,
+    "wof:lastmodified":1537623959,
+    "wof:name":"Kiriya",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.25694,
+    9.61778,
+    -13.25694,
+    9.61778
+],
+  "geometry": {"coordinates":[-13.25694,9.61778],"type":"Point"}
+}

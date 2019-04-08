@@ -1,0 +1,67 @@
+{
+  "id": 1209951419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.61494,9.07267,-10.61494,9.07267",
+    "geom:latitude":9.07267,
+    "geom:longitude":-10.61494,
+    "gn:admin1_code":"F",
+    "gn:asciiname":"Korodiakoro",
+    "gn:country_code":"GN",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2407424,
+    "gn:latitude":9.07267,
+    "gn:longitude":-10.61494,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Korodiakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2407424
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7b6c3b3c75fb42009334011e84e665f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1209951419,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1209951419,
+    "wof:lastmodified":1536383204,
+    "wof:name":"Korodiakoro",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.61494,
+    9.07267,
+    -10.61494,
+    9.07267
+],
+  "geometry": {"coordinates":[-10.61494,9.07267],"type":"Point"}
+}

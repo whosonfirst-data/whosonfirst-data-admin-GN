@@ -1,0 +1,68 @@
+{
+  "id": 1209749281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.22056,9.18833,-13.22056,9.18833",
+    "geom:latitude":9.18833,
+    "geom:longitude":-13.22056,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Sareya",
+    "gn:country_code":"GN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592905,
+    "gn:latitude":9.18833,
+    "gn:longitude":-13.22056,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sar\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592905
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8c1007d1c8911f57a4fbc820b9b207a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1209749281,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1209749281,
+    "wof:lastmodified":1536393540,
+    "wof:name":"Sareya",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.22056,
+    9.18833,
+    -13.22056,
+    9.18833
+],
+  "geometry": {"coordinates":[-13.22056,9.18833],"type":"Point"}
+}

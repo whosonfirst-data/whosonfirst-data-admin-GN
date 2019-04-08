@@ -1,0 +1,62 @@
+{
+  "id": 1209136513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68333,11.96667,-9.68333,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":-9.68333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Dassaba",
+    "gn:country_code":"GN",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422209,
+    "gn:latitude":11.96667,
+    "gn:longitude":-9.68333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dassaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422209
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"91a8ef2f08becc87b3867f4705bc5d7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209136513
+        }
+    ],
+    "wof:id":1209136513,
+    "wof:lastmodified":1536296643,
+    "wof:name":"Dassaba",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68333,
+    11.96667,
+    -9.68333,
+    11.96667
+],
+  "geometry": {"coordinates":[-9.68333,11.96667],"type":"Point"}
+}

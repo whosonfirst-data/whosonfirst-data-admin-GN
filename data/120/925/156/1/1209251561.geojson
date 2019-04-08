@@ -1,0 +1,62 @@
+{
+  "id": 1209251561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.39472,9.67111,-13.39472,9.67111",
+    "geom:latitude":9.67111,
+    "geom:longitude":-13.39472,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Kouyeya",
+    "gn:country_code":"GN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592770,
+    "gn:latitude":9.67111,
+    "gn:longitude":-13.39472,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kouy\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592770
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"765200456a6f9fe0797326b3e1c616c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209251561
+        }
+    ],
+    "wof:id":1209251561,
+    "wof:lastmodified":1536292988,
+    "wof:name":"Kouyeya",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.39472,
+    9.67111,
+    -13.39472,
+    9.67111
+],
+  "geometry": {"coordinates":[-13.39472,9.67111],"type":"Point"}
+}

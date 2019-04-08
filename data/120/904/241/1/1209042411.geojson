@@ -1,0 +1,62 @@
+{
+  "id": 1209042411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.3,9.8,-13.3,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":-13.3,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Bangouya",
+    "gn:country_code":"GN",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423487,
+    "gn:latitude":9.8,
+    "gn:longitude":-13.3,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bangouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423487
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"64445d26bd033a7c8f7ca562c0787035",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209042411
+        }
+    ],
+    "wof:id":1209042411,
+    "wof:lastmodified":1536299502,
+    "wof:name":"Bangouya",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.3,
+    9.8,
+    -13.3,
+    9.8
+],
+  "geometry": {"coordinates":[-13.3,9.8],"type":"Point"}
+}

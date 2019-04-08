@@ -1,0 +1,67 @@
+{
+  "id": 1209244015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.15,11.35,-14.15,11.35",
+    "geom:latitude":11.35,
+    "geom:longitude":-14.15,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Parabole",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416550,
+    "gn:latitude":11.35,
+    "gn:longitude":-14.15,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Parabol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paraol\u00e9",
+        "Parabol\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416550
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1d4e15d6d032df013909f4cf526e5db2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209244015
+        }
+    ],
+    "wof:id":1209244015,
+    "wof:lastmodified":1537623931,
+    "wof:name":"Parabole",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.15,
+    11.35,
+    -14.15,
+    11.35
+],
+  "geometry": {"coordinates":[-14.15,11.35],"type":"Point"}
+}

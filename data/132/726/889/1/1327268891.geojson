@@ -1,0 +1,68 @@
+{
+  "id": 1327268891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98333,10.08333,-8.98333,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":-8.98333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Konsan",
+    "gn:country_code":"GN",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418908,
+    "gn:latitude":10.08333,
+    "gn:longitude":-8.98333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Konsan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418908
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"02eebf58ac38e7851c9d504d55e2d5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1327268891,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1327268891,
+    "wof:lastmodified":1536917476,
+    "wof:name":"Konsan",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98333,
+    10.08333,
+    -8.98333,
+    10.08333
+],
+  "geometry": {"coordinates":[-8.98333,10.08333],"type":"Point"}
+}

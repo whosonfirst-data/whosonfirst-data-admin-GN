@@ -1,0 +1,68 @@
+{
+  "id": 1243203605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.56667,10.45,-11.56667,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":-11.56667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Mooria",
+    "gn:country_code":"GN",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417481,
+    "gn:latitude":10.45,
+    "gn:longitude":-11.56667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Mooria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671473,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417481
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b694141a3cfe9eaf9bfad906b2e504b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":1243203605,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":1243203605,
+    "wof:lastmodified":1536658832,
+    "wof:name":"Mooria",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.56667,
+    10.45,
+    -11.56667,
+    10.45
+],
+  "geometry": {"coordinates":[-11.56667,10.45],"type":"Point"}
+}

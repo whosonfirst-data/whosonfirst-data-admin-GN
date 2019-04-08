@@ -1,0 +1,68 @@
+{
+  "id": 1293623815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49455,12.01964,-11.49455,12.01964",
+    "geom:latitude":12.01964,
+    "geom:longitude":-11.49455,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Pilel",
+    "gn:country_code":"GN",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416454,
+    "gn:latitude":12.01964,
+    "gn:longitude":-11.49455,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Pilel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416454
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e4b10b8033af4d5501d774ad5e1b6e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":1293623815,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293623815,
+    "wof:lastmodified":1537084519,
+    "wof:name":"Pilel",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49455,
+    12.01964,
+    -11.49455,
+    12.01964
+],
+  "geometry": {"coordinates":[-11.49455,12.01964],"type":"Point"}
+}

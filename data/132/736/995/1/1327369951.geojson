@@ -1,0 +1,74 @@
+{
+  "id": 1327369951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.83333,10.25,-13.83333,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-13.83333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Meyenkhoure",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417583,
+    "gn:latitude":10.25,
+    "gn:longitude":-13.83333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"M\u00e9yenkhour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9makour\u00e9",
+        "M\u00e9k\u00e9kour\u00e9",
+        "M\u00e9yenkhour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417583
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cc38b14ee3ef534567d89fd3a0ab672e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1327369951,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1327369951,
+    "wof:lastmodified":1537623942,
+    "wof:name":"Meyenkhoure",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.83333,
+    10.25,
+    -13.83333,
+    10.25
+],
+  "geometry": {"coordinates":[-13.83333,10.25],"type":"Point"}
+}

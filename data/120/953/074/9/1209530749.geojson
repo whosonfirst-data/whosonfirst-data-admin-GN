@@ -1,0 +1,62 @@
+{
+  "id": 1209530749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48306,8.84944,-9.48306,8.84944",
+    "geom:latitude":8.84944,
+    "geom:longitude":-9.48306,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Ouazemai",
+    "gn:country_code":"GN",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416830,
+    "gn:latitude":8.84944,
+    "gn:longitude":-9.48306,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Ouaz\u00e9ma\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416830
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"69162b7b8f1ac18f64f274e4266c2ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209530749
+        }
+    ],
+    "wof:id":1209530749,
+    "wof:lastmodified":1536284288,
+    "wof:name":"Ouazemai",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48306,
+    8.84944,
+    -9.48306,
+    8.84944
+],
+  "geometry": {"coordinates":[-9.48306,8.84944],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293701879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53333,7.65,-8.53333,7.65",
+    "geom:latitude":7.65,
+    "geom:longitude":-8.53333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Teassou",
+    "gn:country_code":"GN",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414965,
+    "gn:latitude":7.65,
+    "gn:longitude":-8.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"T\u00e9assou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414965
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9145793b0f97fac84bcf49fda0944fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1293701879,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1293701879,
+    "wof:lastmodified":1536974719,
+    "wof:name":"Teassou",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53333,
+    7.65,
+    -8.53333,
+    7.65
+],
+  "geometry": {"coordinates":[-8.53333,7.65],"type":"Point"}
+}

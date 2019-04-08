@@ -1,0 +1,68 @@
+{
+  "id": 1343677001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36667,8.01667,-9.36667,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-9.36667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Kobaraga",
+    "gn:country_code":"GN",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419411,
+    "gn:latitude":8.01667,
+    "gn:longitude":-9.36667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kobaraga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419411
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6e36e95aa758e0d5784eb8e8fe9c3858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1343677001,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1343677001,
+    "wof:lastmodified":1536931854,
+    "wof:name":"Kobaraga",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36667,
+    8.01667,
+    -9.36667,
+    8.01667
+],
+  "geometry": {"coordinates":[-9.36667,8.01667],"type":"Point"}
+}

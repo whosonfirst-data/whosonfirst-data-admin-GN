@@ -1,0 +1,62 @@
+{
+  "id": 1209345917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.14916,10.53347,-12.14916,10.53347",
+    "geom:latitude":10.53347,
+    "geom:longitude":-12.14916,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Tolo",
+    "gn:country_code":"GN",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7669274,
+    "gn:latitude":10.53347,
+    "gn:longitude":-12.14916,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7669274
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"faee92fcfd66a70c2c156ffae3ceb815",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209345917
+        }
+    ],
+    "wof:id":1209345917,
+    "wof:lastmodified":1536289913,
+    "wof:name":"Tolo",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.14916,
+    10.53347,
+    -12.14916,
+    10.53347
+],
+  "geometry": {"coordinates":[-12.14916,10.53347],"type":"Point"}
+}

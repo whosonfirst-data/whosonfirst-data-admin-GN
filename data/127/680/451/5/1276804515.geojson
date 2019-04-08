@@ -1,0 +1,68 @@
+{
+  "id": 1276804515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.78333,11.73333,-9.78333,11.73333",
+    "geom:latitude":11.73333,
+    "geom:longitude":-9.78333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Doubaya",
+    "gn:country_code":"GN",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421676,
+    "gn:latitude":11.73333,
+    "gn:longitude":-9.78333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Doubaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421676
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1a5afb870bd317f78c4c5c673478889e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1276804515,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1276804515,
+    "wof:lastmodified":1536643772,
+    "wof:name":"Doubaya",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.78333,
+    11.73333,
+    -9.78333,
+    11.73333
+],
+  "geometry": {"coordinates":[-9.78333,11.73333],"type":"Point"}
+}

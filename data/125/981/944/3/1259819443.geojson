@@ -1,0 +1,68 @@
+{
+  "id": 1259819443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.81667,11.28333,-11.81667,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":-11.81667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Malipan",
+    "gn:country_code":"GN",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417875,
+    "gn:latitude":11.28333,
+    "gn:longitude":-11.81667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Malipan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671497,
+        1108784627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417875
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1722b250b7179861f15e76fed01e7dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784627,
+            "locality_id":1259819443,
+            "region_id":85671497
+        }
+    ],
+    "wof:id":1259819443,
+    "wof:lastmodified":1536870412,
+    "wof:name":"Malipan",
+    "wof:parent_id":1108784627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.81667,
+    11.28333,
+    -11.81667,
+    11.28333
+],
+  "geometry": {"coordinates":[-11.81667,11.28333],"type":"Point"}
+}

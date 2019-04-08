@@ -1,0 +1,68 @@
+{
+  "id": 1343292585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58333,11.05,-10.58333,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-10.58333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Guelila",
+    "gn:country_code":"GN",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420543,
+    "gn:latitude":11.05,
+    "gn:longitude":-10.58333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gu\u00e9lila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420543
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2fdfc0cb1b4e58552765ff269669f43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1343292585,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1343292585,
+    "wof:lastmodified":1536987840,
+    "wof:name":"Guelila",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58333,
+    11.05,
+    -10.58333,
+    11.05
+],
+  "geometry": {"coordinates":[-10.58333,11.05],"type":"Point"}
+}

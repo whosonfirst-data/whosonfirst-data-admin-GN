@@ -1,0 +1,72 @@
+{
+  "id": 1343469129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46722,7.62694,-8.46722,7.62694",
+    "geom:latitude":7.62694,
+    "geom:longitude":-8.46722,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Selinngbala",
+    "gn:country_code":"GN",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415828,
+    "gn:latitude":7.62694,
+    "gn:longitude":-8.46722,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"S\u00e9linngbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seringbara",
+        "S\u00e9linngbala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415828
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c9d8be1faf2d0ad2f7a784cd4b259cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1343469129,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1343469129,
+    "wof:lastmodified":1537623926,
+    "wof:name":"Selinngbala",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46722,
+    7.62694,
+    -8.46722,
+    7.62694
+],
+  "geometry": {"coordinates":[-8.46722,7.62694],"type":"Point"}
+}

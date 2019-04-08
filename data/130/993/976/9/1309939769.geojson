@@ -1,0 +1,68 @@
+{
+  "id": 1309939769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3,11.43333,-10.3,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":-10.3,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Soboundou",
+    "gn:country_code":"GN",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415511,
+    "gn:latitude":11.43333,
+    "gn:longitude":-10.3,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Soboundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415511
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2c9bb3ed2c1029cb2bb78950db5b9c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1309939769,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1309939769,
+    "wof:lastmodified":1536738053,
+    "wof:name":"Soboundou",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3,
+    11.43333,
+    -10.3,
+    11.43333
+],
+  "geometry": {"coordinates":[-10.3,11.43333],"type":"Point"}
+}

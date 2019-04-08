@@ -1,0 +1,75 @@
+{
+  "id": 1243009321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.499,12.0309,-12.499,12.0309",
+    "geom:latitude":12.0309,
+    "geom:longitude":-12.499,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Madina-Wara",
+    "gn:country_code":"GN",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417958,
+    "gn:latitude":12.0309,
+    "gn:longitude":-12.499,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Madina-Wara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madina Ouarra",
+        "M\u00e9dina Ouarra",
+        "Ouarra",
+        "M\u00e9dina Ouara",
+        "Madina-Wara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417958
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"21ce435bb36d2e6b3bf26a63aaacdff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1243009321,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1243009321,
+    "wof:lastmodified":1537623946,
+    "wof:name":"Madina-Wara",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.499,
+    12.0309,
+    -12.499,
+    12.0309
+],
+  "geometry": {"coordinates":[-12.499,12.0309],"type":"Point"}
+}

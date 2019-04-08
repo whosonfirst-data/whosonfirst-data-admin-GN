@@ -1,0 +1,62 @@
+{
+  "id": 1209139953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.26667,9.01667,-10.26667,9.01667",
+    "geom:latitude":9.01667,
+    "geom:longitude":-10.26667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Ouroukonko",
+    "gn:country_code":"GN",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416639,
+    "gn:latitude":9.01667,
+    "gn:longitude":-10.26667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ouroukonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416639
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"479bba4f8c63cfb47671cf2ba8e7667b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209139953
+        }
+    ],
+    "wof:id":1209139953,
+    "wof:lastmodified":1536296537,
+    "wof:name":"Ouroukonko",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.26667,
+    9.01667,
+    -10.26667,
+    9.01667
+],
+  "geometry": {"coordinates":[-10.26667,9.01667],"type":"Point"}
+}

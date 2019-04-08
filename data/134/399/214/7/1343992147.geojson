@@ -1,0 +1,68 @@
+{
+  "id": 1343992147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.48333,11.03333,-12.48333,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":-12.48333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Sarang",
+    "gn:country_code":"GN",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415968,
+    "gn:latitude":11.03333,
+    "gn:longitude":-12.48333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sarang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671485,
+        421182471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415968
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"11aecd2f350210f293b204284de31eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182471,
+            "locality_id":1343992147,
+            "region_id":85671485
+        }
+    ],
+    "wof:id":1343992147,
+    "wof:lastmodified":1536973825,
+    "wof:name":"Sarang",
+    "wof:parent_id":421182471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.48333,
+    11.03333,
+    -12.48333,
+    11.03333
+],
+  "geometry": {"coordinates":[-12.48333,11.03333],"type":"Point"}
+}

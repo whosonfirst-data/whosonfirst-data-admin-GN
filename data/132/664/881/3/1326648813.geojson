@@ -1,0 +1,68 @@
+{
+  "id": 1326648813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85,8.65,-8.85,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":-8.85,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Ouataferedougou",
+    "gn:country_code":"GN",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416833,
+    "gn:latitude":8.65,
+    "gn:longitude":-8.85,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ouataf\u00e9r\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416833
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"da79379c77fc48cf1bef7ebdd01ded4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1326648813,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1326648813,
+    "wof:lastmodified":1536815203,
+    "wof:name":"Ouataferedougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85,
+    8.65,
+    -8.85,
+    8.65
+],
+  "geometry": {"coordinates":[-8.85,8.65],"type":"Point"}
+}

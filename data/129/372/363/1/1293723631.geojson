@@ -1,0 +1,73 @@
+{
+  "id": 1293723631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.13333,11.41667,-12.13333,11.41667",
+    "geom:latitude":11.41667,
+    "geom:longitude":-12.13333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Sannou",
+    "gn:country_code":"GN",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416033,
+    "gn:latitude":11.41667,
+    "gn:longitude":-12.13333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sannou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samou",
+        "Sanou",
+        "Sannou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671451,
+        421184941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416033
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"afa38779e2dd7ac4b219d64c97bdc15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184941,
+            "locality_id":1293723631,
+            "region_id":85671451
+        }
+    ],
+    "wof:id":1293723631,
+    "wof:lastmodified":1537623927,
+    "wof:name":"Sannou",
+    "wof:parent_id":421184941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.13333,
+    11.41667,
+    -12.13333,
+    11.41667
+],
+  "geometry": {"coordinates":[-12.13333,11.41667],"type":"Point"}
+}

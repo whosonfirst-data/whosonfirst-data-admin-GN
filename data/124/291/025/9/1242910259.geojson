@@ -1,0 +1,73 @@
+{
+  "id": 1242910259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.51667,11.25,-12.51667,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":-12.51667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Timbi Diari",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414761,
+    "gn:latitude":11.25,
+    "gn:longitude":-12.51667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Timbi Diari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timbi-Diar",
+        "Timbi Diari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671485,
+        421182471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414761
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"71b579bf1009bca651f5762824067928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182471,
+            "locality_id":1242910259,
+            "region_id":85671485
+        }
+    ],
+    "wof:id":1242910259,
+    "wof:lastmodified":1537623913,
+    "wof:name":"Timbi Diari",
+    "wof:parent_id":421182471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.51667,
+    11.25,
+    -12.51667,
+    11.25
+],
+  "geometry": {"coordinates":[-12.51667,11.25],"type":"Point"}
+}

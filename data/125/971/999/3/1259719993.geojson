@@ -1,0 +1,72 @@
+{
+  "id": 1259719993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1098,12.0624,-12.1098,12.0624",
+    "geom:latitude":12.0624,
+    "geom:longitude":-12.1098,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Tanbou",
+    "gn:country_code":"GN",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415041,
+    "gn:latitude":12.0624,
+    "gn:longitude":-12.1098,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tanbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tembou",
+        "Tanbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415041
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"97045cff6192890f5f7b789010e242ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1259719993,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1259719993,
+    "wof:lastmodified":1537623916,
+    "wof:name":"Tanbou",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1098,
+    12.0624,
+    -12.1098,
+    12.0624
+],
+  "geometry": {"coordinates":[-12.1098,12.0624],"type":"Point"}
+}

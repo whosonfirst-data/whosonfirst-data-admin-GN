@@ -1,0 +1,68 @@
+{
+  "id": 1276473571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.52222,12.1219,-11.52222,12.1219",
+    "geom:latitude":12.1219,
+    "geom:longitude":-11.52222,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Dirabou",
+    "gn:country_code":"GN",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421835,
+    "gn:latitude":12.1219,
+    "gn:longitude":-11.52222,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dirabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421835
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9688373696d4d1d6909555772cd0644c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":1276473571,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1276473571,
+    "wof:lastmodified":1537085061,
+    "wof:name":"Dirabou",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.52222,
+    12.1219,
+    -11.52222,
+    12.1219
+],
+  "geometry": {"coordinates":[-11.52222,12.1219],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259819561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.03333,10.16667,-14.03333,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":-14.03333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Guemeyire",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420530,
+    "gn:latitude":10.16667,
+    "gn:longitude":-14.03333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gu\u00e8m\u00e8yir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokokaya Gueme\u00efr\u00e9",
+        "Guemeyr\u00e9",
+        "Guerneyr\u00e9",
+        "Gu\u00e8m\u00e8yir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420530
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e9eb1c0d19a207703c97c6f6f480f80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1259819561,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1259819561,
+    "wof:lastmodified":1537623972,
+    "wof:name":"Guemeyire",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.03333,
+    10.16667,
+    -14.03333,
+    10.16667
+],
+  "geometry": {"coordinates":[-14.03333,10.16667],"type":"Point"}
+}

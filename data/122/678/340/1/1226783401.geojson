@@ -1,0 +1,68 @@
+{
+  "id": 1226783401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63333,10.56667,-8.63333,10.56667",
+    "geom:latitude":10.56667,
+    "geom:longitude":-8.63333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Soukouraba",
+    "gn:country_code":"GN",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415305,
+    "gn:latitude":10.56667,
+    "gn:longitude":-8.63333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Soukouraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415305
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"781d7e62abfbf350bd9581e09c16e5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1226783401,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1226783401,
+    "wof:lastmodified":1536661356,
+    "wof:name":"Soukouraba",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63333,
+    10.56667,
+    -8.63333,
+    10.56667
+],
+  "geometry": {"coordinates":[-8.63333,10.56667],"type":"Point"}
+}

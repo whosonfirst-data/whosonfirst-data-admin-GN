@@ -1,0 +1,68 @@
+{
+  "id": 1326958809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58333,10.01667,-10.58333,10.01667",
+    "geom:latitude":10.01667,
+    "geom:longitude":-10.58333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Kamere Kounia",
+    "gn:country_code":"GN",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420075,
+    "gn:latitude":10.01667,
+    "gn:longitude":-10.58333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kam\u00e9r\u00e9 Kounia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420075
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"fe1488d86e25274d787a5351bf11201b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1326958809,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1326958809,
+    "wof:lastmodified":1536865346,
+    "wof:name":"Kamere Kounia",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58333,
+    10.01667,
+    -10.58333,
+    10.01667
+],
+  "geometry": {"coordinates":[-10.58333,10.01667],"type":"Point"}
+}

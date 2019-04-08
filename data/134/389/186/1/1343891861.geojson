@@ -1,0 +1,74 @@
+{
+  "id": 1343891861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.93333,10.43333,-13.93333,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":-13.93333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Khoureralande",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419579,
+    "gn:latitude":10.43333,
+    "gn:longitude":-13.93333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Khour\u00e9raland\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Couv\u00e9land\u00e9",
+        "Kouv\u00e9land\u00e9",
+        "Khour\u00e9raland\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419579
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7ae64e3974795027382e7c3aee8039ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1343891861,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1343891861,
+    "wof:lastmodified":1537623960,
+    "wof:name":"Khoureralande",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.93333,
+    10.43333,
+    -13.93333,
+    10.43333
+],
+  "geometry": {"coordinates":[-13.93333,10.43333],"type":"Point"}
+}

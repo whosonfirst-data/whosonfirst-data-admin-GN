@@ -1,0 +1,62 @@
+{
+  "id": 1209333207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32722,7.90806,-9.32722,7.90806",
+    "geom:latitude":7.90806,
+    "geom:longitude":-9.32722,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Maraou",
+    "gn:country_code":"GN",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417710,
+    "gn:latitude":7.90806,
+    "gn:longitude":-9.32722,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Maraou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417710
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6be075f9a015ff5889b1abf94ef6bb2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209333207
+        }
+    ],
+    "wof:id":1209333207,
+    "wof:lastmodified":1536290306,
+    "wof:name":"Maraou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32722,
+    7.908060000000001,
+    -9.32722,
+    7.908060000000001
+],
+  "geometry": {"coordinates":[-9.32722,7.90806],"type":"Point"}
+}

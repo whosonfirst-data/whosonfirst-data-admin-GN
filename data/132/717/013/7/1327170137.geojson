@@ -1,0 +1,68 @@
+{
+  "id": 1327170137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9124,12.5195,-12.9124,12.5195",
+    "geom:latitude":12.5195,
+    "geom:longitude":-12.9124,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Zitoun",
+    "gn:country_code":"GN",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414014,
+    "gn:latitude":12.5195,
+    "gn:longitude":-12.9124,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Zitoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414014
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"96dad8db7bb7321a8b3ab36f7c28b78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1327170137,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1327170137,
+    "wof:lastmodified":1537056996,
+    "wof:name":"Zitoun",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9124,
+    12.5195,
+    -12.9124,
+    12.5195
+],
+  "geometry": {"coordinates":[-12.9124,12.5195],"type":"Point"}
+}

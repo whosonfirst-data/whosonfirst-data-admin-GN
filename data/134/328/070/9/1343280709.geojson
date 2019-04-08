@@ -1,0 +1,68 @@
+{
+  "id": 1343280709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91667,8.63333,-9.91667,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":-9.91667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Falo",
+    "gn:country_code":"GN",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421425,
+    "gn:latitude":8.63333,
+    "gn:longitude":-9.91667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Falo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421425
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"33a88222db50af028de4e0b96c233fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1343280709,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1343280709,
+    "wof:lastmodified":1537004940,
+    "wof:name":"Falo",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91667,
+    8.63333,
+    -9.91667,
+    8.63333
+],
+  "geometry": {"coordinates":[-9.91667,8.63333],"type":"Point"}
+}

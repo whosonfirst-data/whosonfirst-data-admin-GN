@@ -1,0 +1,68 @@
+{
+  "id": 1293307847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26667,8.81667,-8.26667,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":-8.26667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Djimedougou",
+    "gn:country_code":"GN",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421799,
+    "gn:latitude":8.81667,
+    "gn:longitude":-8.26667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Djim\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421799
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b0fa1988520bdf0317e5324242461c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1293307847,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1293307847,
+    "wof:lastmodified":1537044116,
+    "wof:name":"Djimedougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26667,
+    8.81667,
+    -8.26667,
+    8.81667
+],
+  "geometry": {"coordinates":[-8.26667,8.81667],"type":"Point"}
+}

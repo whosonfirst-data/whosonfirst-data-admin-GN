@@ -1,0 +1,74 @@
+{
+  "id": 1276795459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.53333,10.15,-12.53333,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-12.53333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Sougeta",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415320,
+    "gn:latitude":10.15,
+    "gn:longitude":-12.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Soug\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sougu\u00e9ta",
+        "Soug\u00e9ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415320,
+        "wk:page":"Sougeta"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c5d1992498373034cb1d1544d05825f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1276795459,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1276795459,
+    "wof:lastmodified":1537623919,
+    "wof:name":"Sougeta",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.53333,
+    10.15,
+    -12.53333,
+    10.15
+],
+  "geometry": {"coordinates":[-12.53333,10.15],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276563451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76667,8.78333,-9.76667,8.78333",
+    "geom:latitude":8.78333,
+    "geom:longitude":-9.76667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Bokoezia",
+    "gn:country_code":"GN",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422913,
+    "gn:latitude":8.78333,
+    "gn:longitude":-9.76667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boko\u00e9zia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422913
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6e5dd0c531f614ef1fb41b5714ab2d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1276563451,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1276563451,
+    "wof:lastmodified":1536967437,
+    "wof:name":"Bokoezia",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76667,
+    8.78333,
+    -9.76667,
+    8.78333
+],
+  "geometry": {"coordinates":[-9.76667,8.78333],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209229879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.17194,8.63111,-10.17194,8.63111",
+    "geom:latitude":8.63111,
+    "geom:longitude":-10.17194,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Douadou",
+    "gn:country_code":"GN",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421695,
+    "gn:latitude":8.63111,
+    "gn:longitude":-10.17194,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Douadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421695
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"69d99127fe5457ded15fa072bedc38c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209229879
+        }
+    ],
+    "wof:id":1209229879,
+    "wof:lastmodified":1536293670,
+    "wof:name":"Douadou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.17194,
+    8.631110000000001,
+    -10.17194,
+    8.631110000000001
+],
+  "geometry": {"coordinates":[-10.17194,8.63111],"type":"Point"}
+}

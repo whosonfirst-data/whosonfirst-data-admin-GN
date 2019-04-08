@@ -1,0 +1,68 @@
+{
+  "id": 1327442047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77972,7.79472,-8.77972,7.79472",
+    "geom:latitude":7.79472,
+    "geom:longitude":-8.77972,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Louhoule",
+    "gn:country_code":"GN",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418032,
+    "gn:latitude":7.79472,
+    "gn:longitude":-8.77972,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Louhoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418032
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"657ccf0765e9b91b061dca0cfbbb2dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1327442047,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1327442047,
+    "wof:lastmodified":1536666819,
+    "wof:name":"Louhoule",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77972,
+    7.79472,
+    -8.77972,
+    7.79472
+],
+  "geometry": {"coordinates":[-8.77972,7.79472],"type":"Point"}
+}

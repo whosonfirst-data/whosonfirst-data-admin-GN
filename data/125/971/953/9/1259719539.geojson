@@ -1,0 +1,68 @@
+{
+  "id": 1259719539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2015,12.0461,-12.2015,12.0461",
+    "geom:latitude":12.0461,
+    "geom:longitude":-12.2015,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Ore-Barka",
+    "gn:country_code":"GN",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416942,
+    "gn:latitude":12.0461,
+    "gn:longitude":-12.2015,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Or\u00e9-Barka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416942
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8bdbb570a439656c8c70e21baa3d3ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1259719539,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1259719539,
+    "wof:lastmodified":1537014380,
+    "wof:name":"Ore-Barka",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2015,
+    12.0461,
+    -12.2015,
+    12.0461
+],
+  "geometry": {"coordinates":[-12.2015,12.0461],"type":"Point"}
+}

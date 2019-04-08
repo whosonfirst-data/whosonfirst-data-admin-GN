@@ -1,0 +1,68 @@
+{
+  "id": 1326459893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.8625,9.99306,-13.8625,9.99306",
+    "geom:latitude":9.99306,
+    "geom:longitude":-13.8625,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Boufou",
+    "gn:country_code":"GN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592931,
+    "gn:latitude":9.99306,
+    "gn:longitude":-13.8625,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boufou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592931
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a6b7cc7af43c03542a8ee2f7851719e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1326459893,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1326459893,
+    "wof:lastmodified":1537085129,
+    "wof:name":"Boufou",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.8625,
+    9.99306,
+    -13.8625,
+    9.99306
+],
+  "geometry": {"coordinates":[-13.8625,9.99306],"type":"Point"}
+}

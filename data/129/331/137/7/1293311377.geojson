@@ -1,0 +1,73 @@
+{
+  "id": 1293311377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.80389,7.93778,-8.80389,7.93778",
+    "geom:latitude":7.93778,
+    "geom:longitude":-8.80389,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Noona",
+    "gn:country_code":"GN",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417009,
+    "gn:latitude":7.93778,
+    "gn:longitude":-8.80389,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Noona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9ma",
+        "Noma",
+        "Noona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417009
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"67e8f97b352b11cf5bafc317a4e41285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1293311377,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1293311377,
+    "wof:lastmodified":1537623936,
+    "wof:name":"Noona",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.80389,
+    7.93778,
+    -8.80389,
+    7.93778
+],
+  "geometry": {"coordinates":[-8.80389,7.93778],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276908883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68333,9.6,-9.68333,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":-9.68333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Missadou",
+    "gn:country_code":"GN",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417549,
+    "gn:latitude":9.6,
+    "gn:longitude":-9.68333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Missadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417549
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2012dd71f219d21e412141f1e8a7653d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1276908883,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1276908883,
+    "wof:lastmodified":1537001662,
+    "wof:name":"Missadou",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68333,
+    9.6,
+    -9.68333,
+    9.6
+],
+  "geometry": {"coordinates":[-9.68333,9.6],"type":"Point"}
+}

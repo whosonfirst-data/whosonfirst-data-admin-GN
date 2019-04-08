@@ -1,0 +1,72 @@
+{
+  "id": 1260095389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76806,7.48556,-8.76806,7.48556",
+    "geom:latitude":7.48556,
+    "geom:longitude":-8.76806,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Gbala",
+    "gn:country_code":"GN",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420795,
+    "gn:latitude":7.48556,
+    "gn:longitude":-8.76806,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbata",
+        "Gbala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420795
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b851ef595424f97799ed88d0a44ec13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1260095389,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1260095389,
+    "wof:lastmodified":1537623976,
+    "wof:name":"Gbala",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76806,
+    7.48556,
+    -8.76806,
+    7.48556
+],
+  "geometry": {"coordinates":[-8.76806,7.48556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209136505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26667,10.41667,-9.26667,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-9.26667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Karfamoria",
+    "gn:country_code":"GN",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419860,
+    "gn:latitude":10.41667,
+    "gn:longitude":-9.26667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Karfamoria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karfamoro\u00efla",
+        "Karfa Modila",
+        "Karfamoria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419860
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"62b745bca34834a3fa392d7e770ed5ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209136505
+        }
+    ],
+    "wof:id":1209136505,
+    "wof:lastmodified":1537623964,
+    "wof:name":"Karfamoria",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26667,
+    10.41667,
+    -9.26667,
+    10.41667
+],
+  "geometry": {"coordinates":[-9.26667,10.41667],"type":"Point"}
+}

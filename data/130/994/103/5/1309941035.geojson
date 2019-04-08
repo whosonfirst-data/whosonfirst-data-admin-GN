@@ -1,0 +1,68 @@
+{
+  "id": 1309941035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55,10.16667,-8.55,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":-8.55,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Kounkalama",
+    "gn:country_code":"GN",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418558,
+    "gn:latitude":10.16667,
+    "gn:longitude":-8.55,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kounkalama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418558
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"40f051de6ffb54ca0e7214c04fd60d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1309941035,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1309941035,
+    "wof:lastmodified":1536736258,
+    "wof:name":"Kounkalama",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55,
+    10.16667,
+    -8.55,
+    10.16667
+],
+  "geometry": {"coordinates":[-8.55,10.16667],"type":"Point"}
+}

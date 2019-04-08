@@ -1,0 +1,68 @@
+{
+  "id": 1242608997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4451,12.1088,-12.4451,12.1088",
+    "geom:latitude":12.1088,
+    "geom:longitude":-12.4451,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Erikouo",
+    "gn:country_code":"GN",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421514,
+    "gn:latitude":12.1088,
+    "gn:longitude":-12.4451,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Erikouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421514
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"12cf0871fd5af2b3e16665030a1d0db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1242608997,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1242608997,
+    "wof:lastmodified":1537017757,
+    "wof:name":"Erikouo",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4451,
+    12.1088,
+    -12.4451,
+    12.1088
+],
+  "geometry": {"coordinates":[-12.4451,12.1088],"type":"Point"}
+}

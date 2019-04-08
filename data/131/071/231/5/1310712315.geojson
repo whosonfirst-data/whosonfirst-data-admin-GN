@@ -1,0 +1,68 @@
+{
+  "id": 1310712315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31667,8.58333,-8.31667,8.58333",
+    "geom:latitude":8.58333,
+    "geom:longitude":-8.31667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Kesseridougou",
+    "gn:country_code":"GN",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419605,
+    "gn:latitude":8.58333,
+    "gn:longitude":-8.31667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"K\u00e9ss\u00e9ridougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419605
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6205ca20efa8aeb12c8c9fb16fac5552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1310712315,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1310712315,
+    "wof:lastmodified":1536616140,
+    "wof:name":"Kesseridougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31667,
+    8.58333,
+    -8.31667,
+    8.58333
+],
+  "geometry": {"coordinates":[-8.31667,8.58333],"type":"Point"}
+}

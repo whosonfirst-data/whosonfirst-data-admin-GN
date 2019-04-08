@@ -1,0 +1,62 @@
+{
+  "id": 1209549281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.68333,11.43333,-10.68333,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":-10.68333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Toulde Amara",
+    "gn:country_code":"GN",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414538,
+    "gn:latitude":11.43333,
+    "gn:longitude":-10.68333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tould\u00e9 Amara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414538
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1df277b292a4609e7c3361acd0449c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209549281
+        }
+    ],
+    "wof:id":1209549281,
+    "wof:lastmodified":1536283745,
+    "wof:name":"Toulde Amara",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.68333,
+    11.43333,
+    -10.68333,
+    11.43333
+],
+  "geometry": {"coordinates":[-10.68333,11.43333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209849281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6,11.38333,-8.6,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":-8.6,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Tabakorole",
+    "gn:country_code":"GN",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415158,
+    "gn:latitude":11.38333,
+    "gn:longitude":-8.6,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tabakorol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415158
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"aaf706b750b7737f04f206158c009b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1209849281,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1209849281,
+    "wof:lastmodified":1536389213,
+    "wof:name":"Tabakorole",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6,
+    11.38333,
+    -8.6,
+    11.38333
+],
+  "geometry": {"coordinates":[-8.6,11.38333],"type":"Point"}
+}

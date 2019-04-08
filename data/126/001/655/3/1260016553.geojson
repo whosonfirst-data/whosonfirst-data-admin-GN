@@ -1,0 +1,68 @@
+{
+  "id": 1260016553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.41667,9.98333,-13.41667,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-13.41667,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Balaya",
+    "gn:country_code":"GN",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423710,
+    "gn:latitude":9.98333,
+    "gn:longitude":-13.41667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Balaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423710
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8a8b53fa5e36c63b54f5745d4607ae62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1260016553,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1260016553,
+    "wof:lastmodified":1537081137,
+    "wof:name":"Balaya",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.41667,
+    9.98333,
+    -13.41667,
+    9.98333
+],
+  "geometry": {"coordinates":[-13.41667,9.98333],"type":"Point"}
+}

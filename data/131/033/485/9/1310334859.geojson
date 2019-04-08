@@ -1,0 +1,68 @@
+{
+  "id": 1310334859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.26667,11.08333,-11.26667,11.08333",
+    "geom:latitude":11.08333,
+    "geom:longitude":-11.26667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Kansala",
+    "gn:country_code":"GN",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419950,
+    "gn:latitude":11.08333,
+    "gn:longitude":-11.26667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Kansala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671473,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419950
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1673f57205b367f8f3a0a04305f27fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":1310334859,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":1310334859,
+    "wof:lastmodified":1536665707,
+    "wof:name":"Kansala",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.26667,
+    11.08333,
+    -11.26667,
+    11.08333
+],
+  "geometry": {"coordinates":[-11.26667,11.08333],"type":"Point"}
+}

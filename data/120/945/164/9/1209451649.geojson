@@ -1,0 +1,62 @@
+{
+  "id": 1209451649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4,11.18333,-10.4,11.18333",
+    "geom:latitude":11.18333,
+    "geom:longitude":-10.4,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Sambaya Dialonke",
+    "gn:country_code":"GN",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416180,
+    "gn:latitude":11.18333,
+    "gn:longitude":-10.4,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sambaya Dialonk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416180
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e6b34256cbbbe7bd23509d33cda4e464",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209451649
+        }
+    ],
+    "wof:id":1209451649,
+    "wof:lastmodified":1536286654,
+    "wof:name":"Sambaya Dialonke",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4,
+    11.18333,
+    -10.4,
+    11.18333
+],
+  "geometry": {"coordinates":[-10.4,11.18333],"type":"Point"}
+}

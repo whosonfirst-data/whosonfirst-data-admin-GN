@@ -1,0 +1,96 @@
+{
+  "id": 890444427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9,11.58333,-11.9,11.58333",
+    "geom:latitude":11.58333,
+    "geom:longitude":-11.9,
+    "gn:country":"GN",
+    "gn:fcode":"PPLA2",
+    "gn:pop":9909,
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0431\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Koubia"
+    ],
+    "name:eng_x_preferred":[
+        "Koubia"
+    ],
+    "name:fin_x_preferred":[
+        "Koubia"
+    ],
+    "name:fre_x_preferred":[
+        "Koubia"
+    ],
+    "name:ita_x_preferred":[
+        "Koubia"
+    ],
+    "name:may_x_preferred":[
+        "Koubia"
+    ],
+    "name:pol_x_preferred":[
+        "Koubia"
+    ],
+    "name:swe_x_preferred":[
+        "Koubia"
+    ],
+    "qs:name":"Koubia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418764,
+        "gp:id":1336903,
+        "qs:id":1035574,
+        "wd:id":"Q3199237",
+        "wk:page":"Koubia"
+    },
+    "wof:country":"GN",
+    "wof:created":1469052468,
+    "wof:geomhash":"ae39d6ca87e16ac2925c89673fa61cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":890444427,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":890444427,
+    "wof:lastmodified":1553816400,
+    "wof:name":"Koubia",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:population":9909,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9,
+    11.58333,
+    -11.9,
+    11.58333
+],
+  "geometry": {"coordinates":[-11.9,11.58333],"type":"Point"}
+}

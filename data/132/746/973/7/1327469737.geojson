@@ -1,0 +1,68 @@
+{
+  "id": 1327469737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.20556,9.87028,-13.20556,9.87028",
+    "geom:latitude":9.87028,
+    "geom:longitude":-13.20556,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Bolonta",
+    "gn:country_code":"GN",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592734,
+    "gn:latitude":9.87028,
+    "gn:longitude":-13.20556,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bolonta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592734
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d06f0016c754bde54d85f18dad502ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1327469737,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1327469737,
+    "wof:lastmodified":1536624856,
+    "wof:name":"Bolonta",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.20556,
+    9.87028,
+    -13.20556,
+    9.87028
+],
+  "geometry": {"coordinates":[-13.20556,9.87028],"type":"Point"}
+}

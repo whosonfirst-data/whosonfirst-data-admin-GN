@@ -1,0 +1,68 @@
+{
+  "id": 1293237741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.13333,12.51667,-13.13333,12.51667",
+    "geom:latitude":12.51667,
+    "geom:longitude":-13.13333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Ibasse",
+    "gn:country_code":"GN",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420378,
+    "gn:latitude":12.51667,
+    "gn:longitude":-13.13333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ibasse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420378
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f7af729dceb4d00d575d5508f5cf7126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1293237741,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1293237741,
+    "wof:lastmodified":1536649822,
+    "wof:name":"Ibasse",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.13333,
+    12.51667,
+    -13.13333,
+    12.51667
+],
+  "geometry": {"coordinates":[-13.13333,12.51667],"type":"Point"}
+}

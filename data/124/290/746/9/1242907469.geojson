@@ -1,0 +1,68 @@
+{
+  "id": 1242907469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.55083,9.7875,-13.55083,9.7875",
+    "geom:latitude":9.7875,
+    "geom:longitude":-13.55083,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Kopering",
+    "gn:country_code":"GN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593049,
+    "gn:latitude":9.7875,
+    "gn:longitude":-13.55083,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kop\u00e9ring",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593049
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"fad9b514eaf9537a14e1d31301762a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1242907469,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1242907469,
+    "wof:lastmodified":1537082437,
+    "wof:name":"Kopering",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.55083,
+    9.7875,
+    -13.55083,
+    9.7875
+],
+  "geometry": {"coordinates":[-13.55083,9.7875],"type":"Point"}
+}

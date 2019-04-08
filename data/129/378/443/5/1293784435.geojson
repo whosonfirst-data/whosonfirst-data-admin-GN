@@ -1,0 +1,67 @@
+{
+  "id": 1293784435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.65645,9.57222,-13.65645,9.57222",
+    "geom:latitude":9.57222,
+    "geom:longitude":-13.65645,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Carrefour  Hamdallaye",
+    "gn:country_code":"GN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8948690,
+    "gn:latitude":9.57222,
+    "gn:longitude":-13.65645,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Carrefour  Hamdallaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421191023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8948690
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ea41e12226cf91d0666767dfcd7d0169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191023,
+            "locality_id":1293784435,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1293784435,
+    "wof:lastmodified":1536854860,
+    "wof:name":"Carrefour  Hamdallaye",
+    "wof:parent_id":421191023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.65645,
+    9.57222,
+    -13.65645,
+    9.57222
+],
+  "geometry": {"coordinates":[-13.65645,9.57222],"type":"Point"}
+}

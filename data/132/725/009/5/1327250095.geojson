@@ -1,0 +1,68 @@
+{
+  "id": 1327250095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12417,8.56083,-9.12417,8.56083",
+    "geom:latitude":8.56083,
+    "geom:longitude":-9.12417,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Sakouedou",
+    "gn:country_code":"GN",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416257,
+    "gn:latitude":8.56083,
+    "gn:longitude":-9.12417,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sakouedou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416257
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"811f116abc6a5c24068c9447658eb25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1327250095,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1327250095,
+    "wof:lastmodified":1536944468,
+    "wof:name":"Sakouedou",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12417,
+    8.56083,
+    -9.12417,
+    8.56083
+],
+  "geometry": {"coordinates":[-9.12417,8.56083],"type":"Point"}
+}

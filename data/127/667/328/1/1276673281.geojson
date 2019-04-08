@@ -1,0 +1,68 @@
+{
+  "id": 1276673281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4,8.58333,-8.4,8.58333",
+    "geom:latitude":8.58333,
+    "geom:longitude":-8.4,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Sogbesoridougou",
+    "gn:country_code":"GN",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415493,
+    "gn:latitude":8.58333,
+    "gn:longitude":-8.4,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sogb\u00e9soridougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415493
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d4cda44464effe3a91e28ce098236088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1276673281,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1276673281,
+    "wof:lastmodified":1536819252,
+    "wof:name":"Sogbesoridougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4,
+    8.58333,
+    -8.4,
+    8.58333
+],
+  "geometry": {"coordinates":[-8.4,8.58333],"type":"Point"}
+}

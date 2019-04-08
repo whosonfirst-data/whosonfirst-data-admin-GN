@@ -1,0 +1,68 @@
+{
+  "id": 1276152163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.58333,11.4,-12.58333,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-12.58333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35",
+    "gn:asciiname":"Donta",
+    "gn:country_code":"GN",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421711,
+    "gn:latitude":11.4,
+    "gn:longitude":-12.58333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Donta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671455,
+        890454189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421711
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6e2377c5dc7bb8bbedba2e0cdef3ed59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454189,
+            "locality_id":1276152163,
+            "region_id":85671455
+        }
+    ],
+    "wof:id":1276152163,
+    "wof:lastmodified":1537020626,
+    "wof:name":"Donta",
+    "wof:parent_id":890454189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.58333,
+    11.4,
+    -12.58333,
+    11.4
+],
+  "geometry": {"coordinates":[-12.58333,11.4],"type":"Point"}
+}

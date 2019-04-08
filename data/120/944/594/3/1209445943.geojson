@@ -1,0 +1,62 @@
+{
+  "id": 1209445943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.92917,8.94194,-9.92917,8.94194",
+    "geom:latitude":8.94194,
+    "geom:longitude":-9.92917,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Boukoussou",
+    "gn:country_code":"GN",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422647,
+    "gn:latitude":8.94194,
+    "gn:longitude":-9.92917,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boukoussou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422647
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"34be4e5dc2997f2ede6e11c41e3d1351",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209445943
+        }
+    ],
+    "wof:id":1209445943,
+    "wof:lastmodified":1536286819,
+    "wof:name":"Boukoussou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.92917,
+    8.941939999999997,
+    -9.92917,
+    8.941939999999997
+],
+  "geometry": {"coordinates":[-9.92917,8.94194],"type":"Point"}
+}

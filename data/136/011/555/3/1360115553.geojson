@@ -1,0 +1,73 @@
+{
+  "id": 1360115553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.43333,9.01667,-10.43333,9.01667",
+    "geom:latitude":9.01667,
+    "geom:longitude":-10.43333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Koendou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419333,
+    "gn:latitude":9.01667,
+    "gn:longitude":-10.43333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koendou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korendou",
+        "Koendou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419333
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ca8dc8136417c7bc522966a502550ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1360115553,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1360115553,
+    "wof:lastmodified":1537623958,
+    "wof:name":"Koendou",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.43333,
+    9.01667,
+    -10.43333,
+    9.01667
+],
+  "geometry": {"coordinates":[-10.43333,9.01667],"type":"Point"}
+}

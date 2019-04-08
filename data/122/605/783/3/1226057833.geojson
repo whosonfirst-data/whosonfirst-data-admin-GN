@@ -1,0 +1,68 @@
+{
+  "id": 1226057833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97111,7.3175,-8.97111,7.3175",
+    "geom:latitude":7.3175,
+    "geom:longitude":-8.97111,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Kohempa",
+    "gn:country_code":"GN",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419303,
+    "gn:latitude":7.3175,
+    "gn:longitude":-8.97111,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kohempa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671499,
+        421203701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419303
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"bf403236d18c24d077e11d038f5d448b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203701,
+            "locality_id":1226057833,
+            "region_id":85671499
+        }
+    ],
+    "wof:id":1226057833,
+    "wof:lastmodified":1536707967,
+    "wof:name":"Kohempa",
+    "wof:parent_id":421203701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97111,
+    7.3175,
+    -8.97111,
+    7.3175
+],
+  "geometry": {"coordinates":[-8.97111,7.3175],"type":"Point"}
+}

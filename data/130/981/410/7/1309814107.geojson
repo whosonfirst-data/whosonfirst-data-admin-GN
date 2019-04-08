@@ -1,0 +1,68 @@
+{
+  "id": 1309814107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5575,7.73528,-8.5575,7.73528",
+    "geom:latitude":7.73528,
+    "geom:longitude":-8.5575,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Meata",
+    "gn:country_code":"GN",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417639,
+    "gn:latitude":7.73528,
+    "gn:longitude":-8.5575,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"M\u00e9ata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417639
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9d51158d9a0584309f4592ad221eacf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1309814107,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1309814107,
+    "wof:lastmodified":1536919614,
+    "wof:name":"Meata",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5575,
+    7.73528,
+    -8.5575,
+    7.73528
+],
+  "geometry": {"coordinates":[-8.5575,7.73528],"type":"Point"}
+}

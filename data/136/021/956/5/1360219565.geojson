@@ -1,0 +1,68 @@
+{
+  "id": 1360219565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.61369,12.23457,-11.61369,12.23457",
+    "geom:latitude":12.23457,
+    "geom:longitude":-11.61369,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Doukonkoune",
+    "gn:country_code":"GN",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421624,
+    "gn:latitude":12.23457,
+    "gn:longitude":-11.61369,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Doukonkoun\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421624
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b148e89bd63d79f901bb24263e9f2efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1360219565,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1360219565,
+    "wof:lastmodified":1536751577,
+    "wof:name":"Doukonkoune",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.61369,
+    12.23457,
+    -11.61369,
+    12.23457
+],
+  "geometry": {"coordinates":[-11.61369,12.23457],"type":"Point"}
+}

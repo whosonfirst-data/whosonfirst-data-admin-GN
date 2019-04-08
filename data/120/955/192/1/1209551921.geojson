@@ -1,0 +1,62 @@
+{
+  "id": 1209551921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.5268,12.0911,-12.5268,12.0911",
+    "geom:latitude":12.0911,
+    "geom:longitude":-12.5268,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Leye Dali",
+    "gn:country_code":"GN",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418173,
+    "gn:latitude":12.0911,
+    "gn:longitude":-12.5268,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"L\u00e8ye Dali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418173
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7e8f962db6e5f1ab78d883c967a4599c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209551921
+        }
+    ],
+    "wof:id":1209551921,
+    "wof:lastmodified":1536283666,
+    "wof:name":"Leye Dali",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.5268,
+    12.0911,
+    -12.5268,
+    12.0911
+],
+  "geometry": {"coordinates":[-12.5268,12.0911],"type":"Point"}
+}

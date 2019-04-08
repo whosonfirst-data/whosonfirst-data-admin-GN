@@ -1,0 +1,72 @@
+{
+  "id": 1360121657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38333,10.36667,-9.38333,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-9.38333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Dossari",
+    "gn:country_code":"GN",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421699,
+    "gn:latitude":10.36667,
+    "gn:longitude":-9.38333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dossari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dossary",
+        "Dossari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421699
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9f0291a452b769b27005036bd87b0300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1360121657,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1360121657,
+    "wof:lastmodified":1537623985,
+    "wof:name":"Dossari",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38333,
+    10.36667,
+    -9.38333,
+    10.36667
+],
+  "geometry": {"coordinates":[-9.38333,10.36667],"type":"Point"}
+}

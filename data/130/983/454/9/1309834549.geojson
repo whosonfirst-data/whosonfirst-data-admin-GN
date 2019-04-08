@@ -1,0 +1,73 @@
+{
+  "id": 1309834549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55,10.75,-9.55,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":-9.55,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Kobane",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419412,
+    "gn:latitude":10.75,
+    "gn:longitude":-9.55,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koban\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobano",
+        "Koban\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419412
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"479d9f90c4987e4204a5e2f116a23bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1309834549,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1309834549,
+    "wof:lastmodified":1537623959,
+    "wof:name":"Kobane",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55,
+    10.75,
+    -9.55,
+    10.75
+],
+  "geometry": {"coordinates":[-9.55,10.75],"type":"Point"}
+}

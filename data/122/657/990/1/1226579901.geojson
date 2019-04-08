@@ -1,0 +1,73 @@
+{
+  "id": 1226579901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.83333,11.03333,-14.83333,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":-14.83333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Kabako",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420300,
+    "gn:latitude":11.03333,
+    "gn:longitude":-14.83333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kabako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabake",
+        "Kabako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671367,
+        890420105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420300
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"743febbe24291750f9213c3106c9d612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890420105,
+            "locality_id":1226579901,
+            "region_id":85671367
+        }
+    ],
+    "wof:id":1226579901,
+    "wof:lastmodified":1537623970,
+    "wof:name":"Kabako",
+    "wof:parent_id":890420105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.83333,
+    11.03333,
+    -14.83333,
+    11.03333
+],
+  "geometry": {"coordinates":[-14.83333,11.03333],"type":"Point"}
+}

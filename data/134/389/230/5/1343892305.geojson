@@ -1,0 +1,68 @@
+{
+  "id": 1343892305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.88333,11.41667,-10.88333,11.41667",
+    "geom:latitude":11.41667,
+    "geom:longitude":-10.88333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Ansagnere",
+    "gn:country_code":"GN",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423940,
+    "gn:latitude":11.41667,
+    "gn:longitude":-10.88333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ansagn\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423940
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"aeb19870a2981d187a32b833ef3bbfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1343892305,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1343892305,
+    "wof:lastmodified":1536618487,
+    "wof:name":"Ansagnere",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.88333,
+    11.41667,
+    -10.88333,
+    11.41667
+],
+  "geometry": {"coordinates":[-10.88333,11.41667],"type":"Point"}
+}

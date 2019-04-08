@@ -1,0 +1,68 @@
+{
+  "id": 1343772583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.21667,8.7125,-10.21667,8.7125",
+    "geom:latitude":8.7125,
+    "geom:longitude":-10.21667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Kouakoro",
+    "gn:country_code":"GN",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418789,
+    "gn:latitude":8.7125,
+    "gn:longitude":-10.21667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kouakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418789
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cd24ffd19c6cdd7848ed2dc1d137be1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1343772583,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1343772583,
+    "wof:lastmodified":1536793632,
+    "wof:name":"Kouakoro",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.21667,
+    8.7125,
+    -10.21667,
+    8.7125
+],
+  "geometry": {"coordinates":[-10.21667,8.7125],"type":"Point"}
+}

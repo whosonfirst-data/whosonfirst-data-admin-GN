@@ -1,0 +1,74 @@
+{
+  "id": 1326965125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16667,11.36667,-9.16667,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-9.16667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Tiguibiri",
+    "gn:country_code":"GN",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414775,
+    "gn:latitude":11.36667,
+    "gn:longitude":-9.16667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tiguibiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiguiribi",
+        "Tiguib\u00e9ri",
+        "Tiguiberri",
+        "Tiguibiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414775
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"08d897d8ef14e502b3db783c4873ea27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1326965125,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1326965125,
+    "wof:lastmodified":1537623913,
+    "wof:name":"Tiguibiri",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16667,
+    11.36667,
+    -9.16667,
+    11.36667
+],
+  "geometry": {"coordinates":[-9.16667,11.36667],"type":"Point"}
+}

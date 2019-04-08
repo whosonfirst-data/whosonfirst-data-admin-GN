@@ -1,0 +1,62 @@
+{
+  "id": 1209350579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.74639,9.91694,-13.74639,9.91694",
+    "geom:latitude":9.91694,
+    "geom:longitude":-13.74639,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Kabelea",
+    "gn:country_code":"GN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592966,
+    "gn:latitude":9.91694,
+    "gn:longitude":-13.74639,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kab\u00e9l\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592966
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"683d2edf6c8c3fd914305a9ca6d263e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209350579
+        }
+    ],
+    "wof:id":1209350579,
+    "wof:lastmodified":1536289755,
+    "wof:name":"Kabelea",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.74639,
+    9.91694,
+    -13.74639,
+    9.91694
+],
+  "geometry": {"coordinates":[-13.74639,9.91694],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276374077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.33333,10.98333,-13.33333,10.98333",
+    "geom:latitude":10.98333,
+    "geom:longitude":-13.33333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"27",
+    "gn:asciiname":"Silati",
+    "gn:country_code":"GN",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415682,
+    "gn:latitude":10.98333,
+    "gn:longitude":-13.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Silati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671503,
+        421180037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415682
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a6bbbbee216906dc5ccb047c568f92ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421180037,
+            "locality_id":1276374077,
+            "region_id":85671503
+        }
+    ],
+    "wof:id":1276374077,
+    "wof:lastmodified":1536724200,
+    "wof:name":"Silati",
+    "wof:parent_id":421180037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.33333,
+    10.98333,
+    -13.33333,
+    10.98333
+],
+  "geometry": {"coordinates":[-13.33333,10.98333],"type":"Point"}
+}

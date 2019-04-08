@@ -1,0 +1,68 @@
+{
+  "id": 1276693721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.86222,9.95639,-13.86222,9.95639",
+    "geom:latitude":9.95639,
+    "geom:longitude":-13.86222,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Toumbouya",
+    "gn:country_code":"GN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592943,
+    "gn:latitude":9.95639,
+    "gn:longitude":-13.86222,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Toumbouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592943
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e04c8b4e3d14452aecc107208c894835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1276693721,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1276693721,
+    "wof:lastmodified":1536793048,
+    "wof:name":"Toumbouya",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.86222,
+    9.95639,
+    -13.86222,
+    9.95639
+],
+  "geometry": {"coordinates":[-13.86222,9.95639],"type":"Point"}
+}

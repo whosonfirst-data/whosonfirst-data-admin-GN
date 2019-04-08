@@ -1,0 +1,72 @@
+{
+  "id": 1259820167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.5,11.53333,-10.5,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":-10.5,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Mbone",
+    "gn:country_code":"GN",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422833,
+    "gn:latitude":11.53333,
+    "gn:longitude":-10.5,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Mbon\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbon\u00e9",
+        "Bon\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422833
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3015be3e19bb18569b9ce047a78d2991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1259820167,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1259820167,
+    "wof:lastmodified":1537623995,
+    "wof:name":"Mbone",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.5,
+    11.53333,
+    -10.5,
+    11.53333
+],
+  "geometry": {"coordinates":[-10.5,11.53333],"type":"Point"}
+}

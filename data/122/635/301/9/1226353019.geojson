@@ -1,0 +1,68 @@
+{
+  "id": 1226353019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.96139,8.64806,-9.96139,8.64806",
+    "geom:latitude":8.64806,
+    "geom:longitude":-9.96139,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Guelo",
+    "gn:country_code":"GN",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420541,
+    "gn:latitude":8.64806,
+    "gn:longitude":-9.96139,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gu\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420541
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b587d6ceb4063ae8e5e34dbcf38207cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1226353019,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1226353019,
+    "wof:lastmodified":1536779405,
+    "wof:name":"Guelo",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.96139,
+    8.64806,
+    -9.96139,
+    8.64806
+],
+  "geometry": {"coordinates":[-9.96139,8.64806],"type":"Point"}
+}

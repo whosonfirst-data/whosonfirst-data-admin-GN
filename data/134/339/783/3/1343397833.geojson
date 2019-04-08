@@ -1,0 +1,72 @@
+{
+  "id": 1343397833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.53333,10.4,-9.53333,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":-9.53333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Kanimoussaya",
+    "gn:country_code":"GN",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420006,
+    "gn:latitude":10.4,
+    "gn:longitude":-9.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kanimoussaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konimoussaya",
+        "Kanimoussaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420006
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"fecc9a0fcec9f7656fa496f7ec7d487f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1343397833,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1343397833,
+    "wof:lastmodified":1537623967,
+    "wof:name":"Kanimoussaya",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.53333,
+    10.4,
+    -9.53333,
+    10.4
+],
+  "geometry": {"coordinates":[-9.53333,10.4],"type":"Point"}
+}

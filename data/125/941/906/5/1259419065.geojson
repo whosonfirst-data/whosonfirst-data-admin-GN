@@ -1,0 +1,68 @@
+{
+  "id": 1259419065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.7433,12.2989,-12.7433,12.2989",
+    "geom:latitude":12.2989,
+    "geom:longitude":-12.7433,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Fatila",
+    "gn:country_code":"GN",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421183,
+    "gn:latitude":12.2989,
+    "gn:longitude":-12.7433,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Fatila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421183
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"88951c66eba3f26d1333756e14e566b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1259419065,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1259419065,
+    "wof:lastmodified":1536951464,
+    "wof:name":"Fatila",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.7433,
+    12.2989,
+    -12.7433,
+    12.2989
+],
+  "geometry": {"coordinates":[-12.7433,12.2989],"type":"Point"}
+}

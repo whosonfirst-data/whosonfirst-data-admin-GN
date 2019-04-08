@@ -1,0 +1,68 @@
+{
+  "id": 1293919971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4808,12.0652,-12.4808,12.0652",
+    "geom:latitude":12.0652,
+    "geom:longitude":-12.4808,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Gabete",
+    "gn:country_code":"GN",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420871,
+    "gn:latitude":12.0652,
+    "gn:longitude":-12.4808,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gab\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420871
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"12e82b94d8b79e7b13554ee26d987c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1293919971,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293919971,
+    "wof:lastmodified":1536660743,
+    "wof:name":"Gabete",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4808,
+    12.0652,
+    -12.4808,
+    12.0652
+],
+  "geometry": {"coordinates":[-12.4808,12.0652],"type":"Point"}
+}

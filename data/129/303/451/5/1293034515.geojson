@@ -1,0 +1,75 @@
+{
+  "id": 1293034515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.01667,10.2,-14.01667,10.2",
+    "geom:latitude":10.2,
+    "geom:longitude":-14.01667,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Domingya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421742,
+    "gn:latitude":10.2,
+    "gn:longitude":-14.01667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Domingya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dominia",
+        "Domingia",
+        "Dominghia",
+        "Domingya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421742
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"97fe4bf10fad28e07697414b4de54464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1293034515,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1293034515,
+    "wof:lastmodified":1537623986,
+    "wof:name":"Domingya",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.01667,
+    10.2,
+    -14.01667,
+    10.2
+],
+  "geometry": {"coordinates":[-14.01667,10.2],"type":"Point"}
+}

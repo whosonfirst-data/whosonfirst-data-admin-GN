@@ -1,0 +1,72 @@
+{
+  "id": 1277014013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56306,8.8725,-9.56306,8.8725",
+    "geom:latitude":8.8725,
+    "geom:longitude":-9.56306,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Soiououleya",
+    "gn:country_code":"GN",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415484,
+    "gn:latitude":8.8725,
+    "gn:longitude":-9.56306,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Soiououl\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solououl\u00e9ya",
+        "Soiououl\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415484
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"721b8f9c012590e755967d702c9dd6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1277014013,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1277014013,
+    "wof:lastmodified":1537623921,
+    "wof:name":"Soiououleya",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56306,
+    8.8725,
+    -9.56306,
+    8.8725
+],
+  "geometry": {"coordinates":[-9.56306,8.8725],"type":"Point"}
+}

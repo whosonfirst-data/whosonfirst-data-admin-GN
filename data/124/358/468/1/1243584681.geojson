@@ -1,0 +1,68 @@
+{
+  "id": 1243584681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.53,9.84222,-13.53,9.84222",
+    "geom:latitude":9.84222,
+    "geom:longitude":-13.53,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Yegueya",
+    "gn:country_code":"GN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593032,
+    "gn:latitude":9.84222,
+    "gn:longitude":-13.53,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Y\u00e9gu\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593032
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c09e5abd75fe5c745fa8e38200be3c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1243584681,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1243584681,
+    "wof:lastmodified":1536603388,
+    "wof:name":"Yegueya",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.53,
+    9.84222,
+    -13.53,
+    9.84222
+],
+  "geometry": {"coordinates":[-13.53,9.84222],"type":"Point"}
+}

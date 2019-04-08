@@ -1,0 +1,72 @@
+{
+  "id": 1243394225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.61667,11.46667,-12.61667,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":-12.61667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35",
+    "gn:asciiname":"Korbe",
+    "gn:country_code":"GN",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418881,
+    "gn:latitude":11.46667,
+    "gn:longitude":-12.61667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Korb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671455,
+        890454189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418881,
+        "wk:page":"Korb%C3%A9"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3c94e34a30315272aeabbc136ab7a14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454189,
+            "locality_id":1243394225,
+            "region_id":85671455
+        }
+    ],
+    "wof:id":1243394225,
+    "wof:lastmodified":1537623955,
+    "wof:name":"Korbe",
+    "wof:parent_id":890454189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.61667,
+    11.46667,
+    -12.61667,
+    11.46667
+],
+  "geometry": {"coordinates":[-12.61667,11.46667],"type":"Point"}
+}

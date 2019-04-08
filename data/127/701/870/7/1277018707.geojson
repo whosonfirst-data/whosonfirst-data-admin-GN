@@ -1,0 +1,68 @@
+{
+  "id": 1277018707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78333,10.1,-8.78333,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-8.78333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Soroko",
+    "gn:country_code":"GN",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415359,
+    "gn:latitude":10.1,
+    "gn:longitude":-8.78333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Soroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415359
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"796896c09e80046267749f2432866985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1277018707,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1277018707,
+    "wof:lastmodified":1536853875,
+    "wof:name":"Soroko",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78333,
+    10.1,
+    -8.78333,
+    10.1
+],
+  "geometry": {"coordinates":[-8.78333,10.1],"type":"Point"}
+}

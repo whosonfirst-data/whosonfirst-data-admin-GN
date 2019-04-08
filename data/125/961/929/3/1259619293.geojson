@@ -1,0 +1,68 @@
+{
+  "id": 1259619293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.8101,12.2768,-12.8101,12.2768",
+    "geom:latitude":12.2768,
+    "geom:longitude":-12.8101,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Bandani",
+    "gn:country_code":"GN",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423537,
+    "gn:latitude":12.2768,
+    "gn:longitude":-12.8101,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bandani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423537
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f0c70fe9fd27e1d499d01326650fe2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1259619293,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1259619293,
+    "wof:lastmodified":1536663121,
+    "wof:name":"Bandani",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.8101,
+    12.2768,
+    -12.8101,
+    12.2768
+],
+  "geometry": {"coordinates":[-12.8101,12.2768],"type":"Point"}
+}

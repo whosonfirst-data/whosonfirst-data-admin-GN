@@ -1,0 +1,73 @@
+{
+  "id": 1243298135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.43333,10.45,-14.43333,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":-14.43333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Katongoro",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419788,
+    "gn:latitude":10.45,
+    "gn:longitude":-14.43333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Katongoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katougoro",
+        "Katongoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419788
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7aa7b12fd6ee51a932fac6e4fbb4a4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1243298135,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1243298135,
+    "wof:lastmodified":1537623963,
+    "wof:name":"Katongoro",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.43333,
+    10.45,
+    -14.43333,
+    10.45
+],
+  "geometry": {"coordinates":[-14.43333,10.45],"type":"Point"}
+}

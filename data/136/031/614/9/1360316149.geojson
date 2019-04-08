@@ -1,0 +1,68 @@
+{
+  "id": 1360316149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61667,10.53333,-8.61667,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":-8.61667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Kouroulamini",
+    "gn:country_code":"GN",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418452,
+    "gn:latitude":10.53333,
+    "gn:longitude":-8.61667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kouroulamini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418452
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"23f7c2410a0f0f6aa33b3a40c242d63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1360316149,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1360316149,
+    "wof:lastmodified":1536609705,
+    "wof:name":"Kouroulamini",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61667,
+    10.53333,
+    -8.61667,
+    10.53333
+],
+  "geometry": {"coordinates":[-8.61667,10.53333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209551723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.03333,10.18333,-14.03333,10.18333",
+    "geom:latitude":10.18333,
+    "geom:longitude":-14.03333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Kouaniyaya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418780,
+    "gn:latitude":10.18333,
+    "gn:longitude":-14.03333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kouaniyaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coka\u00efa",
+        "Koka\u00efa",
+        "Kouaniyaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418780
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"72ef5e685dc5ccebd0ae3ef214a91952",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209551723
+        }
+    ],
+    "wof:id":1209551723,
+    "wof:lastmodified":1537623954,
+    "wof:name":"Kouaniyaya",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.03333,
+    10.18333,
+    -14.03333,
+    10.18333
+],
+  "geometry": {"coordinates":[-14.03333,10.18333],"type":"Point"}
+}

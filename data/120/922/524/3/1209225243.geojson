@@ -1,0 +1,62 @@
+{
+  "id": 1209225243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.395,7.75722,-8.395,7.75722",
+    "geom:latitude":7.75722,
+    "geom:longitude":-8.395,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Blakabata",
+    "gn:country_code":"GN",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423011,
+    "gn:latitude":7.75722,
+    "gn:longitude":-8.395,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Blakabata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423011
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a8ff1489fd636d6e7e375f8450b2eb5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209225243
+        }
+    ],
+    "wof:id":1209225243,
+    "wof:lastmodified":1536293818,
+    "wof:name":"Blakabata",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.395,
+    7.7572199999999984,
+    -8.395,
+    7.7572199999999984
+],
+  "geometry": {"coordinates":[-8.395,7.75722],"type":"Point"}
+}

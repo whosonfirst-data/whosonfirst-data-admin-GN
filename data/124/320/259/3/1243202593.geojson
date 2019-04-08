@@ -1,0 +1,66 @@
+{
+  "id": 1243202593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.78333,10.95,-14.78333,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-14.78333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Kanouba",
+    "gn:country_code":"GN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419957,
+    "gn:latitude":10.95,
+    "gn:longitude":-14.78333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kanouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419957
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3490ff7b4a0e0ec19a337e9a09d5d1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "locality_id":1243202593,
+            "region_id":85671367
+        }
+    ],
+    "wof:id":1243202593,
+    "wof:lastmodified":1536660345,
+    "wof:name":"Kanouba",
+    "wof:parent_id":85671367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.78333,
+    10.95,
+    -14.78333,
+    10.95
+],
+  "geometry": {"coordinates":[-14.78333,10.95],"type":"Point"}
+}

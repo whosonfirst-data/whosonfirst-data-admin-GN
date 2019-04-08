@@ -1,0 +1,68 @@
+{
+  "id": 1276567453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98333,8.81667,-7.98333,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":-7.98333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Sanankoro Sanou",
+    "gn:country_code":"GN",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416142,
+    "gn:latitude":8.81667,
+    "gn:longitude":-7.98333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sanankoro Sanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416142
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e7fccea1e1b448144c65187634663963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1276567453,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1276567453,
+    "wof:lastmodified":1536962356,
+    "wof:name":"Sanankoro Sanou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98333,
+    8.81667,
+    -7.98333,
+    8.81667
+],
+  "geometry": {"coordinates":[-7.98333,8.81667],"type":"Point"}
+}

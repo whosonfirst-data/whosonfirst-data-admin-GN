@@ -1,0 +1,68 @@
+{
+  "id": 1309834811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9,11.61667,-8.9,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":-8.9,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Kindiberi",
+    "gn:country_code":"GN",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419530,
+    "gn:latitude":11.61667,
+    "gn:longitude":-8.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kindib\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419530
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"38468214c81798e76317c53b61adcc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1309834811,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1309834811,
+    "wof:lastmodified":1536889025,
+    "wof:name":"Kindiberi",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9,
+    11.61667,
+    -8.9,
+    11.61667
+],
+  "geometry": {"coordinates":[-8.9,11.61667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1277105343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9,11.11667,-11.9,11.11667",
+    "geom:latitude":11.11667,
+    "geom:longitude":-11.9,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Laba",
+    "gn:country_code":"GN",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418372,
+    "gn:latitude":11.11667,
+    "gn:longitude":-11.9,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"L\u00e2ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671385,
+        421167693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418372
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"14398c4888a95302b1523fae7d6375e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421167693,
+            "locality_id":1277105343,
+            "region_id":85671385
+        }
+    ],
+    "wof:id":1277105343,
+    "wof:lastmodified":1536735300,
+    "wof:name":"Laba",
+    "wof:parent_id":421167693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9,
+    11.11667,
+    -11.9,
+    11.11667
+],
+  "geometry": {"coordinates":[-11.9,11.11667],"type":"Point"}
+}

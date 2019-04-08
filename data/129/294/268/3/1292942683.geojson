@@ -1,0 +1,68 @@
+{
+  "id": 1292942683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57479,12.09299,-11.57479,12.09299",
+    "geom:latitude":12.09299,
+    "geom:longitude":-11.57479,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Netere",
+    "gn:country_code":"GN",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417246,
+    "gn:latitude":12.09299,
+    "gn:longitude":-11.57479,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Net\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417246
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"14ea1ef91a481f2d2c7fdd9b2b225bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":1292942683,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1292942683,
+    "wof:lastmodified":1537072256,
+    "wof:name":"Netere",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57479,
+    12.09299,
+    -11.57479,
+    12.09299
+],
+  "geometry": {"coordinates":[-11.57479,12.09299],"type":"Point"}
+}

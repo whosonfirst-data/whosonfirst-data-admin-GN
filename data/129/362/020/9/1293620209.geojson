@@ -1,0 +1,68 @@
+{
+  "id": 1293620209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11667,10.53333,-9.11667,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":-9.11667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Koba",
+    "gn:country_code":"GN",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419443,
+    "gn:latitude":10.53333,
+    "gn:longitude":-9.11667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419443
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d037e373fc1f7cbb21731b9e09b057e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1293620209,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1293620209,
+    "wof:lastmodified":1537089761,
+    "wof:name":"Koba",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11667,
+    10.53333,
+    -9.11667,
+    10.53333
+],
+  "geometry": {"coordinates":[-9.11667,10.53333],"type":"Point"}
+}

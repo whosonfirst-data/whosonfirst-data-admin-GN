@@ -1,0 +1,68 @@
+{
+  "id": 1327170469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9,11.6,-10.9,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-10.9,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Yagui",
+    "gn:country_code":"GN",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414300,
+    "gn:latitude":11.6,
+    "gn:longitude":-10.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yagui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414300
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"00b2e99ea89a1a201d72a371417a45c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1327170469,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1327170469,
+    "wof:lastmodified":1537056511,
+    "wof:name":"Yagui",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9,
+    11.6,
+    -10.9,
+    11.6
+],
+  "geometry": {"coordinates":[-10.9,11.6],"type":"Point"}
+}

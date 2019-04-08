@@ -1,0 +1,74 @@
+{
+  "id": 1243007539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.45,10.45,-14.45,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":-14.45,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Somaya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415425,
+    "gn:latitude":10.45,
+    "gn:longitude":-14.45,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Somaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komaya",
+        "Samaya",
+        "Somaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415425
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3221f9032015a9a53b3d1548eaa11812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1243007539,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1243007539,
+    "wof:lastmodified":1537623920,
+    "wof:name":"Somaya",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.45,
+    10.45,
+    -14.45,
+    10.45
+],
+  "geometry": {"coordinates":[-14.45,10.45],"type":"Point"}
+}

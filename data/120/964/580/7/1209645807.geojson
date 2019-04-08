@@ -1,0 +1,67 @@
+{
+  "id": 1209645807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.03833,9.52944,-13.03833,9.52944",
+    "geom:latitude":9.52944,
+    "geom:longitude":-13.03833,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Finde Modya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421084,
+    "gn:latitude":9.52944,
+    "gn:longitude":-13.03833,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Find\u00e9 Modya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Find\u00e9-Modia",
+        "Find\u00e9 Modya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421084
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e9ae244016d7110329e0033e95b3ede3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209645807
+        }
+    ],
+    "wof:id":1209645807,
+    "wof:lastmodified":1537623980,
+    "wof:name":"Finde Modya",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.03833,
+    9.52944,
+    -13.03833,
+    9.52944
+],
+  "geometry": {"coordinates":[-13.03833,9.52944],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226676531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08333,9.8,-10.08333,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":-10.08333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Kouya Siria",
+    "gn:country_code":"GN",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418412,
+    "gn:latitude":9.8,
+    "gn:longitude":-10.08333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kouya Siria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418412
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b5e82a475ac284eb762bbc28eb20d332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1226676531,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1226676531,
+    "wof:lastmodified":1536814560,
+    "wof:name":"Kouya Siria",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08333,
+    9.8,
+    -10.08333,
+    9.8
+],
+  "geometry": {"coordinates":[-10.08333,9.8],"type":"Point"}
+}

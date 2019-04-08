@@ -1,0 +1,62 @@
+{
+  "id": 1209451289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.95,10.03333,-10.95,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":-10.95,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Friguia",
+    "gn:country_code":"GN",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420882,
+    "gn:latitude":10.03333,
+    "gn:longitude":-10.95,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Friguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420882
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"af478423e263d0fa8315579ba6efefa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209451289
+        }
+    ],
+    "wof:id":1209451289,
+    "wof:lastmodified":1536286664,
+    "wof:name":"Friguia",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.95,
+    10.03333,
+    -10.95,
+    10.03333
+],
+  "geometry": {"coordinates":[-10.95,10.03333],"type":"Point"}
+}

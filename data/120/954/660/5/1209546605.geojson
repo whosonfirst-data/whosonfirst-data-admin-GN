@@ -1,0 +1,67 @@
+{
+  "id": 1209546605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.13333,9.05,-10.13333,9.05",
+    "geom:latitude":9.05,
+    "geom:longitude":-10.13333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Ouende",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416811,
+    "gn:latitude":9.05,
+    "gn:longitude":-10.13333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ouend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouendou",
+        "Ouend\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416811
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a8065cf2a7d174ef308ba1adc8d96c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209546605
+        }
+    ],
+    "wof:id":1209546605,
+    "wof:lastmodified":1537623934,
+    "wof:name":"Ouende",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.13333,
+    9.05,
+    -10.13333,
+    9.05
+],
+  "geometry": {"coordinates":[-10.13333,9.05],"type":"Point"}
+}

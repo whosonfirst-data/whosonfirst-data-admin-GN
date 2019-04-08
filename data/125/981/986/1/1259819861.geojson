@@ -1,0 +1,68 @@
+{
+  "id": 1259819861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4,11.26667,-12.4,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":-12.4,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Labedepere",
+    "gn:country_code":"GN",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418358,
+    "gn:latitude":11.26667,
+    "gn:longitude":-12.4,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Lab\u00e9d\u00e9p\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671451,
+        421184941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418358
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3c82819f9f95c4e01d640da01f6f35c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184941,
+            "locality_id":1259819861,
+            "region_id":85671451
+        }
+    ],
+    "wof:id":1259819861,
+    "wof:lastmodified":1536869774,
+    "wof:name":"Labedepere",
+    "wof:parent_id":421184941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4,
+    11.26667,
+    -12.4,
+    11.26667
+],
+  "geometry": {"coordinates":[-12.4,11.26667],"type":"Point"}
+}

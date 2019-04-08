@@ -1,0 +1,68 @@
+{
+  "id": 1309939567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.48333,11.08333,-10.48333,11.08333",
+    "geom:latitude":11.08333,
+    "geom:longitude":-10.48333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Heremacono",
+    "gn:country_code":"GN",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420418,
+    "gn:latitude":11.08333,
+    "gn:longitude":-10.48333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"H\u00e9r\u00e9macono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420418
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"80abc276389836907caecfaf84051e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1309939567,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1309939567,
+    "wof:lastmodified":1536738348,
+    "wof:name":"Heremacono",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.48333,
+    11.08333,
+    -10.48333,
+    11.08333
+],
+  "geometry": {"coordinates":[-10.48333,11.08333],"type":"Point"}
+}

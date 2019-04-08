@@ -1,0 +1,68 @@
+{
+  "id": 1344193973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.41667,10.48333,-13.41667,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":-13.41667,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Garama",
+    "gn:country_code":"GN",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420822,
+    "gn:latitude":10.48333,
+    "gn:longitude":-13.41667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Garama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420822
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0e9366ec047ca682bbf6d884ed4fb306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1344193973,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1344193973,
+    "wof:lastmodified":1536682838,
+    "wof:name":"Garama",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.41667,
+    10.48333,
+    -13.41667,
+    10.48333
+],
+  "geometry": {"coordinates":[-13.41667,10.48333],"type":"Point"}
+}

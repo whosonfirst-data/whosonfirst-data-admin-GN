@@ -1,0 +1,72 @@
+{
+  "id": 1276795799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.364,12.2708,-12.364,12.2708",
+    "geom:latitude":12.2708,
+    "geom:longitude":-12.364,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Nadel Sabe",
+    "gn:country_code":"GN",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417366,
+    "gn:latitude":12.2708,
+    "gn:longitude":-12.364,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Nadel Sab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadel",
+        "Nadel Sab\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417366
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"13e436a7dd54e295aea640bfc6887abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1276795799,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1276795799,
+    "wof:lastmodified":1537623939,
+    "wof:name":"Nadel Sabe",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.364,
+    12.2708,
+    -12.364,
+    12.2708
+],
+  "geometry": {"coordinates":[-12.364,12.2708],"type":"Point"}
+}

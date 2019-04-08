@@ -1,0 +1,62 @@
+{
+  "id": 1209425439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33333,8.91667,-8.33333,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":-8.33333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Niansomorodougou",
+    "gn:country_code":"GN",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417148,
+    "gn:latitude":8.91667,
+    "gn:longitude":-8.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Niansomorodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417148
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"90729b4be17883cd76309e6c1eac69dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209425439
+        }
+    ],
+    "wof:id":1209425439,
+    "wof:lastmodified":1536287395,
+    "wof:name":"Niansomorodougou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33333,
+    8.91667,
+    -8.33333,
+    8.91667
+],
+  "geometry": {"coordinates":[-8.33333,8.91667],"type":"Point"}
+}

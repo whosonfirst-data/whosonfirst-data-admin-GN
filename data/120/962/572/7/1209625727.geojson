@@ -1,0 +1,62 @@
+{
+  "id": 1209625727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40361,7.73861,-8.40361,7.73861",
+    "geom:latitude":7.73861,
+    "geom:longitude":-8.40361,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Labileta",
+    "gn:country_code":"GN",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418351,
+    "gn:latitude":7.73861,
+    "gn:longitude":-8.40361,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Labil\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418351
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8f1381f8a4ac9e021fa46a4f8bbd3f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209625727
+        }
+    ],
+    "wof:id":1209625727,
+    "wof:lastmodified":1536281360,
+    "wof:name":"Labileta",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40361,
+    7.73861,
+    -8.40361,
+    7.73861
+],
+  "geometry": {"coordinates":[-8.40361,7.73861],"type":"Point"}
+}

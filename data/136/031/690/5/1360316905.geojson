@@ -1,0 +1,73 @@
+{
+  "id": 1360316905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.2,11.58333,-14.2,11.58333",
+    "geom:latitude":11.58333,
+    "geom:longitude":-14.2,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Boulehela",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422638,
+    "gn:latitude":11.58333,
+    "gn:longitude":-14.2,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boul\u00e9h\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boull\u00e9h\u00e9la",
+        "Boul\u00e9h\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671367,
+        890420105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422638
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8a9d8570572d9f555591d9371e7c65b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890420105,
+            "locality_id":1360316905,
+            "region_id":85671367
+        }
+    ],
+    "wof:id":1360316905,
+    "wof:lastmodified":1537623994,
+    "wof:name":"Boulehela",
+    "wof:parent_id":890420105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.2,
+    11.58333,
+    -14.2,
+    11.58333
+],
+  "geometry": {"coordinates":[-14.2,11.58333],"type":"Point"}
+}

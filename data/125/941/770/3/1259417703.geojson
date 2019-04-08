@@ -1,0 +1,68 @@
+{
+  "id": 1259417703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.6,10.9,-14.6,10.9",
+    "geom:latitude":10.9,
+    "geom:longitude":-14.6,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Dissekiri",
+    "gn:country_code":"GN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421825,
+    "gn:latitude":10.9,
+    "gn:longitude":-14.6,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diss\u00e9kiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671367,
+        890420105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421825
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b04510f2f64db3b11aac571dfb60c745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890420105,
+            "locality_id":1259417703,
+            "region_id":85671367
+        }
+    ],
+    "wof:id":1259417703,
+    "wof:lastmodified":1536953369,
+    "wof:name":"Dissekiri",
+    "wof:parent_id":890420105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.6,
+    10.9,
+    -14.6,
+    10.9
+],
+  "geometry": {"coordinates":[-14.6,10.9],"type":"Point"}
+}

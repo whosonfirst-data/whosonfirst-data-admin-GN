@@ -1,0 +1,68 @@
+{
+  "id": 1343490005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.5,12.06667,-10.5,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-10.5,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Diavele",
+    "gn:country_code":"GN",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421997,
+    "gn:latitude":12.06667,
+    "gn:longitude":-10.5,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diav\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421997
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"12050942c5cd6501fe3ff76bdc7c1e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1343490005,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1343490005,
+    "wof:lastmodified":1536703950,
+    "wof:name":"Diavele",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.5,
+    12.06667,
+    -10.5,
+    12.06667
+],
+  "geometry": {"coordinates":[-10.5,12.06667],"type":"Point"}
+}

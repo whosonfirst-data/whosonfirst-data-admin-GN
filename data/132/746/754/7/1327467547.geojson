@@ -1,0 +1,72 @@
+{
+  "id": 1327467547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9,11.25,-8.9,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":-8.9,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Kodiaraninda",
+    "gn:country_code":"GN",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419355,
+    "gn:latitude":11.25,
+    "gn:longitude":-8.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kodiaraninda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boro-Boro",
+        "Kodiaraninda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419355
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"132230a3310609e33c70538008b3e1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1327467547,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1327467547,
+    "wof:lastmodified":1537623959,
+    "wof:name":"Kodiaraninda",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9,
+    11.25,
+    -8.9,
+    11.25
+],
+  "geometry": {"coordinates":[-8.9,11.25],"type":"Point"}
+}

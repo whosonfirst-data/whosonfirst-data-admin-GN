@@ -1,0 +1,64 @@
+{
+  "id": 1292941843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49287,12.18168,-11.49287,12.18168",
+    "geom:latitude":12.18168,
+    "geom:longitude":-11.49287,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Felo-Tirigniguissi",
+    "gn:country_code":"GN",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421149,
+    "gn:latitude":12.18168,
+    "gn:longitude":-11.49287,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"F\u00e9lo-Tirigniguissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421149
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7077f8884918959d4c8e7d2813a10a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1292941843,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292941843,
+    "wof:lastmodified":1537073566,
+    "wof:name":"Felo-Tirigniguissi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49287,
+    12.18168,
+    -11.49287,
+    12.18168
+],
+  "geometry": {"coordinates":[-11.49287,12.18168],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209249613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.0,10.49,-13.0,10.49",
+    "geom:latitude":10.49,
+    "geom:longitude":-13.0,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"27",
+    "gn:asciiname":"Gougoudje",
+    "gn:country_code":"GN",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7669278,
+    "gn:latitude":10.49,
+    "gn:longitude":-13.0,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gougoudje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7669278
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1ee39241f1ed3d678897313626a68f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209249613
+        }
+    ],
+    "wof:id":1209249613,
+    "wof:lastmodified":1536293048,
+    "wof:name":"Gougoudje",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.0,
+    10.49,
+    -13.0,
+    10.49
+],
+  "geometry": {"coordinates":[-13.0,10.49],"type":"Point"}
+}

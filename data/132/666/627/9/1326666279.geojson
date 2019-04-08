@@ -1,0 +1,68 @@
+{
+  "id": 1326666279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9,11.4,-8.9,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-8.9,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Kotule",
+    "gn:country_code":"GN",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418793,
+    "gn:latitude":11.4,
+    "gn:longitude":-8.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kotul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418793
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"26d8004e2ef0a9988972d3ae817900ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1326666279,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1326666279,
+    "wof:lastmodified":1536791146,
+    "wof:name":"Kotule",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9,
+    11.4,
+    -8.9,
+    11.4
+],
+  "geometry": {"coordinates":[-8.9,11.4],"type":"Point"}
+}

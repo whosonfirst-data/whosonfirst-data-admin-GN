@@ -1,0 +1,68 @@
+{
+  "id": 1276558219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.36444,8.51361,-10.36444,8.51361",
+    "geom:latitude":8.51361,
+    "geom:longitude":-10.36444,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Kolian",
+    "gn:country_code":"GN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419183,
+    "gn:latitude":8.51361,
+    "gn:longitude":-10.36444,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kolian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419183
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2dc93e3c81bfc8d79b0c3618c4c154dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1276558219,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1276558219,
+    "wof:lastmodified":1536974187,
+    "wof:name":"Kolian",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.36444,
+    8.51361,
+    -10.36444,
+    8.51361
+],
+  "geometry": {"coordinates":[-10.36444,8.51361],"type":"Point"}
+}

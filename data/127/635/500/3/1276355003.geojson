@@ -1,0 +1,73 @@
+{
+  "id": 1276355003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06389,7.47278,-9.06389,7.47278",
+    "geom:latitude":7.47278,
+    "geom:longitude":-9.06389,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Gbamou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420792,
+    "gn:latitude":7.47278,
+    "gn:longitude":-9.06389,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gbamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamou",
+        "Gbamou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671499,
+        421203701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420792
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c613bf8e0e22b162d1d87f355a8b0da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203701,
+            "locality_id":1276355003,
+            "region_id":85671499
+        }
+    ],
+    "wof:id":1276355003,
+    "wof:lastmodified":1537623975,
+    "wof:name":"Gbamou",
+    "wof:parent_id":421203701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06389,
+    7.47278,
+    -9.06389,
+    7.47278
+],
+  "geometry": {"coordinates":[-9.06389,7.47278],"type":"Point"}
+}

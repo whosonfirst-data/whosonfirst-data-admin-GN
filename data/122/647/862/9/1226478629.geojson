@@ -1,0 +1,68 @@
+{
+  "id": 1226478629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.8815,12.09,-12.8815,12.09",
+    "geom:latitude":12.09,
+    "geom:longitude":-12.8815,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Lela",
+    "gn:country_code":"GN",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418228,
+    "gn:latitude":12.09,
+    "gn:longitude":-12.8815,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"L\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671413,
+        421191557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418228
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3e2374fe7565d4f6619981e792d814b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191557,
+            "locality_id":1226478629,
+            "region_id":85671413
+        }
+    ],
+    "wof:id":1226478629,
+    "wof:lastmodified":1537091458,
+    "wof:name":"Lela",
+    "wof:parent_id":421191557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.8815,
+    12.09,
+    -12.8815,
+    12.09
+],
+  "geometry": {"coordinates":[-12.8815,12.09],"type":"Point"}
+}

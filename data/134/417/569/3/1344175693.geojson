@@ -1,0 +1,73 @@
+{
+  "id": 1344175693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26694,7.95028,-9.26694,7.95028",
+    "geom:latitude":7.95028,
+    "geom:longitude":-9.26694,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Nzappa",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416972,
+    "gn:latitude":7.95028,
+    "gn:longitude":-9.26694,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Nzappa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nzapa",
+        "Nzappa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416972
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2de9849cbe2a297217a0cde835728d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1344175693,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1344175693,
+    "wof:lastmodified":1537623935,
+    "wof:name":"Nzappa",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26694,
+    7.95028,
+    -9.26694,
+    7.95028
+],
+  "geometry": {"coordinates":[-9.26694,7.95028],"type":"Point"}
+}

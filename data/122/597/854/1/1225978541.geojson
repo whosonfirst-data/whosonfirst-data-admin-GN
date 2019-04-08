@@ -1,0 +1,68 @@
+{
+  "id": 1225978541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.53333,9.18333,-10.53333,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":-10.53333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Bendelatiou",
+    "gn:country_code":"GN",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423211,
+    "gn:latitude":9.18333,
+    "gn:longitude":-10.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bend\u00e9latiou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423211
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"666602e1b42d0398b9a1ea60c138fa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1225978541,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1225978541,
+    "wof:lastmodified":1536821152,
+    "wof:name":"Bendelatiou",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.53333,
+    9.18333,
+    -10.53333,
+    9.18333
+],
+  "geometry": {"coordinates":[-10.53333,9.18333],"type":"Point"}
+}

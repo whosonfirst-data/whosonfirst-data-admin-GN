@@ -1,0 +1,68 @@
+{
+  "id": 1209141851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21667,11.8,-12.21667,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-12.21667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Dongol Sigon",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421724,
+    "gn:latitude":11.8,
+    "gn:longitude":-12.21667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dongol Sigon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigon",
+        "Sigou",
+        "Dongol Sigon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421724
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"01464de03f3429e3aa7785bab7428f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209141851
+        }
+    ],
+    "wof:id":1209141851,
+    "wof:lastmodified":1537623986,
+    "wof:name":"Dongol Sigon",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21667,
+    11.8,
+    -12.21667,
+    11.8
+],
+  "geometry": {"coordinates":[-12.21667,11.8],"type":"Point"}
+}

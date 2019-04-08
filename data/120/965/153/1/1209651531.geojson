@@ -1,0 +1,62 @@
+{
+  "id": 1209651531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.8959,12.2295,-12.8959,12.2295",
+    "geom:latitude":12.2295,
+    "geom:longitude":-12.8959,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Bowal-Ila",
+    "gn:country_code":"GN",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422523,
+    "gn:latitude":12.2295,
+    "gn:longitude":-12.8959,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bowal-Ila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422523
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1420a6f6b9c9b29be2973ca2d9a49daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209651531
+        }
+    ],
+    "wof:id":1209651531,
+    "wof:lastmodified":1536280564,
+    "wof:name":"Bowal-Ila",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.8959,
+    12.2295,
+    -12.8959,
+    12.2295
+],
+  "geometry": {"coordinates":[-12.8959,12.2295],"type":"Point"}
+}

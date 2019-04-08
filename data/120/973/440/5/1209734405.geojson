@@ -1,0 +1,73 @@
+{
+  "id": 1209734405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.36111,8.605,-10.36111,8.605",
+    "geom:latitude":8.605,
+    "geom:longitude":-10.36111,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Temessadou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414901,
+    "gn:latitude":8.605,
+    "gn:longitude":-10.36111,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"T\u00e9messadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e9massadou",
+        "T\u00e9messadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414901
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f4e1383dd0fd3d45d249b930f51b26ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1209734405,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1209734405,
+    "wof:lastmodified":1537623915,
+    "wof:name":"Temessadou",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.36111,
+    8.605,
+    -10.36111,
+    8.605
+],
+  "geometry": {"coordinates":[-10.36111,8.605],"type":"Point"}
+}

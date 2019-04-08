@@ -1,0 +1,68 @@
+{
+  "id": 1276151847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9,9.46667,-8.9,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":-8.9,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Diassakouna",
+    "gn:country_code":"GN",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422019,
+    "gn:latitude":9.46667,
+    "gn:longitude":-8.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diassakouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422019
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"880a6a63a5b23c9bf0b1dd9119cc9bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1276151847,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1276151847,
+    "wof:lastmodified":1537021039,
+    "wof:name":"Diassakouna",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9,
+    9.46667,
+    -8.9,
+    9.46667
+],
+  "geometry": {"coordinates":[-8.9,9.46667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327165511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93333,9.51667,-12.93333,9.51667",
+    "geom:latitude":9.51667,
+    "geom:longitude":-12.93333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Gbelima",
+    "gn:country_code":"GN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420760,
+    "gn:latitude":9.51667,
+    "gn:longitude":-12.93333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gb\u00e9lima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420760
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"83ab31b34597fee61138bf3b719f171b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1327165511,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1327165511,
+    "wof:lastmodified":1537063442,
+    "wof:name":"Gbelima",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93333,
+    9.51667,
+    -12.93333,
+    9.51667
+],
+  "geometry": {"coordinates":[-12.93333,9.51667],"type":"Point"}
+}

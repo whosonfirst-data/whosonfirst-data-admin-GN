@@ -1,0 +1,74 @@
+{
+  "id": 1344092845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.33333,10.7,-10.33333,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":-10.33333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Sineya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415634,
+    "gn:latitude":10.7,
+    "gn:longitude":-10.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sin\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sin\u00e9a",
+        "Sin\u00e9\u00efa",
+        "Sin\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415634
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a1d99545998019aa05d3b80a444a5269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1344092845,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1344092845,
+    "wof:lastmodified":1537623924,
+    "wof:name":"Sineya",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.33333,
+    10.7,
+    -10.33333,
+    10.7
+],
+  "geometry": {"coordinates":[-10.33333,10.7],"type":"Point"}
+}

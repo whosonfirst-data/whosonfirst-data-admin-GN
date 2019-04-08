@@ -1,0 +1,68 @@
+{
+  "id": 1343298583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.77889,9.82444,-13.77889,9.82444",
+    "geom:latitude":9.82444,
+    "geom:longitude":-13.77889,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Bokhinene",
+    "gn:country_code":"GN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592975,
+    "gn:latitude":9.82444,
+    "gn:longitude":-13.77889,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Bokhin\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592975
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"76252f8487ecc02817e5baac57d7941f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1343298583,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1343298583,
+    "wof:lastmodified":1536979144,
+    "wof:name":"Bokhinene",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.77889,
+    9.82444,
+    -13.77889,
+    9.82444
+],
+  "geometry": {"coordinates":[-13.77889,9.82444],"type":"Point"}
+}

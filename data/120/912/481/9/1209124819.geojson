@@ -1,0 +1,62 @@
+{
+  "id": 1209124819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.06667,8.53333,-10.06667,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":-10.06667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Ouokouama",
+    "gn:country_code":"GN",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416723,
+    "gn:latitude":8.53333,
+    "gn:longitude":-10.06667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ouokouama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416723
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7f6cfe2a66193f8ed7c57b406c501832",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209124819
+        }
+    ],
+    "wof:id":1209124819,
+    "wof:lastmodified":1536296986,
+    "wof:name":"Ouokouama",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.06667,
+    8.53333,
+    -10.06667,
+    8.53333
+],
+  "geometry": {"coordinates":[-10.06667,8.53333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242709437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.25,10.38333,-12.25,10.38333",
+    "geom:latitude":10.38333,
+    "geom:longitude":-12.25,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Bilima Kante",
+    "gn:country_code":"GN",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423093,
+    "gn:latitude":10.38333,
+    "gn:longitude":-12.25,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bilima Kant\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671473,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423093
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"bfaff3c115274f5a609479fbeae44dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":1242709437,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":1242709437,
+    "wof:lastmodified":1536872905,
+    "wof:name":"Bilima Kante",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.25,
+    10.38333,
+    -12.25,
+    10.38333
+],
+  "geometry": {"coordinates":[-12.25,10.38333],"type":"Point"}
+}

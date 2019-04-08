@@ -1,0 +1,73 @@
+{
+  "id": 1327268291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.3,11.45,-12.3,11.45",
+    "geom:latitude":11.45,
+    "geom:longitude":-12.3,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Ore Dima",
+    "gn:country_code":"GN",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416937,
+    "gn:latitude":11.45,
+    "gn:longitude":-12.3,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Or\u00e9 Dima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ore Djima",
+        "Ore Dimma",
+        "Or\u00e9 Dima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671451,
+        421184941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416937
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0d88dc8ec2ea8f56d28d566f8cdb7f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184941,
+            "locality_id":1327268291,
+            "region_id":85671451
+        }
+    ],
+    "wof:id":1327268291,
+    "wof:lastmodified":1537623935,
+    "wof:name":"Ore Dima",
+    "wof:parent_id":421184941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.3,
+    11.45,
+    -12.3,
+    11.45
+],
+  "geometry": {"coordinates":[-12.3,11.45],"type":"Point"}
+}

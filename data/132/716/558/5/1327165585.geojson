@@ -1,0 +1,68 @@
+{
+  "id": 1327165585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46306,8.94722,-9.46306,8.94722",
+    "geom:latitude":8.94722,
+    "geom:longitude":-9.46306,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Guibaya",
+    "gn:country_code":"GN",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420513,
+    "gn:latitude":8.94722,
+    "gn:longitude":-9.46306,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Guibaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420513
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"91c758612520f0c2e83c146eefd70af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1327165585,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1327165585,
+    "wof:lastmodified":1537063335,
+    "wof:name":"Guibaya",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46306,
+    8.94722,
+    -9.46306,
+    8.94722
+],
+  "geometry": {"coordinates":[-9.46306,8.94722],"type":"Point"}
+}

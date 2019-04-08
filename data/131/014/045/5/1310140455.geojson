@@ -1,0 +1,68 @@
+{
+  "id": 1310140455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.01667,9.11667,-10.01667,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-10.01667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Sainte-Therese",
+    "gn:country_code":"GN",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416275,
+    "gn:latitude":9.11667,
+    "gn:longitude":-10.01667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sainte-Th\u00e9r\u00e8se",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416275
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4e2deaa7b529f603fd3c664e796b158b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1310140455,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1310140455,
+    "wof:lastmodified":1536946483,
+    "wof:name":"Sainte-Therese",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.01667,
+    9.11667,
+    -10.01667,
+    9.11667
+],
+  "geometry": {"coordinates":[-10.01667,9.11667],"type":"Point"}
+}

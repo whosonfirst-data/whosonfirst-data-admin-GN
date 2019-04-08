@@ -1,0 +1,62 @@
+{
+  "id": 1209350771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.53333,9.3,-10.53333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-10.53333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Farakoro",
+    "gn:country_code":"GN",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421285,
+    "gn:latitude":9.3,
+    "gn:longitude":-10.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Farakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421285
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"95dac56c05d44fc53558c3c5a7118035",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209350771
+        }
+    ],
+    "wof:id":1209350771,
+    "wof:lastmodified":1536289749,
+    "wof:name":"Farakoro",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.53333,
+    9.3,
+    -10.53333,
+    9.3
+],
+  "geometry": {"coordinates":[-10.53333,9.3],"type":"Point"}
+}

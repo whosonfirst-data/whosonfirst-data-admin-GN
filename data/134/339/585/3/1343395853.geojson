@@ -1,0 +1,68 @@
+{
+  "id": 1343395853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.67333,11.62418,-12.67333,11.62418",
+    "geom:latitude":11.62418,
+    "geom:longitude":-12.67333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35",
+    "gn:asciiname":"Tianguel Bori",
+    "gn:country_code":"GN",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205214,
+    "gn:latitude":11.62418,
+    "gn:longitude":-12.67333,
+    "gn:modification_date":"2016-07-28",
+    "gn:name":"Tianguel Bori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671455,
+        890454189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205214
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"23a04b031608d2e25d5a6f0231e19422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454189,
+            "locality_id":1343395853,
+            "region_id":85671455
+        }
+    ],
+    "wof:id":1343395853,
+    "wof:lastmodified":1536838429,
+    "wof:name":"Tianguel Bori",
+    "wof:parent_id":890454189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.67333,
+    11.62418,
+    -12.67333,
+    11.62418
+],
+  "geometry": {"coordinates":[-12.67333,11.62418],"type":"Point"}
+}

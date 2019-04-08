@@ -1,0 +1,73 @@
+{
+  "id": 1242814213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.48333,9.85,-10.48333,9.85",
+    "geom:latitude":9.85,
+    "geom:longitude":-10.48333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Maharnadi",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417927,
+    "gn:latitude":9.85,
+    "gn:longitude":-10.48333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Maharnadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marnadi",
+        "Maharnadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417927
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"dc433b4693a307279463c553b7d78633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1242814213,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1242814213,
+    "wof:lastmodified":1537623946,
+    "wof:name":"Maharnadi",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.48333,
+    9.85,
+    -10.48333,
+    9.85
+],
+  "geometry": {"coordinates":[-10.48333,9.85],"type":"Point"}
+}

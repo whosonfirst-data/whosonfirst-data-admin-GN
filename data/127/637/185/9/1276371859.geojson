@@ -1,0 +1,73 @@
+{
+  "id": 1276371859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.53333,12.56667,-13.53333,12.56667",
+    "geom:latitude":12.56667,
+    "geom:longitude":-13.53333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Oudaya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416828,
+    "gn:latitude":12.56667,
+    "gn:longitude":-13.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Oudaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oudaha",
+        "Oudaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416828
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7843ef0627f91b31213115298f81c67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1276371859,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1276371859,
+    "wof:lastmodified":1537623934,
+    "wof:name":"Oudaya",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.53333,
+    12.56667,
+    -13.53333,
+    12.56667
+],
+  "geometry": {"coordinates":[-13.53333,12.56667],"type":"Point"}
+}

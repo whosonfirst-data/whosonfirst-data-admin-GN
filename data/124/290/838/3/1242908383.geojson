@@ -1,0 +1,72 @@
+{
+  "id": 1242908383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.68333,11.51667,-12.68333,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":-12.68333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35",
+    "gn:asciiname":"Tirikoure",
+    "gn:country_code":"GN",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414690,
+    "gn:latitude":11.51667,
+    "gn:longitude":-12.68333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tirikour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e8rikour\u00e9",
+        "Tirikour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671455,
+        890454189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414690
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"028bd12d9d4347a2f5afc2fafb4b47ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454189,
+            "locality_id":1242908383,
+            "region_id":85671455
+        }
+    ],
+    "wof:id":1242908383,
+    "wof:lastmodified":1537623913,
+    "wof:name":"Tirikoure",
+    "wof:parent_id":890454189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.68333,
+    11.51667,
+    -12.68333,
+    11.51667
+],
+  "geometry": {"coordinates":[-12.68333,11.51667],"type":"Point"}
+}

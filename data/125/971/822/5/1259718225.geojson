@@ -1,0 +1,68 @@
+{
+  "id": 1259718225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.19889,8.945,-10.19889,8.945",
+    "geom:latitude":8.945,
+    "geom:longitude":-10.19889,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Tedou",
+    "gn:country_code":"GN",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414958,
+    "gn:latitude":8.945,
+    "gn:longitude":-10.19889,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"T\u00e9dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414958
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"20dcc8b111b652e80a479fe871cb0c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1259718225,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1259718225,
+    "wof:lastmodified":1537016315,
+    "wof:name":"Tedou",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.19889,
+    8.945,
+    -10.19889,
+    8.945
+],
+  "geometry": {"coordinates":[-10.19889,8.945],"type":"Point"}
+}

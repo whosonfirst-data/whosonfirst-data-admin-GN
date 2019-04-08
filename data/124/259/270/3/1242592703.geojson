@@ -1,0 +1,73 @@
+{
+  "id": 1242592703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.44556,8.59028,-10.44556,8.59028",
+    "geom:latitude":8.59028,
+    "geom:longitude":-10.44556,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Nongoa",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417024,
+    "gn:latitude":8.59028,
+    "gn:longitude":-10.44556,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Nongoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nangoa",
+        "Nongoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417024
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a3446a7fa8328ebbd9e23a3e0ddd9d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1242592703,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1242592703,
+    "wof:lastmodified":1537623936,
+    "wof:name":"Nongoa",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.44556,
+    8.59028,
+    -10.44556,
+    8.59028
+],
+  "geometry": {"coordinates":[-10.44556,8.59028],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243589827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.68333,11.76667,-13.68333,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":-13.68333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Kampounding",
+    "gn:country_code":"GN",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420057,
+    "gn:latitude":11.76667,
+    "gn:longitude":-13.68333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kampounding",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671413,
+        421191557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420057
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5833a93be02ab0d1b4f09f27a5df9711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191557,
+            "locality_id":1243589827,
+            "region_id":85671413
+        }
+    ],
+    "wof:id":1243589827,
+    "wof:lastmodified":1537092489,
+    "wof:name":"Kampounding",
+    "wof:parent_id":421191557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.68333,
+    11.76667,
+    -13.68333,
+    11.76667
+],
+  "geometry": {"coordinates":[-13.68333,11.76667],"type":"Point"}
+}

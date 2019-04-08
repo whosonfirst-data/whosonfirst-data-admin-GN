@@ -1,0 +1,68 @@
+{
+  "id": 1225975681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.46667,9.26667,-10.46667,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-10.46667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Camaro",
+    "gn:country_code":"GN",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422489,
+    "gn:latitude":9.26667,
+    "gn:longitude":-10.46667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Camaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422489
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b9b46246d6fc1a2162f13f0d72460b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1225975681,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1225975681,
+    "wof:lastmodified":1536825248,
+    "wof:name":"Camaro",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.46667,
+    9.26667,
+    -10.46667,
+    9.26667
+],
+  "geometry": {"coordinates":[-10.46667,9.26667],"type":"Point"}
+}

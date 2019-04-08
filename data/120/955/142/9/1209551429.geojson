@@ -1,0 +1,63 @@
+{
+  "id": 1209551429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.71667,10.71667,-10.71667,10.71667",
+    "geom:latitude":10.71667,
+    "geom:longitude":-10.71667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Banko",
+    "gn:country_code":"GN",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423459,
+    "gn:latitude":10.71667,
+    "gn:longitude":-10.71667,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Banko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423459,
+        "wk:page":"Banko%2C_Guinea"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"855855da1d42064d2c19fb95c65c05f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209551429
+        }
+    ],
+    "wof:id":1209551429,
+    "wof:lastmodified":1537563083,
+    "wof:name":"Banko",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.71667,
+    10.71667,
+    -10.71667,
+    10.71667
+],
+  "geometry": {"coordinates":[-10.71667,10.71667],"type":"Point"}
+}

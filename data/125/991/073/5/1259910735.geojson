@@ -1,0 +1,66 @@
+{
+  "id": 1259910735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.0,10.95,-15.0,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-15.0,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Kantongondebere",
+    "gn:country_code":"GN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419918,
+    "gn:latitude":10.95,
+    "gn:longitude":-15.0,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kantongond\u00e9b\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419918
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a8aeddd2b4cc0d4ba7c3b915d03851f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "locality_id":1259910735,
+            "region_id":85671367
+        }
+    ],
+    "wof:id":1259910735,
+    "wof:lastmodified":1536739857,
+    "wof:name":"Kantongondebere",
+    "wof:parent_id":85671367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.0,
+    10.95,
+    -15.0,
+    10.95
+],
+  "geometry": {"coordinates":[-15.0,10.95],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343973011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.20639,8.69917,-10.20639,8.69917",
+    "geom:latitude":8.69917,
+    "geom:longitude":-10.20639,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Bonko",
+    "gn:country_code":"GN",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422811,
+    "gn:latitude":8.69917,
+    "gn:longitude":-10.20639,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422811
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"05d4f41b6257737ff35b425a895125bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1343973011,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1343973011,
+    "wof:lastmodified":1537001072,
+    "wof:name":"Bonko",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.20639,
+    8.69917,
+    -10.20639,
+    8.69917
+],
+  "geometry": {"coordinates":[-10.20639,8.69917],"type":"Point"}
+}

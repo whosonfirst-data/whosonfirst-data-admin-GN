@@ -1,0 +1,73 @@
+{
+  "id": 1193054523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.33333,9.5,-13.33333,9.5",
+    "geom:latitude":9.5,
+    "geom:longitude":-13.33333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Dakofourou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422390,
+    "gn:latitude":9.5,
+    "gn:longitude":-13.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dakofourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dokoufourou",
+        "Dakofourou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422390
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a789b783deb1fec8bc85fbd69ee1c3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1193054523,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1193054523,
+    "wof:lastmodified":1537623992,
+    "wof:name":"Dakofourou",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.33333,
+    9.5,
+    -13.33333,
+    9.5
+],
+  "geometry": {"coordinates":[-13.33333,9.5],"type":"Point"}
+}

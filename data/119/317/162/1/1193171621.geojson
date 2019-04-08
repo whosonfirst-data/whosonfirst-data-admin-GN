@@ -1,0 +1,68 @@
+{
+  "id": 1193171621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33333,10.65,-12.33333,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":-12.33333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Ore Dioli",
+    "gn:country_code":"GN",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416936,
+    "gn:latitude":10.65,
+    "gn:longitude":-12.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Or\u00e9 Dioli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671385,
+        421167693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416936
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6fdc9e0677b05fdaf72e19cf5de5c492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421167693,
+            "locality_id":1193171621,
+            "region_id":85671385
+        }
+    ],
+    "wof:id":1193171621,
+    "wof:lastmodified":1536379810,
+    "wof:name":"Ore Dioli",
+    "wof:parent_id":421167693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33333,
+    10.65,
+    -12.33333,
+    10.65
+],
+  "geometry": {"coordinates":[-12.33333,10.65],"type":"Point"}
+}

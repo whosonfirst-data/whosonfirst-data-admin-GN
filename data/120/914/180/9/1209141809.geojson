@@ -1,0 +1,62 @@
+{
+  "id": 1209141809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93333,11.03333,-12.93333,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":-12.93333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"27",
+    "gn:asciiname":"Missikou",
+    "gn:country_code":"GN",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417538,
+    "gn:latitude":11.03333,
+    "gn:longitude":-12.93333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Missikou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417538
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5aa242a50265bce655a9efe1c78d36c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209141809
+        }
+    ],
+    "wof:id":1209141809,
+    "wof:lastmodified":1536296480,
+    "wof:name":"Missikou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93333,
+    11.03333,
+    -12.93333,
+    11.03333
+],
+  "geometry": {"coordinates":[-12.93333,11.03333],"type":"Point"}
+}

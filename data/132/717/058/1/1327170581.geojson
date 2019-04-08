@@ -1,0 +1,68 @@
+{
+  "id": 1327170581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00167,8.81389,-9.00167,8.81389",
+    "geom:latitude":8.81389,
+    "geom:longitude":-9.00167,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Niamadou",
+    "gn:country_code":"GN",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417200,
+    "gn:latitude":8.81389,
+    "gn:longitude":-9.00167,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Niamadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417200
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2457a85f6ef45761609821af44cc6a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1327170581,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1327170581,
+    "wof:lastmodified":1537056352,
+    "wof:name":"Niamadou",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00167,
+    8.81389,
+    -9.00167,
+    8.81389
+],
+  "geometry": {"coordinates":[-9.00167,8.81389],"type":"Point"}
+}

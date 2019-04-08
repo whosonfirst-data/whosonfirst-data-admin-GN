@@ -1,0 +1,112 @@
+{
+  "id": 421167691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.1224,12.5311,-13.1224,12.5311",
+    "geom:latitude":12.5311,
+    "geom:longitude":-13.1224,
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0419\u043e\u0443\u043a\u043e\u0443\u043d\u043a\u043e\u0443\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:eng_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:fra_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:fre_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:ita_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:may_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:msa_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:swe_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u06a9\u0648\u0646\u06a9\u0648\u0624\u0646"
+    ],
+    "qs:gn_country":"GN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2414055,
+    "qs:gn_pop":7952,
+    "qs:name":"Youkounkoun",
+    "qs:name_adm0":"Guin\u00e9e",
+    "qs:name_adm1":"Bok\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":139999,
+    "qs:woe_adm0":23424835,
+    "qs:woe_id":1339554,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414055,
+        "gp:id":1339554,
+        "qs:id":139999,
+        "wd:id":"Q3572810",
+        "wk:page":"Youkounkoun"
+    },
+    "wof:country":"GN",
+    "wof:created":1459008740,
+    "wof:geomhash":"21e2868cde13349e5ef6065c207f4620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":421167691,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":421167691,
+    "wof:lastmodified":1527716161,
+    "wof:name":"Youkounkoun",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:population":7952,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.1224,
+    12.5311,
+    -13.1224,
+    12.5311
+],
+  "geometry": {"coordinates":[-13.1224,12.5311],"type":"Point"}
+}

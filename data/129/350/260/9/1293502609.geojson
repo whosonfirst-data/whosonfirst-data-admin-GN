@@ -1,0 +1,68 @@
+{
+  "id": 1293502609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3,8.06667,-8.3,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":-8.3,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Guekadougou",
+    "gn:country_code":"GN",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420555,
+    "gn:latitude":8.06667,
+    "gn:longitude":-8.3,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gu\u00e9kadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420555
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"47c5550f688bc69dcf5eb668599881c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1293502609,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1293502609,
+    "wof:lastmodified":1536765537,
+    "wof:name":"Guekadougou",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3,
+    8.06667,
+    -8.3,
+    8.06667
+],
+  "geometry": {"coordinates":[-8.3,8.06667],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1125294675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.75231,9.47954,-13.75231,9.47954",
+    "geom:latitude":9.47954,
+    "geom:longitude":-13.75231,
+    "gn:gn_country":"GN",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"GN",
+    "lbl:latitude":9.47954,
+    "lbl:longitude":-13.75231,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GN",
+    "qs_pg:gn_country":"GN",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":7731886,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kaloum",
+    "qs_pg:name_adm0":"Guin\u00e9e",
+    "qs_pg:name_adm1":"Conakry",
+    "qs_pg:photos":104,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":387,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1206090,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424835,
+    "qs_pg:woe_id":56060913,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424835,
+    "woe:name_adm0":"Guin\u00e9e",
+    "woe:name_adm1":"Conakry",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191573,
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7731886,
+        "gp:id":56060913,
+        "qs_pg:id":1206090
+    },
+    "wof:country":"GN",
+    "wof:created":1497043086,
+    "wof:geomhash":"248149f5a89b2e2fe00361e04bf5344b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "localadmin_id":1125294675,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125294675,
+    "wof:lastmodified":1534379331,
+    "wof:name":"Kaloum",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[
+        421198917
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.75231,
+    9.47954,
+    -13.75231,
+    9.47954
+],
+  "geometry": {"coordinates":[-13.75231,9.47954],"type":"Point"}
+}

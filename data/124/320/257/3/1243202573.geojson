@@ -1,0 +1,68 @@
+{
+  "id": 1243202573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73333,11.41667,-8.73333,11.41667",
+    "geom:latitude":11.41667,
+    "geom:longitude":-8.73333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Nerekoroko",
+    "gn:country_code":"GN",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417257,
+    "gn:latitude":11.41667,
+    "gn:longitude":-8.73333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"N\u00e9r\u00e9koroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417257
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a291ebf04e0c3f0cd7a2d804b6b3c473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1243202573,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1243202573,
+    "wof:lastmodified":1536660380,
+    "wof:name":"Nerekoroko",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73333,
+    11.41667,
+    -8.73333,
+    11.41667
+],
+  "geometry": {"coordinates":[-8.73333,11.41667],"type":"Point"}
+}

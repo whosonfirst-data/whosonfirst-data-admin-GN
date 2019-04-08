@@ -1,0 +1,68 @@
+{
+  "id": 1259519235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.46667,10.63333,-10.46667,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":-10.46667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Falea",
+    "gn:country_code":"GN",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421437,
+    "gn:latitude":10.63333,
+    "gn:longitude":-10.46667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Fal\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671381,
+        890420101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421437
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5a8ac9190399af201a3ac103b8eb7bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890420101,
+            "locality_id":1259519235,
+            "region_id":85671381
+        }
+    ],
+    "wof:id":1259519235,
+    "wof:lastmodified":1536807108,
+    "wof:name":"Falea",
+    "wof:parent_id":890420101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.46667,
+    10.63333,
+    -10.46667,
+    10.63333
+],
+  "geometry": {"coordinates":[-10.46667,10.63333],"type":"Point"}
+}

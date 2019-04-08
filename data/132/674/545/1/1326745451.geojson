@@ -1,0 +1,73 @@
+{
+  "id": 1326745451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50972,7.645,-8.50972,7.645",
+    "geom:latitude":7.645,
+    "geom:longitude":-8.50972,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Bossou",
+    "gn:country_code":"GN",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422741,
+    "gn:latitude":7.645,
+    "gn:longitude":-8.50972,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bossou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boussou",
+        "Bossou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422741,
+        "wk:page":"Bossou"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1ef3db3d79f715c3417cff08f189faf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1326745451,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1326745451,
+    "wof:lastmodified":1537623994,
+    "wof:name":"Bossou",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50972,
+    7.645,
+    -8.50972,
+    7.645
+],
+  "geometry": {"coordinates":[-8.50972,7.645],"type":"Point"}
+}

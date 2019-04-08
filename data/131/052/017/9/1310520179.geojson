@@ -1,0 +1,68 @@
+{
+  "id": 1310520179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41667,8.21667,-8.41667,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":-8.41667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Kabadougou",
+    "gn:country_code":"GN",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420305,
+    "gn:latitude":8.21667,
+    "gn:longitude":-8.41667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kabadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420305
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f4a41607ace4118de00990ee1357c0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1310520179,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1310520179,
+    "wof:lastmodified":1536895512,
+    "wof:name":"Kabadougou",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41667,
+    8.21667,
+    -8.41667,
+    8.21667
+],
+  "geometry": {"coordinates":[-8.41667,8.21667],"type":"Point"}
+}

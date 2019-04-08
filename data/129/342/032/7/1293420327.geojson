@@ -1,0 +1,68 @@
+{
+  "id": 1293420327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.428,12.0123,-12.428,12.0123",
+    "geom:latitude":12.0123,
+    "geom:longitude":-12.428,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Gaya",
+    "gn:country_code":"GN",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420811,
+    "gn:latitude":12.0123,
+    "gn:longitude":-12.428,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420811
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cfdf3f8b9880e5176092a23968a0d42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1293420327,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293420327,
+    "wof:lastmodified":1536883378,
+    "wof:name":"Gaya",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.428,
+    12.0123,
+    -12.428,
+    12.0123
+],
+  "geometry": {"coordinates":[-12.428,12.0123],"type":"Point"}
+}

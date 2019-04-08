@@ -1,0 +1,74 @@
+{
+  "id": 1276481443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.17222,8.88722,-10.17222,8.88722",
+    "geom:latitude":8.88722,
+    "geom:longitude":-10.17222,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Yende Millimou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414170,
+    "gn:latitude":8.88722,
+    "gn:longitude":-10.17222,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yende Millimou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Millimou",
+        "Yende",
+        "Yende Millimou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414170
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5ddce293996814437f2bcb5403cf7388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1276481443,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1276481443,
+    "wof:lastmodified":1537623906,
+    "wof:name":"Yende Millimou",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.17222,
+    8.88722,
+    -10.17222,
+    8.88722
+],
+  "geometry": {"coordinates":[-10.17222,8.88722],"type":"Point"}
+}

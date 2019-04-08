@@ -1,0 +1,68 @@
+{
+  "id": 1243489195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.37,9.9575,-13.37,9.9575",
+    "geom:latitude":9.9575,
+    "geom:longitude":-13.37,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Ferikhoure",
+    "gn:country_code":"GN",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592695,
+    "gn:latitude":9.9575,
+    "gn:longitude":-13.37,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"F\u00e9rikhour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592695
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"747536e7ad7787d0b63c5ee96e39f16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1243489195,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1243489195,
+    "wof:lastmodified":1536743575,
+    "wof:name":"Ferikhoure",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.37,
+    9.9575,
+    -13.37,
+    9.9575
+],
+  "geometry": {"coordinates":[-13.37,9.9575],"type":"Point"}
+}

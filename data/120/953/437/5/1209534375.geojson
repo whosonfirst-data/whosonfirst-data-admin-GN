@@ -1,0 +1,65 @@
+{
+  "id": 1209534375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41667,9.2,-8.41667,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":-8.41667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Soribadou",
+    "gn:country_code":"GN",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415371,
+    "gn:latitude":9.2,
+    "gn:longitude":-8.41667,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Soribadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soribadougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415371
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3fd4a4837d9429ae596b8dce62e78bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209534375
+        }
+    ],
+    "wof:id":1209534375,
+    "wof:lastmodified":1537623920,
+    "wof:name":"Soribadou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41667,
+    9.2,
+    -8.41667,
+    9.2
+],
+  "geometry": {"coordinates":[-8.41667,9.2],"type":"Point"}
+}

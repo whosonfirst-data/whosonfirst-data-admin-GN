@@ -1,0 +1,68 @@
+{
+  "id": 1292918579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3925,8.82917,-10.3925,8.82917",
+    "geom:latitude":8.82917,
+    "geom:longitude":-10.3925,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Kongote",
+    "gn:country_code":"GN",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418977,
+    "gn:latitude":8.82917,
+    "gn:longitude":-10.3925,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kongot\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418977
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0fa1d3ef4dc7cb9a95091bc25cc35b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1292918579,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1292918579,
+    "wof:lastmodified":1536610416,
+    "wof:name":"Kongote",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3925,
+    8.82917,
+    -10.3925,
+    8.82917
+],
+  "geometry": {"coordinates":[-10.3925,8.82917],"type":"Point"}
+}

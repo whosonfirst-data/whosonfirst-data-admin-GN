@@ -1,0 +1,68 @@
+{
+  "id": 1344093143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9,10.56667,-8.9,10.56667",
+    "geom:latitude":10.56667,
+    "geom:longitude":-8.9,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Kodieran",
+    "gn:country_code":"GN",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419352,
+    "gn:latitude":10.56667,
+    "gn:longitude":-8.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kodi\u00e9ran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419352
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c18c840330446e3fd156654d31bd90a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1344093143,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1344093143,
+    "wof:lastmodified":1536827456,
+    "wof:name":"Kodieran",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9,
+    10.56667,
+    -8.9,
+    10.56667
+],
+  "geometry": {"coordinates":[-8.9,10.56667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276453533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71667,8.36667,-8.71667,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-8.71667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Boola",
+    "gn:country_code":"GN",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422793,
+    "gn:latitude":8.36667,
+    "gn:longitude":-8.71667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422793,
+        "wk:page":"Boola"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"15c1e181d37234f060bb4b07aab0de77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1276453533,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1276453533,
+    "wof:lastmodified":1537563082,
+    "wof:name":"Boola",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71667,
+    8.36667,
+    -8.71667,
+    8.36667
+],
+  "geometry": {"coordinates":[-8.71667,8.36667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276160161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.98333,10.4,-11.98333,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":-11.98333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Nobe",
+    "gn:country_code":"GN",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417035,
+    "gn:latitude":10.4,
+    "gn:longitude":-11.98333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Nob\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671473,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417035
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f465ff8ec79f949a00fde0bc4381aa2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":1276160161,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":1276160161,
+    "wof:lastmodified":1537010132,
+    "wof:name":"Nobe",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.98333,
+    10.4,
+    -11.98333,
+    10.4
+],
+  "geometry": {"coordinates":[-11.98333,10.4],"type":"Point"}
+}

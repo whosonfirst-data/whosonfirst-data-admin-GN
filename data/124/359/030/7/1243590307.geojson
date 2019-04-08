@@ -1,0 +1,73 @@
+{
+  "id": 1243590307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43333,10.95,-9.43333,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-9.43333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Bankoroko",
+    "gn:country_code":"GN",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423448,
+    "gn:latitude":10.95,
+    "gn:longitude":-9.43333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bankoroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benkorokoro",
+        "Guenkorokoro",
+        "Bankoroko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423448
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b4ee8af3f0f6695dc2807c8bc88fa1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1243590307,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1243590307,
+    "wof:lastmodified":1537624001,
+    "wof:name":"Bankoroko",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43333,
+    10.95,
+    -9.43333,
+    10.95
+],
+  "geometry": {"coordinates":[-9.43333,10.95],"type":"Point"}
+}

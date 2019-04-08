@@ -1,0 +1,68 @@
+{
+  "id": 1327368437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15,11.56667,-9.15,11.56667",
+    "geom:latitude":11.56667,
+    "geom:longitude":-9.15,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Sebekoro",
+    "gn:country_code":"GN",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415887,
+    "gn:latitude":11.56667,
+    "gn:longitude":-9.15,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"S\u00e9b\u00e9koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415887
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b6a6d0c46210d4608b07b5e2ccba2285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1327368437,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1327368437,
+    "wof:lastmodified":1536773836,
+    "wof:name":"Sebekoro",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15,
+    11.56667,
+    -9.15,
+    11.56667
+],
+  "geometry": {"coordinates":[-9.15,11.56667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242813677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.96667,10.28333,-13.96667,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":-13.96667,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Farenya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421234,
+    "gn:latitude":10.28333,
+    "gn:longitude":-13.96667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Far\u00e9nya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faringhia",
+        "Faringuia",
+        "Foringuia",
+        "Farringhia",
+        "Far\u00e9nya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421234
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"88dbebabd0b5a4d2d92ed8d4eec16f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1242813677,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1242813677,
+    "wof:lastmodified":1537623981,
+    "wof:name":"Farenya",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.96667,
+    10.28333,
+    -13.96667,
+    10.28333
+],
+  "geometry": {"coordinates":[-13.96667,10.28333],"type":"Point"}
+}

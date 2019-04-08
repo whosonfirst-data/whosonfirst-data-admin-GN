@@ -1,0 +1,62 @@
+{
+  "id": 1209015025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11667,8.13333,-8.11667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":-8.11667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Labilasso",
+    "gn:country_code":"GN",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418352,
+    "gn:latitude":8.13333,
+    "gn:longitude":-8.11667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Labilasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418352
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8b743c3403aa46214d581e3482a8b310",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209015025
+        }
+    ],
+    "wof:id":1209015025,
+    "wof:lastmodified":1536300323,
+    "wof:name":"Labilasso",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11667,
+    8.13333,
+    -8.11667,
+    8.13333
+],
+  "geometry": {"coordinates":[-8.11667,8.13333],"type":"Point"}
+}

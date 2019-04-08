@@ -1,0 +1,68 @@
+{
+  "id": 1327149593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98333,8.55,-8.98333,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-8.98333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Banko",
+    "gn:country_code":"GN",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423462,
+    "gn:latitude":8.55,
+    "gn:longitude":-8.98333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Banko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423462
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9b781d24860ad508fa8700a8742b6194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1327149593,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1327149593,
+    "wof:lastmodified":1537085886,
+    "wof:name":"Banko",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98333,
+    8.55,
+    -8.98333,
+    8.55
+],
+  "geometry": {"coordinates":[-8.98333,8.55],"type":"Point"}
+}

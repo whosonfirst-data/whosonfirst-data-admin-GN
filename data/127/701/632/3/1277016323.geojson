@@ -1,0 +1,72 @@
+{
+  "id": 1277016323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.5023,12.2548,-12.5023,12.2548",
+    "geom:latitude":12.2548,
+    "geom:longitude":-12.5023,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Ore Vindou",
+    "gn:country_code":"GN",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416908,
+    "gn:latitude":12.2548,
+    "gn:longitude":-12.5023,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ore Vindou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moporo",
+        "Ore Vindou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416908
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cd2381359e5660db688ef6a88e4fddc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1277016323,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1277016323,
+    "wof:lastmodified":1537623934,
+    "wof:name":"Ore Vindou",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.5023,
+    12.2548,
+    -12.5023,
+    12.2548
+],
+  "geometry": {"coordinates":[-12.5023,12.2548],"type":"Point"}
+}

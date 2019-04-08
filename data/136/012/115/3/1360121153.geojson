@@ -1,0 +1,68 @@
+{
+  "id": 1360121153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.05417,9.8675,-13.05417,9.8675",
+    "geom:latitude":9.8675,
+    "geom:longitude":-13.05417,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Wondikhoure",
+    "gn:country_code":"GN",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592735,
+    "gn:latitude":9.8675,
+    "gn:longitude":-13.05417,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Wondikhour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592735
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"08ce1384b7ba65a8fcb98fcecdddae1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1360121153,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1360121153,
+    "wof:lastmodified":1536893251,
+    "wof:name":"Wondikhoure",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.05417,
+    9.8675,
+    -13.05417,
+    9.8675
+],
+  "geometry": {"coordinates":[-13.05417,9.8675],"type":"Point"}
+}

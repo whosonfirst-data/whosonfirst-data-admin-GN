@@ -1,0 +1,68 @@
+{
+  "id": 1259417319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4,9.7,-10.4,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":-10.4,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Sissemoria",
+    "gn:country_code":"GN",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415527,
+    "gn:latitude":9.7,
+    "gn:longitude":-10.4,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sissemoria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415527
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"10e78d9c49562b8f44b8d4158d7b6701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1259417319,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1259417319,
+    "wof:lastmodified":1536953946,
+    "wof:name":"Sissemoria",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4,
+    9.7,
+    -10.4,
+    9.7
+],
+  "geometry": {"coordinates":[-10.4,9.7],"type":"Point"}
+}

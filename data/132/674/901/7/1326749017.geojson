@@ -1,0 +1,72 @@
+{
+  "id": 1326749017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29389,7.70583,-8.29389,7.70583",
+    "geom:latitude":7.70583,
+    "geom:longitude":-8.29389,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Pola",
+    "gn:country_code":"GN",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416420,
+    "gn:latitude":7.70583,
+    "gn:longitude":-8.29389,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Pola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pora",
+        "Pola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416420
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e4d3832006704e4286c3fb11203b0ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1326749017,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1326749017,
+    "wof:lastmodified":1537623931,
+    "wof:name":"Pola",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29389,
+    7.70583,
+    -8.29389,
+    7.70583
+],
+  "geometry": {"coordinates":[-8.29389,7.70583],"type":"Point"}
+}

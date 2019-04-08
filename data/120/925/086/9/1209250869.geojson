@@ -1,0 +1,62 @@
+{
+  "id": 1209250869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.33333,9.31667,-10.33333,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":-10.33333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Dea",
+    "gn:country_code":"GN",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422199,
+    "gn:latitude":9.31667,
+    "gn:longitude":-10.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"D\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422199
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a971b5a29107b5867ac8192ebb504af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209250869
+        }
+    ],
+    "wof:id":1209250869,
+    "wof:lastmodified":1536293009,
+    "wof:name":"Dea",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.33333,
+    9.31667,
+    -10.33333,
+    9.31667
+],
+  "geometry": {"coordinates":[-10.33333,9.31667],"type":"Point"}
+}

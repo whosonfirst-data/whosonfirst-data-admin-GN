@@ -1,0 +1,74 @@
+{
+  "id": 1209750329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38333,11.6,-9.38333,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-9.38333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Kintinian",
+    "gn:country_code":"GN",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419498,
+    "gn:latitude":11.6,
+    "gn:longitude":-9.38333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kintinian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kintiniou",
+        "Kentinian",
+        "Kintinian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419498,
+        "wk:page":"Kintinian"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"333c8d54288c4e67f3e217b37cd5caa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1209750329,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1209750329,
+    "wof:lastmodified":1537623959,
+    "wof:name":"Kintinian",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38333,
+    11.6,
+    -9.38333,
+    11.6
+],
+  "geometry": {"coordinates":[-9.38333,11.6],"type":"Point"}
+}

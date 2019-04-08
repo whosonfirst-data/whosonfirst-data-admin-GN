@@ -1,0 +1,106 @@
+{
+  "id": 1125893117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68333,10.63333,-8.68333,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":-8.68333,
+    "gn:gn_country":"GN",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":10609,
+    "gn:population":10609,
+    "iso:country":"GN",
+    "lbl:latitude":10.63333,
+    "lbl:longitude":-8.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0438\u0430\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Mandiana"
+    ],
+    "name:eng_x_preferred":[
+        "Mandiana"
+    ],
+    "name:fin_x_preferred":[
+        "Mandiana"
+    ],
+    "name:fre_x_preferred":[
+        "Mandiana"
+    ],
+    "name:ita_x_preferred":[
+        "Mandiana"
+    ],
+    "name:may_x_preferred":[
+        "Mandiana"
+    ],
+    "name:pol_x_preferred":[
+        "Mandiana"
+    ],
+    "name:swe_x_preferred":[
+        "Mandiana"
+    ],
+    "qs_pg:aaroncc":"GN",
+    "qs_pg:gn_country":"GN",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2417795,
+    "qs_pg:gn_pop":10609,
+    "qs_pg:name":"Mandiana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1035561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417795,
+        "qs_pg:id":1035561,
+        "wd:id":"Q6748057"
+    },
+    "wof:country":"GN",
+    "wof:created":1497295414,
+    "wof:geomhash":"f9b701946e4482b01675d08af9e0dc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1125893117,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1125893117,
+    "wof:lastmodified":1553816607,
+    "wof:name":"Mandiana",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:population":10609,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68333,
+    10.63333,
+    -8.68333,
+    10.63333
+],
+  "geometry": {"coordinates":[-8.68333,10.63333],"type":"Point"}
+}

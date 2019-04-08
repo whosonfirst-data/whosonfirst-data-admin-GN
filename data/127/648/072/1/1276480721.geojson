@@ -1,0 +1,68 @@
+{
+  "id": 1276480721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56667,9.36667,-9.56667,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":-9.56667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Lero",
+    "gn:country_code":"GN",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418186,
+    "gn:latitude":9.36667,
+    "gn:longitude":-9.56667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"L\u00e9ro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418186
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7a7d2749b56df2b662f3272de2d74883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1276480721,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1276480721,
+    "wof:lastmodified":1537075354,
+    "wof:name":"Lero",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56667,
+    9.36667,
+    -9.56667,
+    9.36667
+],
+  "geometry": {"coordinates":[-9.56667,9.36667],"type":"Point"}
+}

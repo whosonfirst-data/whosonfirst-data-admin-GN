@@ -1,0 +1,62 @@
+{
+  "id": 1209452091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31667,11.3,-11.31667,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":-11.31667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Bosedanta",
+    "gn:country_code":"GN",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422745,
+    "gn:latitude":11.3,
+    "gn:longitude":-11.31667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bos\u00e9danta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422745
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3d7de03e3669732a8544780388f4eecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209452091
+        }
+    ],
+    "wof:id":1209452091,
+    "wof:lastmodified":1536286641,
+    "wof:name":"Bosedanta",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31667,
+    11.3,
+    -11.31667,
+    11.3
+],
+  "geometry": {"coordinates":[-11.31667,11.3],"type":"Point"}
+}

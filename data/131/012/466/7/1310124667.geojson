@@ -1,0 +1,68 @@
+{
+  "id": 1310124667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75,8.41667,-8.75,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-8.75,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Serimandougou",
+    "gn:country_code":"GN",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415757,
+    "gn:latitude":8.41667,
+    "gn:longitude":-8.75,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"S\u00e9rimandougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415757
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6000394390eb4cf1c941f0cbef53aa2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1310124667,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1310124667,
+    "wof:lastmodified":1536968549,
+    "wof:name":"Serimandougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75,
+    8.41667,
+    -8.75,
+    8.41667
+],
+  "geometry": {"coordinates":[-8.75,8.41667],"type":"Point"}
+}

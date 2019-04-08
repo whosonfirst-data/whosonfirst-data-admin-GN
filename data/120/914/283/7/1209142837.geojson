@@ -1,0 +1,62 @@
+{
+  "id": 1209142837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7,10.51667,-9.7,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":-9.7,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Fomi",
+    "gn:country_code":"GN",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421011,
+    "gn:latitude":10.51667,
+    "gn:longitude":-9.7,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Fomi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421011
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4d9bd21573c36d985dd0c53afe390671",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209142837
+        }
+    ],
+    "wof:id":1209142837,
+    "wof:lastmodified":1536296449,
+    "wof:name":"Fomi",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7,
+    10.51667,
+    -9.7,
+    10.51667
+],
+  "geometry": {"coordinates":[-9.7,10.51667],"type":"Point"}
+}

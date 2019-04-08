@@ -1,0 +1,68 @@
+{
+  "id": 1343796051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.35,9.26667,-10.35,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-10.35,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Dendou",
+    "gn:country_code":"GN",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422155,
+    "gn:latitude":9.26667,
+    "gn:longitude":-10.35,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dendou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422155
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"fa8ecbcce57816e09b80e8b9cbd0c76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1343796051,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1343796051,
+    "wof:lastmodified":1536759829,
+    "wof:name":"Dendou",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.35,
+    9.26667,
+    -10.35,
+    9.26667
+],
+  "geometry": {"coordinates":[-10.35,9.26667],"type":"Point"}
+}

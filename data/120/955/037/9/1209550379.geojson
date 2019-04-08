@@ -1,0 +1,67 @@
+{
+  "id": 1209550379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.05,10.41667,-11.05,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-11.05,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"05",
+    "gn:asciiname":"Diguila",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421935,
+    "gn:latitude":10.41667,
+    "gn:longitude":-11.05,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diguila Cail",
+        "Diguila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421935
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9cc42ce056af2b74a2443560e7cb4369",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209550379
+        }
+    ],
+    "wof:id":1209550379,
+    "wof:lastmodified":1537623988,
+    "wof:name":"Diguila",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.05,
+    10.41667,
+    -11.05,
+    10.41667
+],
+  "geometry": {"coordinates":[-11.05,10.41667],"type":"Point"}
+}

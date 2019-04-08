@@ -1,0 +1,68 @@
+{
+  "id": 1276567319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93917,7.74778,-8.93917,7.74778",
+    "geom:latitude":7.74778,
+    "geom:longitude":-8.93917,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Ouendiou",
+    "gn:country_code":"GN",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416808,
+    "gn:latitude":7.74778,
+    "gn:longitude":-8.93917,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ouendiou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416808
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"62d704c186972bf86ccd60f4da13711b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1276567319,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1276567319,
+    "wof:lastmodified":1536962524,
+    "wof:name":"Ouendiou",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93917,
+    7.74778,
+    -8.93917,
+    7.74778
+],
+  "geometry": {"coordinates":[-8.93917,7.74778],"type":"Point"}
+}

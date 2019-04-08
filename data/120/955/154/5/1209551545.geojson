@@ -1,0 +1,62 @@
+{
+  "id": 1209551545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31667,9.55,-9.31667,9.55",
+    "geom:latitude":9.55,
+    "geom:longitude":-9.31667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Mamouroudougou",
+    "gn:country_code":"GN",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417820,
+    "gn:latitude":9.55,
+    "gn:longitude":-9.31667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Mamouroudougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417820
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"14d48712068be6f129e8a036b614a457",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209551545
+        }
+    ],
+    "wof:id":1209551545,
+    "wof:lastmodified":1536283678,
+    "wof:name":"Mamouroudougou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31667,
+    9.55,
+    -9.31667,
+    9.55
+],
+  "geometry": {"coordinates":[-9.31667,9.55],"type":"Point"}
+}

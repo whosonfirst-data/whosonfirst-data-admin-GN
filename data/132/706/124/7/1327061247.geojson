@@ -1,0 +1,68 @@
+{
+  "id": 1327061247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.50139,9.79806,-13.50139,9.79806",
+    "geom:latitude":9.79806,
+    "geom:longitude":-13.50139,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Daboro",
+    "gn:country_code":"GN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593051,
+    "gn:latitude":9.79806,
+    "gn:longitude":-13.50139,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Daboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593051
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"36eb20edd19adfe30d15fb5d5a9335f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1327061247,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1327061247,
+    "wof:lastmodified":1536719240,
+    "wof:name":"Daboro",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.50139,
+    9.79806,
+    -13.50139,
+    9.79806
+],
+  "geometry": {"coordinates":[-13.50139,9.79806],"type":"Point"}
+}

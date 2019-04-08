@@ -1,0 +1,68 @@
+{
+  "id": 1310424495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31667,8.98333,-8.31667,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":-8.31667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Zobodougou",
+    "gn:country_code":"GN",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414011,
+    "gn:latitude":8.98333,
+    "gn:longitude":-8.31667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Zobodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414011
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"df0238d3522d98c236aca66cb4648cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1310424495,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1310424495,
+    "wof:lastmodified":1537032425,
+    "wof:name":"Zobodougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31667,
+    8.98333,
+    -8.31667,
+    8.98333
+],
+  "geometry": {"coordinates":[-8.31667,8.98333],"type":"Point"}
+}

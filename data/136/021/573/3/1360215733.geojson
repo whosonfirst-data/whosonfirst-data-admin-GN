@@ -1,0 +1,68 @@
+{
+  "id": 1360215733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.96667,10.86667,-9.96667,10.86667",
+    "geom:latitude":10.86667,
+    "geom:longitude":-9.96667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Talidou",
+    "gn:country_code":"GN",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415100,
+    "gn:latitude":10.86667,
+    "gn:longitude":-9.96667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Talidou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415100
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"120fc956655a49ce7d1f9670478a6e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1360215733,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1360215733,
+    "wof:lastmodified":1536757405,
+    "wof:name":"Talidou",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.96667,
+    10.86667,
+    -9.96667,
+    10.86667
+],
+  "geometry": {"coordinates":[-9.96667,10.86667],"type":"Point"}
+}

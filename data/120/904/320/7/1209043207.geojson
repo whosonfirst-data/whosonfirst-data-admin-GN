@@ -1,0 +1,62 @@
+{
+  "id": 1209043207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.76667,11.2,-9.76667,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":-9.76667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Leleda",
+    "gn:country_code":"GN",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418220,
+    "gn:latitude":11.2,
+    "gn:longitude":-9.76667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"L\u00e9l\u00e9da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418220
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"037502b7d5e44bfaa293d8707a56d812",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209043207
+        }
+    ],
+    "wof:id":1209043207,
+    "wof:lastmodified":1536299478,
+    "wof:name":"Leleda",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.76667,
+    11.2,
+    -9.76667,
+    11.2
+],
+  "geometry": {"coordinates":[-9.76667,11.2],"type":"Point"}
+}

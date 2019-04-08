@@ -1,0 +1,68 @@
+{
+  "id": 1209751437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28333,10.15,-9.28333,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-9.28333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Boria",
+    "gn:country_code":"GN",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422779,
+    "gn:latitude":10.15,
+    "gn:longitude":-9.28333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422779
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"90b7d744e19d5b622b482af9dc32691a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1209751437,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1209751437,
+    "wof:lastmodified":1536392582,
+    "wof:name":"Boria",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28333,
+    10.15,
+    -9.28333,
+    10.15
+],
+  "geometry": {"coordinates":[-9.28333,10.15],"type":"Point"}
+}

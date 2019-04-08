@@ -1,0 +1,75 @@
+{
+  "id": 1259817609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.18333,9.61667,-13.18333,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":-13.18333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Yangueakhori",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414254,
+    "gn:latitude":9.61667,
+    "gn:longitude":-13.18333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yangu\u00e9akhori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangu\u00e9akoj",
+        "Yangu\u00e9akori",
+        "Vangueakhor",
+        "Yangu\u00e9akhori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671379,
+        421202513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414254
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"919dfc04f1542bed0b809002ca0853db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421202513,
+            "locality_id":1259817609,
+            "region_id":85671379
+        }
+    ],
+    "wof:id":1259817609,
+    "wof:lastmodified":1537623907,
+    "wof:name":"Yangueakhori",
+    "wof:parent_id":421202513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.18333,
+    9.61667,
+    -13.18333,
+    9.61667
+],
+  "geometry": {"coordinates":[-13.18333,9.61667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225963013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35,8.68333,-8.35,8.68333",
+    "geom:latitude":8.68333,
+    "geom:longitude":-8.35,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Banssedougou",
+    "gn:country_code":"GN",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423433,
+    "gn:latitude":8.68333,
+    "gn:longitude":-8.35,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Banss\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423433
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a7f6f8b4ef3d0ab6a657a7dff6f1fba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1225963013,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1225963013,
+    "wof:lastmodified":1536843337,
+    "wof:name":"Banssedougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35,
+    8.68333,
+    -8.35,
+    8.68333
+],
+  "geometry": {"coordinates":[-8.35,8.68333],"type":"Point"}
+}

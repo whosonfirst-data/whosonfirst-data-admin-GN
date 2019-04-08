@@ -1,0 +1,68 @@
+{
+  "id": 1243009291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.38333,9.61667,-13.38333,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":-13.38333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Djiraya",
+    "gn:country_code":"GN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421795,
+    "gn:latitude":9.61667,
+    "gn:longitude":-13.38333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Djiraya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671379,
+        421202513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421795
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b59fc60056ed8c5dad2a553f341b8e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421202513,
+            "locality_id":1243009291,
+            "region_id":85671379
+        }
+    ],
+    "wof:id":1243009291,
+    "wof:lastmodified":1536939493,
+    "wof:name":"Djiraya",
+    "wof:parent_id":421202513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.38333,
+    9.61667,
+    -13.38333,
+    9.61667
+],
+  "geometry": {"coordinates":[-13.38333,9.61667],"type":"Point"}
+}

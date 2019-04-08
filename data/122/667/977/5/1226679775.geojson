@@ -1,0 +1,68 @@
+{
+  "id": 1226679775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.31667,12.33333,-13.31667,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":-13.31667,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Sare Djimi",
+    "gn:country_code":"GN",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415943,
+    "gn:latitude":12.33333,
+    "gn:longitude":-13.31667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sar\u00e9 Djimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415943
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"236746c1a720bf4d74c430a9aa26f881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1226679775,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1226679775,
+    "wof:lastmodified":1536810073,
+    "wof:name":"Sare Djimi",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.31667,
+    12.33333,
+    -13.31667,
+    12.33333
+],
+  "geometry": {"coordinates":[-13.31667,12.33333],"type":"Point"}
+}

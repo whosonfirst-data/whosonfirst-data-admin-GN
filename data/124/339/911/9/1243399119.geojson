@@ -1,0 +1,68 @@
+{
+  "id": 1243399119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.71667,9.48333,-10.71667,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":-10.71667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Djimmebakerdou",
+    "gn:country_code":"GN",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421798,
+    "gn:latitude":9.48333,
+    "gn:longitude":-10.71667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Djimmebakerdou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421798
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7041a50cbad8ccdbad9363df6457431c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1243399119,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1243399119,
+    "wof:lastmodified":1536872840,
+    "wof:name":"Djimmebakerdou",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.71667,
+    9.48333,
+    -10.71667,
+    9.48333
+],
+  "geometry": {"coordinates":[-10.71667,9.48333],"type":"Point"}
+}

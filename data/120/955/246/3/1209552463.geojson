@@ -1,0 +1,62 @@
+{
+  "id": 1209552463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.73333,10.8,-9.73333,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":-9.73333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Kourouni",
+    "gn:country_code":"GN",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418443,
+    "gn:latitude":10.8,
+    "gn:longitude":-9.73333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kourouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418443
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"57ace8a84560486845cc522bd2a7b998",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209552463
+        }
+    ],
+    "wof:id":1209552463,
+    "wof:lastmodified":1536283649,
+    "wof:name":"Kourouni",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.73333,
+    10.8,
+    -9.73333,
+    10.8
+],
+  "geometry": {"coordinates":[-9.73333,10.8],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360100141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11556,7.25806,-9.11556,7.25806",
+    "geom:latitude":7.25806,
+    "geom:longitude":-9.11556,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Yalata",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414275,
+    "gn:latitude":7.25806,
+    "gn:longitude":-9.11556,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yalata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulaourota",
+        "Yalata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673525,
+        1091692599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414275
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0eb8ffb37f1ab96ab1254d42812346e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091692599,
+            "locality_id":1360100141,
+            "region_id":85673525
+        }
+    ],
+    "wof:id":1360100141,
+    "wof:lastmodified":1537623908,
+    "wof:name":"Yalata",
+    "wof:parent_id":1091692599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11556,
+    7.25806,
+    -9.11556,
+    7.25806
+],
+  "geometry": {"coordinates":[-9.11556,7.25806],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310636549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7,11.06667,-9.7,11.06667",
+    "geom:latitude":11.06667,
+    "geom:longitude":-9.7,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Kossoko",
+    "gn:country_code":"GN",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418817,
+    "gn:latitude":11.06667,
+    "gn:longitude":-9.7,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kossoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418817
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7527f1d016ddb2108ed33df7adce62c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1310636549,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1310636549,
+    "wof:lastmodified":1536728207,
+    "wof:name":"Kossoko",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7,
+    11.06667,
+    -9.7,
+    11.06667
+],
+  "geometry": {"coordinates":[-9.7,11.06667],"type":"Point"}
+}

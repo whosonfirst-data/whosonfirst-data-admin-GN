@@ -1,0 +1,62 @@
+{
+  "id": 1209546251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.35,9.35,-13.35,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":-13.35,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Gbema",
+    "gn:country_code":"GN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420757,
+    "gn:latitude":9.35,
+    "gn:longitude":-13.35,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gb\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420757
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3ca76d2a0a88c4a1637dd7c0cfbaa8cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209546251
+        }
+    ],
+    "wof:id":1209546251,
+    "wof:lastmodified":1536283834,
+    "wof:name":"Gbema",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.35,
+    9.35,
+    -13.35,
+    9.35
+],
+  "geometry": {"coordinates":[-13.35,9.35],"type":"Point"}
+}

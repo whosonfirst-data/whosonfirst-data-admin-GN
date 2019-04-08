@@ -1,0 +1,68 @@
+{
+  "id": 1343692303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9,11.26667,-10.9,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":-10.9,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Boisere",
+    "gn:country_code":"GN",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422932,
+    "gn:latitude":11.26667,
+    "gn:longitude":-10.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bois\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422932
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0e9beba0bbaef9e1e5623bafda0c2b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1343692303,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1343692303,
+    "wof:lastmodified":1536909580,
+    "wof:name":"Boisere",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9,
+    11.26667,
+    -10.9,
+    11.26667
+],
+  "geometry": {"coordinates":[-10.9,11.26667],"type":"Point"}
+}

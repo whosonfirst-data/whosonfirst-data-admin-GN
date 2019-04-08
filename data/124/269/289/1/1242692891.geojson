@@ -1,0 +1,68 @@
+{
+  "id": 1242692891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65,8.6,-8.65,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":-8.65,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Kollako Moussadougou",
+    "gn:country_code":"GN",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419155,
+    "gn:latitude":8.6,
+    "gn:longitude":-8.65,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kollako Moussadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419155
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e3d631374b01176822bbe43df57c129c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1242692891,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1242692891,
+    "wof:lastmodified":1536897539,
+    "wof:name":"Kollako Moussadougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65,
+    8.6,
+    -8.65,
+    8.6
+],
+  "geometry": {"coordinates":[-8.65,8.6],"type":"Point"}
+}

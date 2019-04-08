@@ -1,0 +1,62 @@
+{
+  "id": 1209124687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.975,8.74528,-9.975,8.74528",
+    "geom:latitude":8.74528,
+    "geom:longitude":-9.975,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Bandera",
+    "gn:country_code":"GN",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423526,
+    "gn:latitude":8.74528,
+    "gn:longitude":-9.975,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Band\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423526
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e4c09ec803a175cb7ac6829a637f2be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209124687
+        }
+    ],
+    "wof:id":1209124687,
+    "wof:lastmodified":1536296990,
+    "wof:name":"Bandera",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.975,
+    8.745280000000001,
+    -9.975,
+    8.745280000000001
+],
+  "geometry": {"coordinates":[-9.975,8.74528],"type":"Point"}
+}

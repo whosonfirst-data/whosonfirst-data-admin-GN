@@ -1,0 +1,68 @@
+{
+  "id": 1293137007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.53333,11.15,-10.53333,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-10.53333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Koubi Loukoum",
+    "gn:country_code":"GN",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418757,
+    "gn:latitude":11.15,
+    "gn:longitude":-10.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koubi Loukoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418757
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"761435df89acd5941fd0702f4e1c9dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1293137007,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1293137007,
+    "wof:lastmodified":1536795550,
+    "wof:name":"Koubi Loukoum",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.53333,
+    11.15,
+    -10.53333,
+    11.15
+],
+  "geometry": {"coordinates":[-10.53333,11.15],"type":"Point"}
+}

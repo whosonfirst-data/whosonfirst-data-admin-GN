@@ -1,0 +1,73 @@
+{
+  "id": 1276689985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.41667,9.73333,-13.41667,9.73333",
+    "geom:latitude":9.73333,
+    "geom:longitude":-13.41667,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Maneah",
+    "gn:country_code":"GN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417786,
+    "gn:latitude":9.73333,
+    "gn:longitude":-13.41667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Man\u00e9ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man\u00e9a",
+        "Man\u00e9ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671379,
+        421202513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417786,
+        "wk:page":"Man%C3%A9ah"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"afa282d84e943cc3f974ea8082bda7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421202513,
+            "locality_id":1276689985,
+            "region_id":85671379
+        }
+    ],
+    "wof:id":1276689985,
+    "wof:lastmodified":1537623945,
+    "wof:name":"Maneah",
+    "wof:parent_id":421202513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.41667,
+    9.73333,
+    -13.41667,
+    9.73333
+],
+  "geometry": {"coordinates":[-13.41667,9.73333],"type":"Point"}
+}

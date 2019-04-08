@@ -1,0 +1,62 @@
+{
+  "id": 1209446435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.82544,12.12993,-11.82544,12.12993",
+    "geom:latitude":12.12993,
+    "geom:longitude":-11.82544,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Sabara-Koura",
+    "gn:country_code":"GN",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416344,
+    "gn:latitude":12.12993,
+    "gn:longitude":-11.82544,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sabara-Koura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416344
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"caed6b08996c1c470fe6e64a6bca7e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209446435
+        }
+    ],
+    "wof:id":1209446435,
+    "wof:lastmodified":1536286804,
+    "wof:name":"Sabara-Koura",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.82544,
+    12.12993,
+    -11.82544,
+    12.12993
+],
+  "geometry": {"coordinates":[-11.82544,12.12993],"type":"Point"}
+}

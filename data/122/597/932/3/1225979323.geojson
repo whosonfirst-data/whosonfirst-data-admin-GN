@@ -1,0 +1,68 @@
+{
+  "id": 1225979323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.28333,12.46667,-13.28333,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":-13.28333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Kandaide",
+    "gn:country_code":"GN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420044,
+    "gn:latitude":12.46667,
+    "gn:longitude":-13.28333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kanda\u00efd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420044
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"223579a5aa5a332619448ad4b7fcff64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1225979323,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1225979323,
+    "wof:lastmodified":1536819983,
+    "wof:name":"Kandaide",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.28333,
+    12.46667,
+    -13.28333,
+    12.46667
+],
+  "geometry": {"coordinates":[-13.28333,12.46667],"type":"Point"}
+}

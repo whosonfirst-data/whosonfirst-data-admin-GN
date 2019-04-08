@@ -1,0 +1,68 @@
+{
+  "id": 1360120571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35,9.45,-9.35,9.45",
+    "geom:latitude":9.45,
+    "geom:longitude":-9.35,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Damandou",
+    "gn:country_code":"GN",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422336,
+    "gn:latitude":9.45,
+    "gn:longitude":-9.35,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Damandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422336
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0a8fe83b4265a8053014ace023f6f746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1360120571,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1360120571,
+    "wof:lastmodified":1536894138,
+    "wof:name":"Damandou",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35,
+    9.45,
+    -9.35,
+    9.45
+],
+  "geometry": {"coordinates":[-9.35,9.45],"type":"Point"}
+}

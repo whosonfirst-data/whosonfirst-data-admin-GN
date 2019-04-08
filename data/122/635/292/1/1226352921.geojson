@@ -1,0 +1,76 @@
+{
+  "id": 1226352921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06667,9.21667,-8.06667,9.21667",
+    "geom:latitude":9.21667,
+    "geom:longitude":-8.06667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Soukourala",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415302,
+    "gn:latitude":9.21667,
+    "gn:longitude":-8.06667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Soukourala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souroukala",
+        "Soukouralla",
+        "Sokourala",
+        "Soukourala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415302,
+        "wk:page":"Sokourala"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4c656af6f84fe0b6613d94c4d18b3ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1226352921,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1226352921,
+    "wof:lastmodified":1537623919,
+    "wof:name":"Soukourala",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06667,
+    9.21667,
+    -8.06667,
+    9.21667
+],
+  "geometry": {"coordinates":[-8.06667,9.21667],"type":"Point"}
+}

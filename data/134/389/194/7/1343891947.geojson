@@ -1,0 +1,68 @@
+{
+  "id": 1343891947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.9,10.65,-13.9,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":-13.9,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Petou",
+    "gn:country_code":"GN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416462,
+    "gn:latitude":10.65,
+    "gn:longitude":-13.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"P\u00e9tou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416462
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"43986913f8b0c80172edd97291da4644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1343891947,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1343891947,
+    "wof:lastmodified":1536619044,
+    "wof:name":"Petou",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.9,
+    10.65,
+    -13.9,
+    10.65
+],
+  "geometry": {"coordinates":[-13.9,10.65],"type":"Point"}
+}

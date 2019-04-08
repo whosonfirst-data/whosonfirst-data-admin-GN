@@ -1,0 +1,68 @@
+{
+  "id": 1276366711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.6,10.58333,-11.6,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":-11.6,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Kounta",
+    "gn:country_code":"GN",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418530,
+    "gn:latitude":10.58333,
+    "gn:longitude":-11.6,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kounta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671473,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418530
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1431e2c5abd78127c5a709726624bc57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":1276366711,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":1276366711,
+    "wof:lastmodified":1536734086,
+    "wof:name":"Kounta",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.6,
+    10.58333,
+    -11.6,
+    10.58333
+],
+  "geometry": {"coordinates":[-11.6,10.58333],"type":"Point"}
+}

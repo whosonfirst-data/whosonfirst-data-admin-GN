@@ -1,0 +1,68 @@
+{
+  "id": 1360118423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.53333,10.7,-14.53333,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":-14.53333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Borobof",
+    "gn:country_code":"GN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422768,
+    "gn:latitude":10.7,
+    "gn:longitude":-14.53333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Borobof",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671367,
+        890420105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422768
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a42522624d12da69fdc8832a8d2fbcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890420105,
+            "locality_id":1360118423,
+            "region_id":85671367
+        }
+    ],
+    "wof:id":1360118423,
+    "wof:lastmodified":1536897516,
+    "wof:name":"Borobof",
+    "wof:parent_id":890420105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.53333,
+    10.7,
+    -14.53333,
+    10.7
+],
+  "geometry": {"coordinates":[-14.53333,10.7],"type":"Point"}
+}

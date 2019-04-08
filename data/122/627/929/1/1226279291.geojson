@@ -1,0 +1,68 @@
+{
+  "id": 1226279291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.96667,11.53333,-10.96667,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":-10.96667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Nabala",
+    "gn:country_code":"GN",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417373,
+    "gn:latitude":11.53333,
+    "gn:longitude":-10.96667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Nabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417373
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"296cacdc8c8a746f25c8e0124be37f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1226279291,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1226279291,
+    "wof:lastmodified":1536884658,
+    "wof:name":"Nabala",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.96667,
+    11.53333,
+    -10.96667,
+    11.53333
+],
+  "geometry": {"coordinates":[-10.96667,11.53333],"type":"Point"}
+}

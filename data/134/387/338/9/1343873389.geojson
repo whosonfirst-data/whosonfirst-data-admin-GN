@@ -1,0 +1,73 @@
+{
+  "id": 1343873389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.27861,8.82194,-10.27861,8.82194",
+    "geom:latitude":8.82194,
+    "geom:longitude":-10.27861,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Konian",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418965,
+    "gn:latitude":8.82194,
+    "gn:longitude":-10.27861,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Konian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongoui",
+        "Konian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418965
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cec67e83d850c48c771d568591f97a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1343873389,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1343873389,
+    "wof:lastmodified":1537623956,
+    "wof:name":"Konian",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.27861,
+    8.82194,
+    -10.27861,
+    8.82194
+],
+  "geometry": {"coordinates":[-10.27861,8.82194],"type":"Point"}
+}

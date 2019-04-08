@@ -1,0 +1,68 @@
+{
+  "id": 1242813963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71667,10.7,-8.71667,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":-8.71667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Franceguela",
+    "gn:country_code":"GN",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420886,
+    "gn:latitude":10.7,
+    "gn:longitude":-8.71667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Franceguela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420886
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"87afb41dfa486d155799583c4a3a56ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1242813963,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1242813963,
+    "wof:lastmodified":1536723565,
+    "wof:name":"Franceguela",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71667,
+    10.7,
+    -8.71667,
+    10.7
+],
+  "geometry": {"coordinates":[-8.71667,10.7],"type":"Point"}
+}

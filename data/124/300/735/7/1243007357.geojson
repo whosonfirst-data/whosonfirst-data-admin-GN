@@ -1,0 +1,74 @@
+{
+  "id": 1243007357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93333,10.73333,-12.93333,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-12.93333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"27",
+    "gn:asciiname":"Saressin",
+    "gn:country_code":"GN",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415927,
+    "gn:latitude":10.73333,
+    "gn:longitude":-12.93333,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Saressin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u00e9sin",
+        "Saras\u00e9ne",
+        "Sar\u00e9s\u00e8ne",
+        "Saressin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671485,
+        421182471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415927
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f32a512533f0efa2444049703e27fd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182471,
+            "locality_id":1243007357,
+            "region_id":85671485
+        }
+    ],
+    "wof:id":1243007357,
+    "wof:lastmodified":1537623926,
+    "wof:name":"Saressin",
+    "wof:parent_id":421182471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93333,
+    10.73333,
+    -12.93333,
+    10.73333
+],
+  "geometry": {"coordinates":[-12.93333,10.73333],"type":"Point"}
+}

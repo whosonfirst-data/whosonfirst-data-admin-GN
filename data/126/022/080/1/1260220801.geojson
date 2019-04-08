@@ -1,0 +1,74 @@
+{
+  "id": 1260220801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4,11.4,-12.4,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-12.4,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Popodara",
+    "gn:country_code":"GN",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416408,
+    "gn:latitude":11.4,
+    "gn:longitude":-12.4,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Popodara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popodao",
+        "Popodaka",
+        "Popodara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671451,
+        421184941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416408,
+        "wk:page":"Popodara"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8f7f70855a9eb3d3e1f425c2e52dbe46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184941,
+            "locality_id":1260220801,
+            "region_id":85671451
+        }
+    ],
+    "wof:id":1260220801,
+    "wof:lastmodified":1537623930,
+    "wof:name":"Popodara",
+    "wof:parent_id":421184941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4,
+    11.4,
+    -12.4,
+    11.4
+],
+  "geometry": {"coordinates":[-12.4,11.4],"type":"Point"}
+}

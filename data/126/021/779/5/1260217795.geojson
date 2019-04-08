@@ -1,0 +1,73 @@
+{
+  "id": 1260217795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.49,9.81389,-13.49,9.81389",
+    "geom:latitude":9.81389,
+    "geom:longitude":-13.49,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Bereyire",
+    "gn:country_code":"GN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423149,
+    "gn:latitude":9.81389,
+    "gn:longitude":-13.49,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"B\u00e9r\u00e9yir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bere\u00efr\u00e9",
+        "B\u00e9reir\u00e9",
+        "B\u00e9r\u00e9yir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423149
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d12347b6ddd554174840190ef854a712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1260217795,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1260217795,
+    "wof:lastmodified":1537623998,
+    "wof:name":"Bereyire",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.49,
+    9.81389,
+    -13.49,
+    9.81389
+],
+  "geometry": {"coordinates":[-13.49,9.81389],"type":"Point"}
+}

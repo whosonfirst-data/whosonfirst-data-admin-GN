@@ -1,0 +1,68 @@
+{
+  "id": 1276160039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.6,10.0,-13.6,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-13.6,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Yenguissa",
+    "gn:country_code":"GN",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414162,
+    "gn:latitude":10.0,
+    "gn:longitude":-13.6,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yenguissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414162
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d8eebe0766cfa4d9ef0d196024331cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1276160039,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1276160039,
+    "wof:lastmodified":1537010290,
+    "wof:name":"Yenguissa",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.6,
+    10.0,
+    -13.6,
+    10.0
+],
+  "geometry": {"coordinates":[-13.6,10.0],"type":"Point"}
+}

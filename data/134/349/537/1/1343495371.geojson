@@ -1,0 +1,68 @@
+{
+  "id": 1343495371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.25,9.26667,-10.25,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-10.25,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Tambaya",
+    "gn:country_code":"GN",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415071,
+    "gn:latitude":9.26667,
+    "gn:longitude":-10.25,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tambaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415071
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"eafaaa306ad155869060e4b4b8d92f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1343495371,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1343495371,
+    "wof:lastmodified":1536695995,
+    "wof:name":"Tambaya",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.25,
+    9.26667,
+    -10.25,
+    9.26667
+],
+  "geometry": {"coordinates":[-10.25,9.26667],"type":"Point"}
+}

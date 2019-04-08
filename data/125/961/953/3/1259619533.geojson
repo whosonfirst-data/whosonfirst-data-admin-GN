@@ -1,0 +1,73 @@
+{
+  "id": 1259619533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.78333,10.41667,-10.78333,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-10.78333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Toumania",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414518,
+    "gn:latitude":10.41667,
+    "gn:longitude":-10.78333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Toumania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Touman\u00e9a",
+        "Toumania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414518
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"348cc57a127d3a812cccf57f11787a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1259619533,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1259619533,
+    "wof:lastmodified":1537623911,
+    "wof:name":"Toumania",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.78333,
+    10.41667,
+    -10.78333,
+    10.41667
+],
+  "geometry": {"coordinates":[-10.78333,10.41667],"type":"Point"}
+}

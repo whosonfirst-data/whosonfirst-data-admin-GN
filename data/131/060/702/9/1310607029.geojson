@@ -1,0 +1,67 @@
+{
+  "id": 1310607029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.53083,9.65861,-13.53083,9.65861",
+    "geom:latitude":9.65861,
+    "geom:longitude":-13.53083,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lansaniya",
+    "gn:country_code":"GN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593069,
+    "gn:latitude":9.65861,
+    "gn:longitude":-13.53083,
+    "gn:modification_date":"1999-05-25",
+    "gn:name":"Lansaniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421191023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593069
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"42889dfcd5c4eae3d5becad20fff3cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191023,
+            "locality_id":1310607029,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1310607029,
+    "wof:lastmodified":1536770937,
+    "wof:name":"Lansaniya",
+    "wof:parent_id":421191023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.53083,
+    9.65861,
+    -13.53083,
+    9.65861
+],
+  "geometry": {"coordinates":[-13.53083,9.65861],"type":"Point"}
+}

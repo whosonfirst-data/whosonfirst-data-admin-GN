@@ -1,0 +1,68 @@
+{
+  "id": 1327262651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86667,11.4,-8.86667,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-8.86667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Touroutomo",
+    "gn:country_code":"GN",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414458,
+    "gn:latitude":11.4,
+    "gn:longitude":-8.86667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Touroutomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414458
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"935b0abb137084505507223397d46917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1327262651,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1327262651,
+    "wof:lastmodified":1536926725,
+    "wof:name":"Touroutomo",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86667,
+    11.4,
+    -8.86667,
+    11.4
+],
+  "geometry": {"coordinates":[-8.86667,11.4],"type":"Point"}
+}

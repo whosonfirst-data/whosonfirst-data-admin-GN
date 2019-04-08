@@ -1,0 +1,75 @@
+{
+  "id": 1226577327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.07611,8.90417,-10.07611,8.90417",
+    "geom:latitude":8.90417,
+    "geom:longitude":-10.07611,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Tinkia",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414728,
+    "gn:latitude":8.90417,
+    "gn:longitude":-10.07611,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tinkia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinh\u00e9a",
+        "Tiok\u00e9a",
+        "Tink\u00e9a",
+        "Tinkia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414728
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"8aebdec789ebc2617ab3161f4ff99cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1226577327,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1226577327,
+    "wof:lastmodified":1537623913,
+    "wof:name":"Tinkia",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.07611,
+    8.90417,
+    -10.07611,
+    8.90417
+],
+  "geometry": {"coordinates":[-10.07611,8.90417],"type":"Point"}
+}

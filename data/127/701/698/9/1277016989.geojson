@@ -1,0 +1,68 @@
+{
+  "id": 1277016989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.86667,9.08333,-9.86667,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":-9.86667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Mohekodou",
+    "gn:country_code":"GN",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417514,
+    "gn:latitude":9.08333,
+    "gn:longitude":-9.86667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Moh\u00e9kodou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417514
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ae32bbdffb31f3bfe41fb677d70b14bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1277016989,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1277016989,
+    "wof:lastmodified":1536856119,
+    "wof:name":"Mohekodou",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.86667,
+    9.08333,
+    -9.86667,
+    9.08333
+],
+  "geometry": {"coordinates":[-9.86667,9.08333],"type":"Point"}
+}

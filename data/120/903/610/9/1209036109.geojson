@@ -1,0 +1,67 @@
+{
+  "id": 1209036109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.35583,9.41861,-13.35583,9.41861",
+    "geom:latitude":9.41861,
+    "geom:longitude":-13.35583,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Singuilin",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592828,
+    "gn:latitude":9.41861,
+    "gn:longitude":-13.35583,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Singuilin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Singuitin",
+        "Singuilin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592828
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e2dba289f33033a00dc6120a35f5b9f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209036109
+        }
+    ],
+    "wof:id":1209036109,
+    "wof:lastmodified":1537624006,
+    "wof:name":"Singuilin",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.35583,
+    9.41861,
+    -13.35583,
+    9.41861
+],
+  "geometry": {"coordinates":[-13.35583,9.41861],"type":"Point"}
+}

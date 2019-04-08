@@ -1,0 +1,68 @@
+{
+  "id": 1293726403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46667,11.85,-9.46667,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":-9.46667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Malikia",
+    "gn:country_code":"GN",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417881,
+    "gn:latitude":11.85,
+    "gn:longitude":-9.46667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Malikia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417881
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b8ad7078cdd72b713714da25770e6ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1293726403,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1293726403,
+    "wof:lastmodified":1536940508,
+    "wof:name":"Malikia",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46667,
+    11.85,
+    -9.46667,
+    11.85
+],
+  "geometry": {"coordinates":[-9.46667,11.85],"type":"Point"}
+}

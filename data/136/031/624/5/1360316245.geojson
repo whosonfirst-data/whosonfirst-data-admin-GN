@@ -1,0 +1,68 @@
+{
+  "id": 1360316245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.7762,12.2704,-12.7762,12.2704",
+    "geom:latitude":12.2704,
+    "geom:longitude":-12.7762,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Lessere",
+    "gn:country_code":"GN",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418180,
+    "gn:latitude":12.2704,
+    "gn:longitude":-12.7762,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Less\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418180
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"584bf3b5a0166f7f64fad2f747748182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1360316245,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1360316245,
+    "wof:lastmodified":1536609551,
+    "wof:name":"Lessere",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.7762,
+    12.2704,
+    -12.7762,
+    12.2704
+],
+  "geometry": {"coordinates":[-12.7762,12.2704],"type":"Point"}
+}

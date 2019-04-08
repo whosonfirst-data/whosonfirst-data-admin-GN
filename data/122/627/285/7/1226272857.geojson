@@ -1,0 +1,68 @@
+{
+  "id": 1226272857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41667,10.46667,-8.41667,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-8.41667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Malalila",
+    "gn:country_code":"GN",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417901,
+    "gn:latitude":10.46667,
+    "gn:longitude":-8.41667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Malalila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417901
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7abeeac8e6fba5348690cd6c0d17ca5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1226272857,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1226272857,
+    "wof:lastmodified":1536894397,
+    "wof:name":"Malalila",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41667,
+    10.46667,
+    -8.41667,
+    10.46667
+],
+  "geometry": {"coordinates":[-8.41667,10.46667],"type":"Point"}
+}

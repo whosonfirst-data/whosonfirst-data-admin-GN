@@ -1,0 +1,68 @@
+{
+  "id": 1343473797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75028,7.7325,-8.75028,7.7325",
+    "geom:latitude":7.7325,
+    "geom:longitude":-8.75028,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Nzao",
+    "gn:country_code":"GN",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416973,
+    "gn:latitude":7.7325,
+    "gn:longitude":-8.75028,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Nzao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416973
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"947dae5607f9a1c7d4ffc379860443cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1343473797,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1343473797,
+    "wof:lastmodified":1536727171,
+    "wof:name":"Nzao",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75028,
+    7.7325,
+    -8.75028,
+    7.7325
+],
+  "geometry": {"coordinates":[-8.75028,7.7325],"type":"Point"}
+}

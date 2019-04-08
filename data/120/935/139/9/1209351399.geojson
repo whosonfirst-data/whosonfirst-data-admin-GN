@@ -1,0 +1,62 @@
+{
+  "id": 1209351399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.41667,9.26667,-13.41667,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-13.41667,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Matakong",
+    "gn:country_code":"GN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417661,
+    "gn:latitude":9.26667,
+    "gn:longitude":-13.41667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Matakong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417661
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4c34db6f0b26ac4c1258beaac2e55ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209351399
+        }
+    ],
+    "wof:id":1209351399,
+    "wof:lastmodified":1536289729,
+    "wof:name":"Matakong",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.416670000000002,
+    9.26667,
+    -13.416670000000002,
+    9.26667
+],
+  "geometry": {"coordinates":[-13.41667,9.26667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226572391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.18333,11.05,-11.18333,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-11.18333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Makaya",
+    "gn:country_code":"GN",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417916,
+    "gn:latitude":11.05,
+    "gn:longitude":-11.18333,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Makaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671473,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417916
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9328e29a25719bc6b589cdf457e9369d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":1226572391,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":1226572391,
+    "wof:lastmodified":1536960695,
+    "wof:name":"Makaya",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.18333,
+    11.05,
+    -11.18333,
+    11.05
+],
+  "geometry": {"coordinates":[-11.18333,11.05],"type":"Point"}
+}

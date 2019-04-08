@@ -1,0 +1,68 @@
+{
+  "id": 1310442253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1102,12.0819,-12.1102,12.0819",
+    "geom:latitude":12.0819,
+    "geom:longitude":-12.1102,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Rounde-Tanbou",
+    "gn:country_code":"GN",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416360,
+    "gn:latitude":12.0819,
+    "gn:longitude":-12.1102,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Round\u00e9-Tanbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416360
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d748c4a6841c1a72dbaa870550fb4f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1310442253,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1310442253,
+    "wof:lastmodified":1537007393,
+    "wof:name":"Rounde-Tanbou",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1102,
+    12.0819,
+    -12.1102,
+    12.0819
+],
+  "geometry": {"coordinates":[-12.1102,12.0819],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343792659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63333,11.05,-9.63333,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-9.63333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Siniandala",
+    "gn:country_code":"GN",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415619,
+    "gn:latitude":11.05,
+    "gn:longitude":-9.63333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Siniandala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415619
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a1d2b35d421ae1fb863d81013e2717d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1343792659,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1343792659,
+    "wof:lastmodified":1536764980,
+    "wof:name":"Siniandala",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63333,
+    11.05,
+    -9.63333,
+    11.05
+],
+  "geometry": {"coordinates":[-9.63333,11.05],"type":"Point"}
+}

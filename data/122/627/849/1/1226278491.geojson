@@ -1,0 +1,68 @@
+{
+  "id": 1226278491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5,11.28333,-9.5,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":-9.5,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Banan Toumbo",
+    "gn:country_code":"GN",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423558,
+    "gn:latitude":11.28333,
+    "gn:longitude":-9.5,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Banan Toumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423558
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d11b221af4adac78d9a6b3353a8c4294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1226278491,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1226278491,
+    "wof:lastmodified":1536885916,
+    "wof:name":"Banan Toumbo",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5,
+    11.28333,
+    -9.5,
+    11.28333
+],
+  "geometry": {"coordinates":[-9.5,11.28333],"type":"Point"}
+}

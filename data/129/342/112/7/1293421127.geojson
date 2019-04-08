@@ -1,0 +1,73 @@
+{
+  "id": 1293421127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.11667,9.31667,-10.11667,9.31667",
+    "geom:latitude":9.31667,
+    "geom:longitude":-10.11667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Cohy",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422469,
+    "gn:latitude":9.31667,
+    "gn:longitude":-10.11667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Cohy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kohi",
+        "Cohy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422469
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7040e06f455d5d35ae43c69883c08829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1293421127,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1293421127,
+    "wof:lastmodified":1537623993,
+    "wof:name":"Cohy",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.11667,
+    9.31667,
+    -10.11667,
+    9.31667
+],
+  "geometry": {"coordinates":[-10.11667,9.31667],"type":"Point"}
+}

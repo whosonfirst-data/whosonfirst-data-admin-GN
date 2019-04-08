@@ -1,0 +1,73 @@
+{
+  "id": 1293914453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.11667,9.18333,-10.11667,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":-10.11667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Songbo",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415398,
+    "gn:latitude":9.18333,
+    "gn:longitude":-10.11667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Songbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangbo",
+        "Songbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415398
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1a4c4e28d1bf6a601a7eca189c9db923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1293914453,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1293914453,
+    "wof:lastmodified":1537623920,
+    "wof:name":"Songbo",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.11667,
+    9.18333,
+    -10.11667,
+    9.18333
+],
+  "geometry": {"coordinates":[-10.11667,9.18333],"type":"Point"}
+}

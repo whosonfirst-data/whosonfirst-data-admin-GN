@@ -1,0 +1,96 @@
+{
+  "id": 890440149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93333,11.18333,-12.93333,11.18333",
+    "geom:latitude":11.18333,
+    "geom:longitude":-12.93333,
+    "gn:country":"GN",
+    "gn:fcode":"PPLA2",
+    "gn:pop":4777,
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u043b\u0443\u043c\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:eng_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:fin_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:fre_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:ita_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:may_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "qs:name":"L\u00e9louma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671455,
+        890454189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2578880,
+        "gp:id":1334753,
+        "qs:id":1036674,
+        "wd:id":"Q3270350",
+        "wk:page":"L\u00e9louma"
+    },
+    "wof:country":"GN",
+    "wof:created":1469052264,
+    "wof:geomhash":"2f7bde3df32daf7f7107542afca16931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454189,
+            "locality_id":890440149,
+            "region_id":85671455
+        }
+    ],
+    "wof:id":890440149,
+    "wof:lastmodified":1553816398,
+    "wof:name":"L\u00e9louma",
+    "wof:parent_id":890454189,
+    "wof:placetype":"locality",
+    "wof:population":4777,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93333,
+    11.18333,
+    -12.93333,
+    11.18333
+],
+  "geometry": {"coordinates":[-12.93333,11.18333],"type":"Point"}
+}

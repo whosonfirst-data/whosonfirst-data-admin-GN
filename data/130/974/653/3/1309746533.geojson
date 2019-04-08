@@ -1,0 +1,68 @@
+{
+  "id": 1309746533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.78194,9.92333,-13.78194,9.92333",
+    "geom:latitude":9.92333,
+    "geom:longitude":-13.78194,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Bendefikhe",
+    "gn:country_code":"GN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592962,
+    "gn:latitude":9.92333,
+    "gn:longitude":-13.78194,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bend\u00e9fikh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592962
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1b2fb74c5c304a1b8c6e72e39f260129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1309746533,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1309746533,
+    "wof:lastmodified":1537015906,
+    "wof:name":"Bendefikhe",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.78194,
+    9.92333,
+    -13.78194,
+    9.92333
+],
+  "geometry": {"coordinates":[-13.78194,9.92333],"type":"Point"}
+}

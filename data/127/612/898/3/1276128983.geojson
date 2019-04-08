@@ -1,0 +1,68 @@
+{
+  "id": 1276128983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.09278,8.74083,-10.09278,8.74083",
+    "geom:latitude":8.74083,
+    "geom:longitude":-10.09278,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Soro",
+    "gn:country_code":"GN",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415364,
+    "gn:latitude":8.74083,
+    "gn:longitude":-10.09278,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Soro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415364
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b17158eb10e378d58d4acedc3f95d328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1276128983,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1276128983,
+    "wof:lastmodified":1537050229,
+    "wof:name":"Soro",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.09278,
+    8.74083,
+    -10.09278,
+    8.74083
+],
+  "geometry": {"coordinates":[-10.09278,8.74083],"type":"Point"}
+}

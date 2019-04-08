@@ -1,0 +1,68 @@
+{
+  "id": 1327463251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33333,11.98333,-12.33333,11.98333",
+    "geom:latitude":11.98333,
+    "geom:longitude":-12.33333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Medina Ollande",
+    "gn:country_code":"GN",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417633,
+    "gn:latitude":11.98333,
+    "gn:longitude":-12.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"M\u00e9dina Olland\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417633
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"bc378f3e9b549401f1b32b2e6f9d4688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1327463251,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1327463251,
+    "wof:lastmodified":1536635028,
+    "wof:name":"Medina Ollande",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33333,
+    11.98333,
+    -12.33333,
+    11.98333
+],
+  "geometry": {"coordinates":[-12.33333,11.98333],"type":"Point"}
+}

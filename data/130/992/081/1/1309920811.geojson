@@ -1,0 +1,68 @@
+{
+  "id": 1309920811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0,8.8,-10.0,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":-10.0,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Koladou",
+    "gn:country_code":"GN",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419242,
+    "gn:latitude":8.8,
+    "gn:longitude":-10.0,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koladou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419242
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f58284cbc0149dc005953102739c9cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1309920811,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1309920811,
+    "wof:lastmodified":1536765594,
+    "wof:name":"Koladou",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0,
+    8.8,
+    -10.0,
+    8.8
+],
+  "geometry": {"coordinates":[-10.0,8.8],"type":"Point"}
+}

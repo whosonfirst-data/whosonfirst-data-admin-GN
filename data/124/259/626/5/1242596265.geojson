@@ -1,0 +1,68 @@
+{
+  "id": 1242596265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.95,8.55,-7.95,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":-7.95,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Dogonadougou",
+    "gn:country_code":"GN",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421768,
+    "gn:latitude":8.55,
+    "gn:longitude":-7.95,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dogonadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421768
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4ac227c05dac413867827f222363786a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1242596265,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1242596265,
+    "wof:lastmodified":1537035211,
+    "wof:name":"Dogonadougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.95,
+    8.55,
+    -7.95,
+    8.55
+],
+  "geometry": {"coordinates":[-7.95,8.55],"type":"Point"}
+}

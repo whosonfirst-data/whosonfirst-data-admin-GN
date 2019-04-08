@@ -1,0 +1,68 @@
+{
+  "id": 1310512025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33972,7.86556,-9.33972,7.86556",
+    "geom:latitude":7.86556,
+    "geom:longitude":-9.33972,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Zooulomai",
+    "gn:country_code":"GN",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414006,
+    "gn:latitude":7.86556,
+    "gn:longitude":-9.33972,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Zooulomai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414006
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2b7ef125e376cdf8c966a56d65f1c11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1310512025,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1310512025,
+    "wof:lastmodified":1536907683,
+    "wof:name":"Zooulomai",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33972,
+    7.86556,
+    -9.33972,
+    7.86556
+],
+  "geometry": {"coordinates":[-9.33972,7.86556],"type":"Point"}
+}

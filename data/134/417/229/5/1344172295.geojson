@@ -1,0 +1,68 @@
+{
+  "id": 1344172295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91667,9.1,-7.91667,9.1",
+    "geom:latitude":9.1,
+    "geom:longitude":-7.91667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Bouerekoko",
+    "gn:country_code":"GN",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422680,
+    "gn:latitude":9.1,
+    "gn:longitude":-7.91667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bou\u00e9r\u00e9koko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422680
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c964bd074e1804cbb60ff33549662fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1344172295,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1344172295,
+    "wof:lastmodified":1536714447,
+    "wof:name":"Bouerekoko",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91667,
+    9.1,
+    -7.91667,
+    9.1
+],
+  "geometry": {"coordinates":[-7.91667,9.1],"type":"Point"}
+}

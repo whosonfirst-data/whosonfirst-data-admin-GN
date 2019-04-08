@@ -1,0 +1,68 @@
+{
+  "id": 1293625173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4768,12.0755,-12.4768,12.0755",
+    "geom:latitude":12.0755,
+    "geom:longitude":-12.4768,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Kaidiora",
+    "gn:country_code":"GN",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420239,
+    "gn:latitude":12.0755,
+    "gn:longitude":-12.4768,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ka\u00efdiora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420239
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3ab202650ff5f5afb72e608329738459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1293625173,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293625173,
+    "wof:lastmodified":1537082491,
+    "wof:name":"Kaidiora",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4768,
+    12.0755,
+    -12.4768,
+    12.0755
+],
+  "geometry": {"coordinates":[-12.4768,12.0755],"type":"Point"}
+}

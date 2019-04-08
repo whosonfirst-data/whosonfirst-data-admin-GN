@@ -1,0 +1,68 @@
+{
+  "id": 1310235707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.58841,12.08326,-11.58841,12.08326",
+    "geom:latitude":12.08326,
+    "geom:longitude":-11.58841,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Mamaya",
+    "gn:country_code":"GN",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417849,
+    "gn:latitude":12.08326,
+    "gn:longitude":-11.58841,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Mamaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417849
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5b61069b6794961b26f3e2240844a2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":1310235707,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1310235707,
+    "wof:lastmodified":1536808398,
+    "wof:name":"Mamaya",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.58841,
+    12.08326,
+    -11.58841,
+    12.08326
+],
+  "geometry": {"coordinates":[-11.58841,12.08326],"type":"Point"}
+}

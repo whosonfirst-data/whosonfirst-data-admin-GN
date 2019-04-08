@@ -1,0 +1,68 @@
+{
+  "id": 1243299853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10556,8.98194,-9.10556,8.98194",
+    "geom:latitude":8.98194,
+    "geom:longitude":-9.10556,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Boula Kouninka",
+    "gn:country_code":"GN",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422643,
+    "gn:latitude":8.98194,
+    "gn:longitude":-9.10556,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boula Kouninka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422643
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"acd91778d359a1363b7d126015d84b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1243299853,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1243299853,
+    "wof:lastmodified":1537016057,
+    "wof:name":"Boula Kouninka",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10556,
+    8.98194,
+    -9.10556,
+    8.98194
+],
+  "geometry": {"coordinates":[-9.10556,8.98194],"type":"Point"}
+}

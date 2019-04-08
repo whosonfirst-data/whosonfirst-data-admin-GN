@@ -1,0 +1,70 @@
+{
+  "id": 1326964035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.67778,9.82028,-13.67778,9.82028",
+    "geom:latitude":9.82028,
+    "geom:longitude":-13.67778,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Touguisoukou",
+    "gn:country_code":"GN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414543,
+    "gn:latitude":9.82028,
+    "gn:longitude":-13.67778,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Touguisoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Touguy Souroul",
+        "Touguisoukou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414543
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ecb21c6c80066ccf5a903bf732d4c0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "locality_id":1326964035,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1326964035,
+    "wof:lastmodified":1537623911,
+    "wof:name":"Touguisoukou",
+    "wof:parent_id":85671395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.67778,
+    9.82028,
+    -13.67778,
+    9.82028
+],
+  "geometry": {"coordinates":[-13.67778,9.82028],"type":"Point"}
+}

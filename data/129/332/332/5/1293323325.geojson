@@ -1,0 +1,68 @@
+{
+  "id": 1293323325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21667,11.05,-12.21667,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-12.21667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Mirire",
+    "gn:country_code":"GN",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417553,
+    "gn:latitude":11.05,
+    "gn:longitude":-12.21667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Mirir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671385,
+        421167693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417553
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c6a5b2f273e883c74c502eee4d0e9f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421167693,
+            "locality_id":1293323325,
+            "region_id":85671385
+        }
+    ],
+    "wof:id":1293323325,
+    "wof:lastmodified":1537022804,
+    "wof:name":"Mirire",
+    "wof:parent_id":421167693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21667,
+    11.05,
+    -12.21667,
+    11.05
+],
+  "geometry": {"coordinates":[-12.21667,11.05],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243208449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68333,10.7,-8.68333,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":-8.68333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"37",
+    "gn:asciiname":"Sountou Diana",
+    "gn:country_code":"GN",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415217,
+    "gn:latitude":10.7,
+    "gn:longitude":-8.68333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sountou Diana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415217
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b2e9cea1d847112557b21814f2b6d378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1243208449,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1243208449,
+    "wof:lastmodified":1536651541,
+    "wof:name":"Sountou Diana",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68333,
+    10.7,
+    -8.68333,
+    10.7
+],
+  "geometry": {"coordinates":[-8.68333,10.7],"type":"Point"}
+}

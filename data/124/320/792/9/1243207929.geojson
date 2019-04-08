@@ -1,0 +1,68 @@
+{
+  "id": 1243207929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2,9.06667,-9.2,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":-9.2,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Diaradou Mankan",
+    "gn:country_code":"GN",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422044,
+    "gn:latitude":9.06667,
+    "gn:longitude":-9.2,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diaradou Mankan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422044
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2d06f4af66bc7d2309e2c061f4add4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1243207929,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1243207929,
+    "wof:lastmodified":1536652341,
+    "wof:name":"Diaradou Mankan",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2,
+    9.06667,
+    -9.2,
+    9.06667
+],
+  "geometry": {"coordinates":[-9.2,9.06667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327365047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.43333,11.3,-12.43333,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":-12.43333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Niogou",
+    "gn:country_code":"GN",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417062,
+    "gn:latitude":11.3,
+    "gn:longitude":-12.43333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Niogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671451,
+        421184941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417062
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"605f3f1f319b32d6aba22bfbedf4288c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184941,
+            "locality_id":1327365047,
+            "region_id":85671451
+        }
+    ],
+    "wof:id":1327365047,
+    "wof:lastmodified":1536778679,
+    "wof:name":"Niogou",
+    "wof:parent_id":421184941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.43333,
+    11.3,
+    -12.43333,
+    11.3
+],
+  "geometry": {"coordinates":[-12.43333,11.3],"type":"Point"}
+}

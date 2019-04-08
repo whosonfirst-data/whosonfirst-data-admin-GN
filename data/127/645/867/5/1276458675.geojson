@@ -1,0 +1,68 @@
+{
+  "id": 1276458675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55,8.38333,-9.55,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":-9.55,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Niavollassou",
+    "gn:country_code":"GN",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417127,
+    "gn:latitude":8.38333,
+    "gn:longitude":-9.55,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Niavollassou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632249,
+        85673539,
+        1091693427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417127
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1db6d7626b7bc95d828bdacdcc8a9731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632249,
+            "county_id":1091693427,
+            "locality_id":1276458675,
+            "region_id":85673539
+        }
+    ],
+    "wof:id":1276458675,
+    "wof:lastmodified":1536607901,
+    "wof:name":"Niavollassou",
+    "wof:parent_id":1091693427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55,
+    8.38333,
+    -9.55,
+    8.38333
+],
+  "geometry": {"coordinates":[-9.55,8.38333],"type":"Point"}
+}

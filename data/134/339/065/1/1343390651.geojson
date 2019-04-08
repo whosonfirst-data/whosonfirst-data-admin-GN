@@ -1,0 +1,73 @@
+{
+  "id": 1343390651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.76667,11.26667,-14.76667,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":-14.76667,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Siliya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415676,
+    "gn:latitude":11.26667,
+    "gn:longitude":-14.76667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Siliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sillia",
+        "Siliya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671367,
+        890420105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415676
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e4e1e33ba1e69d2111a87d90fc8e078c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890420105,
+            "locality_id":1343390651,
+            "region_id":85671367
+        }
+    ],
+    "wof:id":1343390651,
+    "wof:lastmodified":1537623924,
+    "wof:name":"Siliya",
+    "wof:parent_id":890420105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.76667,
+    11.26667,
+    -14.76667,
+    11.26667
+],
+  "geometry": {"coordinates":[-14.76667,11.26667],"type":"Point"}
+}

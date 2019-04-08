@@ -1,0 +1,68 @@
+{
+  "id": 1293622949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.48333,11.83333,-12.48333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":-12.48333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Bamba Gadatiri",
+    "gn:country_code":"GN",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423633,
+    "gn:latitude":11.83333,
+    "gn:longitude":-12.48333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bamba Gadatiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423633
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a0a543761c6aa70f6bab20470a8ce7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1293622949,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293622949,
+    "wof:lastmodified":1537085794,
+    "wof:name":"Bamba Gadatiri",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.48333,
+    11.83333,
+    -12.48333,
+    11.83333
+],
+  "geometry": {"coordinates":[-12.48333,11.83333],"type":"Point"}
+}

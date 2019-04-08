@@ -1,0 +1,68 @@
+{
+  "id": 1326666613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.55,12.38333,-13.55,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":-13.55,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Sanka",
+    "gn:country_code":"GN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416053,
+    "gn:latitude":12.38333,
+    "gn:longitude":-13.55,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416053
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"696efee83b158a9342b3613a378fffe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1326666613,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1326666613,
+    "wof:lastmodified":1536790648,
+    "wof:name":"Sanka",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.55,
+    12.38333,
+    -13.55,
+    12.38333
+],
+  "geometry": {"coordinates":[-13.55,12.38333],"type":"Point"}
+}

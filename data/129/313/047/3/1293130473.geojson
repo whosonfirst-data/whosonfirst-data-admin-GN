@@ -1,0 +1,68 @@
+{
+  "id": 1293130473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7,9.16667,-10.7,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":-10.7,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Nielia",
+    "gn:country_code":"GN",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417111,
+    "gn:latitude":9.16667,
+    "gn:longitude":-10.7,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ni\u00e9lia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417111
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4fa3630d01de98bc02d1313305804cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1293130473,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1293130473,
+    "wof:lastmodified":1536804721,
+    "wof:name":"Nielia",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7,
+    9.16667,
+    -10.7,
+    9.16667
+],
+  "geometry": {"coordinates":[-10.7,9.16667],"type":"Point"}
+}

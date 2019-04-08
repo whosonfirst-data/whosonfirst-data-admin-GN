@@ -1,0 +1,71 @@
+{
+  "id": 1326741071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.56667,8.93333,-10.56667,8.93333",
+    "geom:latitude":8.93333,
+    "geom:longitude":-10.56667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Bilimba",
+    "gn:country_code":"GN",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423092,
+    "gn:latitude":8.93333,
+    "gn:longitude":-10.56667,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bilimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bilimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423092
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"fdd6b710762e2d1f56f4b3268e3ae8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1326741071,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1326741071,
+    "wof:lastmodified":1537623998,
+    "wof:name":"Bilimba",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.56667,
+    8.93333,
+    -10.56667,
+    8.93333
+],
+  "geometry": {"coordinates":[-10.56667,8.93333],"type":"Point"}
+}

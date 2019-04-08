@@ -1,0 +1,73 @@
+{
+  "id": 1277013815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.21667,10.08333,-13.21667,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":-13.21667,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Ningueti",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417075,
+    "gn:latitude":10.08333,
+    "gn:longitude":-13.21667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ningu\u00e9ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ninguetti",
+        "Ningu\u00e9ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417075
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7349ddcfde062c7a4ffa741fdf1ff8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1277013815,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1277013815,
+    "wof:lastmodified":1537623937,
+    "wof:name":"Ningueti",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.21667,
+    10.08333,
+    -13.21667,
+    10.08333
+],
+  "geometry": {"coordinates":[-13.21667,10.08333],"type":"Point"}
+}

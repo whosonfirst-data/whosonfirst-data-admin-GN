@@ -1,0 +1,74 @@
+{
+  "id": 1243098307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.04222,9.23472,-13.04222,9.23472",
+    "geom:latitude":9.23472,
+    "geom:longitude":-13.04222,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Maliguiagbe",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417882,
+    "gn:latitude":9.23472,
+    "gn:longitude":-13.04222,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Maliguiagb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malaguia",
+        "Maliguia",
+        "Maliguiagb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417882
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a42852bd63ae43d91b1ec2cc84ced46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1243098307,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1243098307,
+    "wof:lastmodified":1537623945,
+    "wof:name":"Maliguiagbe",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.04222,
+    9.23472,
+    -13.04222,
+    9.23472
+],
+  "geometry": {"coordinates":[-13.04222,9.23472],"type":"Point"}
+}

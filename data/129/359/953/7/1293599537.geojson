@@ -1,0 +1,68 @@
+{
+  "id": 1293599537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.80056,8.77389,-9.80056,8.77389",
+    "geom:latitude":8.77389,
+    "geom:longitude":-9.80056,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Bezegrega",
+    "gn:country_code":"GN",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423123,
+    "gn:latitude":8.77389,
+    "gn:longitude":-9.80056,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"B\u00e9z\u00e9gr\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423123
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"14c78bd6fa5a9e6e187d0b7638dd75aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1293599537,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1293599537,
+    "wof:lastmodified":1536623495,
+    "wof:name":"Bezegrega",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.80056,
+    8.77389,
+    -9.80056,
+    8.77389
+],
+  "geometry": {"coordinates":[-9.80056,8.77389],"type":"Point"}
+}

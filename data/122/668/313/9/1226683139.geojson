@@ -1,0 +1,73 @@
+{
+  "id": 1226683139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26,8.935,-9.26,8.935",
+    "geom:latitude":8.935,
+    "geom:longitude":-9.26,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Diarradou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422025,
+    "gn:latitude":8.935,
+    "gn:longitude":-9.26,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diarradou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diaradou",
+        "Diarradou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422025
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0911a7660b238c7aa3c3a3969eaabf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1226683139,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1226683139,
+    "wof:lastmodified":1537623989,
+    "wof:name":"Diarradou",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26,
+    8.935,
+    -9.26,
+    8.935
+],
+  "geometry": {"coordinates":[-9.26,8.935],"type":"Point"}
+}

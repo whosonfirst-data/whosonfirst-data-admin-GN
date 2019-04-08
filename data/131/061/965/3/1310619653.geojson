@@ -1,0 +1,68 @@
+{
+  "id": 1310619653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88778,7.75639,-8.88778,7.75639",
+    "geom:latitude":7.75639,
+    "geom:longitude":-8.88778,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Zohoyea",
+    "gn:country_code":"GN",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414008,
+    "gn:latitude":7.75639,
+    "gn:longitude":-8.88778,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Zohoy\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414008
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"abf7c81d22c7a89cc36f6695688784ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1310619653,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1310619653,
+    "wof:lastmodified":1536752221,
+    "wof:name":"Zohoyea",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88778,
+    7.75639,
+    -8.88778,
+    7.75639
+],
+  "geometry": {"coordinates":[-8.88778,7.75639],"type":"Point"}
+}

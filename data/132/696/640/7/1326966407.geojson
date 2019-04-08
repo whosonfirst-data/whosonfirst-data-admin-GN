@@ -1,0 +1,68 @@
+{
+  "id": 1326966407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.27,9.50472,-13.27,9.50472",
+    "geom:latitude":9.50472,
+    "geom:longitude":-13.27,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Solon",
+    "gn:country_code":"GN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592792,
+    "gn:latitude":9.50472,
+    "gn:longitude":-13.27,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"S\u00f4lon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592792
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b1ae1c61b023b53a0697b8ed88a2846f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1326966407,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1326966407,
+    "wof:lastmodified":1536854388,
+    "wof:name":"Solon",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.27,
+    9.50472,
+    -13.27,
+    9.50472
+],
+  "geometry": {"coordinates":[-13.27,9.50472],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259814395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.73333,11.78333,-9.73333,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":-9.73333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Bouteda",
+    "gn:country_code":"GN",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422535,
+    "gn:latitude":11.78333,
+    "gn:longitude":-9.73333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bout\u00e9da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671489,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422535
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b1f6e3d6e450b77a7db1d01211e5855e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":1259814395,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":1259814395,
+    "wof:lastmodified":1536878041,
+    "wof:name":"Bouteda",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.73333,
+    11.78333,
+    -9.73333,
+    11.78333
+],
+  "geometry": {"coordinates":[-9.73333,11.78333],"type":"Point"}
+}

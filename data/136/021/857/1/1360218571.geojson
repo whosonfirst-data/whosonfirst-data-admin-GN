@@ -1,0 +1,68 @@
+{
+  "id": 1360218571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2,10.03333,-11.2,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":-11.2,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Moungata",
+    "gn:country_code":"GN",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417404,
+    "gn:latitude":10.03333,
+    "gn:longitude":-11.2,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Moungata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417404
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5643101e185c6c968621f2a5631f9f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1360218571,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1360218571,
+    "wof:lastmodified":1536753071,
+    "wof:name":"Moungata",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2,
+    10.03333,
+    -11.2,
+    10.03333
+],
+  "geometry": {"coordinates":[-11.2,10.03333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209846365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.60447,12.176,-11.60447,12.176",
+    "geom:latitude":12.176,
+    "geom:longitude":-11.60447,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Dalaba",
+    "gn:country_code":"GN",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422380,
+    "gn:latitude":12.176,
+    "gn:longitude":-11.60447,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dalaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422380
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"31391c7131a1d5a73a0fc6635f7fd415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1209846365,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1209846365,
+    "wof:lastmodified":1536390478,
+    "wof:name":"Dalaba",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.60447,
+    12.176,
+    -11.60447,
+    12.176
+],
+  "geometry": {"coordinates":[-11.60447,12.176],"type":"Point"}
+}

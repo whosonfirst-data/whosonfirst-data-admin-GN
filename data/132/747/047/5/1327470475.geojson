@@ -1,0 +1,72 @@
+{
+  "id": 1327470475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.26667,9.95,-10.26667,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-10.26667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Kansiraya",
+    "gn:country_code":"GN",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419933,
+    "gn:latitude":9.95,
+    "gn:longitude":-10.26667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Kansiraya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kansareya",
+        "Kansiraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419933
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d5893317af9f1b9719a1fcd53f59b8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1327470475,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1327470475,
+    "wof:lastmodified":1537623966,
+    "wof:name":"Kansiraya",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.26667,
+    9.95,
+    -10.26667,
+    9.95
+],
+  "geometry": {"coordinates":[-10.26667,9.95],"type":"Point"}
+}

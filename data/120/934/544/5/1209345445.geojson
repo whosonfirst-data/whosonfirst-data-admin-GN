@@ -1,0 +1,62 @@
+{
+  "id": 1209345445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.26667,11.83333,-12.26667,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":-12.26667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Konia",
+    "gn:country_code":"GN",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418970,
+    "gn:latitude":11.83333,
+    "gn:longitude":-12.26667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Konia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418970
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"26adf2170cbbbf5f5c5ab5ff51cc926c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209345445
+        }
+    ],
+    "wof:id":1209345445,
+    "wof:lastmodified":1536289927,
+    "wof:name":"Konia",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.26667,
+    11.83333,
+    -12.26667,
+    11.83333
+],
+  "geometry": {"coordinates":[-12.26667,11.83333],"type":"Point"}
+}

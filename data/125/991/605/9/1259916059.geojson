@@ -1,0 +1,68 @@
+{
+  "id": 1259916059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95,10.25,-12.95,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-12.95,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Kebe Friguia",
+    "gn:country_code":"GN",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419759,
+    "gn:latitude":10.25,
+    "gn:longitude":-12.95,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"K\u00e9b\u00e9 Friguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419759
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f35f6991361fcdbd19741817dddc3213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1259916059,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1259916059,
+    "wof:lastmodified":1536732421,
+    "wof:name":"Kebe Friguia",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95,
+    10.25,
+    -12.95,
+    10.25
+],
+  "geometry": {"coordinates":[-12.95,10.25],"type":"Point"}
+}

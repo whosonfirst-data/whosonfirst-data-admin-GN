@@ -1,0 +1,62 @@
+{
+  "id": 1209137213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.1,10.56667,-12.1,10.56667",
+    "geom:latitude":10.56667,
+    "geom:longitude":-12.1,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Fedougou",
+    "gn:country_code":"GN",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421170,
+    "gn:latitude":10.56667,
+    "gn:longitude":-12.1,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"F\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421170
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0adb61d3b082e39f497eaa4b55c231f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209137213
+        }
+    ],
+    "wof:id":1209137213,
+    "wof:lastmodified":1536296622,
+    "wof:name":"Fedougou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.1,
+    10.56667,
+    -12.1,
+    10.56667
+],
+  "geometry": {"coordinates":[-12.1,10.56667],"type":"Point"}
+}

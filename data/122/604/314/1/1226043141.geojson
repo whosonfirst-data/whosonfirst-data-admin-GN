@@ -1,0 +1,69 @@
+{
+  "id": 1226043141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.74972,9.47639,-13.74972,9.47639",
+    "geom:latitude":9.47639,
+    "geom:longitude":-13.74972,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kassa",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422472,
+    "gn:latitude":9.47639,
+    "gn:longitude":-13.74972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cit\u00e9 de Kassa",
+        "Kassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422472
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0aa94b3e80d3d92a3edf96ac5eea9fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "locality_id":1226043141,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226043141,
+    "wof:lastmodified":1537623993,
+    "wof:name":"Kassa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.74972,
+    9.47639,
+    -13.74972,
+    9.47639
+],
+  "geometry": {"coordinates":[-13.74972,9.47639],"type":"Point"}
+}

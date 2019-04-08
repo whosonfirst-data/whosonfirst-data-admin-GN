@@ -1,0 +1,62 @@
+{
+  "id": 1209141995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.58333,11.63333,-10.58333,11.63333",
+    "geom:latitude":11.63333,
+    "geom:longitude":-10.58333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Boubere Tamba",
+    "gn:country_code":"GN",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422702,
+    "gn:latitude":11.63333,
+    "gn:longitude":-10.58333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boub\u00e9r\u00e9 Tamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422702
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"838a27c6e4b3336169057b8441c555e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209141995
+        }
+    ],
+    "wof:id":1209141995,
+    "wof:lastmodified":1536296474,
+    "wof:name":"Boubere Tamba",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.58333,
+    11.63333,
+    -10.58333,
+    11.63333
+],
+  "geometry": {"coordinates":[-10.58333,11.63333],"type":"Point"}
+}

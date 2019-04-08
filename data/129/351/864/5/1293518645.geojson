@@ -1,0 +1,74 @@
+{
+  "id": 1293518645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.35,10.33333,-13.35,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":-13.35,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Yembeyakhori",
+    "gn:country_code":"GN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414179,
+    "gn:latitude":10.33333,
+    "gn:longitude":-13.35,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yemb\u00e9yakhori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamb\u00e9akori",
+        "Yembekori",
+        "Yemb\u00e9akori",
+        "Yemb\u00e9yakhori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414179
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"11377e27bee278e5c45f26f28fc84c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1293518645,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1293518645,
+    "wof:lastmodified":1537623906,
+    "wof:name":"Yembeyakhori",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.35,
+    10.33333,
+    -13.35,
+    10.33333
+],
+  "geometry": {"coordinates":[-13.35,10.33333],"type":"Point"}
+}

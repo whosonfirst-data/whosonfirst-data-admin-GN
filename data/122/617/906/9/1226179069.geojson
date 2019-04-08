@@ -1,0 +1,68 @@
+{
+  "id": 1226179069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.51667,11.01667,-10.51667,11.01667",
+    "geom:latitude":11.01667,
+    "geom:longitude":-10.51667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Werenindo",
+    "gn:country_code":"GN",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414340,
+    "gn:latitude":11.01667,
+    "gn:longitude":-10.51667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"W\u00e9r\u00e9nindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414340
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"65b2c0d1d92ecfb3d51a08d930e0bc1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1226179069,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1226179069,
+    "wof:lastmodified":1537028378,
+    "wof:name":"Werenindo",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.51667,
+    11.01667,
+    -10.51667,
+    11.01667
+],
+  "geometry": {"coordinates":[-10.51667,11.01667],"type":"Point"}
+}

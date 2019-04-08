@@ -1,0 +1,68 @@
+{
+  "id": 1344193469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.5847,12.1137,-12.5847,12.1137",
+    "geom:latitude":12.1137,
+    "geom:longitude":-12.5847,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Karevi",
+    "gn:country_code":"GN",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419862,
+    "gn:latitude":12.1137,
+    "gn:longitude":-12.5847,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kar\u00e9vi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419862
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"77f70cff6593a6f988ebd7b14551a003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1344193469,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1344193469,
+    "wof:lastmodified":1536683601,
+    "wof:name":"Karevi",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.5847,
+    12.1137,
+    -12.5847,
+    12.1137
+],
+  "geometry": {"coordinates":[-12.5847,12.1137],"type":"Point"}
+}

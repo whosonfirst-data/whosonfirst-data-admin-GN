@@ -1,0 +1,68 @@
+{
+  "id": 1243098709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.96611,9.99806,-13.96611,9.99806",
+    "geom:latitude":9.99806,
+    "geom:longitude":-13.96611,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Kaleme",
+    "gn:country_code":"GN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592925,
+    "gn:latitude":9.99806,
+    "gn:longitude":-13.96611,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kal\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592925
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"168496732b4853c87c80df8809fe4097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1243098709,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1243098709,
+    "wof:lastmodified":1536809386,
+    "wof:name":"Kaleme",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.96611,
+    9.99806,
+    -13.96611,
+    9.99806
+],
+  "geometry": {"coordinates":[-13.96611,9.99806],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343762425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.65824,9.54591,-13.65824,9.54591",
+    "geom:latitude":9.54591,
+    "geom:longitude":-13.65824,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koleya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419186,
+    "gn:latitude":9.54591,
+    "gn:longitude":-13.65824,
+    "gn:modification_date":"2011-03-23",
+    "gn:name":"Kol\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Col\u00e9a",
+        "Kol\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421191023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419186
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"33ff5eb39abef0ca407ee53b51b117c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191023,
+            "locality_id":1343762425,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1343762425,
+    "wof:lastmodified":1537623958,
+    "wof:name":"Koleya",
+    "wof:parent_id":421191023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.65824,
+    9.54591,
+    -13.65824,
+    9.54591
+],
+  "geometry": {"coordinates":[-13.65824,9.54591],"type":"Point"}
+}

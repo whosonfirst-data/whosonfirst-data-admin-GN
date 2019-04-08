@@ -1,0 +1,62 @@
+{
+  "id": 1209350891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58333,10.33333,-9.58333,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":-9.58333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Sanana",
+    "gn:country_code":"GN",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416153,
+    "gn:latitude":10.33333,
+    "gn:longitude":-9.58333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sanana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416153
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d8078c526791a59c1feeebaf52b7120c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209350891
+        }
+    ],
+    "wof:id":1209350891,
+    "wof:lastmodified":1536289745,
+    "wof:name":"Sanana",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58333,
+    10.33333,
+    -9.58333,
+    10.33333
+],
+  "geometry": {"coordinates":[-9.58333,10.33333],"type":"Point"}
+}

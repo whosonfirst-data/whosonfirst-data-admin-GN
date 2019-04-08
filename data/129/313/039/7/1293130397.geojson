@@ -1,0 +1,68 @@
+{
+  "id": 1293130397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.7991,12.4009,-12.7991,12.4009",
+    "geom:latitude":12.4009,
+    "geom:longitude":-12.7991,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Niangaya",
+    "gn:country_code":"GN",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417162,
+    "gn:latitude":12.4009,
+    "gn:longitude":-12.7991,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Niangaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417162
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4584d8a95063c2786329ba8bc6e0ddd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1293130397,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1293130397,
+    "wof:lastmodified":1536804835,
+    "wof:name":"Niangaya",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.7991,
+    12.4009,
+    -12.7991,
+    12.4009
+],
+  "geometry": {"coordinates":[-12.7991,12.4009],"type":"Point"}
+}

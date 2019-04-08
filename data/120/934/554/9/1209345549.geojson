@@ -1,0 +1,62 @@
+{
+  "id": 1209345549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9,11.93333,-10.9,11.93333",
+    "geom:latitude":11.93333,
+    "geom:longitude":-10.9,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Sabere",
+    "gn:country_code":"GN",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416340,
+    "gn:latitude":11.93333,
+    "gn:longitude":-10.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sab\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416340
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e790d2e536bd931ffaa52ffdad55494f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209345549
+        }
+    ],
+    "wof:id":1209345549,
+    "wof:lastmodified":1536289924,
+    "wof:name":"Sabere",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9,
+    11.93333,
+    -10.9,
+    11.93333
+],
+  "geometry": {"coordinates":[-10.9,11.93333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260317509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.95,10.01667,-13.95,10.01667",
+    "geom:latitude":10.01667,
+    "geom:longitude":-13.95,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Balansira",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423717,
+    "gn:latitude":10.01667,
+    "gn:longitude":-13.95,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Balansira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balans\u00e9ra",
+        "Balaneira",
+        "Balancera",
+        "Balansira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423717
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3fd2e8d161fb805379d70c1c3c71cd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1260317509,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1260317509,
+    "wof:lastmodified":1537624003,
+    "wof:name":"Balansira",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.95,
+    10.01667,
+    -13.95,
+    10.01667
+],
+  "geometry": {"coordinates":[-13.95,10.01667],"type":"Point"}
+}

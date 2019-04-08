@@ -1,0 +1,68 @@
+{
+  "id": 1242688389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6975,8.67944,-9.6975,8.67944",
+    "geom:latitude":8.67944,
+    "geom:longitude":-9.6975,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Doromai",
+    "gn:country_code":"GN",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421702,
+    "gn:latitude":8.67944,
+    "gn:longitude":-9.6975,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Doroma\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421702
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"20d4d3018ca6c0c6fe25f5d6b25c0639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1242688389,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1242688389,
+    "wof:lastmodified":1536904281,
+    "wof:name":"Doromai",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6975,
+    8.67944,
+    -9.6975,
+    8.67944
+],
+  "geometry": {"coordinates":[-9.6975,8.67944],"type":"Point"}
+}

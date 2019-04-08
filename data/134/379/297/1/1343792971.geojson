@@ -1,0 +1,72 @@
+{
+  "id": 1343792971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3575,8.97917,-9.3575,8.97917",
+    "geom:latitude":8.97917,
+    "geom:longitude":-9.3575,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Damanguebedou",
+    "gn:country_code":"GN",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422333,
+    "gn:latitude":8.97917,
+    "gn:longitude":-9.3575,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Damangueb\u00e8dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damangu\u00e9dou",
+        "Damangueb\u00e8dou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422333
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2a5e03fb040cd8019bc53555787cd54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1343792971,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1343792971,
+    "wof:lastmodified":1537623991,
+    "wof:name":"Damanguebedou",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3575,
+    8.97917,
+    -9.3575,
+    8.97917
+],
+  "geometry": {"coordinates":[-9.3575,8.97917],"type":"Point"}
+}

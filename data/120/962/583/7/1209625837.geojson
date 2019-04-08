@@ -1,0 +1,62 @@
+{
+  "id": 1209625837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23333,9.3,-8.23333,9.3",
+    "geom:latitude":9.3,
+    "geom:longitude":-8.23333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Fakourounou",
+    "gn:country_code":"GN",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421456,
+    "gn:latitude":9.3,
+    "gn:longitude":-8.23333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Fakourounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421456
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"42b28f8df386235a224299a516ebe59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209625837
+        }
+    ],
+    "wof:id":1209625837,
+    "wof:lastmodified":1536281357,
+    "wof:name":"Fakourounou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23333,
+    9.3,
+    -8.23333,
+    9.3
+],
+  "geometry": {"coordinates":[-8.23333,9.3],"type":"Point"}
+}

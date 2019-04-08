@@ -1,0 +1,67 @@
+{
+  "id": 1209251615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48333,10.91667,-9.48333,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":-9.48333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Norassouba",
+    "gn:country_code":"GN",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417005,
+    "gn:latitude":10.91667,
+    "gn:longitude":-9.48333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Norassouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Norosouba",
+        "Noura",
+        "Norassouba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417005
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1947e8b6559b8a1742d50c8c065e4f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209251615
+        }
+    ],
+    "wof:id":1209251615,
+    "wof:lastmodified":1537623935,
+    "wof:name":"Norassouba",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48333,
+    10.91667,
+    -9.48333,
+    10.91667
+],
+  "geometry": {"coordinates":[-9.48333,10.91667],"type":"Point"}
+}

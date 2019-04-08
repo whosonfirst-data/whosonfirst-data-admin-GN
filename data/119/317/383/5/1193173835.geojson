@@ -1,0 +1,73 @@
+{
+  "id": 1193173835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.78333,9.46667,-10.78333,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":-10.78333,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Fouroubouria",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420903,
+    "gn:latitude":9.46667,
+    "gn:longitude":-10.78333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Fouroubouria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fourboria",
+        "Fouroubouria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420903
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"51cb13d7a3c06c0b0a106fa7ef76c371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1193173835,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1193173835,
+    "wof:lastmodified":1537623978,
+    "wof:name":"Fouroubouria",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.78333,
+    9.46667,
+    -10.78333,
+    9.46667
+],
+  "geometry": {"coordinates":[-10.78333,9.46667],"type":"Point"}
+}

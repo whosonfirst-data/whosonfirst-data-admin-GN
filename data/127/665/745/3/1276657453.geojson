@@ -1,0 +1,73 @@
+{
+  "id": 1276657453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.54556,9.64056,-13.54556,9.64056",
+    "geom:latitude":9.64056,
+    "geom:longitude":-13.54556,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tomboleya",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414628,
+    "gn:latitude":9.64056,
+    "gn:longitude":-13.54556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tombol\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tombole\u00efa",
+        "Tombol\u00efa",
+        "Tombol\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421191023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414628
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a4235e6993be563d24b0895f1767a122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191023,
+            "locality_id":1276657453,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1276657453,
+    "wof:lastmodified":1537623912,
+    "wof:name":"Tomboleya",
+    "wof:parent_id":421191023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.54556,
+    9.64056,
+    -13.54556,
+    9.64056
+],
+  "geometry": {"coordinates":[-13.54556,9.64056],"type":"Point"}
+}

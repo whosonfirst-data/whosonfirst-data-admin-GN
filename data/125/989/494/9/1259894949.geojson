@@ -1,0 +1,68 @@
+{
+  "id": 1259894949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91667,8.01667,-8.91667,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":-8.91667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Niaragbaleye",
+    "gn:country_code":"GN",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417136,
+    "gn:latitude":8.01667,
+    "gn:longitude":-8.91667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Niaragbaleye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417136
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9bc8744694537c1fb15e308698982f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1259894949,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1259894949,
+    "wof:lastmodified":1536762826,
+    "wof:name":"Niaragbaleye",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91667,
+    8.01667,
+    -8.91667,
+    8.01667
+],
+  "geometry": {"coordinates":[-8.91667,8.01667],"type":"Point"}
+}

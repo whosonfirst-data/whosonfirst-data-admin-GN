@@ -1,0 +1,68 @@
+{
+  "id": 1293032335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.6342,12.2452,-12.6342,12.2452",
+    "geom:latitude":12.2452,
+    "geom:longitude":-12.6342,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Wanson",
+    "gn:country_code":"GN",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414369,
+    "gn:latitude":12.2452,
+    "gn:longitude":-12.6342,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Wanson",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414369
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c5e2ea972825830d1414e92bd47b9d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1293032335,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293032335,
+    "wof:lastmodified":1536946720,
+    "wof:name":"Wanson",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.6342,
+    12.2452,
+    -12.6342,
+    12.2452
+],
+  "geometry": {"coordinates":[-12.6342,12.2452],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209826023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.14917,8.57194,-10.14917,8.57194",
+    "geom:latitude":8.57194,
+    "geom:longitude":-10.14917,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Gueckedou Lele",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420559,
+    "gn:latitude":8.57194,
+    "gn:longitude":-10.14917,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gu\u00e9ck\u00e9dou Lele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9k\u00e9dou-Lele",
+        "Gu\u00e9ck\u00e9dou Lele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420559
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"224c3b571681839cb05c3424d66f0980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1209826023,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1209826023,
+    "wof:lastmodified":1537623973,
+    "wof:name":"Gueckedou Lele",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.14917,
+    8.57194,
+    -10.14917,
+    8.57194
+],
+  "geometry": {"coordinates":[-10.14917,8.57194],"type":"Point"}
+}

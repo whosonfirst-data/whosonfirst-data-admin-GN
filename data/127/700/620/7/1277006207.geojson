@@ -1,0 +1,67 @@
+{
+  "id": 1277006207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.65727,9.54598,-13.65727,9.54598",
+    "geom:latitude":9.54598,
+    "geom:longitude":-13.65727,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tonguiwondi",
+    "gn:country_code":"GN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593089,
+    "gn:latitude":9.54598,
+    "gn:longitude":-13.65727,
+    "gn:modification_date":"2011-03-22",
+    "gn:name":"Tonguiwondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421191023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593089
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f4e604b7b3df04b321ff8c257eba5da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191023,
+            "locality_id":1277006207,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1277006207,
+    "wof:lastmodified":1536870759,
+    "wof:name":"Tonguiwondi",
+    "wof:parent_id":421191023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.65727,
+    9.54598,
+    -13.65727,
+    9.54598
+],
+  "geometry": {"coordinates":[-13.65727,9.54598],"type":"Point"}
+}

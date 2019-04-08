@@ -1,0 +1,67 @@
+{
+  "id": 1209137295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.88333,11.43333,-13.88333,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":-13.88333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Wendou Borou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414341,
+    "gn:latitude":11.43333,
+    "gn:longitude":-13.88333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Wendou Borou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borou",
+        "Wendou Borou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414341
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"319f4aba169faa87f100e1bbd3da1160",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209137295
+        }
+    ],
+    "wof:id":1209137295,
+    "wof:lastmodified":1537623909,
+    "wof:name":"Wendou Borou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.88333,
+    11.43333,
+    -13.88333,
+    11.43333
+],
+  "geometry": {"coordinates":[-13.88333,11.43333],"type":"Point"}
+}

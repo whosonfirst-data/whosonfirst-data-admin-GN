@@ -1,0 +1,68 @@
+{
+  "id": 1259698971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98778,8.70194,-9.98778,8.70194",
+    "geom:latitude":8.70194,
+    "geom:longitude":-9.98778,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Pinsou",
+    "gn:country_code":"GN",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416445,
+    "gn:latitude":8.70194,
+    "gn:longitude":-9.98778,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Pinsou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416445
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6fe04428535ca5aff92a0ad3e890722c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1259698971,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1259698971,
+    "wof:lastmodified":1537042855,
+    "wof:name":"Pinsou",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98778,
+    8.70194,
+    -9.98778,
+    8.70194
+],
+  "geometry": {"coordinates":[-9.98778,8.70194],"type":"Point"}
+}

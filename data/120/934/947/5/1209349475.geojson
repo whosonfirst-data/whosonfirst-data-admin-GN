@@ -1,0 +1,67 @@
+{
+  "id": 1209349475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.22583,9.46139,-13.22583,9.46139",
+    "geom:latitude":9.46139,
+    "geom:longitude":-13.22583,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Bereire",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423150,
+    "gn:latitude":9.46139,
+    "gn:longitude":-13.22583,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"B\u00e9re\u00efr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9r\u00e9yir\u00e9",
+        "B\u00e9re\u00efr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423150
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9c7922faf601432c1b3197471e5393f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209349475
+        }
+    ],
+    "wof:id":1209349475,
+    "wof:lastmodified":1537623998,
+    "wof:name":"Bereire",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.22583,
+    9.46139,
+    -13.22583,
+    9.46139
+],
+  "geometry": {"coordinates":[-13.22583,9.46139],"type":"Point"}
+}

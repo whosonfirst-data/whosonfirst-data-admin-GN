@@ -1,0 +1,69 @@
+{
+  "id": 1310142031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.93333,11.35,-11.93333,11.35",
+    "geom:latitude":11.35,
+    "geom:longitude":-11.93333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Tangali",
+    "gn:country_code":"GN",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415028,
+    "gn:latitude":11.35,
+    "gn:longitude":-11.93333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tangali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671497,
+        1108784627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415028,
+        "wk:page":"Tangali"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4ce71098d6cc6c9e8e07fa3d535f74c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784627,
+            "locality_id":1310142031,
+            "region_id":85671497
+        }
+    ],
+    "wof:id":1310142031,
+    "wof:lastmodified":1537563073,
+    "wof:name":"Tangali",
+    "wof:parent_id":1108784627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.93333,
+    11.35,
+    -11.93333,
+    11.35
+],
+  "geometry": {"coordinates":[-11.93333,11.35],"type":"Point"}
+}

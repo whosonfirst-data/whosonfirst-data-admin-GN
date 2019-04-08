@@ -1,0 +1,68 @@
+{
+  "id": 1327450145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.29611,8.91194,-10.29611,8.91194",
+    "geom:latitude":8.91194,
+    "geom:longitude":-10.29611,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Bondou",
+    "gn:country_code":"GN",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422834,
+    "gn:latitude":8.91194,
+    "gn:longitude":-10.29611,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bondou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422834
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4ac84a856d1853b2260ad353f2b8658b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1327450145,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1327450145,
+    "wof:lastmodified":1536655139,
+    "wof:name":"Bondou",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.29611,
+    8.91194,
+    -10.29611,
+    8.91194
+],
+  "geometry": {"coordinates":[-10.29611,8.91194],"type":"Point"}
+}

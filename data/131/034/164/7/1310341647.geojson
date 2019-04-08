@@ -1,0 +1,68 @@
+{
+  "id": 1310341647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.3,10.1,-13.3,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-13.3,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Farinia",
+    "gn:country_code":"GN",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421228,
+    "gn:latitude":10.1,
+    "gn:longitude":-13.3,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Farinia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421228
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"17a00157fab8b63b6ef10afa2f732d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1310341647,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1310341647,
+    "wof:lastmodified":1536655801,
+    "wof:name":"Farinia",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.3,
+    10.1,
+    -13.3,
+    10.1
+],
+  "geometry": {"coordinates":[-13.3,10.1],"type":"Point"}
+}

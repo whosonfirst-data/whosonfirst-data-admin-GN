@@ -1,0 +1,68 @@
+{
+  "id": 1326965201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8,9.53333,-9.8,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":-9.8,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Deledougou",
+    "gn:country_code":"GN",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422185,
+    "gn:latitude":9.53333,
+    "gn:longitude":-9.8,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"D\u00e9l\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422185
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c78c55fc7c85af287cd94e7c8a4dc1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1326965201,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1326965201,
+    "wof:lastmodified":1536856104,
+    "wof:name":"Deledougou",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8,
+    9.53333,
+    -9.8,
+    9.53333
+],
+  "geometry": {"coordinates":[-9.8,9.53333],"type":"Point"}
+}

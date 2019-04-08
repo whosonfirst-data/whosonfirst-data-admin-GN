@@ -1,0 +1,109 @@
+{
+  "id": 421196725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.35,10.36667,-13.35,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-13.35,
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Tondon"
+    ],
+    "name:eng_x_preferred":[
+        "Tondon"
+    ],
+    "name:ita_x_preferred":[
+        "Tondon"
+    ],
+    "name:jav_x_preferred":[
+        "Tondon"
+    ],
+    "name:may_x_preferred":[
+        "Tondon"
+    ],
+    "name:msa_x_preferred":[
+        "Tondon"
+    ],
+    "name:pol_x_preferred":[
+        "Tondon"
+    ],
+    "name:swe_x_preferred":[
+        "Tondon"
+    ],
+    "name:unk_x_variant":[
+        "Tendon"
+    ],
+    "qs:gn_country":"GN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2414616,
+    "qs:gn_pop":12235,
+    "qs:name":"Tondon",
+    "qs:name_adm0":"Guin\u00e9e",
+    "qs:name_adm1":"Bok\u00e9",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1297519,
+    "qs:woe_adm0":23424835,
+    "qs:woe_id":1339230,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":523,
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414616,
+        "gp:id":1339230,
+        "qs:id":1297519,
+        "wd:id":"Q7820819",
+        "wk:page":"Tondon"
+    },
+    "wof:country":"GN",
+    "wof:created":1459009891,
+    "wof:geomhash":"4a799b0b942e23e8c678e787cd514f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":421196725,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":421196725,
+    "wof:lastmodified":1527716364,
+    "wof:name":"Tondon",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:population":12235,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.35,
+    10.36667,
+    -13.35,
+    10.36667
+],
+  "geometry": {"coordinates":[-13.35,10.36667],"type":"Point"}
+}

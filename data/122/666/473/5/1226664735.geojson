@@ -1,0 +1,68 @@
+{
+  "id": 1226664735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.43528,8.46694,-10.43528,8.46694",
+    "geom:latitude":8.46694,
+    "geom:longitude":-10.43528,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Telecolo",
+    "gn:country_code":"GN",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414942,
+    "gn:latitude":8.46694,
+    "gn:longitude":-10.43528,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"T\u00e9l\u00e9colo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414942
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a7062feaff9e914d406f9361303b6b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1226664735,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1226664735,
+    "wof:lastmodified":1536831152,
+    "wof:name":"Telecolo",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.43528,
+    8.46694,
+    -10.43528,
+    8.46694
+],
+  "geometry": {"coordinates":[-10.43528,8.46694],"type":"Point"}
+}

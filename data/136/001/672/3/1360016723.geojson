@@ -1,0 +1,73 @@
+{
+  "id": 1360016723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.75,10.38333,-11.75,10.38333",
+    "geom:latitude":10.38333,
+    "geom:longitude":-11.75,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Koba",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419445,
+    "gn:latitude":10.38333,
+    "gn:longitude":-11.75,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tolo",
+        "Koba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671473,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419445
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6fb0cf522689fe53f5187bfe81d9605d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":1360016723,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":1360016723,
+    "wof:lastmodified":1537623959,
+    "wof:name":"Koba",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.75,
+    10.38333,
+    -11.75,
+    10.38333
+],
+  "geometry": {"coordinates":[-11.75,10.38333],"type":"Point"}
+}

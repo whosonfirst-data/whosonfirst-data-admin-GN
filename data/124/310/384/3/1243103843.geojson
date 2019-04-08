@@ -1,0 +1,73 @@
+{
+  "id": 1243103843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26667,10.66667,-9.26667,10.66667",
+    "geom:latitude":10.66667,
+    "geom:longitude":-9.26667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Nafadji",
+    "gn:country_code":"GN",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417360,
+    "gn:latitude":10.66667,
+    "gn:longitude":-9.26667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Nafadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nafadi\u00e9",
+        "Nafadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417360,
+        "wk:page":"Nafadji"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b0e815e2762e7cc5be2da8de13d42c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1243103843,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1243103843,
+    "wof:lastmodified":1537623939,
+    "wof:name":"Nafadji",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26667,
+    10.66667,
+    -9.26667,
+    10.66667
+],
+  "geometry": {"coordinates":[-9.26667,10.66667],"type":"Point"}
+}

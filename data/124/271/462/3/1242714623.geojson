@@ -1,0 +1,68 @@
+{
+  "id": 1242714623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.43972,9.4125,-13.43972,9.4125",
+    "geom:latitude":9.4125,
+    "geom:longitude":-13.43972,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Guemeyire",
+    "gn:country_code":"GN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592825,
+    "gn:latitude":9.4125,
+    "gn:longitude":-13.43972,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gu\u00e8m\u00e8yir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592825
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"403b78140d98261502a0f82b50a427eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1242714623,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1242714623,
+    "wof:lastmodified":1536864992,
+    "wof:name":"Guemeyire",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.43972,
+    9.4125,
+    -13.43972,
+    9.4125
+],
+  "geometry": {"coordinates":[-13.43972,9.4125],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343576417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41667,8.86667,-9.41667,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":-9.41667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Kamorodou",
+    "gn:country_code":"GN",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420066,
+    "gn:latitude":8.86667,
+    "gn:longitude":-9.41667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kamorodou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420066
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d6551744f0e6afd1456c0a03d29d57b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1343576417,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1343576417,
+    "wof:lastmodified":1537073283,
+    "wof:name":"Kamorodou",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41667,
+    8.86667,
+    -9.41667,
+    8.86667
+],
+  "geometry": {"coordinates":[-9.41667,8.86667],"type":"Point"}
+}

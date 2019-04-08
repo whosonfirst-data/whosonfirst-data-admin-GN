@@ -1,0 +1,72 @@
+{
+  "id": 1293718663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.93333,9.95,-12.93333,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-12.93333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Friguiagbe",
+    "gn:country_code":"GN",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420879,
+    "gn:latitude":9.95,
+    "gn:longitude":-12.93333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Friguiagb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Friguiagb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420879,
+        "wk:page":"Friguiagb%C3%A9"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"88cb772cb0b9a8aa4aa4ed97cd8b81ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1293718663,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1293718663,
+    "wof:lastmodified":1537623977,
+    "wof:name":"Friguiagbe",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.93333,
+    9.95,
+    -12.93333,
+    9.95
+],
+  "geometry": {"coordinates":[-12.93333,9.95],"type":"Point"}
+}

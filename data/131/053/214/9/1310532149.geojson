@@ -1,0 +1,68 @@
+{
+  "id": 1310532149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.34667,9.31444,-13.34667,9.31444",
+    "geom:latitude":9.31444,
+    "geom:longitude":-13.34667,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Mouki",
+    "gn:country_code":"GN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592837,
+    "gn:latitude":9.31444,
+    "gn:longitude":-13.34667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Mouki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592837
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b2b781f8a595ac4fa9dd35373581954a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1310532149,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1310532149,
+    "wof:lastmodified":1536877757,
+    "wof:name":"Mouki",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.34667,
+    9.31444,
+    -13.34667,
+    9.31444
+],
+  "geometry": {"coordinates":[-13.34667,9.31444],"type":"Point"}
+}

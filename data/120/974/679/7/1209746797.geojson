@@ -1,0 +1,68 @@
+{
+  "id": 1209746797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.7,9.75,-12.7,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":-12.7,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Koundaya",
+    "gn:country_code":"GN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418594,
+    "gn:latitude":9.75,
+    "gn:longitude":-12.7,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koundaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418594
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ee075eee13bafcacb33f011b3a203574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1209746797,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1209746797,
+    "wof:lastmodified":1536394610,
+    "wof:name":"Koundaya",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.7,
+    9.75,
+    -12.7,
+    9.75
+],
+  "geometry": {"coordinates":[-12.7,9.75],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310712281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23333,7.62028,-9.23333,7.62028",
+    "geom:latitude":7.62028,
+    "geom:longitude":-9.23333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Gpagaye",
+    "gn:country_code":"GN",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420579,
+    "gn:latitude":7.62028,
+    "gn:longitude":-9.23333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gpagaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671499,
+        421203701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420579
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3d5519ee8147c0bae99e51daf4dcb731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203701,
+            "locality_id":1310712281,
+            "region_id":85671499
+        }
+    ],
+    "wof:id":1310712281,
+    "wof:lastmodified":1536616192,
+    "wof:name":"Gpagaye",
+    "wof:parent_id":421203701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23333,
+    7.62028,
+    -9.23333,
+    7.62028
+],
+  "geometry": {"coordinates":[-9.23333,7.62028],"type":"Point"}
+}

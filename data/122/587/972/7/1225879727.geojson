@@ -1,0 +1,72 @@
+{
+  "id": 1225879727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.45,10.46667,-9.45,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-9.45,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Dalabani",
+    "gn:country_code":"GN",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422374,
+    "gn:latitude":10.46667,
+    "gn:longitude":-9.45,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dalabani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalaba",
+        "Dalabani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422374
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e7313706d613200527d31dc00303c9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1225879727,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1225879727,
+    "wof:lastmodified":1537623992,
+    "wof:name":"Dalabani",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45,
+    10.46667,
+    -9.45,
+    10.46667
+],
+  "geometry": {"coordinates":[-9.45,10.46667],"type":"Point"}
+}

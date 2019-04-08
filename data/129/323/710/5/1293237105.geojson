@@ -1,0 +1,68 @@
+{
+  "id": 1293237105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.91667,10.36667,-13.91667,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-13.91667,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Tamalan",
+    "gn:country_code":"GN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415091,
+    "gn:latitude":10.36667,
+    "gn:longitude":-13.91667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tamalan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415091
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"1bc2bcf7af90875b011e30dffb6b8542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1293237105,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1293237105,
+    "wof:lastmodified":1536650814,
+    "wof:name":"Tamalan",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.91667,
+    10.36667,
+    -13.91667,
+    10.36667
+],
+  "geometry": {"coordinates":[-13.91667,10.36667],"type":"Point"}
+}

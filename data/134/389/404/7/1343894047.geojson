@@ -1,0 +1,68 @@
+{
+  "id": 1343894047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4902,12.12639,-11.4902,12.12639",
+    "geom:latitude":12.12639,
+    "geom:longitude":-11.4902,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Tingueladji",
+    "gn:country_code":"GN",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414743,
+    "gn:latitude":12.12639,
+    "gn:longitude":-11.4902,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tingu\u00e9ladji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414743
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"70ebf97ab5c7605d9923829de4a74820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":1343894047,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1343894047,
+    "wof:lastmodified":1536615753,
+    "wof:name":"Tingueladji",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4902,
+    12.12639,
+    -11.4902,
+    12.12639
+],
+  "geometry": {"coordinates":[-11.4902,12.12639],"type":"Point"}
+}

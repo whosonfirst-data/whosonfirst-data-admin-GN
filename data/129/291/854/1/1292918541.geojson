@@ -1,0 +1,68 @@
+{
+  "id": 1292918541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18278,8.54167,-9.18278,8.54167",
+    "geom:latitude":8.54167,
+    "geom:longitude":-9.18278,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Bonkoguadou",
+    "gn:country_code":"GN",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422805,
+    "gn:latitude":8.54167,
+    "gn:longitude":-9.18278,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bonkoguadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422805
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0368f8e71f35574fd60e753c957831ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1292918541,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1292918541,
+    "wof:lastmodified":1536610477,
+    "wof:name":"Bonkoguadou",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18278,
+    8.54167,
+    -9.18278,
+    8.54167
+],
+  "geometry": {"coordinates":[-9.18278,8.54167],"type":"Point"}
+}

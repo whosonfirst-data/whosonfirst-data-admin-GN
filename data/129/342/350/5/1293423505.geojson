@@ -1,0 +1,68 @@
+{
+  "id": 1293423505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.65,10.3,-9.65,10.3",
+    "geom:latitude":10.3,
+    "geom:longitude":-9.65,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Landi Koro",
+    "gn:country_code":"GN",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418303,
+    "gn:latitude":10.3,
+    "gn:longitude":-9.65,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Landi Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418303
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e4a3d6aba7d0e0765d84338a2d9aee1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1293423505,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1293423505,
+    "wof:lastmodified":1536878548,
+    "wof:name":"Landi Koro",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.65,
+    10.3,
+    -9.65,
+    10.3
+],
+  "geometry": {"coordinates":[-9.65,10.3],"type":"Point"}
+}

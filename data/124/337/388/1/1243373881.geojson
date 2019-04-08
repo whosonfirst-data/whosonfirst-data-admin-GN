@@ -1,0 +1,68 @@
+{
+  "id": 1243373881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63333,7.73333,-8.63333,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":-8.63333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Kotodzou",
+    "gn:country_code":"GN",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418802,
+    "gn:latitude":7.73333,
+    "gn:longitude":-8.63333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kotodzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418802
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"afe8e99bca58507aed4bda0456988508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1243373881,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1243373881,
+    "wof:lastmodified":1536910475,
+    "wof:name":"Kotodzou",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63333,
+    7.73333,
+    -8.63333,
+    7.73333
+],
+  "geometry": {"coordinates":[-8.63333,7.73333],"type":"Point"}
+}

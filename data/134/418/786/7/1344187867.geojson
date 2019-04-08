@@ -1,0 +1,68 @@
+{
+  "id": 1344187867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.85,11.13333,-12.85,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":-12.85,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Vendou Feto",
+    "gn:country_code":"GN",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414408,
+    "gn:latitude":11.13333,
+    "gn:longitude":-12.85,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Vendou F\u00e9to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671503,
+        421180037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414408
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"baa109fda5a3de70df39a316bce66972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421180037,
+            "locality_id":1344187867,
+            "region_id":85671503
+        }
+    ],
+    "wof:id":1344187867,
+    "wof:lastmodified":1536692018,
+    "wof:name":"Vendou Feto",
+    "wof:parent_id":421180037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.85,
+    11.13333,
+    -12.85,
+    11.13333
+],
+  "geometry": {"coordinates":[-12.85,11.13333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327462655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.8703,12.1148,-12.8703,12.1148",
+    "geom:latitude":12.1148,
+    "geom:longitude":-12.8703,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Boki",
+    "gn:country_code":"GN",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422921,
+    "gn:latitude":12.1148,
+    "gn:longitude":-12.8703,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671413,
+        421191557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422921
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2a6266811ee4461be27c5d7d002164d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191557,
+            "locality_id":1327462655,
+            "region_id":85671413
+        }
+    ],
+    "wof:id":1327462655,
+    "wof:lastmodified":1536635988,
+    "wof:name":"Boki",
+    "wof:parent_id":421191557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.8703,
+    12.1148,
+    -12.8703,
+    12.1148
+],
+  "geometry": {"coordinates":[-12.8703,12.1148],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310629579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02083,8.95833,-9.02083,8.95833",
+    "geom:latitude":8.95833,
+    "geom:longitude":-9.02083,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Fereboridougou",
+    "gn:country_code":"GN",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421135,
+    "gn:latitude":8.95833,
+    "gn:longitude":-9.02083,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"F\u00e8r\u00e9boridougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421135
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7c1bccffaf8705bc338c042b5a7a5e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1310629579,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1310629579,
+    "wof:lastmodified":1536737990,
+    "wof:name":"Fereboridougou",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02083,
+    8.95833,
+    -9.02083,
+    8.95833
+],
+  "geometry": {"coordinates":[-9.02083,8.95833],"type":"Point"}
+}

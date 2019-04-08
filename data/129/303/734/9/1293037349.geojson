@@ -1,0 +1,68 @@
+{
+  "id": 1293037349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.06667,10.15,-11.06667,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-11.06667,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Layadi",
+    "gn:country_code":"GN",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418271,
+    "gn:latitude":10.15,
+    "gn:longitude":-11.06667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Layadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418271
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3f76723ccba09c11f492bd3ec6a7b6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1293037349,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1293037349,
+    "wof:lastmodified":1536939742,
+    "wof:name":"Layadi",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.06667,
+    10.15,
+    -11.06667,
+    10.15
+],
+  "geometry": {"coordinates":[-11.06667,10.15],"type":"Point"}
+}

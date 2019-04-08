@@ -1,0 +1,77 @@
+{
+  "id": 1343989015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.35,10.23333,-14.35,10.23333",
+    "geom:latitude":10.23333,
+    "geom:longitude":-14.35,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Doupourou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421563,
+    "gn:latitude":10.23333,
+    "gn:longitude":-14.35,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Doupourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deporou",
+        "Dopru",
+        "Dupourou",
+        "Douprou",
+        "Doupourou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671363,
+        421199269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421563,
+        "wk:page":"Douprou"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"856064930b25e9ca94ec830534e23eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199269,
+            "locality_id":1343989015,
+            "region_id":85671363
+        }
+    ],
+    "wof:id":1343989015,
+    "wof:lastmodified":1537623984,
+    "wof:name":"Doupourou",
+    "wof:parent_id":421199269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.35,
+    10.23333,
+    -14.35,
+    10.23333
+],
+  "geometry": {"coordinates":[-14.35,10.23333],"type":"Point"}
+}

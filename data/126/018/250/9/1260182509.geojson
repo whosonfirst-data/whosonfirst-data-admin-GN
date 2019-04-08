@@ -1,0 +1,70 @@
+{
+  "id": 1260182509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.64611,9.61167,-13.64611,9.61167",
+    "geom:latitude":9.61167,
+    "geom:longitude":-13.64611,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kaporo",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419897,
+    "gn:latitude":9.61167,
+    "gn:longitude":-13.64611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaporo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katoro",
+        "Kaporo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419897
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5238359c33cf9d674bc6b860930aaf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "locality_id":1260182509,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1260182509,
+    "wof:lastmodified":1537623965,
+    "wof:name":"Kaporo",
+    "wof:parent_id":85671395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.64611,
+    9.61167,
+    -13.64611,
+    9.61167
+],
+  "geometry": {"coordinates":[-13.64611,9.61167],"type":"Point"}
+}

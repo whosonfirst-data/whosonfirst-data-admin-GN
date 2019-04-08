@@ -1,0 +1,68 @@
+{
+  "id": 1242714703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.73333,9.53333,-12.73333,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":-12.73333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Santhia",
+    "gn:country_code":"GN",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416003,
+    "gn:latitude":9.53333,
+    "gn:longitude":-12.73333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Santhia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416003
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ac3dbf08d6674bfc7e0777829a1a0a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1242714703,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1242714703,
+    "wof:lastmodified":1536864878,
+    "wof:name":"Santhia",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.73333,
+    9.53333,
+    -12.73333,
+    9.53333
+],
+  "geometry": {"coordinates":[-12.73333,9.53333],"type":"Point"}
+}

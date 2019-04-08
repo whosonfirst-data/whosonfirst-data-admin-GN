@@ -1,0 +1,68 @@
+{
+  "id": 1276480677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25,9.55,-9.25,9.55",
+    "geom:latitude":9.55,
+    "geom:longitude":-9.25,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Korakoro",
+    "gn:country_code":"GN",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418884,
+    "gn:latitude":9.55,
+    "gn:longitude":-9.25,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Korakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418884
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"723f3b3941834b09e5d0670eeb0cd75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1276480677,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1276480677,
+    "wof:lastmodified":1537075410,
+    "wof:name":"Korakoro",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25,
+    9.55,
+    -9.25,
+    9.55
+],
+  "geometry": {"coordinates":[-9.25,9.55],"type":"Point"}
+}

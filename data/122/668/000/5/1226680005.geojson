@@ -1,0 +1,72 @@
+{
+  "id": 1226680005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31016,12.00573,-11.31016,12.00573",
+    "geom:latitude":12.00573,
+    "geom:longitude":-11.31016,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Koravane",
+    "gn:country_code":"GN",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419642,
+    "gn:latitude":12.00573,
+    "gn:longitude":-11.31016,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koravan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9ravan\u00e9",
+        "Koravan\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671497,
+        1108784627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419642
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"22a290711d45b2a1e078166341a5ca44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784627,
+            "locality_id":1226680005,
+            "region_id":85671497
+        }
+    ],
+    "wof:id":1226680005,
+    "wof:lastmodified":1537623961,
+    "wof:name":"Koravane",
+    "wof:parent_id":1108784627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31016,
+    12.00573,
+    -11.31016,
+    12.00573
+],
+  "geometry": {"coordinates":[-11.31016,12.00573],"type":"Point"}
+}

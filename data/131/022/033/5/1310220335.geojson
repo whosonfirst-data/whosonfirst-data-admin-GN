@@ -1,0 +1,68 @@
+{
+  "id": 1310220335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23333,8.41667,-8.23333,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":-8.23333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Koyamorodougou",
+    "gn:country_code":"GN",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418395,
+    "gn:latitude":8.41667,
+    "gn:longitude":-8.23333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koyamorodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632449,
+        85669863,
+        1108785043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418395
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3dcc224ce11b73b6aabbff9dd9084aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785043,
+            "locality_id":1310220335,
+            "region_id":85669863
+        }
+    ],
+    "wof:id":1310220335,
+    "wof:lastmodified":1536829802,
+    "wof:name":"Koyamorodougou",
+    "wof:parent_id":1108785043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23333,
+    8.41667,
+    -8.23333,
+    8.41667
+],
+  "geometry": {"coordinates":[-8.23333,8.41667],"type":"Point"}
+}

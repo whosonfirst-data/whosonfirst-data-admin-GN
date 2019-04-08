@@ -1,0 +1,73 @@
+{
+  "id": 1225880809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.10528,9.79639,-13.10528,9.79639",
+    "geom:latitude":9.79639,
+    "geom:longitude":-13.10528,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Mema",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592743,
+    "gn:latitude":9.79639,
+    "gn:longitude":-13.10528,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"M\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mena",
+        "M\u00e9ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592743
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9638aa4c4cb2ebfd9df9b51ed4f970cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1225880809,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1225880809,
+    "wof:lastmodified":1537624006,
+    "wof:name":"Mema",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.10528,
+    9.79639,
+    -13.10528,
+    9.79639
+],
+  "geometry": {"coordinates":[-13.10528,9.79639],"type":"Point"}
+}

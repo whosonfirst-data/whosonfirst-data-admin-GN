@@ -1,0 +1,73 @@
+{
+  "id": 1259502265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.66667,9.05,-8.66667,9.05",
+    "geom:latitude":9.05,
+    "geom:longitude":-8.66667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Sinedougou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415637,
+    "gn:latitude":9.05,
+    "gn:longitude":-8.66667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Sin\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9n\u00e9dougou",
+        "Sin\u00e9dougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415637
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"c605d622fcf3b070720edd9e2c5f11de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1259502265,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1259502265,
+    "wof:lastmodified":1537623924,
+    "wof:name":"Sinedougou",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66667,
+    9.05,
+    -8.66667,
+    9.05
+],
+  "geometry": {"coordinates":[-8.66667,9.05],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326936497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.67306,9.55111,-13.67306,9.55111",
+    "geom:latitude":9.55111,
+    "geom:longitude":-13.67306,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dixinn",
+    "gn:country_code":"GN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421820,
+    "gn:latitude":9.55111,
+    "gn:longitude":-13.67306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dixinn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421191023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421820,
+        "wk:page":"Dixinn"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"7ae6df16ca0e9b5276b3ac2debc17ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191023,
+            "locality_id":1326936497,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1326936497,
+    "wof:lastmodified":1537563081,
+    "wof:name":"Dixinn",
+    "wof:parent_id":421191023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.67306,
+    9.55111,
+    -13.67306,
+    9.55111
+],
+  "geometry": {"coordinates":[-13.67306,9.55111],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226074465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.61667,9.43333,-9.61667,9.43333",
+    "geom:latitude":9.43333,
+    "geom:longitude":-9.61667,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Sibirikoya",
+    "gn:country_code":"GN",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2415727,
+    "gn:latitude":9.43333,
+    "gn:longitude":-9.61667,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Sibirikoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2415727
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"055c1e3d1933e6252389b6bdd62c601a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1226074465,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1226074465,
+    "wof:lastmodified":1536683834,
+    "wof:name":"Sibirikoya",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61667,
+    9.43333,
+    -9.61667,
+    9.43333
+],
+  "geometry": {"coordinates":[-9.61667,9.43333],"type":"Point"}
+}

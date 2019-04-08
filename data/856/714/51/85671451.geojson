@@ -1,0 +1,279 @@
+{
+  "id": 85671451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.169177,
+    "geom:area_square_m":2050437987.616956,
+    "geom:bbox":"-12.5256672089,11.1484154317,-12.0554860094,11.7277721315",
+    "geom:latitude":11.425507,
+    "geom:longitude":-12.335601,
+    "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Lab\u00e9 Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
+    "lbl:latitude":11.409119,
+    "lbl:longitude":-12.331123,
+    "mps:latitude":11.409119,
+    "mps:longitude":-12.331123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0627\u0628\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09ac\u09bf \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09bf\u0995 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u8c9d\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Lab\u00e9 Prefecture"
+    ],
+    "name:dut_x_preferred":[
+        "Lab\u00e9 Prefecture"
+    ],
+    "name:eng_x_preferred":[
+        "Lab\u00e9"
+    ],
+    "name:fin_x_preferred":[
+        "Lab\u00e9n prefektuuri"
+    ],
+    "name:fra_x_colloquial":[
+        "Labe"
+    ],
+    "name:fra_x_preferred":[
+        "Lab\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "pr\u00e9fecture de Lab\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Lab\u00e9"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03bc\u03c0\u03ad"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe\u0aac\u0ac7 \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u092c\u0947 \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Prefektur Lab\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Prefettura di Lab\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0ccd\u0caf\u0cbe\u0cac\u0ccd \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubca0 \uc9c0\ubc29 \ud589\uc815 \uad6c\uc5ed"
+    ],
+    "name:lav_x_preferred":[
+        "Labes prefekt\u016bra"
+    ],
+    "name:lit_x_preferred":[
+        "Lab\u0117s prefekt\u016bra"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0945\u092c\u0947 \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Labe Prefecture"
+    ],
+    "name:nob_x_preferred":[
+        "Lab\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Prefektura Lab\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Lab\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u0430\u0431\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0db6\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Lab\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Labe Prefecture"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0baa\u0bc7  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c2c\u0c46 \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e40\u0e1a \u0e1e\u0e23\u0e35\u0e40\u0e1f\u0e04\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Lab\u00e9 Prefecture"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0431\u0435"
+    ],
+    "name:unk_x_variant":[
+        "R\u00e9gion Administrative de Lab\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0628\u06cc \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Lab\u00e9"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"GIN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"GIN-5648",
+    "ne:adm1_code":"GIN-5648",
+    "ne:admin":"Guinea",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"13",
+    "ne:code_hasc":"GN.LA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"5648",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"GV34",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Guinea",
+    "ne:gn_a1_code":"GN.34",
+    "ne:gn_id":"2418360",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Labe Prefecture",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"GV34",
+    "ne:gns_id":"-1182510",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Labe",
+    "ne:gns_region":"",
+    "ne:gu_a3":"GIN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"GN-",
+    "ne:iso_a2":"GN",
+    "ne:labelrank":"7",
+    "ne:latitude":"11.51500000000",
+    "ne:longitude":"-12.34040000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":7,
+    "ne:name":"Lab\u00e9",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Lab\u00e9",
+    "ne:region_cod":"GN.L",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"GIN",
+    "ne:sub_code":"",
+    "ne:type":"Pr\u00e9fecture",
+    "ne:type_en":"Prefecture",
+    "ne:wikipedia":"",
+    "ne:woe_id":-56059374,
+    "ne:woe_label":"",
+    "ne:woe_name":"Lab\u00e9",
+    "qs:a0":"Guinea",
+    "qs:a0_lc":"GN",
+    "qs:a1":"Lab\u00e9",
+    "qs:a1_lc":"GIN-5648",
+    "qs:a1r":"Lab\u00e9",
+    "qs:a1r_lc":"GN.L",
+    "qs:adm0":"Guinea",
+    "qs:adm0_a3":"GIN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Prefecture",
+    "qs:woeid":56059374,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-03-01",
+    "statoids:area_km":"3014",
+    "statoids:area_mi":"1164",
+    "statoids:as_of_date":"2014-03-01",
+    "statoids:capital":"Lab\u00e9",
+    "statoids:country":"GN",
+    "statoids:gec":"GV34",
+    "statoids:hasc":"GN.LA",
+    "statoids:iso":"LA",
+    "statoids:name":"Lab\u00e9",
+    "statoids:population":"318938",
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
+    "wof:belongsto":[
+        102191573,
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"GV34",
+        "gn:id":2418360,
+        "gp:id":-56059374,
+        "hasc:id":"GN.LA",
+        "iso:id":"GN-LA",
+        "wd:id":"Q1781303"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5f7f4b3557034acd408d9d4e394c6580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "region_id":85671451
+        }
+    ],
+    "wof:id":85671451,
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1553550369,
+    "wof:name":"Lab\u00e9",
+    "wof:parent_id":85632691,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"prefecture",
+    "wof:population":318938,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:shortcode":"LA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.52566720887455,
+    11.14841543172685,
+    -12.0554860093718,
+    11.72777213147873
+],
+  "geometry": {"coordinates":[[[-12.0554860093718,11.29101654707603],[-12.06243648905269,11.29047394471684],[-12.0693094552671,11.29101654707603],[-12.07496802375522,11.29380707413719],[-12.08574256017096,11.3033413762036],[-12.09282223106106,11.3059768745332],[-12.1047078106169,11.30264374421347],[-12.12183854841021,11.29303192778127],[-12.23540573228865,11.26646037784423],[-12.25438859685619,11.19642283794366],[-12.36564795578846,11.15988760013266],[-12.41634253627899,11.14841543172685],[-12.43786576978943,11.15182607731168],[-12.46137854738203,11.15942251213926],[-12.46817399743202,11.16298818645566],[-12.47770829859905,11.16949941746418],[-12.48155819285626,11.17306508998195],[-12.48473629444436,11.17805186580102],[-12.48701005666874,11.18471812644043],[-12.48773352708054,11.19526011796012],[-12.486570807097,11.20947113748304],[-12.48672583672794,11.21536224996794],[-12.48850867433583,11.22412140477905],[-12.49750037314368,11.2543779573769],[-12.5083524239252,11.27835582116427],[-12.52566720887455,11.29920631501949],[-12.5217163603217,11.38360620336363],[-12.50669432318443,11.42867231657419],[-12.49167228514779,11.48575605859526],[-12.46162821087319,11.51279572634172],[-12.46162821087319,11.57889269154452],[-12.47665024801051,11.62996761871068],[-12.50669432318443,11.65700728645714],[-12.5005774754701,11.72567757446052],[-12.31747004620564,11.72777213147873],[-12.29939020529372,11.67803813844938],[-12.23930205584514,11.59391472868185],[-12.15343176966041,11.47394440331163],[-12.10410371801214,11.39862824140027],[-12.06805082798326,11.36257535137139],[-12.06204201312835,11.32652246134256],[-12.0554860093718,11.29101654707603]]],"type":"Polygon"}
+}

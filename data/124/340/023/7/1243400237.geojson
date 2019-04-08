@@ -1,0 +1,68 @@
+{
+  "id": 1243400237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.37694,9.38944,-13.37694,9.38944",
+    "geom:latitude":9.38944,
+    "geom:longitude":-13.37694,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Kissouki",
+    "gn:country_code":"GN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592831,
+    "gn:latitude":9.38944,
+    "gn:longitude":-13.37694,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kissouki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592831
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"18e80def50cc4b3db3568d56f20473ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1243400237,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1243400237,
+    "wof:lastmodified":1536871086,
+    "wof:name":"Kissouki",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.37694,
+    9.38944,
+    -13.37694,
+    9.38944
+],
+  "geometry": {"coordinates":[-13.37694,9.38944],"type":"Point"}
+}

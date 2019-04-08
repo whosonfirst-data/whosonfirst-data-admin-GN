@@ -1,0 +1,74 @@
+{
+  "id": 1310036887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.63333,10.15,-13.63333,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-13.63333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Kolakhoure",
+    "gn:country_code":"GN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419236,
+    "gn:latitude":10.15,
+    "gn:longitude":-13.63333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kolakhour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolakoura",
+        "Keulakairi",
+        "Kolakour\u00e9",
+        "Kolakhour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419236
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cbf5c23da260f182ecb74eabe688ac88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1310036887,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1310036887,
+    "wof:lastmodified":1537623958,
+    "wof:name":"Kolakhoure",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.63333,
+    10.15,
+    -13.63333,
+    10.15
+],
+  "geometry": {"coordinates":[-13.63333,10.15],"type":"Point"}
+}

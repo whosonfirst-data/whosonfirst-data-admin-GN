@@ -1,0 +1,68 @@
+{
+  "id": 1276159733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.55,9.15,-10.55,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":-10.55,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Waladou",
+    "gn:country_code":"GN",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414387,
+    "gn:latitude":9.15,
+    "gn:longitude":-10.55,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Waladou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671399,
+        421188473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414387
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"440d25ebed98e109b430e8501329d86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188473,
+            "locality_id":1276159733,
+            "region_id":85671399
+        }
+    ],
+    "wof:id":1276159733,
+    "wof:lastmodified":1537010693,
+    "wof:name":"Waladou",
+    "wof:parent_id":421188473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.55,
+    9.15,
+    -10.55,
+    9.15
+],
+  "geometry": {"coordinates":[-10.55,9.15],"type":"Point"}
+}

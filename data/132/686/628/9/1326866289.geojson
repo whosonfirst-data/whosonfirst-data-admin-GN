@@ -1,0 +1,68 @@
+{
+  "id": 1326866289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.49327,12.04305,-11.49327,12.04305",
+    "geom:latitude":12.04305,
+    "geom:longitude":-11.49327,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Kenndi",
+    "gn:country_code":"GN",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419652,
+    "gn:latitude":12.04305,
+    "gn:longitude":-11.49327,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kenndi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419652
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"daab04e7f9eca54dd3fcabfbf87880eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":1326866289,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1326866289,
+    "wof:lastmodified":1536998880,
+    "wof:name":"Kenndi",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.49327,
+    12.04305,
+    -11.49327,
+    12.04305
+],
+  "geometry": {"coordinates":[-11.49327,12.04305],"type":"Point"}
+}

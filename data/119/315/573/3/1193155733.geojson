@@ -1,0 +1,72 @@
+{
+  "id": 1193155733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78333,8.03333,-8.78333,8.03333",
+    "geom:latitude":8.03333,
+    "geom:longitude":-8.78333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Oulela",
+    "gn:country_code":"GN",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416767,
+    "gn:latitude":8.03333,
+    "gn:longitude":-8.78333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Oul\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouleta",
+        "Oul\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671483,
+        890455259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416767
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"661d8c1f6ec01e03ec582be79a6c947f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455259,
+            "locality_id":1193155733,
+            "region_id":85671483
+        }
+    ],
+    "wof:id":1193155733,
+    "wof:lastmodified":1537623933,
+    "wof:name":"Oulela",
+    "wof:parent_id":890455259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78333,
+    8.03333,
+    -8.78333,
+    8.03333
+],
+  "geometry": {"coordinates":[-8.78333,8.03333],"type":"Point"}
+}

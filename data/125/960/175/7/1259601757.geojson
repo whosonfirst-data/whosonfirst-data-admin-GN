@@ -1,0 +1,68 @@
+{
+  "id": 1259601757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50389,7.59056,-8.50389,7.59056",
+    "geom:latitude":7.59056,
+    "geom:longitude":-8.50389,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Tuo",
+    "gn:country_code":"GN",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414448,
+    "gn:latitude":7.59056,
+    "gn:longitude":-8.50389,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414448
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"aa530bfb0aac016190d4162149be170c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1259601757,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1259601757,
+    "wof:lastmodified":1536688549,
+    "wof:name":"Tuo",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50389,
+    7.59056,
+    -8.50389,
+    7.59056
+],
+  "geometry": {"coordinates":[-8.50389,7.59056],"type":"Point"}
+}

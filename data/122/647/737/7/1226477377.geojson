@@ -1,0 +1,72 @@
+{
+  "id": 1226477377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63333,9.28333,-9.63333,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":-9.63333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Banbadou",
+    "gn:country_code":"GN",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423555,
+    "gn:latitude":9.28333,
+    "gn:longitude":-9.63333,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Banbadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bambadou",
+        "Banbadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671425,
+        421184459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423555
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"71e03674ba083894232d78eac42633da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421184459,
+            "locality_id":1226477377,
+            "region_id":85671425
+        }
+    ],
+    "wof:id":1226477377,
+    "wof:lastmodified":1537624001,
+    "wof:name":"Banbadou",
+    "wof:parent_id":421184459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63333,
+    9.28333,
+    -9.63333,
+    9.28333
+],
+  "geometry": {"coordinates":[-9.63333,9.28333],"type":"Point"}
+}

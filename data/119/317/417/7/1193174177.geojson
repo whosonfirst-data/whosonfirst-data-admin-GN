@@ -1,0 +1,73 @@
+{
+  "id": 1193174177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.25,11.58333,-13.25,11.58333",
+    "geom:latitude":11.58333,
+    "geom:longitude":-13.25,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Ouantan",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416849,
+    "gn:latitude":11.58333,
+    "gn:longitude":-13.25,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ouantan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quantan",
+        "Ouantan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671413,
+        421191557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416849
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"de9961b59aac2fa9f53a8182549cdea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191557,
+            "locality_id":1193174177,
+            "region_id":85671413
+        }
+    ],
+    "wof:id":1193174177,
+    "wof:lastmodified":1537623934,
+    "wof:name":"Ouantan",
+    "wof:parent_id":421191557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.25,
+    11.58333,
+    -13.25,
+    11.58333
+],
+  "geometry": {"coordinates":[-13.25,11.58333],"type":"Point"}
+}

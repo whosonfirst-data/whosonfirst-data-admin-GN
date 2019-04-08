@@ -1,0 +1,62 @@
+{
+  "id": 1209649219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2128,12.0602,-12.2128,12.0602",
+    "geom:latitude":12.0602,
+    "geom:longitude":-12.2128,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Wawa",
+    "gn:country_code":"GN",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414349,
+    "gn:latitude":12.0602,
+    "gn:longitude":-12.2128,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Wawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414349
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d1d6e87e9026402de0275d3fa1ab753d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209649219
+        }
+    ],
+    "wof:id":1209649219,
+    "wof:lastmodified":1536280634,
+    "wof:name":"Wawa",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2128,
+    12.0602,
+    -12.2128,
+    12.0602
+],
+  "geometry": {"coordinates":[-12.2128,12.0602],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310024467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46028,8.72,-9.46028,8.72",
+    "geom:latitude":8.72,
+    "geom:longitude":-9.46028,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Diorodougou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421857,
+    "gn:latitude":8.72,
+    "gn:longitude":-9.46028,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diorodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diaradou",
+        "Diorodugu",
+        "Diorodougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421857
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"f439d208f6e05c1758736b60363023a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1310024467,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1310024467,
+    "wof:lastmodified":1537623987,
+    "wof:name":"Diorodougou",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46028,
+    8.72,
+    -9.46028,
+    8.72
+],
+  "geometry": {"coordinates":[-9.46028,8.72],"type":"Point"}
+}

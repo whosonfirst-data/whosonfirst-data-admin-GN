@@ -1,0 +1,68 @@
+{
+  "id": 1343992083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98333,11.13333,-9.98333,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":-9.98333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Banisiraila",
+    "gn:country_code":"GN",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423464,
+    "gn:latitude":11.13333,
+    "gn:longitude":-9.98333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Banisira\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671447,
+        421203655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423464
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"cb0e53db95c8e7d2932f3eface3de557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203655,
+            "locality_id":1343992083,
+            "region_id":85671447
+        }
+    ],
+    "wof:id":1343992083,
+    "wof:lastmodified":1536973909,
+    "wof:name":"Banisiraila",
+    "wof:parent_id":421203655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98333,
+    11.13333,
+    -9.98333,
+    11.13333
+],
+  "geometry": {"coordinates":[-9.98333,11.13333],"type":"Point"}
+}

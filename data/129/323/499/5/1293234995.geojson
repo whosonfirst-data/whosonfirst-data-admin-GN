@@ -1,0 +1,73 @@
+{
+  "id": 1293234995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.36667,11.91667,-11.36667,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":-11.36667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Nieborassi",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417120,
+    "gn:latitude":11.91667,
+    "gn:longitude":-11.36667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Ni\u00e9borassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nibrassi",
+        "Ni\u00e9borassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671497,
+        1108784627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417120
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"981dd7be2bff178b3736f1f49d37c880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784627,
+            "locality_id":1293234995,
+            "region_id":85671497
+        }
+    ],
+    "wof:id":1293234995,
+    "wof:lastmodified":1537623937,
+    "wof:name":"Nieborassi",
+    "wof:parent_id":1108784627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.36667,
+    11.91667,
+    -11.36667,
+    11.91667
+],
+  "geometry": {"coordinates":[-11.36667,11.91667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293231531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4,12.15,-10.4,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-10.4,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"07",
+    "gn:asciiname":"Bereta",
+    "gn:country_code":"GN",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423152,
+    "gn:latitude":12.15,
+    "gn:longitude":-10.4,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"B\u00e9r\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423152
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b8780edb06875caf3b7d26cc9038e2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1293231531,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1293231531,
+    "wof:lastmodified":1536659258,
+    "wof:name":"Bereta",
+    "wof:parent_id":421198015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4,
+    12.15,
+    -10.4,
+    12.15
+],
+  "geometry": {"coordinates":[-10.4,12.15],"type":"Point"}
+}

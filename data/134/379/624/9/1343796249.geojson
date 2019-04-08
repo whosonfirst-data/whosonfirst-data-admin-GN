@@ -1,0 +1,68 @@
+{
+  "id": 1343796249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.47694,9.85333,-13.47694,9.85333",
+    "geom:latitude":9.85333,
+    "geom:longitude":-13.47694,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Youmaya",
+    "gn:country_code":"GN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592703,
+    "gn:latitude":9.85333,
+    "gn:longitude":-13.47694,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Youmaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592703
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"758e61e026cb989422b27354c10a59e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1343796249,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1343796249,
+    "wof:lastmodified":1536759523,
+    "wof:name":"Youmaya",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.47694,
+    9.85333,
+    -13.47694,
+    9.85333
+],
+  "geometry": {"coordinates":[-13.47694,9.85333],"type":"Point"}
+}

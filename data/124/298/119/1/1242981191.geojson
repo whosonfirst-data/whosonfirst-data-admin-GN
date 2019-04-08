@@ -1,0 +1,68 @@
+{
+  "id": 1242981191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20944,7.89306,-9.20944,7.89306",
+    "geom:latitude":7.89306,
+    "geom:longitude":-9.20944,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Djoue",
+    "gn:country_code":"GN",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421789,
+    "gn:latitude":7.89306,
+    "gn:longitude":-9.20944,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Djou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421789
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"905ca46d041541b5222a1cc02a2209ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1242981191,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1242981191,
+    "wof:lastmodified":1536978615,
+    "wof:name":"Djoue",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20944,
+    7.89306,
+    -9.20944,
+    7.89306
+],
+  "geometry": {"coordinates":[-9.20944,7.89306],"type":"Point"}
+}

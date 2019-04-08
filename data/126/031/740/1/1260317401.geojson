@@ -1,0 +1,68 @@
+{
+  "id": 1260317401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65,9.91667,-8.65,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":-8.65,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Timoulouteko",
+    "gn:country_code":"GN",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414755,
+    "gn:latitude":9.91667,
+    "gn:longitude":-8.65,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Timoulout\u00e9ko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414755
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e843f2ab6933f92947f6f5eac6fd3ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1260317401,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1260317401,
+    "wof:lastmodified":1536666528,
+    "wof:name":"Timoulouteko",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65,
+    9.91667,
+    -8.65,
+    9.91667
+],
+  "geometry": {"coordinates":[-8.65,9.91667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293230967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4466,12.0662,-12.4466,12.0662",
+    "geom:latitude":12.0662,
+    "geom:longitude":-12.4466,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Moridinnpi",
+    "gn:country_code":"GN",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2417448,
+    "gn:latitude":12.0662,
+    "gn:longitude":-12.4466,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Moridinnpi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2417448
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"a73534029b77568babac995b4cea38d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1293230967,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293230967,
+    "wof:lastmodified":1536660065,
+    "wof:name":"Moridinnpi",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4466,
+    12.0662,
+    -12.4466,
+    12.0662
+],
+  "geometry": {"coordinates":[-12.4466,12.0662],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242808345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.2,9.11667,-13.2,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-13.2,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Karankone",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419873,
+    "gn:latitude":9.11667,
+    "gn:longitude":-13.2,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Karankon\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karonkone",
+        "Karankon\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419873
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"451b5bf369cb5969fa6b789c18192bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1242808345,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1242808345,
+    "wof:lastmodified":1537623965,
+    "wof:name":"Karankone",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.2,
+    9.11667,
+    -13.2,
+    9.11667
+],
+  "geometry": {"coordinates":[-13.2,9.11667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259718357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.33333,10.28333,-13.33333,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":-13.33333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Kambamaleya",
+    "gn:country_code":"GN",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420106,
+    "gn:latitude":10.28333,
+    "gn:longitude":-13.33333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kambamal\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamba",
+        "Kambamal\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420106
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d5c110bbc2d0236227e65ebd89c2b64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1259718357,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1259718357,
+    "wof:lastmodified":1537623968,
+    "wof:name":"Kambamaleya",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.33333,
+    10.28333,
+    -13.33333,
+    10.28333
+],
+  "geometry": {"coordinates":[-13.33333,10.28333],"type":"Point"}
+}

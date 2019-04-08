@@ -1,0 +1,62 @@
+{
+  "id": 1209633861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51667,8.61667,-8.51667,8.61667",
+    "geom:latitude":8.61667,
+    "geom:longitude":-8.51667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Saniola",
+    "gn:country_code":"GN",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2416056,
+    "gn:latitude":8.61667,
+    "gn:longitude":-8.51667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Saniola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2416056
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"03e3d3581234403890027fa0de744792",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209633861
+        }
+    ],
+    "wof:id":1209633861,
+    "wof:lastmodified":1536281104,
+    "wof:name":"Saniola",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51667,
+    8.61667,
+    -8.51667,
+    8.61667
+],
+  "geometry": {"coordinates":[-8.51667,8.61667],"type":"Point"}
+}

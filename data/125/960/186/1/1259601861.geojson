@@ -1,0 +1,68 @@
+{
+  "id": 1259601861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88333,8.53333,-8.88333,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":-8.88333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Garagba",
+    "gn:country_code":"GN",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420823,
+    "gn:latitude":8.53333,
+    "gn:longitude":-8.88333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Garagba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671361,
+        421199661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420823
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"dfffd4cf25cde2589b13c9781b4409c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199661,
+            "locality_id":1259601861,
+            "region_id":85671361
+        }
+    ],
+    "wof:id":1259601861,
+    "wof:lastmodified":1536688390,
+    "wof:name":"Garagba",
+    "wof:parent_id":421199661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88333,
+    8.53333,
+    -8.88333,
+    8.53333
+],
+  "geometry": {"coordinates":[-8.88333,8.53333],"type":"Point"}
+}

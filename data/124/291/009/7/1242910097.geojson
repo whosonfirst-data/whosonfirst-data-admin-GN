@@ -1,0 +1,68 @@
+{
+  "id": 1242910097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9727,12.2164,-12.9727,12.2164",
+    "geom:latitude":12.2164,
+    "geom:longitude":-12.9727,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Tiankounbere",
+    "gn:country_code":"GN",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414844,
+    "gn:latitude":12.2164,
+    "gn:longitude":-12.9727,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Tiankounb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671443,
+        421203703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414844
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"dfc0a2bed5c373ce5585787c67c3bd9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203703,
+            "locality_id":1242910097,
+            "region_id":85671443
+        }
+    ],
+    "wof:id":1242910097,
+    "wof:lastmodified":1537078568,
+    "wof:name":"Tiankounbere",
+    "wof:parent_id":421203703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9727,
+    12.2164,
+    -12.9727,
+    12.2164
+],
+  "geometry": {"coordinates":[-12.9727,12.2164],"type":"Point"}
+}

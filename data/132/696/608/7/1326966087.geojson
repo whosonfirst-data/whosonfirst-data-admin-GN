@@ -1,0 +1,74 @@
+{
+  "id": 1326966087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.2,9.11667,-10.2,9.11667",
+    "geom:latitude":9.11667,
+    "geom:longitude":-10.2,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Bendi Koro",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423209,
+    "gn:latitude":9.11667,
+    "gn:longitude":-10.2,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bendi Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9ninkoro",
+        "Geninkoro",
+        "Bendi Koro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423209
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"d07fea285c566094dca8e9c6e00dba55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1326966087,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1326966087,
+    "wof:lastmodified":1537623999,
+    "wof:name":"Bendi Koro",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.2,
+    9.11667,
+    -10.2,
+    9.11667
+],
+  "geometry": {"coordinates":[-10.2,9.11667],"type":"Point"}
+}

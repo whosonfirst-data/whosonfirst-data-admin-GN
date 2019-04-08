@@ -1,0 +1,62 @@
+{
+  "id": 1209551587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98333,11.8,-8.98333,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-8.98333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Dogole",
+    "gn:country_code":"GN",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421770,
+    "gn:latitude":11.8,
+    "gn:longitude":-8.98333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dogol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421770
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"992635c8ef94211a6bf8bcf70f716a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209551587
+        }
+    ],
+    "wof:id":1209551587,
+    "wof:lastmodified":1536283676,
+    "wof:name":"Dogole",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98333,
+    11.8,
+    -8.98333,
+    11.8
+],
+  "geometry": {"coordinates":[-8.98333,11.8],"type":"Point"}
+}

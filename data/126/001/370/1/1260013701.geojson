@@ -1,0 +1,73 @@
+{
+  "id": 1260013701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.56056,9.90167,-13.56056,9.90167",
+    "geom:latitude":9.90167,
+    "geom:longitude":-13.56056,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Khoniya",
+    "gn:country_code":"GN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419584,
+    "gn:latitude":9.90167,
+    "gn:longitude":-13.56056,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Khoniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kon\u00e9a",
+        "Khoniva",
+        "Khoniya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419584
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6f4e5795fb9a4a0d22339c3c70e8fe51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1260013701,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1260013701,
+    "wof:lastmodified":1537623961,
+    "wof:name":"Khoniya",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.56056,
+    9.90167,
+    -13.56056,
+    9.90167
+],
+  "geometry": {"coordinates":[-13.56056,9.90167],"type":"Point"}
+}

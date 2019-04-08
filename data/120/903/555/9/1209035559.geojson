@@ -1,0 +1,66 @@
+{
+  "id": 1209035559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28333,9.61667,-9.28333,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":-9.28333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Feredou",
+    "gn:country_code":"GN",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421131,
+    "gn:latitude":9.61667,
+    "gn:longitude":-9.28333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"F\u00e9r\u00e9dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e9d\u00e9dougou",
+        "F\u00e9r\u00e9dou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421131
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6b4a5ffb3a3d9f95e8986f47411a9faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209035559
+        }
+    ],
+    "wof:id":1209035559,
+    "wof:lastmodified":1537623980,
+    "wof:name":"Feredou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28333,
+    9.61667,
+    -9.28333,
+    9.61667
+],
+  "geometry": {"coordinates":[-9.28333,9.61667],"type":"Point"}
+}

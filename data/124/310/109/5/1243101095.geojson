@@ -1,0 +1,68 @@
+{
+  "id": 1243101095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.56667,9.75,-12.56667,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":-12.56667,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Bayan Bayan",
+    "gn:country_code":"GN",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2423297,
+    "gn:latitude":9.75,
+    "gn:longitude":-12.56667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Bayan Bayan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671429,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2423297
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"08872f98375b6c0f2591787a152798e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":1243101095,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":1243101095,
+    "wof:lastmodified":1536806153,
+    "wof:name":"Bayan Bayan",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.56667,
+    9.75,
+    -12.56667,
+    9.75
+],
+  "geometry": {"coordinates":[-12.56667,9.75],"type":"Point"}
+}

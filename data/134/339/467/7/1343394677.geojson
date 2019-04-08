@@ -1,0 +1,68 @@
+{
+  "id": 1343394677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.95256,9.57515,-12.95256,9.57515",
+    "geom:latitude":9.57515,
+    "geom:longitude":-12.95256,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Dafira",
+    "gn:country_code":"GN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204781,
+    "gn:latitude":9.57515,
+    "gn:longitude":-12.95256,
+    "gn:modification_date":"2016-07-22",
+    "gn:name":"Dafira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671403,
+        421175263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204781
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"119ee55b1a44e83560262e9dfcae94e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421175263,
+            "locality_id":1343394677,
+            "region_id":85671403
+        }
+    ],
+    "wof:id":1343394677,
+    "wof:lastmodified":1536840169,
+    "wof:name":"Dafira",
+    "wof:parent_id":421175263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.95256,
+    9.57515,
+    -12.95256,
+    9.57515
+],
+  "geometry": {"coordinates":[-12.95256,9.57515],"type":"Point"}
+}

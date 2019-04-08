@@ -1,0 +1,74 @@
+{
+  "id": 1293109169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47139,8.21639,-9.47139,8.21639",
+    "geom:latitude":8.21639,
+    "geom:longitude":-9.47139,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Dopamai",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421707,
+    "gn:latitude":8.21639,
+    "gn:longitude":-9.47139,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dopama\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loupomai",
+        "Loupouma\u00ef",
+        "Dopama\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421707
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"3bf0b951e9e49328e220562828bea534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1293109169,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1293109169,
+    "wof:lastmodified":1537623986,
+    "wof:name":"Dopamai",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47139,
+    8.21639,
+    -9.47139,
+    8.21639
+],
+  "geometry": {"coordinates":[-9.47139,8.21639],"type":"Point"}
+}

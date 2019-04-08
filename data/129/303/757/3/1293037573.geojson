@@ -1,0 +1,68 @@
+{
+  "id": 1293037573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.2733,12.04,-12.2733,12.04",
+    "geom:latitude":12.04,
+    "geom:longitude":-12.2733,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Kankouma",
+    "gn:country_code":"GN",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419969,
+    "gn:latitude":12.04,
+    "gn:longitude":-12.2733,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kankouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890455261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419969
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"fe2ac7fcfd0527641648d1581cb16b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455261,
+            "locality_id":1293037573,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1293037573,
+    "wof:lastmodified":1536939420,
+    "wof:name":"Kankouma",
+    "wof:parent_id":890455261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.2733,
+    12.04,
+    -12.2733,
+    12.04
+],
+  "geometry": {"coordinates":[-12.2733,12.04],"type":"Point"}
+}

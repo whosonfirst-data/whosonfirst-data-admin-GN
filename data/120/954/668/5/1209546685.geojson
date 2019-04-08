@@ -1,0 +1,67 @@
+{
+  "id": 1209546685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.05,9.03333,-10.05,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":-10.05,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Yomandou",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414085,
+    "gn:latitude":9.03333,
+    "gn:longitude":-10.05,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Yomandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lomadou",
+        "Yomandou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414085
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"9edf69ac4dbc1b9b4eeb9adec2176fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209546685
+        }
+    ],
+    "wof:id":1209546685,
+    "wof:lastmodified":1537623905,
+    "wof:name":"Yomandou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.05,
+    9.03333,
+    -10.05,
+    9.03333
+],
+  "geometry": {"coordinates":[-10.05,9.03333],"type":"Point"}
+}

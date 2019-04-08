@@ -1,0 +1,68 @@
+{
+  "id": 1343873417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.00333,8.7875,-10.00333,8.7875",
+    "geom:latitude":8.7875,
+    "geom:longitude":-10.00333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Dembadou",
+    "gn:country_code":"GN",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422181,
+    "gn:latitude":8.7875,
+    "gn:longitude":-10.00333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Dembadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671417,
+        421191559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422181
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"fce4f037b4acf4e132e1dd21c85e9a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191559,
+            "locality_id":1343873417,
+            "region_id":85671417
+        }
+    ],
+    "wof:id":1343873417,
+    "wof:lastmodified":1536647423,
+    "wof:name":"Dembadou",
+    "wof:parent_id":421191559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.00333,
+    8.7875,
+    -10.00333,
+    8.7875
+],
+  "geometry": {"coordinates":[-10.00333,8.7875],"type":"Point"}
+}

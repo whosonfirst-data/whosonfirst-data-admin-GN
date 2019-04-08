@@ -1,0 +1,68 @@
+{
+  "id": 1260215221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.03333,11.15,-13.03333,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-13.03333,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"27",
+    "gn:asciiname":"Gousso",
+    "gn:country_code":"GN",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420588,
+    "gn:latitude":11.15,
+    "gn:longitude":-13.03333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gousso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671503,
+        421180037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420588
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"843d620afe08cc31638b6c6ae468aa4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421180037,
+            "locality_id":1260215221,
+            "region_id":85671503
+        }
+    ],
+    "wof:id":1260215221,
+    "wof:lastmodified":1536804504,
+    "wof:name":"Gousso",
+    "wof:parent_id":421180037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.03333,
+    11.15,
+    -13.03333,
+    11.15
+],
+  "geometry": {"coordinates":[-13.03333,11.15],"type":"Point"}
+}

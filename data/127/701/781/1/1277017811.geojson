@@ -1,0 +1,68 @@
+{
+  "id": 1277017811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.8,11.68333,-11.8,11.68333",
+    "geom:latitude":11.68333,
+    "geom:longitude":-11.8,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Boussoura",
+    "gn:country_code":"GN",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422538,
+    "gn:latitude":11.68333,
+    "gn:longitude":-11.8,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Boussoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671467,
+        890454187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422538
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"46f0a0e673338fb1acf4c7d11f486544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890454187,
+            "locality_id":1277017811,
+            "region_id":85671467
+        }
+    ],
+    "wof:id":1277017811,
+    "wof:lastmodified":1536855037,
+    "wof:name":"Boussoura",
+    "wof:parent_id":890454187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.8,
+    11.68333,
+    -11.8,
+    11.68333
+],
+  "geometry": {"coordinates":[-11.8,11.68333],"type":"Point"}
+}

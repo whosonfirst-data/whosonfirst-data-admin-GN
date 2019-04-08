@@ -1,0 +1,62 @@
+{
+  "id": 1209546201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.9,10.6,-12.9,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":-12.9,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Gagnimbaya",
+    "gn:country_code":"GN",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420865,
+    "gn:latitude":10.6,
+    "gn:longitude":-12.9,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gagnimbaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420865
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"dc02a9b355fa9c89065ea56d0e28be9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209546201
+        }
+    ],
+    "wof:id":1209546201,
+    "wof:lastmodified":1536283835,
+    "wof:name":"Gagnimbaya",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.9,
+    10.6,
+    -12.9,
+    10.6
+],
+  "geometry": {"coordinates":[-12.9,10.6],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209430187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.22917,8.92667,-10.22917,8.92667",
+    "geom:latitude":8.92667,
+    "geom:longitude":-10.22917,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Koroadou",
+    "gn:country_code":"GN",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2418863,
+    "gn:latitude":8.92667,
+    "gn:longitude":-10.22917,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Koroadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2418863
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6643ad3511b23647b76cffdd9a9290eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209430187
+        }
+    ],
+    "wof:id":1209430187,
+    "wof:lastmodified":1536287258,
+    "wof:name":"Koroadou",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.22917,
+    8.92667,
+    -10.22917,
+    8.92667
+],
+  "geometry": {"coordinates":[-10.22917,8.92667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226572055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.66667,11.96667,-13.66667,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":-13.66667,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Diolde Tengui",
+    "gn:cc2":"GN",
+    "gn:country_code":"GN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421885,
+    "gn:latitude":11.96667,
+    "gn:longitude":-13.66667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Diold\u00e9 Tengui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diould\u00e9 Tengu\u00e9",
+        "Dioulde Tangu\u00e9",
+        "Diold\u00e9 Tengui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671413,
+        421191557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421885
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"0fdde22efdf3aa4dff6599c1d9e7ea8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421191557,
+            "locality_id":1226572055,
+            "region_id":85671413
+        }
+    ],
+    "wof:id":1226572055,
+    "wof:lastmodified":1537623987,
+    "wof:name":"Diolde Tengui",
+    "wof:parent_id":421191557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.66667,
+    11.96667,
+    -13.66667,
+    11.96667
+],
+  "geometry": {"coordinates":[-13.66667,11.96667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360115629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55,10.36667,-9.55,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-9.55,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Branama",
+    "gn:country_code":"GN",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2422504,
+    "gn:latitude":10.36667,
+    "gn:longitude":-9.55,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Branama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baranama",
+        "Branama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2422504
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"5f885c9da79dd9cb02f31fa95a8ac40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1360115629,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1360115629,
+    "wof:lastmodified":1537623993,
+    "wof:name":"Branama",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55,
+    10.36667,
+    -9.55,
+    10.36667
+],
+  "geometry": {"coordinates":[-9.55,10.36667],"type":"Point"}
+}

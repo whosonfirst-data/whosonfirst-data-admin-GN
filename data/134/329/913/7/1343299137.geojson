@@ -1,0 +1,72 @@
+{
+  "id": 1343299137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.55611,9.82167,-13.55611,9.82167",
+    "geom:latitude":9.82167,
+    "geom:longitude":-13.55611,
+    "gn:admin1_code":"D",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Kambo",
+    "gn:country_code":"GN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420087,
+    "gn:latitude":9.82167,
+    "gn:longitude":-13.55611,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamba",
+        "Kambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671395,
+        421199273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420087
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"6dec107710a87fb296ae067d7c41a36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421199273,
+            "locality_id":1343299137,
+            "region_id":85671395
+        }
+    ],
+    "wof:id":1343299137,
+    "wof:lastmodified":1537623967,
+    "wof:name":"Kambo",
+    "wof:parent_id":421199273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.55611,
+    9.82167,
+    -13.55611,
+    9.82167
+],
+  "geometry": {"coordinates":[-13.55611,9.82167],"type":"Point"}
+}

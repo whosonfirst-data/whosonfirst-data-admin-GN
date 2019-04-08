@@ -1,0 +1,68 @@
+{
+  "id": 1226783591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.2,9.01667,-10.2,9.01667",
+    "geom:latitude":9.01667,
+    "geom:longitude":-10.2,
+    "gn:admin1_code":"F",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Faendou",
+    "gn:country_code":"GN",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421472,
+    "gn:latitude":9.01667,
+    "gn:longitude":-10.2,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Fa\u00ebndou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671435,
+        1108784625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421472
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"19db566ff3c6230b425ff7f2404facc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":1108784625,
+            "locality_id":1226783591,
+            "region_id":85671435
+        }
+    ],
+    "wof:id":1226783591,
+    "wof:lastmodified":1536661086,
+    "wof:name":"Faendou",
+    "wof:parent_id":1108784625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.2,
+    9.01667,
+    -10.2,
+    9.01667
+],
+  "geometry": {"coordinates":[-10.2,9.01667],"type":"Point"}
+}

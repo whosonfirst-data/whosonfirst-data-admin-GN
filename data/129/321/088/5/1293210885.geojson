@@ -1,0 +1,68 @@
+{
+  "id": 1293210885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34194,7.43861,-9.34194,7.43861",
+    "geom:latitude":7.43861,
+    "geom:longitude":-9.34194,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Youi",
+    "gn:country_code":"GN",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414056,
+    "gn:latitude":7.43861,
+    "gn:longitude":-9.34194,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"You\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671499,
+        421203701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414056
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"4bae0ab9bafed9e3571a763fed73f0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421203701,
+            "locality_id":1293210885,
+            "region_id":85671499
+        }
+    ],
+    "wof:id":1293210885,
+    "wof:lastmodified":1536688809,
+    "wof:name":"Youi",
+    "wof:parent_id":421203701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34194,
+    7.43861,
+    -9.34194,
+    7.43861
+],
+  "geometry": {"coordinates":[-9.34194,7.43861],"type":"Point"}
+}

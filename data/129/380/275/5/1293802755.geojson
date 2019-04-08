@@ -1,0 +1,68 @@
+{
+  "id": 1293802755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20917,7.85528,-8.20917,7.85528",
+    "geom:latitude":7.85528,
+    "geom:longitude":-8.20917,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Gbata",
+    "gn:country_code":"GN",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420772,
+    "gn:latitude":7.85528,
+    "gn:longitude":-8.20917,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gbata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671461,
+        421182003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420772
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"bc5aa5daafb331b80ef9868991cac3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421182003,
+            "locality_id":1293802755,
+            "region_id":85671461
+        }
+    ],
+    "wof:id":1293802755,
+    "wof:lastmodified":1536828701,
+    "wof:name":"Gbata",
+    "wof:parent_id":421182003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20917,
+    7.85528,
+    -8.20917,
+    7.85528
+],
+  "geometry": {"coordinates":[-8.20917,7.85528],"type":"Point"}
+}

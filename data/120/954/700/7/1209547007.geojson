@@ -1,0 +1,63 @@
+{
+  "id": 1209547007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.03333,11.6,-13.03333,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-13.03333,
+    "gn:admin1_code":"B",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Touba",
+    "gn:country_code":"GN",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2414562,
+    "gn:latitude":11.6,
+    "gn:longitude":-13.03333,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Touba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2414562,
+        "wk:page":"Touba%2C_Bok%C3%A9"
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"b79fcdc5801b00701bfcd31850a70122",
+    "wof:hierarchy":[
+        {
+            "country_id":85632691,
+            "locality_id":1209547007
+        }
+    ],
+    "wof:id":1209547007,
+    "wof:lastmodified":1537563072,
+    "wof:name":"Touba",
+    "wof:parent_id":85632691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.03333,
+    11.6,
+    -13.03333,
+    11.6
+],
+  "geometry": {"coordinates":[-13.03333,11.6],"type":"Point"}
+}

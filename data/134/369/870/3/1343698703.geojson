@@ -1,0 +1,68 @@
+{
+  "id": 1343698703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93333,10.21667,-8.93333,10.21667",
+    "geom:latitude":10.21667,
+    "geom:longitude":-8.93333,
+    "gn:admin1_code":"K",
+    "gn:admin2_code":"32",
+    "gn:asciiname":"Gueliban",
+    "gn:country_code":"GN",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2420545,
+    "gn:latitude":10.21667,
+    "gn:longitude":-8.93333,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Gueliban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671421,
+        890429077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2420545
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e99295d4b99c4a5235bb6b266dba4638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890429077,
+            "locality_id":1343698703,
+            "region_id":85671421
+        }
+    ],
+    "wof:id":1343698703,
+    "wof:lastmodified":1536899843,
+    "wof:name":"Gueliban",
+    "wof:parent_id":890429077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93333,
+    10.21667,
+    -8.93333,
+    10.21667
+],
+  "geometry": {"coordinates":[-8.93333,10.21667],"type":"Point"}
+}

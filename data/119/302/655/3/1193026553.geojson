@@ -1,0 +1,68 @@
+{
+  "id": 1193026553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48167,8.44,-9.48167,8.44",
+    "geom:latitude":8.44,
+    "geom:longitude":-9.48167,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Koloboueta",
+    "gn:country_code":"GN",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2419145,
+    "gn:latitude":8.44,
+    "gn:longitude":-9.48167,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Kolobou\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671465,
+        890455263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2419145
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"687da1f9f6c1568192033a06942d9316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455263,
+            "locality_id":1193026553,
+            "region_id":85671465
+        }
+    ],
+    "wof:id":1193026553,
+    "wof:lastmodified":1536367305,
+    "wof:name":"Koloboueta",
+    "wof:parent_id":890455263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48167,
+    8.44,
+    -9.48167,
+    8.44
+],
+  "geometry": {"coordinates":[-9.48167,8.44],"type":"Point"}
+}

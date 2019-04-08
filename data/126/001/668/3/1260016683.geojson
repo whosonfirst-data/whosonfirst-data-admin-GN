@@ -1,0 +1,68 @@
+{
+  "id": 1260016683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.11667,10.86667,-12.11667,10.86667",
+    "geom:latitude":10.86667,
+    "geom:longitude":-12.11667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Fogoumba",
+    "gn:country_code":"GN",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2421028,
+    "gn:latitude":10.86667,
+    "gn:longitude":-12.11667,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Fogoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Conakry",
+    "iso:country":"GN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671385,
+        421167693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2421028
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e6b2d735b76d3a365d43f83d81255d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421167693,
+            "locality_id":1260016683,
+            "region_id":85671385
+        }
+    ],
+    "wof:id":1260016683,
+    "wof:lastmodified":1537080952,
+    "wof:name":"Fogoumba",
+    "wof:parent_id":421167693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.11667,
+    10.86667,
+    -12.11667,
+    10.86667
+],
+  "geometry": {"coordinates":[-12.11667,10.86667],"type":"Point"}
+}
