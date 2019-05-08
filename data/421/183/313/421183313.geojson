@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.961422,
-    "geom:area_square_m":11678905817.126251,
+    "geom:area_square_m":11678905817.126266,
     "geom:bbox":"-9.226534,10.0,-7.947204,11.63614",
     "geom:latitude":10.759246,
     "geom:longitude":-8.620378,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Mandiana Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.64936,
     "lbl:longitude":-8.610824,
     "meso:adm1_en":"Kankan",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421183313,
-    "wof:lastmodified":1512517581,
+    "wof:lastmodified":1554488938,
     "wof:name":"Mandiana",
     "wof:parent_id":85671479,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":158901,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26313,
-    "geom:area_square_m":3225513903.111127,
+    "geom:area_square_m":3225513903.111165,
     "geom:bbox":"-9.478702,7.193552,-8.79467,7.881317",
     "geom:latitude":7.538897,
     "geom:longitude":-9.110367,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Yomou Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":7.577189,
     "lbl:longitude":-9.133655,
     "meso:adm1_en":"Nzerekore",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421203701,
-    "wof:lastmodified":1512517628,
+    "wof:lastmodified":1554489046,
     "wof:name":"Yomou",
     "wof:parent_id":85671499,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":86736,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-gn",

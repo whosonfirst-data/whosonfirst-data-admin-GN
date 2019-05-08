@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033166,
-    "geom:area_square_m":404327200.104158,
+    "geom:area_square_m":404327200.104141,
     "geom:bbox":"-13.725689,9.48907,-13.46002,9.754",
     "geom:latitude":9.626875,
     "geom:longitude":-13.561247,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Conakry Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.637955,
     "lbl:longitude":-13.548145,
     "meso:adm1_en":"Conakry",
@@ -74,10 +80,11 @@
         }
     ],
     "wof:id":421191023,
-    "wof:lastmodified":1512517603,
+    "wof:lastmodified":1554488991,
     "wof:name":"Conakry",
     "wof:parent_id":85671395,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:repo":"whosonfirst-data-admin-gn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

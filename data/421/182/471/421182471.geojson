@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37178,
-    "geom:area_square_m":4514214318.651658,
+    "geom:area_square_m":4514214318.651683,
     "geom:bbox":"-12.98175,10.48125,-12.189854,11.337872",
     "geom:latitude":10.896686,
     "geom:longitude":-12.635784,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Pita Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.88694,
     "lbl:longitude":-12.629807,
     "meso:adm1_en":"Mamou",
@@ -279,10 +285,11 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1512517578,
+    "wof:lastmodified":1554488825,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":20052,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-gn",

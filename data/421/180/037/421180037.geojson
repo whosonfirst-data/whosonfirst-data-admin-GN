@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622526,
-    "geom:area_square_m":7558279177.752127,
+    "geom:area_square_m":7558279177.752153,
     "geom:bbox":"-13.98072,10.39759,-12.78771,11.38299",
     "geom:latitude":10.917598,
     "geom:longitude":-13.362389,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Telimele Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":11.033133,
     "lbl:longitude":-13.470609,
     "meso:adm1_en":"Kindia",
@@ -197,10 +203,11 @@
         }
     ],
     "wof:id":421180037,
-    "wof:lastmodified":1512517572,
+    "wof:lastmodified":1554488788,
     "wof:name":"Telimele",
     "wof:parent_id":85671503,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":30311,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-gn",

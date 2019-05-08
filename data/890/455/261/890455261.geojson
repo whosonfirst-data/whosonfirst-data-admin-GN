@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.693446,
-    "geom:area_square_m":8384110990.076368,
+    "geom:area_square_m":8384110990.076359,
     "geom:bbox":"-12.829768,11.657418,-11.37375,12.44284",
     "geom:latitude":12.098291,
     "geom:longitude":-12.173327,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":245870,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Mali Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":12.052492,
     "lbl:longitude":-12.187207,
     "meso:adm1_en":"Labe",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890455261,
-    "wof:lastmodified":1527734192,
+    "wof:lastmodified":1554489064,
     "wof:name":"Mali",
     "wof:parent_id":85671467,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":245870,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",

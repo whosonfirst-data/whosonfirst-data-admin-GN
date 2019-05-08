@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256043,
-    "geom:area_square_m":3108746749.664108,
+    "geom:area_square_m":3108746749.664148,
     "geom:bbox":"-12.50854,10.481095,-11.739682,11.29792",
     "geom:latitude":10.913167,
     "geom:longitude":-12.14032,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Dalaba Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.986602,
     "lbl:longitude":-12.081791,
     "meso:adm1_en":"Mamou",
@@ -186,10 +192,11 @@
         }
     ],
     "wof:id":421167693,
-    "wof:lastmodified":1512517547,
+    "wof:lastmodified":1554488746,
     "wof:name":"Dalaba",
     "wof:parent_id":85671385,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":7036,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-gn",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.657563,
-    "geom:area_square_m":8042506768.455442,
+    "geom:area_square_m":8042506768.455462,
     "geom:bbox":"-9.940766,7.743213,-8.873133,8.896439",
     "geom:latitude":8.451911,
     "geom:longitude":-9.341505,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":296192,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Macenta Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":8.471092,
     "lbl:longitude":-9.199886,
     "meso:adm1_en":"Nzerekore",
@@ -34,6 +40,9 @@
         "\u039c\u03b1\u03c3\u03b5\u03bd\u03c4\u03ac"
     ],
     "name:eng_x_preferred":[
+        "Macenta"
+    ],
+    "name:eng_x_variant":[
         "Macenta Prefecture"
     ],
     "name:ita_x_preferred":[
@@ -80,10 +89,11 @@
         }
     ],
     "wof:id":890455263,
-    "wof:lastmodified":1512517880,
+    "wof:lastmodified":1555220351,
     "wof:name":"Macenta",
     "wof:parent_id":85671465,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":296192,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",

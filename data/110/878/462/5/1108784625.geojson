@@ -10,6 +10,12 @@
     "geom:latitude":9.242824,
     "geom:longitude":-10.027285,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Kissidougo Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.262308,
     "lbl:longitude":-10.035595,
     "meso:adm1_en":"Faranah",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784625,
-    "wof:lastmodified":1536615778,
+    "wof:lastmodified":1554489505,
     "wof:name":"Kissidougo",
     "wof:parent_id":85671435,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:repo":"whosonfirst-data-admin-gn",
     "wof:shortcode":"KS",
     "wof:superseded_by":[],

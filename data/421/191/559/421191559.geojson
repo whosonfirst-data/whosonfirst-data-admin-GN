@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346352,
-    "geom:area_square_m":4233436741.839948,
+    "geom:area_square_m":4233436741.839883,
     "geom:bbox":"-10.71892,8.270537,-9.854248,9.109453",
     "geom:latitude":8.697979,
     "geom:longitude":-10.296072,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Gueckedou Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":8.703221,
     "lbl:longitude":-10.26688,
     "meso:adm1_en":"Nzerekore",
@@ -107,10 +113,11 @@
         }
     ],
     "wof:id":421191559,
-    "wof:lastmodified":1512517605,
+    "wof:lastmodified":1554488999,
     "wof:name":"Gueckedou",
     "wof:parent_id":85671417,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":404691,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",

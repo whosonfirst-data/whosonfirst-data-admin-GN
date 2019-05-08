@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":114366,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Koubia Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":11.695589,
     "lbl:longitude":-11.916398,
     "meso:adm1_en":"Labe",
@@ -66,10 +72,11 @@
         }
     ],
     "wof:id":890454187,
-    "wof:lastmodified":1536617388,
+    "wof:lastmodified":1554489063,
     "wof:name":"Koubia",
     "wof:parent_id":85671467,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":114366,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

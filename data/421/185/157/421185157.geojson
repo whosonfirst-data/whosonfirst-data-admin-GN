@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130401,
-    "geom:area_square_m":1585396740.242123,
+    "geom:area_square_m":1585396740.242149,
     "geom:bbox":"-13.84372,10.25049,-13.350948,10.8047",
     "geom:latitude":10.506976,
     "geom:longitude":-13.587218,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Fria Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.426232,
     "lbl:longitude":-13.631668,
     "meso:adm1_en":"Kindia",
@@ -119,10 +125,11 @@
         }
     ],
     "wof:id":421185157,
-    "wof:lastmodified":1512517586,
+    "wof:lastmodified":1554488952,
     "wof:name":"Fria",
     "wof:parent_id":85671409,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":82073,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-gn",

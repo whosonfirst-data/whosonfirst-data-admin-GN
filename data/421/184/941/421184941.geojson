@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174514,
-    "geom:area_square_m":2115456540.689579,
+    "geom:area_square_m":2115456540.689593,
     "geom:bbox":"-12.607821,11.131298,-11.986852,11.695563",
     "geom:latitude":11.38185,
     "geom:longitude":-12.307607,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Labe Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":11.365962,
     "lbl:longitude":-12.328727,
     "meso:adm1_en":"Labe",
@@ -104,10 +110,11 @@
         }
     ],
     "wof:id":421184941,
-    "wof:lastmodified":1512517585,
+    "wof:lastmodified":1554488950,
     "wof:name":"Labe",
     "wof:parent_id":85671451,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":204193,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",

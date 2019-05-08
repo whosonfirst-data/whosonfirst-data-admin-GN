@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.061569,
-    "geom:area_square_m":12927112187.204685,
+    "geom:area_square_m":12927112187.204653,
     "geom:bbox":"-11.477589,9.050755,-10.109886,10.591152",
     "geom:latitude":9.992474,
     "geom:longitude":-10.739467,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Faranah Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.066291,
     "lbl:longitude":-10.750278,
     "meso:adm1_en":"Faranah",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421188473,
-    "wof:lastmodified":1512517596,
+    "wof:lastmodified":1554488967,
     "wof:name":"Faranah",
     "wof:parent_id":85671399,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":166594,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

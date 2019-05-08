@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.302733,
-    "geom:area_square_m":15834034382.061026,
+    "geom:area_square_m":15834034382.061092,
     "geom:bbox":"-10.908789,9.542492,-9.374717,11.430617",
     "geom:latitude":10.582,
     "geom:longitude":-10.101278,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Kouroussa Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.92992,
     "lbl:longitude":-10.176516,
     "meso:adm1_en":"Kankan",
@@ -32,6 +38,9 @@
         "\u039a\u03bf\u03c5\u03c1\u03bf\u03c5\u03c3\u03c3\u03ac"
     ],
     "name:eng_x_preferred":[
+        "Kouroussa"
+    ],
+    "name:eng_x_variant":[
         "Kouroussa Prefecture"
     ],
     "name:ita_x_preferred":[
@@ -95,10 +104,11 @@
         }
     ],
     "wof:id":421203655,
-    "wof:lastmodified":1512517628,
+    "wof:lastmodified":1555220348,
     "wof:name":"Kouroussa",
     "wof:parent_id":85671447,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":159600,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

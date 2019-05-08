@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094019,
-    "geom:area_square_m":1145825033.794502,
+    "geom:area_square_m":1145825033.794509,
     "geom:bbox":"-13.50298,9.539449,-13.11475,9.96295",
     "geom:latitude":9.734663,
     "geom:longitude":-13.3167,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Coyah Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.728835,
     "lbl:longitude":-13.297547,
     "meso:adm1_en":"Kindia",
@@ -113,10 +119,11 @@
         }
     ],
     "wof:id":421202513,
-    "wof:lastmodified":1512517624,
+    "wof:lastmodified":1554489035,
     "wof:name":"Coyah",
     "wof:parent_id":85671379,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":77103,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-gn",

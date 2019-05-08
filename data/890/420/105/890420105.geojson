@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.879526,
-    "geom:area_square_m":10672313315.517748,
+    "geom:area_square_m":10672313315.517927,
     "geom:bbox":"-15.06466,10.46156,-13.74012,11.68742",
     "geom:latitude":11.089565,
     "geom:longitude":-14.341581,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":289407,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Boke Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":11.239856,
     "lbl:longitude":-14.282586,
     "meso:adm1_en":"Boke",
@@ -69,10 +75,11 @@
         }
     ],
     "wof:id":890420105,
-    "wof:lastmodified":1527792807,
+    "wof:lastmodified":1554489058,
     "wof:name":"Boke",
     "wof:parent_id":85671367,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":289407,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",

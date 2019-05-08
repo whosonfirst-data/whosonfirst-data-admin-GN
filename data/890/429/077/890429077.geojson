@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.428067,
-    "geom:area_square_m":17386458032.014233,
+    "geom:area_square_m":17386458032.014202,
     "geom:bbox":"-9.929428,9.387556,-8.101483,11.063484",
     "geom:latitude":10.06024,
     "geom:longitude":-9.108511,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":234785,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Kankan Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.278501,
     "lbl:longitude":-9.274655,
     "meso:adm1_en":"Kankan",
@@ -68,10 +74,11 @@
         }
     ],
     "wof:id":890429077,
-    "wof:lastmodified":1527792788,
+    "wof:lastmodified":1554489060,
     "wof:name":"Kankan",
     "wof:parent_id":85671421,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":234785,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",

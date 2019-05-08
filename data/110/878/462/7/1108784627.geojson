@@ -10,6 +10,12 @@
     "geom:latitude":11.500585,
     "geom:longitude":-11.51689,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Tougue Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":11.502325,
     "lbl:longitude":-11.484355,
     "meso:adm1_en":"Labe",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108784627,
-    "wof:lastmodified":1536615778,
+    "wof:lastmodified":1554489505,
     "wof:name":"Tougue",
     "wof:parent_id":85671497,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:repo":"whosonfirst-data-admin-gn",
     "wof:shortcode":"TO",
     "wof:superseded_by":[],

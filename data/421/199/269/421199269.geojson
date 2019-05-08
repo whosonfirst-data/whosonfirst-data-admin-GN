@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.428742,
-    "geom:area_square_m":5214745918.375731,
+    "geom:area_square_m":5214745918.375849,
     "geom:bbox":"-14.547828,9.83101,-13.63319,10.86681",
     "geom:latitude":10.376062,
     "geom:longitude":-14.051696,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Boffa Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.414604,
     "lbl:longitude":-14.051722,
     "meso:adm1_en":"Boke",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421199269,
-    "wof:lastmodified":1512517618,
+    "wof:lastmodified":1554489025,
     "wof:name":"Boffa",
     "wof:parent_id":85671363,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":165196,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

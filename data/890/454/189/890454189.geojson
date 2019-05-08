@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22516,
-    "geom:area_square_m":2728240945.320633,
+    "geom:area_square_m":2728240945.320617,
     "geom:bbox":"-12.996361,11.09863,-12.353651,11.929343",
     "geom:latitude":11.499584,
     "geom:longitude":-12.692406,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":161465,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Lelouma Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":11.538602,
     "lbl:longitude":-12.580376,
     "meso:adm1_en":"Labe",
@@ -68,10 +74,11 @@
         }
     ],
     "wof:id":890454189,
-    "wof:lastmodified":1527735429,
+    "wof:lastmodified":1554489063,
     "wof:name":"Lelouma",
     "wof:parent_id":85671455,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":161465,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

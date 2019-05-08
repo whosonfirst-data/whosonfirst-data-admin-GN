@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.030087,
-    "geom:area_square_m":12583853885.212936,
+    "geom:area_square_m":12583853885.212931,
     "geom:bbox":"-8.957743,8.231804,-7.641071,9.587204",
     "geom:latitude":8.894395,
     "geom:longitude":-8.332058,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Beyla Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":8.917948,
     "lbl:longitude":-8.332084,
     "meso:adm1_en":"Nzerekore",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421199661,
-    "wof:lastmodified":1512517619,
+    "wof:lastmodified":1554489026,
     "wof:name":"Beyla",
     "wof:parent_id":85671361,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":188045,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.427872,
-    "geom:area_square_m":5198195210.084492,
+    "geom:area_square_m":5198195210.084456,
     "geom:bbox":"-11.527931,10.393562,-10.447493,11.15179",
     "geom:latitude":10.729736,
     "geom:longitude":-11.062889,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":114250,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Dabola Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.732763,
     "lbl:longitude":-11.054668,
     "meso:adm1_en":"Faranah",
@@ -66,10 +72,11 @@
         }
     ],
     "wof:id":890420101,
-    "wof:lastmodified":1512517861,
+    "wof:lastmodified":1554489058,
     "wof:name":"Dabola",
     "wof:parent_id":85671381,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":114250,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

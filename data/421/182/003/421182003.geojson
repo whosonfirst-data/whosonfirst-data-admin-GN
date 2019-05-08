@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372462,
-    "geom:area_square_m":4560873995.211829,
+    "geom:area_square_m":4560873995.211816,
     "geom:bbox":"-8.608833,7.533727,-7.945582,8.497423",
     "geom:latitude":7.984688,
     "geom:longitude":-8.324582,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Lola Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":7.975395,
     "lbl:longitude":-8.319608,
     "meso:adm1_en":"Nzerekore",
@@ -80,10 +86,11 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1512517575,
+    "wof:lastmodified":1554488805,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":124393,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gn",

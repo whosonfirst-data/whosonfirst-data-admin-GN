@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.463321,
-    "geom:area_square_m":17719284740.941364,
+    "geom:area_square_m":17719284740.941307,
     "geom:bbox":"-10.265643,10.857695,-8.762202,12.50263",
     "geom:latitude":11.679165,
     "geom:longitude":-9.473358,
     "iso:country":"GN",
+    "label:eng_x_preferred_longname":[
+        "Siguiri Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":11.643977,
     "lbl:longitude":-9.412682,
     "meso:adm1_en":"Kankan",
@@ -176,10 +182,11 @@
         }
     ],
     "wof:id":421198017,
-    "wof:lastmodified":1512517617,
+    "wof:lastmodified":1554489023,
     "wof:name":"Siguiri",
     "wof:parent_id":85671489,
     "wof:placetype":"county",
+    "wof:placetype_local":"prefecture",
     "wof:population":43601,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-gn",
