@@ -18,22 +18,22 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0431\u0438\u044f"
     ],
-    "name:dut_x_preferred":[
-        "Koubia"
-    ],
     "name:eng_x_preferred":[
         "Koubia"
     ],
     "name:fin_x_preferred":[
         "Koubia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koubia"
     ],
     "name:ita_x_preferred":[
         "Koubia"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Koubia"
+    ],
+    "name:nld_x_preferred":[
         "Koubia"
     ],
     "name:pol_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890444427,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561843511,
     "wof:name":"Koubia",
     "wof:parent_id":890454187,
     "wof:placetype":"locality",
