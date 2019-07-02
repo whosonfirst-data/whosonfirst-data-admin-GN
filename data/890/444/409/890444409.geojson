@@ -22,10 +22,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mali"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mali"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +37,7 @@
     "name:fin_x_preferred":[
         "Mali"
     ],
-    "name:fre_x_preferred":[
-        "Mali"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mali"
     ],
     "name:ita_x_preferred":[
@@ -49,10 +46,13 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ea"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mali"
     ],
     "name:nds_x_preferred":[
+        "Mali"
+    ],
+    "name:nld_x_preferred":[
         "Mali"
     ],
     "name:pol_x_preferred":[
@@ -61,7 +61,7 @@
     "name:por_x_preferred":[
         "Mali"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mali"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":890444409,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561843510,
     "wof:name":"Mali",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

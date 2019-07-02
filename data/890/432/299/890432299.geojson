@@ -22,22 +22,22 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0443\u0430\u043b"
     ],
-    "name:dut_x_preferred":[
-        "Gaoual"
-    ],
     "name:eng_x_preferred":[
         "Gaoual"
     ],
     "name:fin_x_preferred":[
         "Gaoual"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gaoual"
     ],
     "name:ita_x_preferred":[
         "Gaoual"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Gaoual"
+    ],
+    "name:nld_x_preferred":[
         "Gaoual"
     ],
     "name:por_x_preferred":[
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":890432299,
-    "wof:lastmodified":1527793042,
+    "wof:lastmodified":1561843511,
     "wof:name":"Gaoual",
     "wof:parent_id":421191557,
     "wof:placetype":"locality",

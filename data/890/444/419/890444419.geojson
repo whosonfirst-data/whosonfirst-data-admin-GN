@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0646\u062f\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0576\u0564\u056b\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
@@ -34,8 +31,11 @@
     "name:dan_x_preferred":[
         "Kindia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kindia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bd\u03c4\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kindia"
@@ -46,14 +46,8 @@
     "name:fin_x_preferred":[
         "Kindia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kindia"
-    ],
-    "name:ger_x_preferred":[
-        "Kindia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03bd\u03c4\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a82\u0aa1\u0abf\u0aaf\u0abe"
@@ -63,6 +57,9 @@
     ],
     "name:hun_x_preferred":[
         "Kindia"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0576\u0564\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Kindia"
@@ -88,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0902\u0921\u0940\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kindia"
+    ],
+    "name:nld_x_preferred":[
         "Kindia"
     ],
     "name:nob_x_preferred":[
@@ -100,7 +100,7 @@
     "name:por_x_preferred":[
         "Kindia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kindia"
     ],
     "name:rus_x_preferred":[
@@ -267,7 +267,7 @@
         }
     ],
     "wof:id":890444419,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561843510,
     "wof:name":"Kindia",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

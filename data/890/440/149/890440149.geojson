@@ -18,9 +18,6 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043b\u0443\u043c\u0430"
     ],
-    "name:dut_x_preferred":[
-        "L\u00e9louma"
-    ],
     "name:eng_x_preferred":[
         "L\u00e9louma"
     ],
@@ -30,13 +27,13 @@
     "name:fra_x_preferred":[
         "L\u00e9louma"
     ],
-    "name:fre_x_preferred":[
-        "L\u00e9louma"
-    ],
     "name:ita_x_preferred":[
         "L\u00e9louma"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:nld_x_preferred":[
         "L\u00e9louma"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":890440149,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561843510,
     "wof:name":"L\u00e9louma",
     "wof:parent_id":890454189,
     "wof:placetype":"locality",

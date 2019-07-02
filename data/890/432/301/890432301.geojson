@@ -22,12 +22,6 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0431\u043e\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u535a\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Dabola"
-    ],
     "name:eng_x_preferred":[
         "Dabola"
     ],
@@ -37,16 +31,16 @@
     "name:fra_x_preferred":[
         "Dabola"
     ],
-    "name:fre_x_preferred":[
-        "Dabola"
-    ],
     "name:ita_x_preferred":[
         "Dabola"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30dc\u30e9"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Dabola"
+    ],
+    "name:nld_x_preferred":[
         "Dabola"
     ],
     "name:pol_x_preferred":[
@@ -60,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Dabola"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u535a\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Guinea",
@@ -188,7 +185,7 @@
         }
     ],
     "wof:id":890432301,
-    "wof:lastmodified":1527793032,
+    "wof:lastmodified":1561843511,
     "wof:name":"Dabola",
     "wof:parent_id":890420101,
     "wof:placetype":"locality",

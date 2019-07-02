@@ -549,9 +549,6 @@
     "name:rue_x_preferred":[
         "\u0490\u0432\u0456\u043d\u0435\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Guineea"
-    ],
     "name:run_x_preferred":[
         "Guneya"
     ],
@@ -751,8 +748,7 @@
         "\u51e0\u5185\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u5e7e\u5167\u4e9e",
-        "\u51e0\u5185\u4e9a"
+        "\u5e7e\u5167\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u757f\u5167\u4e9e"
@@ -910,7 +906,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1544059103,
+    "wof:lastmodified":1561843497,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

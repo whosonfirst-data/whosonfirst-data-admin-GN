@@ -21,17 +21,11 @@
     "name:afr_x_preferred":[
         "Conakry"
     ],
-    "name:alb_x_preferred":[
-        "Konakri"
-    ],
     "name:amh_x_preferred":[
         "\u12ae\u1293\u12ad\u122a"
     ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0627\u0643\u0631\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0576\u0561\u056f\u0580\u056b"
     ],
     "name:ast_x_preferred":[
         "Conakri"
@@ -42,14 +36,14 @@
     "name:bam_x_preferred":[
         "K\u0254nakri"
     ],
-    "name:baq_x_preferred":[
-        "Konakry"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u043d\u0430\u043a\u0440\u044b"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09a8\u09be\u0995\u09cd\u09b0\u09bf"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f40\u0f7c\u0f0b\u0f53\u0f40\u0f0b\u0f62\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Conakry"
@@ -66,11 +60,11 @@
     "name:cdo_x_preferred":[
         "Conakry"
     ],
+    "name:ces_x_preferred":[
+        "Conakry"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7d0d\u514b\u91cc"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u06c6\u0646\u0627\u06a9\u0631\u06cc"
@@ -78,7 +72,7 @@
     "name:cor_x_preferred":[
         "Conakry"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Conakry"
     ],
     "name:dan_x_preferred":[
@@ -87,11 +81,11 @@
     "name:deu_x_preferred":[
         "Conakry"
     ],
-    "name:dut_x_preferred":[
-        "Conakry"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03bd\u03b1\u03ba\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bd\u03b1\u03ba\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
         "Conakry"
@@ -102,13 +96,16 @@
     "name:est_x_preferred":[
         "Conakry"
     ],
+    "name:eus_x_preferred":[
+        "Konakry"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u0627\u06a9\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Conakry"
     ],
     "name:fra_x_preferred":[
-        "Conakry"
-    ],
-    "name:fre_x_preferred":[
         "Conakry"
     ],
     "name:frr_x_preferred":[
@@ -120,12 +117,6 @@
     "name:ful_x_preferred":[
         "Konaakiri"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10d0\u10d9\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Conakry"
-    ],
     "name:gla_x_preferred":[
         "Conakry"
     ],
@@ -134,9 +125,6 @@
     ],
     "name:glg_x_preferred":[
         "Conakry"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bd\u03b1\u03ba\u03c1\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aa8\u0abe\u0a95\u0acd\u0ab0\u0ac0"
@@ -165,14 +153,17 @@
     "name:hun_x_preferred":[
         "Conakry"
     ],
-    "name:ice_x_preferred":[
-        "K\u00f3nakr\u00ed"
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u0561\u056f\u0580\u056b"
     ],
     "name:ido_x_preferred":[
         "Conakry"
     ],
     "name:ind_x_preferred":[
         "Conakry"
+    ],
+    "name:isl_x_preferred":[
+        "K\u00f3nakr\u00ed"
     ],
     "name:ita_x_preferred":[
         "Conakry"
@@ -188,6 +179,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0ca8\u0cbe\u0c95\u0ccd\u0cb0\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10d0\u10d9\u10e0\u10d8"
     ],
     "name:kbp_x_preferred":[
         "Konakrii"
@@ -222,17 +216,11 @@
     "name:ltz_x_preferred":[
         "Conakry"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d4a\u0d23\u0d3e\u0d15\u0d4d\u0d30\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0928\u093e\u0915\u094d\u0930\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Conakry"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
@@ -245,6 +233,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Conakry"
     ],
     "name:nah_x_preferred":[
         "Conacri"
@@ -276,9 +267,6 @@
     "name:pan_x_preferred":[
         "\u0a15\u0a4b\u0a28\u0a3e\u0a15\u0a30\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0646\u0627\u06a9\u0631\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Conakry"
     ],
@@ -291,7 +279,7 @@
     "name:por_x_preferred":[
         "Conacri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Conakry"
     ],
     "name:rup_x_preferred":[
@@ -309,9 +297,6 @@
     "name:slk_x_preferred":[
         "Konakry"
     ],
-    "name:slo_x_preferred":[
-        "Konakry"
-    ],
     "name:slv_x_preferred":[
         "Conakry"
     ],
@@ -323,6 +308,9 @@
     ],
     "name:spa_x_preferred":[
         "Conakry"
+    ],
+    "name:sqi_x_preferred":[
+        "Konakri"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
@@ -347,9 +335,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e19\u0e32\u0e04\u0e23\u0e35"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f40\u0f7c\u0f0b\u0f53\u0f40\u0f0b\u0f62\u0f72\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Konakri"
@@ -387,9 +372,6 @@
     "name:war_x_preferred":[
         "Conakry"
     ],
-    "name:wel_x_preferred":[
-        "Conakry"
-    ],
     "name:xmf_x_preferred":[
         "\u10d9\u10dd\u10dc\u10d0\u10d9\u10e0\u10d8"
     ],
@@ -401,6 +383,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5eb7\u7d0d\u514b\u7acb"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7d0d\u514b\u91cc"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Guinea",
@@ -530,7 +515,7 @@
         }
     ],
     "wof:id":890444429,
-    "wof:lastmodified":1534379331,
+    "wof:lastmodified":1561843511,
     "wof:name":"Conakry",
     "wof:parent_id":421191023,
     "wof:placetype":"locality",

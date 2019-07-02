@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.896531,
-    "geom:area_square_m":10878100028.119888,
+    "geom:area_square_m":10878100028.119951,
     "geom:bbox":"-15.0811254546,10.4733747424,-13.7587670557,11.6688495888",
     "geom:latitude":11.104419,
     "geom:longitude":-14.364229,
@@ -27,14 +27,14 @@
     "name:bel_x_variant":[
         "\u0411\u0430\u043a\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u51f1\u7701"
-    ],
     "name:deu_x_preferred":[
         "Boke"
     ],
-    "name:dut_x_preferred":[
-        "Bok\u00e9 Prefecture"
+    "name:deu_x_variant":[
+        "Bok\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03ba\u03ad"
     ],
     "name:eng_x_preferred":[
         "Bok\u00e9"
@@ -46,22 +46,17 @@
         "Boke"
     ],
     "name:fra_x_variant":[
-        "Bok\u00e9"
-    ],
-    "name:fre_x_preferred":[
+        "Bok\u00e9",
         "pr\u00e9fecture de Bok\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Bok\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03ba\u03ad"
     ],
     "name:ita_x_preferred":[
         "Prefettura di Bok\u00e9"
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30b1\u770c"
+    ],
+    "name:nld_x_preferred":[
+        "Bok\u00e9 Prefecture"
     ],
     "name:nob_x_preferred":[
         "Bok\u00e9"
@@ -74,6 +69,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06a9\u06d2 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u51f1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GIN",
@@ -193,7 +191,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814772,
+    "wof:lastmodified":1561843496,
     "wof:name":"Boke",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
