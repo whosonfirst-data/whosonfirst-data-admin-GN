@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Tougu\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Tougu\u00e9"
     ],
@@ -44,6 +47,9 @@
         "Tougu\u00e9"
     ],
     "name:por_x_preferred":[
+        "Tougu\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Tougu\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890440297,
-    "wof:lastmodified":1561843510,
+    "wof:lastmodified":1563256690,
     "wof:name":"Tougu\u00e9",
     "wof:parent_id":1108784627,
     "wof:placetype":"locality",

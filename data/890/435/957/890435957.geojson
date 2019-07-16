@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Boffa"
     ],
+    "name:ceb_x_preferred":[
+        "Boffa"
+    ],
     "name:eng_x_preferred":[
         "Boffa"
     ],
@@ -32,6 +35,9 @@
         "Boffa"
     ],
     "name:fra_x_preferred":[
+        "Boffa"
+    ],
+    "name:frr_x_preferred":[
         "Boffa"
     ],
     "name:heb_x_preferred":[
@@ -50,6 +56,9 @@
         "Boffa"
     ],
     "name:por_x_preferred":[
+        "Boffa"
+    ],
+    "name:spa_x_preferred":[
         "Boffa"
     ],
     "name:swe_x_preferred":[
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":890435957,
-    "wof:lastmodified":1561843511,
+    "wof:lastmodified":1563256708,
     "wof:name":"Boffa",
     "wof:parent_id":421199269,
     "wof:placetype":"locality",

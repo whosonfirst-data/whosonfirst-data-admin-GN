@@ -27,10 +27,16 @@
     "name:bul_x_preferred":[
         "\u0419\u043e\u043c\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Yomou"
+    ],
     "name:deu_x_preferred":[
         "Yomou"
     ],
     "name:eng_x_preferred":[
+        "Yomou"
+    ],
+    "name:fin_x_preferred":[
         "Yomou"
     ],
     "name:fra_x_colloquial":[
@@ -48,13 +54,22 @@
     "name:ita_x_preferred":[
         "Yomou"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30e0\u30fc"
+    ],
     "name:msa_x_preferred":[
+        "Yomou"
+    ],
+    "name:nld_x_preferred":[
         "Yomou"
     ],
     "name:pol_x_preferred":[
         "Yomou"
     ],
     "name:ron_x_preferred":[
+        "Yomou"
+    ],
+    "name:spa_x_preferred":[
         "Yomou"
     ],
     "name:swe_x_preferred":[
@@ -191,7 +206,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550383,
+    "wof:lastmodified":1563255839,
     "wof:name":"Yomou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

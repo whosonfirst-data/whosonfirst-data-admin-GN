@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0419\u043e\u0443\u043a\u043e\u0443\u043d\u043a\u043e\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Youkounkoun"
+    ],
     "name:eng_x_preferred":[
         "Youkounkoun"
     ],
@@ -29,6 +32,9 @@
         "Youkounkoun"
     ],
     "name:nld_x_preferred":[
+        "Youkounkoun"
+    ],
+    "name:spa_x_preferred":[
         "Youkounkoun"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421167691,
-    "wof:lastmodified":1561843509,
+    "wof:lastmodified":1563256667,
     "wof:name":"Youkounkoun",
     "wof:parent_id":421203703,
     "wof:placetype":"locality",

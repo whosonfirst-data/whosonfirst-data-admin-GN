@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043c\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Mamou"
+    ],
     "name:dan_x_preferred":[
         "Mamou"
     ],
@@ -37,10 +40,16 @@
     "name:eng_x_preferred":[
         "Mamou"
     ],
+    "name:eus_x_preferred":[
+        "Mamou"
+    ],
     "name:fin_x_preferred":[
         "Mamou"
     ],
     "name:fra_x_preferred":[
+        "Mamou"
+    ],
+    "name:frr_x_preferred":[
         "Mamou"
     ],
     "name:guj_x_preferred":[
@@ -255,7 +264,7 @@
         }
     ],
     "wof:id":890444407,
-    "wof:lastmodified":1561843510,
+    "wof:lastmodified":1563256701,
     "wof:name":"Mamou",
     "wof:parent_id":421188475,
     "wof:placetype":"locality",

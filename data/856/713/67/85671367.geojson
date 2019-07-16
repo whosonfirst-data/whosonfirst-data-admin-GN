@@ -24,8 +24,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u06cc\u0641\u064a\u0643\u062c\u0648\u0631 \u0628\u0648\u0643\u0647"
+    ],
     "name:bel_x_variant":[
         "\u0411\u0430\u043a\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Boke Prefecture"
     ],
     "name:deu_x_preferred":[
         "Boke"
@@ -39,6 +45,9 @@
     "name:eng_x_preferred":[
         "Bok\u00e9"
     ],
+    "name:eng_x_variant":[
+        "Bok\u00e9 Prefecture"
+    ],
     "name:fra_x_colloquial":[
         "Boke"
     ],
@@ -48,6 +57,9 @@
     "name:fra_x_variant":[
         "Bok\u00e9",
         "pr\u00e9fecture de Bok\u00e9"
+    ],
+    "name:frr_x_preferred":[
+        "Bok\u00e9"
     ],
     "name:ita_x_preferred":[
         "Prefettura di Bok\u00e9"
@@ -63,6 +75,12 @@
     ],
     "name:pol_x_preferred":[
         "Prefektura Bok\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Bok\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Bok\u00e9"
     ],
     "name:swe_x_preferred":[
         "Boke Prefecture"
@@ -191,7 +209,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561843496,
+    "wof:lastmodified":1563255823,
     "wof:name":"Boke",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

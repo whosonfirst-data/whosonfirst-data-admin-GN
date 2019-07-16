@@ -21,8 +21,140 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0631\u0627\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09be\u09b0\u09be\u09a8\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Faranah"
+    ],
+    "name:ceb_x_preferred":[
+        "Faranah"
+    ],
+    "name:dan_x_preferred":[
+        "Faranah"
+    ],
+    "name:deu_x_preferred":[
+        "Faranah"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c1\u03ac\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Faranah"
+    ],
+    "name:epo_x_preferred":[
+        "Faranah"
+    ],
+    "name:eus_x_preferred":[
+        "Faranah"
+    ],
+    "name:fin_x_preferred":[
+        "Faranah"
+    ],
     "name:fra_x_preferred":[
         "Faranah"
+    ],
+    "name:frr_x_preferred":[
+        "Faranah"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0ab0\u0abe\u0aa8\u0abe\u0ab9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d0\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u0930\u093e\u0928\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0580\u0561\u0576\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Faranah"
+    ],
+    "name:ita_x_preferred":[
+        "Faranah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30e9\u30ca"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0cb0\u0cbe\u0ca8\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ub77c\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Farana"
+    ],
+    "name:lit_x_preferred":[
+        "Farana"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u0930\u093e\u0928\u0939"
+    ],
+    "name:msa_x_preferred":[
+        "Faranah"
+    ],
+    "name:nld_x_preferred":[
+        "Faranah"
+    ],
+    "name:nob_x_preferred":[
+        "Faranah"
+    ],
+    "name:pol_x_preferred":[
+        "Faranah"
+    ],
+    "name:por_x_preferred":[
+        "Faranah"
+    ],
+    "name:ron_x_preferred":[
+        "Faranah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u043d\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dbb\u0dcf\u0db1\u0dc4\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Faranah"
+    ],
+    "name:spa_x_preferred":[
+        "Faranah"
+    ],
+    "name:swe_x_preferred":[
+        "Faranah"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb0\u0bbe\u0ba8\u0bb9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c3e\u0c30\u0c3e\u0c28\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1f\u0e32\u0e23\u0e32\u0e19\u0e32\u0e2e\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Faranah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0631\u0627\u0646\u0627\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Faranah"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u62c9\u7d0d"
     ],
     "qs:a0":"Guinea",
     "qs:a0_lc":"GN",
@@ -66,7 +198,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550372,
+    "wof:lastmodified":1563255826,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

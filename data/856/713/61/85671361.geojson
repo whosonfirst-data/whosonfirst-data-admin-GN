@@ -24,6 +24,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ces_x_preferred":[
+        "Beyla"
+    ],
     "name:dan_x_preferred":[
         "Beyla"
     ],
@@ -42,6 +45,9 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30e5\u30b0\u30f4\u30a3\u30eb\u3068\u30d9\u30a4\u30e9#\u30d9\u30a4\u30e9"
     ],
+    "name:nld_x_preferred":[
+        "Beyla"
+    ],
     "name:por_x_preferred":[
         "Beyla"
     ],
@@ -51,8 +57,14 @@
     "name:swe_x_preferred":[
         "Bejla"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u0430"
+    ],
     "name:unk_x_variant":[
         "R\u00e9gion Administrative de Beyla"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u4f9d\u62c9"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GIN",
@@ -174,7 +186,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550364,
+    "wof:lastmodified":1563255822,
     "wof:name":"Beyla",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

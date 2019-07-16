@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Lola"
+    ],
     "name:eng_x_preferred":[
         "Lola"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lola"
     ],
     "name:swe_x_preferred":[
         "Lola"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125893125,
-    "wof:lastmodified":1561843511,
+    "wof:lastmodified":1563256710,
     "wof:name":"Lola",
     "wof:parent_id":421182003,
     "wof:placetype":"locality",

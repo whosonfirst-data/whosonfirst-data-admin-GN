@@ -15,6 +15,9 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sangu\u00e9ya"
+    ],
     "name:eng_x_preferred":[
         "Sangu\u00e9ya"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890444413,
-    "wof:lastmodified":1561843510,
+    "wof:lastmodified":1563256696,
     "wof:name":"Sangu\u00e9ya",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

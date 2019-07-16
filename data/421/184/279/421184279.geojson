@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0431\u043e\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dabola"
+    ],
     "name:eng_x_preferred":[
         "Dabola"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0431\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Dabola"
     ],
     "name:swe_x_preferred":[
         "Dabola"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421184279,
-    "wof:lastmodified":1561843509,
+    "wof:lastmodified":1563256685,
     "wof:name":"Dabola",
     "wof:parent_id":890420101,
     "wof:placetype":"locality",

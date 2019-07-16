@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "K\u00e9rouan\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "K\u00e9rouan\u00e9"
+    ],
     "name:eng_x_preferred":[
         "K\u00e9rouan\u00e9"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "K\u00e9rouane"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05d0\u05df"
     ],
     "name:ita_x_preferred":[
         "K\u00e9rouan\u00e9"
@@ -51,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u0443\u0430\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "K\u00e9rouane"
     ],
     "name:swe_x_preferred":[
         "K\u00e9rouan\u00e9"
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":890444423,
-    "wof:lastmodified":1561843510,
+    "wof:lastmodified":1563256697,
     "wof:name":"K\u00e9rouan\u00e9",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

@@ -97,6 +97,9 @@
     "name:rus_x_preferred":[
         "\u0424\u0440\u0438\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u0440\u0438\u044f"
+    ],
     "name:sin_x_preferred":[
         "\u0dc6\u0dca\u0dbb\u0dd2\u0dba\u0dcf"
     ],
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":890451659,
-    "wof:lastmodified":1561843511,
+    "wof:lastmodified":1563256707,
     "wof:name":"Fria",
     "wof:parent_id":421185157,
     "wof:placetype":"locality",

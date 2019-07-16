@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Mali"
+    ],
     "name:ces_x_preferred":[
         "Mali"
     ],
@@ -62,6 +65,9 @@
         "Mali"
     ],
     "name:slk_x_preferred":[
+        "Mali"
+    ],
+    "name:spa_x_preferred":[
         "Mali"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890444409,
-    "wof:lastmodified":1561843510,
+    "wof:lastmodified":1563256701,
     "wof:name":"Mali",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

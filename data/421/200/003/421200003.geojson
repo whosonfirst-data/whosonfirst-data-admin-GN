@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0441\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Kamsar"
+    ],
     "name:dan_x_preferred":[
         "Kamsar"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0441\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Kamsar"
     ],
     "name:swe_x_preferred":[
         "Kamsar"
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":421200003,
-    "wof:lastmodified":1561843509,
+    "wof:lastmodified":1563256684,
     "wof:name":"Kamsar",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

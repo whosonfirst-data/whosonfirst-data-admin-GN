@@ -24,6 +24,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ceb_x_preferred":[
+        "Mamou Prefecture"
+    ],
     "name:deu_x_preferred":[
         "Mamou"
     ],
@@ -33,11 +36,17 @@
     "name:eng_x_preferred":[
         "Mamou"
     ],
+    "name:eng_x_variant":[
+        "Mamou Prefecture"
+    ],
     "name:fra_x_preferred":[
         "Mamou"
     ],
     "name:fra_x_variant":[
         "pr\u00e9fecture de Mamou"
+    ],
+    "name:frr_x_preferred":[
+        "Mamou"
     ],
     "name:ita_x_preferred":[
         "Prefettura di Mamou"
@@ -54,8 +63,14 @@
     "name:pol_x_preferred":[
         "Prefektura Mamou"
     ],
+    "name:por_x_preferred":[
+        "Mamou"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043c\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Mamou"
     ],
     "name:swe_x_preferred":[
         "Mamou Prefecture"
@@ -187,7 +202,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561843496,
+    "wof:lastmodified":1563255835,
     "wof:name":"Mamou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

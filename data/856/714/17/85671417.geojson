@@ -24,17 +24,41 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0643\u064a\u062f\u0648\u063a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09af\u09bc\u09c7\u0995\u0995\u09c7\u09a6\u09c1\u0997\u09cb\u09af\u09bc\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0435\u043a\u0435\u0434\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Gueckedou"
+    ],
+    "name:dan_x_preferred":[
+        "Gu\u00e9ck\u00e9dougou"
     ],
     "name:deu_x_preferred":[
         "Gu\u00e9ck\u00e9dou"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b5\u03ba\u03b5\u03bd\u03c4\u03bf\u03cd\u03b3\u03ba\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Gu\u00e9ck\u00e9dou"
     ],
+    "name:eng_x_variant":[
+        "Gu\u00e9ck\u00e9dougou"
+    ],
     "name:epo_x_preferred":[
         "Gu\u00e9ck\u00e9dougou"
+    ],
+    "name:eus_x_preferred":[
+        "Gu\u00e9ck\u00e9dou"
+    ],
+    "name:fin_x_preferred":[
+        "Gu\u00e9ck\u00e9dou"
     ],
     "name:fra_x_colloquial":[
         "Nzerekore"
@@ -45,11 +69,20 @@
     "name:fra_x_variant":[
         "Nz\u00e9r\u00e9kor\u00e9"
     ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0ac1\u0a8f\u0a95\u0ac7\u0aa1\u0acc\u0a97\u0acc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0935\u0948\u0915\u0947\u0921\u0942"
+    ],
     "name:hun_x_preferred":[
         "Gu\u00e9ck\u00e9dougou"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0565\u056f\u0565\u0564\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Gu\u00e9ck\u00e9dougou"
     ],
     "name:ita_x_preferred":[
         "Gu\u00e9ck\u00e9dou"
@@ -57,14 +90,77 @@
     "name:jpn_x_preferred":[
         "\u30b2\u30b1\u30c9\u30a5"
     ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cc1\u0c95\u0cc6\u0ca1\u0ccc\u0c97\u0ccc"
+    ],
+    "name:kor_x_preferred":[
+        "\uae30\ucf00\ub450"
+    ],
+    "name:lav_x_preferred":[
+        "Gekedugu"
+    ],
     "name:lit_x_preferred":[
         "Gekedugu"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u0941\u090f\u0915\u0926\u094c\u0917\u0942"
     ],
     "name:msa_x_preferred":[
         "Gu\u00e9ck\u00e9dou"
     ],
+    "name:nld_x_preferred":[
+        "Gu\u00e9ck\u00e9dou"
+    ],
+    "name:nob_x_preferred":[
+        "Gu\u00e9ck\u00e9dougou"
+    ],
+    "name:pol_x_preferred":[
+        "Gu\u00e9ck\u00e9dougou"
+    ],
+    "name:por_x_preferred":[
+        "Gueckedou"
+    ],
+    "name:ron_x_preferred":[
+        "Gu\u00e9ck\u00e9dou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043a\u0435\u0434\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dd4\u0d91\u0dc3\u0dca\u0d9a\u0dd9\u0da9\u0dd4"
+    ],
+    "name:spa_x_preferred":[
+        "Gueckedou"
+    ],
+    "name:swe_x_preferred":[
+        "Gueckedou"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0b8f\u0b95\u0bcd\u0b95\u0bc7\u0b9f\u0bca\u0bb5\u0bc1\u0b95\u0bcb\u0bb5\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c35\u0c48\u0c15\u0c46\u0c21\u0c42"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e27\u0e04\u0e4c\u0e40\u0e04\u0e14\u0e39\u0e27\u0e01\u0e39\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Gueckedougou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043a\u0435\u0434\u0443"
+    ],
     "name:unk_x_variant":[
         "R\u00e9gion Administrative de Gu\u00e9ck\u00e9dou"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u06cc\u06a9\u06cc\u062f\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "Gueckedougou"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u51f1\u675c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GIN",
@@ -187,7 +283,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550368,
+    "wof:lastmodified":1563255836,
     "wof:name":"Gu\u00e9ck\u00e9dou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

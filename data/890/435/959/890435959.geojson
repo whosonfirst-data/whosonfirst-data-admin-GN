@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Beyla"
     ],
+    "name:ceb_x_preferred":[
+        "Beyla"
+    ],
     "name:eng_x_preferred":[
         "Beyla"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0439\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Beyla"
     ],
     "name:swe_x_preferred":[
         "Beyla"
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890435959,
-    "wof:lastmodified":1561843511,
+    "wof:lastmodified":1563256709,
     "wof:name":"Beyla",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

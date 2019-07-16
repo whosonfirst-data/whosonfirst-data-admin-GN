@@ -24,10 +24,16 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0648\u0627\u0644"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u0443\u0430\u043b"
     ],
     "name:eng_x_preferred":[
+        "Gaoual"
+    ],
+    "name:fin_x_preferred":[
         "Gaoual"
     ],
     "name:fra_x_colloquial":[
@@ -43,6 +49,15 @@
         "Gaoual"
     ],
     "name:msa_x_preferred":[
+        "Gaoual"
+    ],
+    "name:nld_x_preferred":[
+        "Gaoual"
+    ],
+    "name:por_x_preferred":[
+        "Gaoual"
+    ],
+    "name:spa_x_preferred":[
         "Gaoual"
     ],
     "name:unk_x_variant":[
@@ -168,7 +183,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550368,
+    "wof:lastmodified":1563255843,
     "wof:name":"Gaoual",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
