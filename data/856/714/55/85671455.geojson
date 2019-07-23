@@ -27,7 +27,13 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043b\u0443\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "L\u00e9louma"
+    ],
     "name:eng_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:fin_x_preferred":[
         "L\u00e9louma"
     ],
     "name:fra_x_colloquial":[
@@ -43,6 +49,15 @@
         "L\u00e9louma"
     ],
     "name:msa_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:pol_x_preferred":[
+        "L\u00e9louma"
+    ],
+    "name:spa_x_preferred":[
         "L\u00e9louma"
     ],
     "name:swe_x_preferred":[
@@ -168,7 +183,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550385,
+    "wof:lastmodified":1563255840,
     "wof:name":"L\u00e9louma",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

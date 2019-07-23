@@ -34,8 +34,104 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0644\u0648\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Lola"
+    ],
+    "name:dan_x_preferred":[
+        "Lola Prefecture"
+    ],
+    "name:deu_x_preferred":[
+        "Lola"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03bb\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Lola Prefecture"
+    ],
+    "name:fin_x_preferred":[
+        "Lolan prefektuuri"
+    ],
+    "name:frr_x_preferred":[
+        "Lola"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0acb\u0ab2\u0abe \u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0ac7\u0a95\u0a9a\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0932\u093e \u092a\u094d\u0930\u0940\u092b\u0947\u0915\u094d\u091a\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Prefektur Lola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30e9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0ccb\u0cb2\u0cbe \u0caa\u0ccd\u0cb0\u0cbf\u0cab\u0cc6\u0c95\u0ccd\u0c9a\u0cb0\u0ccd"
+    ],
+    "name:lav_x_preferred":[
+        "Lolas prefekt\u016bra"
+    ],
+    "name:lit_x_preferred":[
+        "Lolos prefekt\u016bra"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u094b\u0932\u093e \u092a\u094d\u0930\u093f\u092b\u0947\u0915\u094d\u091a\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Lola Prefecture"
+    ],
+    "name:nld_x_preferred":[
+        "Lola Prefecture"
+    ],
+    "name:nob_x_preferred":[
+        "Lola"
+    ],
+    "name:pol_x_preferred":[
+        "Prefektura Lola"
+    ],
+    "name:por_x_preferred":[
+        "Lola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u043e\u043b\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0ddc\u0dbd\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Lola"
+    ],
+    "name:swe_x_preferred":[
+        "Lola"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c4b\u0c32\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e25\u0e25\u0e48\u0e32 \u0e1e\u0e19\u0e35\u0e40\u0e1f\u0e04\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Lola Prefecture"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u043e\u043b\u0430"
+    ],
     "name:unk_x_variant":[
         "Pr\u00e9fecture de Lola"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0644\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Lola"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u62c9\u7701"
     ],
     "qs:gn_country":"GN",
     "qs:gn_fcode":"ADM2",
@@ -86,7 +182,7 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1554488805,
+    "wof:lastmodified":1563256689,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0419\u043e\u043c\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Yomou"
+    ],
     "name:deu_x_preferred":[
         "Yomou"
     ],
@@ -50,6 +53,9 @@
         "Yomou"
     ],
     "name:ron_x_preferred":[
+        "Yomou"
+    ],
+    "name:spa_x_preferred":[
         "Yomou"
     ],
     "name:swe_x_preferred":[
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":890444401,
-    "wof:lastmodified":1561843510,
+    "wof:lastmodified":1563256697,
     "wof:name":"Yomou",
     "wof:parent_id":421203701,
     "wof:placetype":"locality",

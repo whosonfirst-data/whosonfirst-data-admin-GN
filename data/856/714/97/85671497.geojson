@@ -24,13 +24,22 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u062c\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u0433\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Tougu\u00e9"
     ],
     "name:deu_x_preferred":[
         "Tougu\u00e9"
     ],
     "name:eng_x_preferred":[
+        "Tougu\u00e9"
+    ],
+    "name:fin_x_preferred":[
         "Tougu\u00e9"
     ],
     "name:fra_x_colloquial":[
@@ -45,7 +54,16 @@
     "name:msa_x_preferred":[
         "Tougu\u00e9"
     ],
+    "name:nld_x_preferred":[
+        "Tougu\u00e9"
+    ],
     "name:pol_x_preferred":[
+        "Tougu\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Tougu\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Tougu\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -174,7 +192,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550383,
+    "wof:lastmodified":1563255840,
     "wof:name":"Tougu\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -24,7 +24,31 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0440\u0438\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Fria"
+    ],
+    "name:deu_x_preferred":[
+        "Fria"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03c1\u03af\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Fria"
+    ],
+    "name:epo_x_preferred":[
+        "Fria"
+    ],
+    "name:fin_x_preferred":[
         "Fria"
     ],
     "name:fra_x_colloquial":[
@@ -33,8 +57,95 @@
     "name:fra_x_preferred":[
         "Bok\u00e9"
     ],
+    "name:fra_x_variant":[
+        "Fria"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0acd\u0ab0\u0abf\u0a86"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u094d\u0930\u0940\u0906"
+    ],
+    "name:hun_x_preferred":[
+        "Fria"
+    ],
+    "name:ind_x_preferred":[
+        "Fria"
+    ],
+    "name:ita_x_preferred":[
+        "Fria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ea\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0ccd\u0cb0\u0cc8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9ac\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Frija"
+    ],
+    "name:lit_x_preferred":[
+        "Frija"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u094d\u0930\u0940\u0906"
+    ],
+    "name:msa_x_preferred":[
+        "Fria"
+    ],
+    "name:nld_x_preferred":[
+        "Fria"
+    ],
+    "name:nob_x_preferred":[
+        "Fria"
+    ],
+    "name:pol_x_preferred":[
+        "Fria"
+    ],
+    "name:por_x_preferred":[
+        "Fria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dca\u0dbb\u0dd2\u0dba\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Fria"
+    ],
+    "name:swe_x_preferred":[
+        "Fria"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bbf\u0b86"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c3f\u0c06"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1f\u0e23\u0e35\u0e22\u0e2d\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Fria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0456\u0430"
+    ],
     "name:unk_x_variant":[
         "R\u00e9gion Administrative de Fria"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0631\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Fria"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u91cc\u4e9e"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GIN",
@@ -156,7 +267,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550368,
+    "wof:lastmodified":1563255838,
     "wof:name":"Fria",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

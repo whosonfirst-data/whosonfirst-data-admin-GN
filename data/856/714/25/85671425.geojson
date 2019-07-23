@@ -24,13 +24,22 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0631\u0648\u0627\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u0443\u0430\u043d\u0435"
     ],
     "name:cat_x_preferred":[
         "K\u00e9rouan\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "K\u00e9rouan\u00e9"
+    ],
     "name:eng_x_preferred":[
+        "K\u00e9rouan\u00e9"
+    ],
+    "name:fin_x_preferred":[
         "K\u00e9rouan\u00e9"
     ],
     "name:fra_x_preferred":[
@@ -39,17 +48,29 @@
     "name:fra_x_variant":[
         "Kankan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05d0\u05df"
+    ],
     "name:ita_x_preferred":[
         "K\u00e9rouan\u00e9"
     ],
     "name:msa_x_preferred":[
         "K\u00e9rouan\u00e9"
     ],
+    "name:nld_x_preferred":[
+        "K\u00e9rouan\u00e9"
+    ],
     "name:pol_x_preferred":[
         "K\u00e9rouane"
     ],
+    "name:por_x_preferred":[
+        "K\u00e9rouan\u00e9"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u0443\u0430\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "K\u00e9rouane"
     ],
     "name:swe_x_preferred":[
         "K\u00e9rouan\u00e9"
@@ -177,7 +198,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550372,
+    "wof:lastmodified":1563255844,
     "wof:name":"K\u00e9rouan\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

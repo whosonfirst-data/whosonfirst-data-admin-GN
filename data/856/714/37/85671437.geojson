@@ -27,7 +27,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0431\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Koubia"
+    ],
     "name:eng_x_preferred":[
+        "Koubia"
+    ],
+    "name:fin_x_preferred":[
         "Koubia"
     ],
     "name:fra_x_colloquial":[
@@ -45,7 +51,13 @@
     "name:msa_x_preferred":[
         "Koubia"
     ],
+    "name:nld_x_preferred":[
+        "Koubia"
+    ],
     "name:pol_x_preferred":[
+        "Koubia"
+    ],
+    "name:spa_x_preferred":[
         "Koubia"
     ],
     "name:swe_x_preferred":[
@@ -171,7 +183,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550369,
+    "wof:lastmodified":1563255839,
     "wof:name":"Koubia",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -34,13 +34,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Dubr\u00e9ka"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u044e\u0431\u0440\u0435\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Dubr\u00e9ka"
     ],
     "name:deu_x_preferred":[
         "Dubr\u00e9ka"
     ],
     "name:eng_x_preferred":[
+        "Dubr\u00e9ka"
+    ],
+    "name:fin_x_preferred":[
         "Dubr\u00e9ka"
     ],
     "name:fra_x_preferred":[
@@ -49,10 +58,22 @@
     "name:ita_x_preferred":[
         "Dubr\u00e9ka"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30d6\u30ec\u30ab"
+    ],
+    "name:ltz_x_preferred":[
+        "Dubr\u00e9ka"
+    ],
     "name:msa_x_preferred":[
         "Dubr\u00e9ka"
     ],
+    "name:nld_x_preferred":[
+        "Dubr\u00e9ka"
+    ],
     "name:pol_x_preferred":[
+        "Dubr\u00e9ka"
+    ],
+    "name:spa_x_preferred":[
         "Dubr\u00e9ka"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":421199273,
-    "wof:lastmodified":1554489025,
+    "wof:lastmodified":1563256682,
     "wof:name":"Dubreka",
     "wof:parent_id":85671395,
     "wof:placetype":"county",

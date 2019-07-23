@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Faranah"
     ],
+    "name:ceb_x_preferred":[
+        "Faranah"
+    ],
     "name:dan_x_preferred":[
         "Faranah"
     ],
@@ -43,14 +46,23 @@
     "name:epo_x_preferred":[
         "Faranah"
     ],
+    "name:eus_x_preferred":[
+        "Faranah"
+    ],
     "name:fin_x_preferred":[
         "Faranah"
     ],
     "name:fra_x_preferred":[
         "Faranah"
     ],
+    "name:frr_x_preferred":[
+        "Faranah"
+    ],
     "name:guj_x_preferred":[
         "\u0aab\u0ab0\u0abe\u0aa8\u0abe\u0ab9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d0\u05e0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092b\u0930\u093e\u0928\u093e\u0939"
@@ -264,7 +276,7 @@
         }
     ],
     "wof:id":890439951,
-    "wof:lastmodified":1561843510,
+    "wof:lastmodified":1563256692,
     "wof:name":"Faranah",
     "wof:parent_id":421188473,
     "wof:placetype":"locality",
