@@ -26,6 +26,24 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goulia"
+    ],
+    "name:fra_x_preferred":[
+        "Goulia"
+    ],
+    "name:ita_x_preferred":[
+        "Goulia"
+    ],
+    "name:msa_x_preferred":[
+        "Goulia"
+    ],
+    "name:ron_x_preferred":[
+        "Goulia"
+    ],
+    "name:swe_x_preferred":[
+        "Goulia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1360115637,
-    "wof:lastmodified":1536901726,
+    "wof:lastmodified":1564217964,
     "wof:name":"Goulia",
     "wof:parent_id":421167693,
     "wof:placetype":"locality",

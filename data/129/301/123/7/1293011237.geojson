@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaala"
+    ],
+    "name:deu_x_preferred":[
+        "Kaala"
+    ],
+    "name:swe_x_preferred":[
+        "Kaala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293011237,
-    "wof:lastmodified":1536975970,
+    "wof:lastmodified":1564217417,
     "wof:name":"Kaala",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

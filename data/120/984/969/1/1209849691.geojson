@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Parawol"
+    ],
+    "name:ita_x_preferred":[
+        "Parawol"
+    ],
+    "name:msa_x_preferred":[
+        "Parawol"
+    ],
+    "name:spa_x_preferred":[
+        "Parawol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209849691,
-    "wof:lastmodified":1537563075,
+    "wof:lastmodified":1564217691,
     "wof:name":"Parawol",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

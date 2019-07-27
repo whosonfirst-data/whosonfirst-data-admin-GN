@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toukoro"
+    ],
+    "name:fra_x_preferred":[
+        "Toukoro"
+    ],
+    "name:swe_x_preferred":[
+        "Toukoro"
+    ],
     "name:und_x_variant":[
         "Songoya Tonkoro",
         "Songoya",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1327268823,
-    "wof:lastmodified":1537623911,
+    "wof:lastmodified":1564217258,
     "wof:name":"Toukoro",
     "wof:parent_id":421188473,
     "wof:placetype":"locality",

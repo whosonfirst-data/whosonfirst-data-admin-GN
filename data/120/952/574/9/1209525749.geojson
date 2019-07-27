@@ -27,6 +27,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u043d\u0433\u043e\u0430"
+    ],
+    "name:ita_x_preferred":[
+        "Nongoa"
+    ],
+    "name:msa_x_preferred":[
+        "Nongoa"
+    ],
+    "name:spa_x_preferred":[
+        "Nongoa"
+    ],
     "name:und_x_variant":[
         "Nongoun",
         "Nongoua",
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209525749,
-    "wof:lastmodified":1537623936,
+    "wof:lastmodified":1564217683,
     "wof:name":"Nongoa",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

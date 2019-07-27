@@ -26,6 +26,48 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Mambo"
+    ],
+    "name:ceb_x_preferred":[
+        "Mambo"
+    ],
+    "name:dan_x_preferred":[
+        "Mambo"
+    ],
+    "name:deu_x_preferred":[
+        "Mambo"
+    ],
+    "name:fin_x_preferred":[
+        "Mambo"
+    ],
+    "name:fra_x_preferred":[
+        "Mambo"
+    ],
+    "name:hun_x_preferred":[
+        "Mamb\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Mambo"
+    ],
+    "name:ita_x_preferred":[
+        "Mambo"
+    ],
+    "name:nld_x_preferred":[
+        "Mambo"
+    ],
+    "name:pol_x_preferred":[
+        "Mambo"
+    ],
+    "name:swe_x_preferred":[
+        "Mambo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e21\u0e21\u0e42\u0e1a"
+    ],
+    "name:tur_x_preferred":[
+        "Mambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1276991567,
-    "wof:lastmodified":1536890958,
+    "wof:lastmodified":1564217633,
     "wof:name":"Mambo",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Doumba"
+    ],
+    "name:fra_x_preferred":[
+        "Doumba"
+    ],
+    "name:ita_x_preferred":[
+        "Doumba"
+    ],
+    "name:nld_x_preferred":[
+        "Doumba"
+    ],
+    "name:spa_x_preferred":[
+        "Doumba"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259719867,
-    "wof:lastmodified":1537013895,
+    "wof:lastmodified":1564218212,
     "wof:name":"Doumba",
     "wof:parent_id":421184941,
     "wof:placetype":"locality",

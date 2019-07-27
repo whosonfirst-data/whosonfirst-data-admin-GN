@@ -27,6 +27,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badie"
+    ],
+    "name:deu_x_preferred":[
+        "Badie"
+    ],
+    "name:fra_x_preferred":[
+        "Badie"
+    ],
+    "name:swe_x_preferred":[
+        "Badie"
+    ],
     "name:und_x_variant":[
         "Veydeyel",
         "Badi\u00e9"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293323897,
-    "wof:lastmodified":1537624004,
+    "wof:lastmodified":1564217493,
     "wof:name":"Badie",
     "wof:parent_id":421203703,
     "wof:placetype":"locality",

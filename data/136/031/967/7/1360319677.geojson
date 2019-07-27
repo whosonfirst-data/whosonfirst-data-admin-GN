@@ -27,6 +27,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Torom\u00e9lun"
+    ],
+    "name:ita_x_preferred":[
+        "Tormelin"
+    ],
+    "name:msa_x_preferred":[
+        "Tormelin"
+    ],
+    "name:spa_x_preferred":[
+        "Tormelin"
+    ],
+    "name:swe_x_preferred":[
+        "Torom\u00e9lun"
+    ],
     "name:und_x_variant":[
         "Tormelin",
         "Torom\u00e9lum",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1360319677,
-    "wof:lastmodified":1537623911,
+    "wof:lastmodified":1564217950,
     "wof:name":"Toromelun",
     "wof:parent_id":421185157,
     "wof:placetype":"locality",

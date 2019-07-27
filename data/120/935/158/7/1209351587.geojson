@@ -27,6 +27,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dire"
+    ],
+    "name:fra_x_preferred":[
+        "Dire"
+    ],
+    "name:ita_x_preferred":[
+        "Dire"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dire"
+    ],
     "name:und_x_variant":[
         "Ndir\u00e9",
         "Dir\u00e9"
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209351587,
-    "wof:lastmodified":1537623987,
+    "wof:lastmodified":1564217726,
     "wof:name":"Dire",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tomono"
+    ],
+    "name:msa_x_preferred":[
+        "Tomono"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -35,7 +41,7 @@
         "gn:id":2414622
     },
     "wof:country":"GN",
-    "wof:geomhash":"618a2bef35749755c591655d1162596d",
+    "wof:geomhash":"ae0df180abaa7c86df6e1fa0a9ad2dc9",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209121303,
-    "wof:lastmodified":1536297089,
+    "wof:lastmodified":1564217695,
     "wof:name":"Tomono",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -9.61583,
-    8.673060000000001,
+    8.67306,
     -9.61583,
-    8.673060000000001
+    8.67306
 ],
   "geometry": {"coordinates":[-9.61583,8.67306],"type":"Point"}
 }

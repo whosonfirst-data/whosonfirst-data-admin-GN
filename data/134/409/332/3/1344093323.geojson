@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kouratongo"
+    ],
+    "name:msa_x_preferred":[
+        "Kouratongo"
+    ],
+    "name:spa_x_preferred":[
+        "Kouratongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1344093323,
-    "wof:lastmodified":1537563077,
+    "wof:lastmodified":1564217304,
     "wof:name":"Kouratongo",
     "wof:parent_id":1108784627,
     "wof:placetype":"locality",

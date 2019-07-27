@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kankalab\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Kankalab\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Kankalab\u00e9"
+    ],
     "name:und_x_variant":[
         "Kankalab\u00e9"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293918251,
-    "wof:lastmodified":1537623966,
+    "wof:lastmodified":1564217402,
     "wof:name":"Kankalabe",
     "wof:parent_id":421167693,
     "wof:placetype":"locality",

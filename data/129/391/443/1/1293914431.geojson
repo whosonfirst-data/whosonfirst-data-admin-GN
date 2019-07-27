@@ -27,6 +27,9 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kongola"
+    ],
     "name:und_x_variant":[
         "Congola",
         "Kongola"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293914431,
-    "wof:lastmodified":1537623956,
+    "wof:lastmodified":1564217401,
     "wof:name":"Kongola",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

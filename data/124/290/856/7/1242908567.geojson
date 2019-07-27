@@ -26,6 +26,30 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0442\u0430"
+    ],
+    "name:fin_x_preferred":[
+        "Pita"
+    ],
+    "name:fra_x_preferred":[
+        "Pita"
+    ],
+    "name:ita_x_preferred":[
+        "Pita"
+    ],
+    "name:msa_x_preferred":[
+        "Pita"
+    ],
+    "name:pol_x_preferred":[
+        "Pita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Pita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1242908567,
-    "wof:lastmodified":1537563075,
+    "wof:lastmodified":1564218143,
     "wof:name":"Pita",
     "wof:parent_id":421182471,
     "wof:placetype":"locality",

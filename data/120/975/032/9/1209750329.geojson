@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kintinian"
+    ],
+    "name:msa_x_preferred":[
+        "Kintinian"
+    ],
+    "name:spa_x_preferred":[
+        "Kintinian"
+    ],
     "name:und_x_variant":[
         "Kintiniou",
         "Kentinian",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209750329,
-    "wof:lastmodified":1537623959,
+    "wof:lastmodified":1564217773,
     "wof:name":"Kintinian",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

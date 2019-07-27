@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Mamona"
+    ],
+    "name:ron_x_preferred":[
+        "Mamona"
+    ],
+    "name:spa_x_preferred":[
+        "Mamona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1193173069,
-    "wof:lastmodified":1536378259,
+    "wof:lastmodified":1564217804,
     "wof:name":"Mamona",
     "wof:parent_id":421188473,
     "wof:placetype":"locality",

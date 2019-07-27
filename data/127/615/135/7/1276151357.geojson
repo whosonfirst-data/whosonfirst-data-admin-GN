@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Toumba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03bf\u03cd\u03bb\u03b1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276151357,
-    "wof:lastmodified":1537021700,
+    "wof:lastmodified":1564217609,
     "wof:name":"Toumba",
     "wof:parent_id":421183313,
     "wof:placetype":"locality",

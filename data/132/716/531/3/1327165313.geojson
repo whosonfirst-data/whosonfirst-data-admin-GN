@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Fougou"
+    ],
+    "name:msa_x_preferred":[
+        "Fougou"
+    ],
+    "name:spa_x_preferred":[
+        "Fougou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1327165313,
-    "wof:lastmodified":1537563080,
+    "wof:lastmodified":1564217268,
     "wof:name":"Fougou",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

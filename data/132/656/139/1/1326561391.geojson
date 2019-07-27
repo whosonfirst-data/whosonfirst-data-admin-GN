@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Moussaya"
+    ],
+    "name:msa_x_preferred":[
+        "Moussaya"
+    ],
+    "name:spa_x_preferred":[
+        "Moussaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326561391,
-    "wof:lastmodified":1536942588,
+    "wof:lastmodified":1564217189,
     "wof:name":"Moussaya",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

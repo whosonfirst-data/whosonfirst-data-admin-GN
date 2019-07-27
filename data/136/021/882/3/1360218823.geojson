@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Taban"
+    ],
+    "name:deu_x_preferred":[
+        "Taban"
+    ],
+    "name:hun_x_preferred":[
+        "Tab\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Taban"
+    ],
+    "name:tur_x_preferred":[
+        "Taban"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1360218823,
-    "wof:lastmodified":1536752689,
+    "wof:lastmodified":1564217976,
     "wof:name":"Taban",
     "wof:parent_id":421199273,
     "wof:placetype":"locality",

@@ -50,17 +50,26 @@
     "name:bre_x_preferred":[
         "Pita"
     ],
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0442\u0430"
+    ],
     "name:cat_x_preferred":[
         "Pita"
     ],
     "name:ces_x_preferred":[
         "Pita"
     ],
+    "name:cym_x_preferred":[
+        "Bara pita"
+    ],
     "name:dan_x_preferred":[
         "Pita"
     ],
     "name:deu_x_preferred":[
         "Pita"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03c4\u03b1"
     ],
     "name:epo_x_preferred":[
         "Pita"
@@ -74,8 +83,14 @@
     "name:fra_x_preferred":[
         "Pain pita"
     ],
+    "name:glg_x_preferred":[
+        "Pita"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05ea\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Pita"
@@ -94,6 +109,9 @@
     ],
     "name:lav_x_preferred":[
         "Pita"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0442\u0430"
     ],
     "name:msa_x_preferred":[
         "Roti pita"
@@ -125,6 +143,9 @@
     "name:sqi_x_preferred":[
         "Pitja"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u043f\u0438\u045a\u0430"
+    ],
     "name:swe_x_preferred":[
         "Pitabr\u00f6d"
     ],
@@ -139,6 +160,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u062a\u0627"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u5854\u997c"
@@ -285,7 +309,7 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1554488825,
+    "wof:lastmodified":1564218032,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",

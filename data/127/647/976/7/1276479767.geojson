@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diari"
+    ],
+    "name:ita_x_preferred":[
+        "Diari"
+    ],
+    "name:msa_x_preferred":[
+        "Diari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1276479767,
-    "wof:lastmodified":1537563081,
+    "wof:lastmodified":1564217601,
     "wof:name":"Diari",
     "wof:parent_id":421184941,
     "wof:placetype":"locality",

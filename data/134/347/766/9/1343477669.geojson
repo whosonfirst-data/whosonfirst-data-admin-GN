@@ -26,6 +26,30 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0932\u0942\u0939\u093f"
+    ],
+    "name:ceb_x_preferred":[
+        "Loo"
+    ],
+    "name:ces_x_preferred":[
+        "Loo"
+    ],
+    "name:cym_x_preferred":[
+        "Loo"
+    ],
+    "name:deu_x_preferred":[
+        "Loo"
+    ],
+    "name:fra_x_preferred":[
+        "Loo"
+    ],
+    "name:spa_x_preferred":[
+        "Loo"
+    ],
+    "name:swe_x_preferred":[
+        "Loo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1343477669,
-    "wof:lastmodified":1536721641,
+    "wof:lastmodified":1564217326,
     "wof:name":"Loo",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

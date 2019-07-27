@@ -26,6 +26,9 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Seydou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276157649,
-    "wof:lastmodified":1537013507,
+    "wof:lastmodified":1564217609,
     "wof:name":"Seydou",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

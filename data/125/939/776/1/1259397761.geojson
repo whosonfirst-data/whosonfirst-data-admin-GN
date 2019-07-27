@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bohon"
+    ],
+    "name:swe_x_preferred":[
+        "Bohon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259397761,
-    "wof:lastmodified":1536981010,
+    "wof:lastmodified":1564218185,
     "wof:name":"Bohon",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

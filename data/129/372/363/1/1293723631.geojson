@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sannou"
+    ],
+    "name:ita_x_preferred":[
+        "Sannou"
+    ],
+    "name:msa_x_preferred":[
+        "Sannou"
+    ],
+    "name:spa_x_preferred":[
+        "Sannou"
+    ],
     "name:und_x_variant":[
         "Samou",
         "Sanou",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293723631,
-    "wof:lastmodified":1537623927,
+    "wof:lastmodified":1564217532,
     "wof:name":"Sannou",
     "wof:parent_id":421184941,
     "wof:placetype":"locality",

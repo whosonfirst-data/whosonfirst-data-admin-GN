@@ -27,6 +27,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043a\u0443\u0440\u0430\u043b\u0430"
+    ],
+    "name:ita_x_preferred":[
+        "Sokourala"
+    ],
+    "name:msa_x_preferred":[
+        "Sokourala"
+    ],
+    "name:spa_x_preferred":[
+        "Sokourala"
+    ],
     "name:und_x_variant":[
         "Sorbarata",
         "Sokourala"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343989441,
-    "wof:lastmodified":1537623921,
+    "wof:lastmodified":1564217280,
     "wof:name":"Sokourala",
     "wof:parent_id":421188473,
     "wof:placetype":"locality",

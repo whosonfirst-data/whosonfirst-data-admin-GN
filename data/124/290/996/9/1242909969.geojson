@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yeri"
+    ],
+    "name:swe_x_preferred":[
+        "Yeri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1242909969,
-    "wof:lastmodified":1537078760,
+    "wof:lastmodified":1564218141,
     "wof:name":"Yeri",
     "wof:parent_id":421191557,
     "wof:placetype":"locality",

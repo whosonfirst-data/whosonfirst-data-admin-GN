@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Youa"
+    ],
+    "name:swe_x_preferred":[
+        "Youa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1260095381,
-    "wof:lastmodified":1536970505,
+    "wof:lastmodified":1564217815,
     "wof:name":"Youa",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

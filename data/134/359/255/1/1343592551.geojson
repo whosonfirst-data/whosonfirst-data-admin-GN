@@ -26,6 +26,24 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Dira"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Dira"
+    ],
+    "name:lat_x_preferred":[
+        "Dira"
+    ],
+    "name:swe_x_preferred":[
+        "Dira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1343592551,
-    "wof:lastmodified":1537050994,
+    "wof:lastmodified":1564217335,
     "wof:name":"Dira",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tonon"
+    ],
+    "name:ita_x_preferred":[
+        "Tonon"
+    ],
+    "name:swe_x_preferred":[
+        "Tonon"
+    ],
     "name:und_x_variant":[
         "Tondo",
         "Toundo",
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209425299,
-    "wof:lastmodified":1537623912,
+    "wof:lastmodified":1564217760,
     "wof:name":"Tonon",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

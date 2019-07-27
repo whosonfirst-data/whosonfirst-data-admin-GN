@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lela"
+    ],
+    "name:deu_x_preferred":[
+        "Lela"
+    ],
+    "name:swe_x_preferred":[
+        "Lela"
+    ],
     "name:und_x_variant":[
         "Lela Ndond\u00e9",
         "L\u00e9la"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310141561,
-    "wof:lastmodified":1537623948,
+    "wof:lastmodified":1564217867,
     "wof:name":"Lela",
     "wof:parent_id":421191557,
     "wof:placetype":"locality",

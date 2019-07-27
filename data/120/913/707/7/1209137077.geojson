@@ -27,6 +27,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Douako"
+    ],
+    "name:ita_x_preferred":[
+        "Douako"
+    ],
+    "name:msa_x_preferred":[
+        "Douako"
+    ],
+    "name:spa_x_preferred":[
+        "Douako"
+    ],
+    "name:swe_x_preferred":[
+        "Douako"
+    ],
     "name:und_x_variant":[
         "Duako",
         "Douako"
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209137077,
-    "wof:lastmodified":1537623985,
+    "wof:lastmodified":1564217709,
     "wof:name":"Douako",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

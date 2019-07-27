@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Holo"
+    ],
+    "name:deu_x_preferred":[
+        "Holo"
+    ],
+    "name:fra_x_preferred":[
+        "Holo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Hollo",
         "Holo"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327170081,
-    "wof:lastmodified":1537623971,
+    "wof:lastmodified":1564217262,
     "wof:name":"Holo",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

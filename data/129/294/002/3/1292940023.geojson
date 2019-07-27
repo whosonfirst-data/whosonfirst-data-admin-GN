@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kokou"
+    ],
+    "name:deu_x_preferred":[
+        "Kokou"
+    ],
+    "name:swe_x_preferred":[
+        "Kokou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1292940023,
-    "wof:lastmodified":1537076239,
+    "wof:lastmodified":1564217431,
     "wof:name":"Kokou",
     "wof:parent_id":421167693,
     "wof:placetype":"locality",

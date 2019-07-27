@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boita"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b4b\u0b07\u0b24"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0baf\u0bcd\u0ba4\u0bcd\u0ba4\u0bbe"
+    ],
     "name:und_x_variant":[
         "Ba\u00e9ta",
         "Bo\u00efta"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326449083,
-    "wof:lastmodified":1537623996,
+    "wof:lastmodified":1564217176,
     "wof:name":"Boita",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

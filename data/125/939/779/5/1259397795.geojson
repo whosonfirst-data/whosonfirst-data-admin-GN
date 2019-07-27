@@ -27,6 +27,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043b\u043e\u0434\u0443"
+    ],
+    "name:ita_x_preferred":[
+        "Bolodou"
+    ],
+    "name:msa_x_preferred":[
+        "Bolodou"
+    ],
+    "name:spa_x_preferred":[
+        "Bolodou"
+    ],
     "name:und_x_variant":[
         "B\u00e9lodou",
         "Bolodou"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1259397795,
-    "wof:lastmodified":1537623995,
+    "wof:lastmodified":1564218186,
     "wof:name":"Bolodou",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

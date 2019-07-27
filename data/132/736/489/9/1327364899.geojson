@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Siguirini"
+    ],
+    "name:msa_x_preferred":[
+        "Siguirini"
+    ],
+    "name:spa_x_preferred":[
+        "Siguirini"
+    ],
     "name:und_x_variant":[
         "Siguiri",
         "Siguirini"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327364899,
-    "wof:lastmodified":1537623925,
+    "wof:lastmodified":1564217166,
     "wof:name":"Siguirini",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
         "Fenariah",
         "F\u00e9naria"
     ],
+    "name:vie_x_preferred":[
+        "Fenaria"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293235845,
-    "wof:lastmodified":1537623980,
+    "wof:lastmodified":1564217451,
     "wof:name":"Fenaria",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

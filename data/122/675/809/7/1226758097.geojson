@@ -27,9 +27,42 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boo"
+    ],
+    "name:ces_x_preferred":[
+        "Boo"
+    ],
+    "name:deu_x_preferred":[
+        "Boo"
+    ],
+    "name:fra_x_preferred":[
+        "Boo"
+    ],
+    "name:glg_x_preferred":[
+        "Boo"
+    ],
+    "name:nld_x_preferred":[
+        "Boo"
+    ],
+    "name:nor_x_preferred":[
+        "Boo"
+    ],
+    "name:por_x_preferred":[
+        "Boo"
+    ],
+    "name:spa_x_preferred":[
+        "Boo"
+    ],
+    "name:swe_x_preferred":[
+        "Boo"
+    ],
     "name:und_x_variant":[
         "Boa",
         "B\u00f4o"
+    ],
+    "name:zho_x_preferred":[
+        "Boo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1226758097,
-    "wof:lastmodified":1537623995,
+    "wof:lastmodified":1564218252,
     "wof:name":"Boo",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

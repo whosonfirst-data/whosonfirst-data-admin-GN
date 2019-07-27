@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Moussaya"
+    ],
+    "name:msa_x_preferred":[
+        "Moussaya"
+    ],
+    "name:spa_x_preferred":[
+        "Moussaya"
+    ],
     "name:und_x_variant":[
         "Sagu\u00e9l\u00e9 Moussa\u00ef",
         "S\u00e9gu\u00e9l\u00e9 Moussaya",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276365453,
-    "wof:lastmodified":1537623939,
+    "wof:lastmodified":1564217653,
     "wof:name":"Moussaya",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

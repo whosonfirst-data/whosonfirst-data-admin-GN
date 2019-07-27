@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Timbi-Madina"
+    ],
+    "name:jav_x_preferred":[
+        "Timbi-Madina"
+    ],
+    "name:msa_x_preferred":[
+        "Timbi-Madina"
+    ],
+    "name:spa_x_preferred":[
+        "Timbi-Madina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1327467811,
-    "wof:lastmodified":1537563072,
+    "wof:lastmodified":1564217218,
     "wof:name":"Timbi Madina",
     "wof:parent_id":421182471,
     "wof:placetype":"locality",

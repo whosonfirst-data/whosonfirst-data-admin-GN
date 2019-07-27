@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Noussy"
+    ],
+    "name:msa_x_preferred":[
+        "Noussy"
+    ],
+    "name:spa_x_preferred":[
+        "Noussy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209945679,
-    "wof:lastmodified":1537563084,
+    "wof:lastmodified":1564217740,
     "wof:name":"Noussy",
     "wof:parent_id":421184941,
     "wof:placetype":"locality",

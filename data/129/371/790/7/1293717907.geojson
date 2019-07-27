@@ -27,6 +27,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ciss\u00e9la"
+    ],
+    "name:ita_x_preferred":[
+        "Ciss\u00e9la"
+    ],
+    "name:msa_x_preferred":[
+        "Ciss\u00e9la"
+    ],
+    "name:spa_x_preferred":[
+        "Ciss\u00e9la"
+    ],
+    "name:swe_x_preferred":[
+        "Ciss\u00e9la"
+    ],
     "name:und_x_variant":[
         "Siss\u00e9la",
         "Cis\u00e9la",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1293717907,
-    "wof:lastmodified":1537623921,
+    "wof:lastmodified":1564217453,
     "wof:name":"Cissela",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

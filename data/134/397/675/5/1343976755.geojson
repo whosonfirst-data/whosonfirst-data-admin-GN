@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d0\u30c9\u30a5\u30b0\u30fc\u5dde"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0628\u0627\u062f\u0624\u06af\u0624"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5df4\u675c\u53e4\u5927\u5340"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343976755,
-    "wof:lastmodified":1536995695,
+    "wof:lastmodified":1564217295,
     "wof:name":"Kabadougou",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

@@ -27,8 +27,20 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sabalia"
+    ],
+    "name:por_x_preferred":[
+        "Sabalia"
+    ],
+    "name:swe_x_preferred":[
+        "Sabalia"
+    ],
     "name:und_x_variant":[
         "Sabalfa",
+        "Sabalia"
+    ],
+    "name:war_x_preferred":[
         "Sabalia"
     ],
     "src:geom":"geonames",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343595945,
-    "wof:lastmodified":1537623930,
+    "wof:lastmodified":1564217327,
     "wof:name":"Sabalia",
     "wof:parent_id":1108784627,
     "wof:placetype":"locality",

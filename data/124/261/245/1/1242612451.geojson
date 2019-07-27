@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aka_x_preferred":[
+        "Karakoro"
+    ],
+    "name:fra_x_preferred":[
+        "Karakoro"
+    ],
+    "name:ita_x_preferred":[
+        "Karakoro"
+    ],
+    "name:spa_x_preferred":[
+        "Karakoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1242612451,
-    "wof:lastmodified":1537012745,
+    "wof:lastmodified":1564218083,
     "wof:name":"Karakoro",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

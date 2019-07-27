@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Molota"
+    ],
+    "name:msa_x_preferred":[
+        "Molota"
+    ],
+    "name:spa_x_preferred":[
+        "Molota"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343292553,
-    "wof:lastmodified":1537563076,
+    "wof:lastmodified":1564217374,
     "wof:name":"Molota",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

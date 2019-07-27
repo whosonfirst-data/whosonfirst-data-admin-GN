@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sansando"
+    ],
+    "name:ita_x_preferred":[
+        "Sansando"
+    ],
+    "name:msa_x_preferred":[
+        "Sansando"
+    ],
+    "name:spa_x_preferred":[
+        "Sansando"
+    ],
+    "name:swe_x_preferred":[
+        "Sansando"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1293814797,
-    "wof:lastmodified":1537563074,
+    "wof:lastmodified":1564217524,
     "wof:name":"Sansando",
     "wof:parent_id":421183313,
     "wof:placetype":"locality",

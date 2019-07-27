@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pilimini"
+    ],
+    "name:msa_x_preferred":[
+        "Pilimini"
+    ],
+    "name:spa_x_preferred":[
+        "Pilimini"
+    ],
     "name:und_x_variant":[
         "Pilimili",
         "Pilimini"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360219555,
-    "wof:lastmodified":1537623931,
+    "wof:lastmodified":1564217973,
     "wof:name":"Pilimini",
     "wof:parent_id":890454187,
     "wof:placetype":"locality",

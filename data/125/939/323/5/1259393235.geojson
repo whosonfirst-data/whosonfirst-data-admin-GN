@@ -26,6 +26,90 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0645\u064a\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u043c\u0435\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Nemea"
+    ],
+    "name:ceb_x_preferred":[
+        "Nem\u00e9a"
+    ],
+    "name:deu_x_preferred":[
+        "Nemea"
+    ],
+    "name:epo_x_preferred":[
+        "Nemeo"
+    ],
+    "name:eus_x_preferred":[
+        "Nemea"
+    ],
+    "name:fin_x_preferred":[
+        "Nemea"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9m\u00e9e"
+    ],
+    "name:gle_x_preferred":[
+        "N\u00e9im\u00e9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nemea"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0574\u0565\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Nemea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30e1\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\uba54\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Nemeja"
+    ],
+    "name:nld_x_preferred":[
+        "Nemea"
+    ],
+    "name:pol_x_preferred":[
+        "Nemea"
+    ],
+    "name:por_x_preferred":[
+        "Nemeia"
+    ],
+    "name:ron_x_preferred":[
+        "Nemea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043c\u0435\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Nemea"
+    ],
+    "name:spa_x_preferred":[
+        "Nemea"
+    ],
+    "name:swe_x_preferred":[
+        "Nemea"
+    ],
+    "name:tur_x_preferred":[
+        "Nemea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043c\u0435\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Nemea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +133,7 @@
         }
     ],
     "wof:id":1259393235,
-    "wof:lastmodified":1536987333,
+    "wof:lastmodified":1564218185,
     "wof:name":"Nemea",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

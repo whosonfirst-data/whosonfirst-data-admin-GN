@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Banama"
+    ],
+    "name:msa_x_preferred":[
+        "Banama"
+    ],
+    "name:spa_x_preferred":[
+        "Banama"
+    ],
     "name:und_x_variant":[
         "Banaman",
         "Banama"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293817917,
-    "wof:lastmodified":1537624002,
+    "wof:lastmodified":1564217524,
     "wof:name":"Banama",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

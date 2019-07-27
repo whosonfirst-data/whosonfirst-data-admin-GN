@@ -26,6 +26,33 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yali"
+    ],
+    "name:deu_x_preferred":[
+        "Yali"
+    ],
+    "name:ita_x_preferred":[
+        "Yali"
+    ],
+    "name:nld_x_preferred":[
+        "Yali"
+    ],
+    "name:nor_x_preferred":[
+        "Yali"
+    ],
+    "name:pol_x_preferred":[
+        "Yali"
+    ],
+    "name:slk_x_preferred":[
+        "Yali"
+    ],
+    "name:swe_x_preferred":[
+        "Yali"
+    ],
+    "name:tur_x_preferred":[
+        "Yal\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1293420939,
-    "wof:lastmodified":1536882403,
+    "wof:lastmodified":1564217516,
     "wof:name":"Yali",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

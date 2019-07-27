@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u00cele Matakong"
+    ],
+    "name:deu_x_preferred":[
+        "Matakong"
+    ],
+    "name:spa_x_preferred":[
+        "Matakong"
+    ],
+    "name:swe_x_preferred":[
+        "\u00cele Matakong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -35,7 +47,7 @@
         "gn:id":2417661
     },
     "wof:country":"GN",
-    "wof:geomhash":"4c34db6f0b26ac4c1258beaac2e55ffe",
+    "wof:geomhash":"2676446a4932ea3ae33e98a7727af28d",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209351399,
-    "wof:lastmodified":1536289729,
+    "wof:lastmodified":1564217728,
     "wof:name":"Matakong",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
@@ -53,9 +65,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.416670000000002,
+    -13.41667,
     9.26667,
-    -13.416670000000002,
+    -13.41667,
     9.26667
 ],
   "geometry": {"coordinates":[-13.41667,9.26667],"type":"Point"}

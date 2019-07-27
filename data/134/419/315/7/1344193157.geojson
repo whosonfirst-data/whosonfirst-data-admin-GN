@@ -27,6 +27,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sambailo"
+    ],
+    "name:ita_x_preferred":[
+        "Sambailo"
+    ],
+    "name:msa_x_preferred":[
+        "Sambailo"
+    ],
+    "name:spa_x_preferred":[
+        "Sambailo"
+    ],
+    "name:swe_x_preferred":[
+        "Sambailo"
+    ],
     "name:und_x_variant":[
         "Sambe\u00eflo",
         "Samba\u00eflo"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1344193157,
-    "wof:lastmodified":1537623929,
+    "wof:lastmodified":1564217354,
     "wof:name":"Sambailo",
     "wof:parent_id":421203703,
     "wof:placetype":"locality",

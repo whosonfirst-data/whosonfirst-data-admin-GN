@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tan\u00e9n\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Tan\u00e9n\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Tan\u00e9n\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Tan\u00e9n\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Tan\u00e9n\u00e9"
+    ],
     "name:und_x_variant":[
         "Tan\u00e9n\u00e9"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1225974811,
-    "wof:lastmodified":1537623916,
+    "wof:lastmodified":1564218321,
     "wof:name":"Tanene",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

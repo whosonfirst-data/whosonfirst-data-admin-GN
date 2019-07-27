@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sirakoro"
+    ],
+    "name:fra_x_preferred":[
+        "Sirakoro"
+    ],
+    "name:spa_x_preferred":[
+        "Sirakoro"
+    ],
+    "name:swe_x_preferred":[
+        "Sirakoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1309818863,
-    "wof:lastmodified":1536912556,
+    "wof:lastmodified":1564218020,
     "wof:name":"Sirakoro",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

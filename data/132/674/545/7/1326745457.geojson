@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Damana"
+    ],
+    "name:fra_x_preferred":[
+        "Damana"
+    ],
+    "name:swe_x_preferred":[
+        "Damana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326745457,
-    "wof:lastmodified":1536676570,
+    "wof:lastmodified":1564217182,
     "wof:name":"Damana",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",
