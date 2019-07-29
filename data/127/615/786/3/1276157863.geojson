@@ -27,6 +27,30 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Landi"
+    ],
+    "name:deu_x_preferred":[
+        "Landi"
+    ],
+    "name:fra_x_preferred":[
+        "Landi"
+    ],
+    "name:ita_x_preferred":[
+        "Landi"
+    ],
+    "name:pol_x_preferred":[
+        "Landi"
+    ],
+    "name:por_x_preferred":[
+        "Landi"
+    ],
+    "name:spa_x_preferred":[
+        "Landi"
+    ],
+    "name:swe_x_preferred":[
+        "Landi"
+    ],
     "name:und_x_variant":[
         "Landa",
         "Landi"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1276157863,
-    "wof:lastmodified":1537623948,
+    "wof:lastmodified":1564217615,
     "wof:name":"Landi",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

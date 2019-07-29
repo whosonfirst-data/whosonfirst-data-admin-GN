@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banian"
+    ],
+    "name:ita_x_preferred":[
+        "Banian"
+    ],
+    "name:msa_x_preferred":[
+        "Banian"
+    ],
+    "name:spa_x_preferred":[
+        "Banian"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276366507,
-    "wof:lastmodified":1537563083,
+    "wof:lastmodified":1564217652,
     "wof:name":"Banian",
     "wof:parent_id":421188473,
     "wof:placetype":"locality",

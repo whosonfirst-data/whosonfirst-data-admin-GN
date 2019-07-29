@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kossi"
+    ],
+    "name:fra_x_preferred":[
+        "Kossi"
+    ],
+    "name:swe_x_preferred":[
+        "Kossi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243299749,
-    "wof:lastmodified":1537016208,
+    "wof:lastmodified":1564218163,
     "wof:name":"Kossi",
     "wof:parent_id":421203703,
     "wof:placetype":"locality",

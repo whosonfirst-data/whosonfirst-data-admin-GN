@@ -26,6 +26,24 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u064a\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Baya"
+    ],
+    "name:deu_x_preferred":[
+        "Baya"
+    ],
+    "name:fra_x_preferred":[
+        "Baya"
+    ],
+    "name:spa_x_preferred":[
+        "Baya"
+    ],
+    "name:swe_x_preferred":[
+        "Baya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310339989,
-    "wof:lastmodified":1536658293,
+    "wof:lastmodified":1564217924,
     "wof:name":"Baya",
     "wof:parent_id":421203703,
     "wof:placetype":"locality",

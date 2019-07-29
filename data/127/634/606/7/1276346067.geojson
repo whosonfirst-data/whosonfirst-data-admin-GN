@@ -27,6 +27,9 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Di\u00e9k\u00e9"
+    ],
     "name:und_x_variant":[
         "Li\u00e9k\u00e9",
         "Di\u00e9k\u00e9",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276346067,
-    "wof:lastmodified":1537623988,
+    "wof:lastmodified":1564217575,
     "wof:name":"Diecke",
     "wof:parent_id":421203701,
     "wof:placetype":"locality",

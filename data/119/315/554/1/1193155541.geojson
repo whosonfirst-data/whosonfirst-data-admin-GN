@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Irie"
+    ],
+    "name:fra_x_preferred":[
+        "Irie"
+    ],
+    "name:ita_x_preferred":[
+        "Irie"
+    ],
+    "name:nld_x_preferred":[
+        "Irie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0438\u044d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1193155541,
-    "wof:lastmodified":1536373635,
+    "wof:lastmodified":1564217789,
     "wof:name":"Irie",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

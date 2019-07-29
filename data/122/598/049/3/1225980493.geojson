@@ -26,6 +26,27 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0441\u0430\u043c\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Missamana"
+    ],
+    "name:fra_x_preferred":[
+        "Missamana"
+    ],
+    "name:ita_x_preferred":[
+        "Missamana"
+    ],
+    "name:msa_x_preferred":[
+        "Missamana"
+    ],
+    "name:spa_x_preferred":[
+        "Missamana"
+    ],
+    "name:swe_x_preferred":[
+        "Missamana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1225980493,
-    "wof:lastmodified":1537563076,
+    "wof:lastmodified":1564218325,
     "wof:name":"Missamana",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Diassodou"
+    ],
+    "name:msa_x_preferred":[
+        "Diassodou"
+    ],
+    "name:spa_x_preferred":[
+        "Diassadou"
+    ],
     "name:und_x_variant":[
         "Diassodougou",
         "Diassadougou",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343473859,
-    "wof:lastmodified":1537623989,
+    "wof:lastmodified":1564217325,
     "wof:name":"Diassodou",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

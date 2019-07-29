@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Korb\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Korb\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Korb\u00e9"
+    ],
     "name:und_x_variant":[
         "Korb\u00e9"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243394225,
-    "wof:lastmodified":1537623955,
+    "wof:lastmodified":1564218058,
     "wof:name":"Korbe",
     "wof:parent_id":890454189,
     "wof:placetype":"locality",

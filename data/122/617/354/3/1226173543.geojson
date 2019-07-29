@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Barea"
+    ],
+    "name:deu_x_preferred":[
+        "Barea"
+    ],
+    "name:ita_x_preferred":[
+        "Barea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1226173543,
-    "wof:lastmodified":1537036120,
+    "wof:lastmodified":1564218253,
     "wof:name":"Barea",
     "wof:parent_id":890420101,
     "wof:placetype":"locality",

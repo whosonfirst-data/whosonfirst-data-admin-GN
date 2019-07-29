@@ -26,6 +26,24 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Soromaya"
+    ],
+    "name:fra_x_preferred":[
+        "Soromaya"
+    ],
+    "name:ita_x_preferred":[
+        "Soromaya"
+    ],
+    "name:msa_x_preferred":[
+        "Soromaya"
+    ],
+    "name:spa_x_preferred":[
+        "Soromaya"
+    ],
+    "name:swe_x_preferred":[
+        "Soromaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1243202797,
-    "wof:lastmodified":1537563073,
+    "wof:lastmodified":1564218153,
     "wof:name":"Soromaya",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

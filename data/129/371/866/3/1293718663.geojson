@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Friguiagb\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Friguiagb\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Friguiagb\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Friguiagb\u00e9"
+    ],
     "name:und_x_variant":[
         "Friguiagb\u00e9"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293718663,
-    "wof:lastmodified":1537623977,
+    "wof:lastmodified":1564217453,
     "wof:name":"Friguiagbe",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

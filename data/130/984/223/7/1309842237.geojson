@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Firawa"
+    ],
+    "name:ita_x_preferred":[
+        "Firawa"
+    ],
+    "name:msa_x_preferred":[
+        "Firawa"
+    ],
+    "name:spa_x_preferred":[
+        "Firawa"
+    ],
+    "name:swe_x_preferred":[
+        "Firawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1309842237,
-    "wof:lastmodified":1537563080,
+    "wof:lastmodified":1564217994,
     "wof:name":"Firawa",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

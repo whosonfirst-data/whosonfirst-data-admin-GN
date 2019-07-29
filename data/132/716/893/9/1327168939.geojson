@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kansangui"
+    ],
+    "name:msa_x_preferred":[
+        "Kansangui"
+    ],
+    "name:spa_x_preferred":[
+        "Kansangui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1327168939,
-    "wof:lastmodified":1537563079,
+    "wof:lastmodified":1564217266,
     "wof:name":"Kansangui",
     "wof:parent_id":421180037,
     "wof:placetype":"locality",

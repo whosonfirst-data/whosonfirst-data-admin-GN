@@ -36,6 +36,33 @@
     "mps:longitude":-11.916398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0431\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Koubia"
+    ],
+    "name:fin_x_preferred":[
+        "Koubia"
+    ],
+    "name:fra_x_preferred":[
+        "Koubia"
+    ],
+    "name:ita_x_preferred":[
+        "Koubia"
+    ],
+    "name:msa_x_preferred":[
+        "Koubia"
+    ],
+    "name:pol_x_preferred":[
+        "Koubia"
+    ],
+    "name:spa_x_preferred":[
+        "Koubia"
+    ],
+    "name:swe_x_preferred":[
+        "Koubia"
+    ],
     "name:unk_x_variant":[
         "Pr\u00e9fecture de Koubia"
     ],
@@ -72,7 +99,7 @@
         }
     ],
     "wof:id":890454187,
-    "wof:lastmodified":1554489063,
+    "wof:lastmodified":1564218034,
     "wof:name":"Koubia",
     "wof:parent_id":85671467,
     "wof:placetype":"county",

@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Fouala"
+    ],
+    "name:msa_x_preferred":[
+        "Fouala"
+    ],
+    "name:spa_x_preferred":[
+        "Fouala"
+    ],
     "name:und_x_variant":[
         "Foukala",
         "Fouala"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1309916377,
-    "wof:lastmodified":1537623978,
+    "wof:lastmodified":1564217987,
     "wof:name":"Fouala",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

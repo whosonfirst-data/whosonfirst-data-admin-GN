@@ -26,6 +26,33 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ouani"
+    ],
+    "name:fra_x_preferred":[
+        "Ouani"
+    ],
+    "name:hrv_x_preferred":[
+        "Ouani"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0561\u0576\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Ouani"
+    ],
+    "name:ita_x_preferred":[
+        "Ouani"
+    ],
+    "name:pol_x_preferred":[
+        "Ouani"
+    ],
+    "name:ron_x_preferred":[
+        "Ouani"
+    ],
+    "name:swe_x_preferred":[
+        "Ouani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -35,7 +62,7 @@
         "gn:id":2416858
     },
     "wof:country":"GN",
-    "wof:geomhash":"03c6219a655be66418b6e96e501ffe8f",
+    "wof:geomhash":"fdf9e8000bbf01858b159d4be3f89d09",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -43,7 +70,7 @@
         }
     ],
     "wof:id":1209350593,
-    "wof:lastmodified":1536289755,
+    "wof:lastmodified":1564217729,
     "wof:name":"Ouani",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
@@ -53,9 +80,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.183329999999998,
+    -13.18333,
     10.33333,
-    -13.183329999999998,
+    -13.18333,
     10.33333
 ],
   "geometry": {"coordinates":[-13.18333,10.33333],"type":"Point"}

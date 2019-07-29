@@ -27,6 +27,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bardou"
+    ],
+    "name:ita_x_preferred":[
+        "Bardou"
+    ],
+    "name:msa_x_preferred":[
+        "Bardou"
+    ],
+    "name:spa_x_preferred":[
+        "Bardou"
+    ],
+    "name:swe_x_preferred":[
+        "Bardou"
+    ],
     "name:und_x_variant":[
         "Baradou",
         "Bardou"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1292941761,
-    "wof:lastmodified":1537624000,
+    "wof:lastmodified":1564217432,
     "wof:name":"Bardou",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

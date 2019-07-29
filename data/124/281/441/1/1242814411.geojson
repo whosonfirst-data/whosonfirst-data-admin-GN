@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Linsan"
+    ],
+    "name:msa_x_preferred":[
+        "Linsan"
+    ],
+    "name:spa_x_preferred":[
+        "Linsan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1242814411,
-    "wof:lastmodified":1537563077,
+    "wof:lastmodified":1564218072,
     "wof:name":"Linsan",
     "wof:parent_id":890454189,
     "wof:placetype":"locality",

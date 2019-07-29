@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bouliwel"
+    ],
+    "name:ita_x_preferred":[
+        "Bouliwel"
+    ],
+    "name:msa_x_preferred":[
+        "Bouliwel"
+    ],
+    "name:spa_x_preferred":[
+        "Bouliwel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1276479059,
-    "wof:lastmodified":1537563084,
+    "wof:lastmodified":1564217602,
     "wof:name":"Bouliwel",
     "wof:parent_id":421188475,
     "wof:placetype":"locality",

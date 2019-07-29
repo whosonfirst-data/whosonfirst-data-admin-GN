@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u099f\u09cb\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Toka"
+    ],
+    "name:deu_x_preferred":[
+        "Toka"
+    ],
+    "name:swe_x_preferred":[
+        "Toka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276157387,
-    "wof:lastmodified":1537013856,
+    "wof:lastmodified":1564217610,
     "wof:name":"Toka",
     "wof:parent_id":421198015,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bereta"
+    ],
+    "name:fra_x_preferred":[
+        "Bereta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293231531,
-    "wof:lastmodified":1536659258,
+    "wof:lastmodified":1564217446,
     "wof:name":"Bereta",
     "wof:parent_id":421198015,
     "wof:placetype":"locality",

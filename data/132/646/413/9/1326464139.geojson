@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "L\u00e9b\u00e9k\u00e9re"
+    ],
+    "name:msa_x_preferred":[
+        "L\u00e9b\u00e9k\u00e9re"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00e9b\u00e9k\u00e9re"
+    ],
     "name:und_x_variant":[
         "L\u00e9b\u00e9k\u00e9r\u00e9"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326464139,
-    "wof:lastmodified":1537623948,
+    "wof:lastmodified":1564217232,
     "wof:name":"Lebekere",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

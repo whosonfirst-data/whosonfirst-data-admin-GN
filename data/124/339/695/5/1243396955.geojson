@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balani"
+    ],
+    "name:swe_x_preferred":[
+        "Balani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1243396955,
-    "wof:lastmodified":1536876138,
+    "wof:lastmodified":1564218059,
     "wof:name":"Balani",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banankoro"
+    ],
+    "name:fra_x_preferred":[
+        "Banankoro"
+    ],
+    "name:ita_x_preferred":[
+        "Banankoro"
+    ],
+    "name:msa_x_preferred":[
+        "Banankoro"
+    ],
+    "name:pol_x_preferred":[
+        "Banankoro"
+    ],
+    "name:spa_x_preferred":[
+        "Banankoro"
+    ],
+    "name:swe_x_preferred":[
+        "Banankoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1293420099,
-    "wof:lastmodified":1537563083,
+    "wof:lastmodified":1564217510,
     "wof:name":"Banankoro",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Balaya"
+    ],
+    "name:msa_x_preferred":[
+        "Balaya"
+    ],
+    "name:spa_x_preferred":[
+        "Balaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1260016553,
-    "wof:lastmodified":1537081137,
+    "wof:lastmodified":1564217825,
     "wof:name":"Balaya",
     "wof:parent_id":421199273,
     "wof:placetype":"locality",

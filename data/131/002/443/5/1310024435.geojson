@@ -26,6 +26,51 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0646\u0648\u062a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Tonota"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u0648\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tonota"
+    ],
+    "name:ita_x_preferred":[
+        "Tonota"
+    ],
+    "name:mlg_x_preferred":[
+        "Tonota"
+    ],
+    "name:nld_x_preferred":[
+        "Tonota"
+    ],
+    "name:pol_x_preferred":[
+        "Tonota"
+    ],
+    "name:ron_x_preferred":[
+        "Tonota"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043d\u043e\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tonota"
+    ],
+    "name:swa_x_preferred":[
+        "Tonota"
+    ],
+    "name:swe_x_preferred":[
+        "Tonota"
+    ],
+    "name:tsn_x_preferred":[
+        "Tonota"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u8afe\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1310024435,
-    "wof:lastmodified":1536613621,
+    "wof:lastmodified":1564217935,
     "wof:name":"Tonota",
     "wof:parent_id":421203701,
     "wof:placetype":"locality",

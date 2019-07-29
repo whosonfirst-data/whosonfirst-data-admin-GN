@@ -27,6 +27,9 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Fero"
+    ],
     "name:und_x_variant":[
         "Ferdou",
         "F\u00e9ro"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326564051,
-    "wof:lastmodified":1537623980,
+    "wof:lastmodified":1564217191,
     "wof:name":"Fero",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

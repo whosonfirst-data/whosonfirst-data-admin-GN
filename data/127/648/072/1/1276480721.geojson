@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:glg_x_preferred":[
+        "Lero"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e8\u05d5 \u05d5\u05dc\u05e8\u05d9\u05e0\u05d4"
+    ],
+    "name:por_x_preferred":[
+        "Lero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276480721,
-    "wof:lastmodified":1537075354,
+    "wof:lastmodified":1564217630,
     "wof:name":"Lero",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kotila"
+    ],
+    "name:fra_x_preferred":[
+        "Kotila"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u094b\u0924\u093f\u0932\u093e \u0968"
+    ],
+    "name:pol_x_preferred":[
+        "Kotila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1309730911,
-    "wof:lastmodified":1537037434,
+    "wof:lastmodified":1564218007,
     "wof:name":"Kotila",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

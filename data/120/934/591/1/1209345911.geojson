@@ -26,6 +26,48 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kolo"
+    ],
+    "name:ceb_x_preferred":[
+        "Kolo"
+    ],
+    "name:ces_x_preferred":[
+        "Kolo"
+    ],
+    "name:deu_x_preferred":[
+        "Kolo"
+    ],
+    "name:fra_x_preferred":[
+        "Kolo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kolo"
+    ],
+    "name:ita_x_preferred":[
+        "Kolo"
+    ],
+    "name:nld_x_preferred":[
+        "Kolo"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0142o"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Kolo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kolo"
+    ],
+    "name:szl_x_preferred":[
+        "Ko\u0142o"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -35,7 +77,7 @@
         "gn:id":2419150
     },
     "wof:country":"GN",
-    "wof:geomhash":"21538a3f9981cb67be94e33b5bedb3cb",
+    "wof:geomhash":"97cd4efe0a405713c953c6100a9430b9",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -43,7 +85,7 @@
         }
     ],
     "wof:id":1209345911,
-    "wof:lastmodified":1536289914,
+    "wof:lastmodified":1564217747,
     "wof:name":"Kolo",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
@@ -53,9 +95,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.433329999999998,
+    -14.43333,
     10.48333,
-    -14.433329999999998,
+    -14.43333,
     10.48333
 ],
   "geometry": {"coordinates":[-14.43333,10.48333],"type":"Point"}

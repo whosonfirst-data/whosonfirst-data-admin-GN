@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tamiko"
+    ],
+    "name:swe_x_preferred":[
+        "Tamiko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1344087485,
-    "wof:lastmodified":1536835675,
+    "wof:lastmodified":1564217299,
     "wof:name":"Tamiko",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

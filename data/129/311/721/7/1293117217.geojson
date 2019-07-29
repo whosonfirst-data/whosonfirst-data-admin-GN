@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bow\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Bow\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Bow\u00e9"
+    ],
     "name:und_x_variant":[
         "Boou\u00e9",
         "Bow\u00e9"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293117217,
-    "wof:lastmodified":1537623993,
+    "wof:lastmodified":1564217506,
     "wof:name":"Bowe",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

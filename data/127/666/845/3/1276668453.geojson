@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bipa"
+    ],
+    "name:sqi_x_preferred":[
+        "Bipa"
+    ],
+    "name:zho_x_preferred":[
+        "\u671d\u9bae\u7435\u7436"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276668453,
-    "wof:lastmodified":1536825719,
+    "wof:lastmodified":1564217595,
     "wof:name":"Bipa",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

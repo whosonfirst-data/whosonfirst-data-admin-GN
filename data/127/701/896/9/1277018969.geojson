@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koundianakoro"
+    ],
+    "name:ita_x_preferred":[
+        "Koundianakoro"
+    ],
+    "name:msa_x_preferred":[
+        "Koundianakoro"
+    ],
+    "name:spa_x_preferred":[
+        "Kondianakoro"
+    ],
+    "name:swe_x_preferred":[
+        "Koundianakoro"
+    ],
     "name:und_x_variant":[
         "Koudianakoro",
         "Koudaniakoura",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1277018969,
-    "wof:lastmodified":1537623952,
+    "wof:lastmodified":1564217546,
     "wof:name":"Koundianakoro",
     "wof:parent_id":421183313,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Selouma"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e9louma"
+    ],
+    "name:msa_x_preferred":[
+        "S\u00e9louma"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e9louma"
+    ],
+    "name:swe_x_preferred":[
+        "Selouma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1326663935,
-    "wof:lastmodified":1537563074,
+    "wof:lastmodified":1564217199,
     "wof:name":"Selouma",
     "wof:parent_id":421198015,
     "wof:placetype":"locality",

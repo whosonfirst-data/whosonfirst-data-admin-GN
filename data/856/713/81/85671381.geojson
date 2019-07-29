@@ -24,11 +24,44 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0431\u043e\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Dabola"
+    ],
     "name:eng_x_preferred":[
+        "Dabola"
+    ],
+    "name:fin_x_preferred":[
         "Dabola"
     ],
     "name:fra_x_preferred":[
         "Faranah"
+    ],
+    "name:fra_x_variant":[
+        "Dabola"
+    ],
+    "name:ita_x_preferred":[
+        "Dabola"
+    ],
+    "name:msa_x_preferred":[
+        "Dabola"
+    ],
+    "name:pol_x_preferred":[
+        "Dabola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0431\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Dabola"
+    ],
+    "name:swe_x_preferred":[
+        "Dabola"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u535a\u62c9"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GIN",
@@ -148,7 +181,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550366,
+    "wof:lastmodified":1564217391,
     "wof:name":"Dabola",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

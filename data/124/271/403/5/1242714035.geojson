@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koundian"
+    ],
+    "name:ita_x_preferred":[
+        "Koundian"
+    ],
+    "name:msa_x_preferred":[
+        "Koundian"
+    ],
+    "name:swe_x_preferred":[
+        "Koundian"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242714035,
-    "wof:lastmodified":1537563077,
+    "wof:lastmodified":1564218133,
     "wof:name":"Koundian",
     "wof:parent_id":421183313,
     "wof:placetype":"locality",

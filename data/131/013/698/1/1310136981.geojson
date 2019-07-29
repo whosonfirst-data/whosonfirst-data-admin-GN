@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Niagassola"
+    ],
+    "name:ita_x_preferred":[
+        "Niagassola"
+    ],
+    "name:msa_x_preferred":[
+        "Niagassola"
+    ],
+    "name:spa_x_preferred":[
+        "Niagassola"
+    ],
     "name:und_x_variant":[
         "Niagassola",
         "Nyagassola"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310136981,
-    "wof:lastmodified":1537623938,
+    "wof:lastmodified":1564217866,
     "wof:name":"Nyagassola",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

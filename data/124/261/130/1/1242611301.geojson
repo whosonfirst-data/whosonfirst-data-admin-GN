@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fofo"
+    ],
+    "name:swe_x_preferred":[
+        "Fofo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1242611301,
-    "wof:lastmodified":1537014452,
+    "wof:lastmodified":1564218086,
     "wof:name":"Fofo",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0440\u044b\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Serina"
+    ],
+    "name:eus_x_preferred":[
+        "Serina"
+    ],
+    "name:ita_x_preferred":[
+        "Serina"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ub9ac\ub098"
+    ],
+    "name:por_x_preferred":[
+        "Serina"
+    ],
+    "name:swe_x_preferred":[
+        "Serina"
+    ],
+    "name:tgl_x_preferred":[
+        "Serina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1310342469,
-    "wof:lastmodified":1536654526,
+    "wof:lastmodified":1564217923,
     "wof:name":"Serina",
     "wof:parent_id":421182471,
     "wof:placetype":"locality",

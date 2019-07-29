@@ -26,6 +26,24 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dabiss"
+    ],
+    "name:fra_x_preferred":[
+        "Dabiss"
+    ],
+    "name:ita_x_preferred":[
+        "Dabiss"
+    ],
+    "name:msa_x_preferred":[
+        "Dabiss"
+    ],
+    "name:spa_x_preferred":[
+        "Dabiss"
+    ],
+    "name:swe_x_preferred":[
+        "Dabiss"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1259418739,
-    "wof:lastmodified":1537563084,
+    "wof:lastmodified":1564218197,
     "wof:name":"Dabiss",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

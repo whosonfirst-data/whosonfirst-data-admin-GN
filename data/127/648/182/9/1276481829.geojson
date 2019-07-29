@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balanda"
+    ],
+    "name:fra_x_preferred":[
+        "Balanda"
+    ],
+    "name:swe_x_preferred":[
+        "Balanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276481829,
-    "wof:lastmodified":1537073798,
+    "wof:lastmodified":1564217631,
     "wof:name":"Balanda",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tiele"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226172871,
-    "wof:lastmodified":1537037093,
+    "wof:lastmodified":1564218255,
     "wof:name":"Tiele",
     "wof:parent_id":421191557,
     "wof:placetype":"locality",

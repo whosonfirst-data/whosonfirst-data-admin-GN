@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sansal\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Sansal\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Sansal\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Sansal\u00e9"
+    ],
     "name:und_x_variant":[
         "Sansal\u00e9"
     ],
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209348835,
-    "wof:lastmodified":1537623927,
+    "wof:lastmodified":1564217748,
     "wof:name":"Sansale",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

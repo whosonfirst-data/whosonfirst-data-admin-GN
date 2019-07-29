@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Fatako"
+    ],
+    "name:msa_x_preferred":[
+        "Fatako"
+    ],
+    "name:spa_x_preferred":[
+        "Fatako"
+    ],
     "name:und_x_variant":[
         "Falako",
         "Fatako"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209136371,
-    "wof:lastmodified":1537623981,
+    "wof:lastmodified":1564217712,
     "wof:name":"Fatako",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

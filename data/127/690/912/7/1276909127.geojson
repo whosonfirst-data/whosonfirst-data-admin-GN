@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Khorira"
+    ],
+    "name:msa_x_preferred":[
+        "Khorira"
+    ],
+    "name:spa_x_preferred":[
+        "Khorira"
+    ],
     "name:und_x_variant":[
         "Corr\u00e9ra",
         "Kohorira",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276909127,
-    "wof:lastmodified":1537623961,
+    "wof:lastmodified":1564217636,
     "wof:name":"Khorira",
     "wof:parent_id":421199273,
     "wof:placetype":"locality",

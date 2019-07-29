@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tiro"
+    ],
+    "name:ita_x_preferred":[
+        "Tiro"
+    ],
+    "name:msa_x_preferred":[
+        "Tiro"
+    ],
+    "name:spa_x_preferred":[
+        "Tiro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242809219,
-    "wof:lastmodified":1537563072,
+    "wof:lastmodified":1564218068,
     "wof:name":"Tiro",
     "wof:parent_id":421188473,
     "wof:placetype":"locality",

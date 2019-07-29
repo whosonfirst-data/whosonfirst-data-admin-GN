@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jav_x_preferred":[
+        "Kambo"
+    ],
+    "name:nor_x_preferred":[
+        "Kambo"
+    ],
     "name:und_x_variant":[
         "Kamba",
         "Kambo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343299137,
-    "wof:lastmodified":1537623967,
+    "wof:lastmodified":1564217371,
     "wof:name":"Kambo",
     "wof:parent_id":421199273,
     "wof:placetype":"locality",

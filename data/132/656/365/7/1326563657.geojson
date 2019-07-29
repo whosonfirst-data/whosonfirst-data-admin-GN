@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banankoro"
+    ],
+    "name:swe_x_preferred":[
+        "Banankoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326563657,
-    "wof:lastmodified":1536939458,
+    "wof:lastmodified":1564217185,
     "wof:name":"Banankoro",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

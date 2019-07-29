@@ -24,11 +24,59 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0433\u0438\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Siguiri"
+    ],
+    "name:ceb_x_preferred":[
+        "Siguiri"
+    ],
+    "name:dan_x_preferred":[
+        "Siguiri"
+    ],
+    "name:deu_x_preferred":[
+        "Siguiri"
+    ],
     "name:eng_x_preferred":[
+        "Siguiri"
+    ],
+    "name:fin_x_preferred":[
         "Siguiri"
     ],
     "name:fra_x_preferred":[
         "Kankan"
+    ],
+    "name:fra_x_variant":[
+        "Siguiri"
+    ],
+    "name:ita_x_preferred":[
+        "Siguiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ae\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uae30\ub9ac"
+    ],
+    "name:msa_x_preferred":[
+        "Siguiri"
+    ],
+    "name:pol_x_preferred":[
+        "Siguiri"
+    ],
+    "name:por_x_preferred":[
+        "Siguiri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433\u0438\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Siguiri"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5409\u91cc"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GIN",
@@ -148,7 +196,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550383,
+    "wof:lastmodified":1564217395,
     "wof:name":"Siguiri",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

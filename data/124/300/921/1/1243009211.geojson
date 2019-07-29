@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doudou"
+    ],
+    "name:fra_x_preferred":[
+        "Doudou"
+    ],
+    "name:swe_x_preferred":[
+        "Doudou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243009211,
-    "wof:lastmodified":1536939597,
+    "wof:lastmodified":1564218046,
     "wof:name":"Doudou",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

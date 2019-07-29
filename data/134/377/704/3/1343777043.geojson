@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Moussadou"
+    ],
+    "name:msa_x_preferred":[
+        "Moussadou"
+    ],
+    "name:spa_x_preferred":[
+        "Moussadou"
+    ],
     "name:und_x_variant":[
         "Mussadugu",
         "Moussadougou",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343777043,
-    "wof:lastmodified":1537623940,
+    "wof:lastmodified":1564217318,
     "wof:name":"Moussadou",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

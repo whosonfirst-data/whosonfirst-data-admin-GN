@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Boola"
+    ],
+    "name:msa_x_preferred":[
+        "Boola"
+    ],
+    "name:spa_x_preferred":[
+        "Boola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1276453533,
-    "wof:lastmodified":1537563082,
+    "wof:lastmodified":1564217562,
     "wof:name":"Boola",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

@@ -26,6 +26,39 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bamba"
+    ],
+    "name:deu_x_preferred":[
+        "Bamba"
+    ],
+    "name:fra_x_preferred":[
+        "Bamba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05de\u05d1\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bamba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30d0"
+    ],
+    "name:pol_x_preferred":[
+        "Bamba"
+    ],
+    "name:por_x_preferred":[
+        "Bamba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043c\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bamba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043c\u0431\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -35,7 +68,7 @@
         "gn:id":2592926
     },
     "wof:country":"GN",
-    "wof:geomhash":"c9df35ee85f3fa5c15bb3d08ff884682",
+    "wof:geomhash":"1bb645f1ff1fa3718de947243bbc76c7",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -43,7 +76,7 @@
         }
     ],
     "wof:id":1209350613,
-    "wof:lastmodified":1536289754,
+    "wof:lastmodified":1564217729,
     "wof:name":"Bamba",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
@@ -53,9 +86,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.889170000000002,
+    -13.88917,
     9.99806,
-    -13.889170000000002,
+    -13.88917,
     9.99806
 ],
   "geometry": {"coordinates":[-13.88917,9.99806],"type":"Point"}

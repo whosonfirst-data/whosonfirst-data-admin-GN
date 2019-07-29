@@ -27,6 +27,27 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0441\u0430\u043c\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Missamana"
+    ],
+    "name:fra_x_preferred":[
+        "Missamana"
+    ],
+    "name:ita_x_preferred":[
+        "Missamana"
+    ],
+    "name:msa_x_preferred":[
+        "Missamana"
+    ],
+    "name:spa_x_preferred":[
+        "Missamana"
+    ],
+    "name:swe_x_preferred":[
+        "Missamana"
+    ],
     "name:und_x_variant":[
         "Mansaniana",
         "Mansamana",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1326761081,
-    "wof:lastmodified":1537623941,
+    "wof:lastmodified":1564217228,
     "wof:name":"Missamana",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

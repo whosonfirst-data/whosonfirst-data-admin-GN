@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tesse"
+    ],
+    "name:nno_x_preferred":[
+        "Tesse"
+    ],
+    "name:nor_x_preferred":[
+        "Tesse"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259717353,
-    "wof:lastmodified":1537017615,
+    "wof:lastmodified":1564218208,
     "wof:name":"Tesse",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sar\u00e9kaly"
+    ],
+    "name:msa_x_preferred":[
+        "Sar\u00e9kaly"
+    ],
+    "name:spa_x_preferred":[
+        "Sarekaly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293426539,
-    "wof:lastmodified":1537563084,
+    "wof:lastmodified":1564217515,
     "wof:name":"Sarekaly",
     "wof:parent_id":421180037,
     "wof:placetype":"locality",

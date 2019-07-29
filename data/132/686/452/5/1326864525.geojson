@@ -26,6 +26,27 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Damaro"
+    ],
+    "name:fra_x_preferred":[
+        "Damaro"
+    ],
+    "name:ita_x_preferred":[
+        "Damaro"
+    ],
+    "name:msa_x_preferred":[
+        "Damaro"
+    ],
+    "name:pol_x_preferred":[
+        "Damaro"
+    ],
+    "name:spa_x_preferred":[
+        "Damaro"
+    ],
+    "name:swe_x_preferred":[
+        "Damaro"
+    ],
     "name:und_x_variant":[
         "Bamaro",
         "Damara",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1326864525,
-    "wof:lastmodified":1537623991,
+    "wof:lastmodified":1564217171,
     "wof:name":"Damaro",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

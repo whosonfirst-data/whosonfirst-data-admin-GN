@@ -26,6 +26,30 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sandia"
+    ],
+    "name:deu_x_preferred":[
+        "Sandia"
+    ],
+    "name:hrv_x_preferred":[
+        "Sandia"
+    ],
+    "name:nld_x_preferred":[
+        "Sandia"
+    ],
+    "name:pol_x_preferred":[
+        "Sandia"
+    ],
+    "name:por_x_preferred":[
+        "Sandia"
+    ],
+    "name:spa_x_preferred":[
+        "Sandia"
+    ],
+    "name:swe_x_preferred":[
+        "Sandia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1309924537,
-    "wof:lastmodified":1536760147,
+    "wof:lastmodified":1564217997,
     "wof:name":"Sandia",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

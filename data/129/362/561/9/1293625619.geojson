@@ -26,6 +26,12 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Niamana"
+    ],
+    "name:ita_x_preferred":[
+        "Niamana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293625619,
-    "wof:lastmodified":1537081802,
+    "wof:lastmodified":1564217404,
     "wof:name":"Niamana",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

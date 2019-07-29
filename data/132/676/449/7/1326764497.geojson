@@ -26,9 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Falessade"
+    ],
+    "name:msa_x_preferred":[
+        "Falessade"
+    ],
+    "name:spa_x_preferred":[
+        "Falessade"
+    ],
     "name:und_x_variant":[
         "Falessade",
         "Falissad\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u06cc\u0633\u0627\u0688\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326764497,
-    "wof:lastmodified":1537623983,
+    "wof:lastmodified":1564217225,
     "wof:name":"Falissade",
     "wof:parent_id":421199273,
     "wof:placetype":"locality",

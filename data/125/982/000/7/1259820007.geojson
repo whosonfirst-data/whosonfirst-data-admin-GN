@@ -26,6 +26,21 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koumana"
+    ],
+    "name:ita_x_preferred":[
+        "Koumana"
+    ],
+    "name:msa_x_preferred":[
+        "Koumana"
+    ],
+    "name:spa_x_preferred":[
+        "Koumana"
+    ],
+    "name:swe_x_preferred":[
+        "Koumana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1259820007,
-    "wof:lastmodified":1537563077,
+    "wof:lastmodified":1564218215,
     "wof:name":"Koumana",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

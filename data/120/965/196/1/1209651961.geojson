@@ -26,6 +26,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Donghol-Sigon"
+    ],
+    "name:msa_x_preferred":[
+        "Donghol-Sigon"
+    ],
+    "name:spa_x_preferred":[
+        "Donghol-Sigon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209651961,
-    "wof:lastmodified":1537563084,
+    "wof:lastmodified":1564217671,
     "wof:name":"Donghol-Sigon",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

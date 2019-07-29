@@ -26,6 +26,9 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bambadinka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1242611373,
-    "wof:lastmodified":1537014353,
+    "wof:lastmodified":1564218086,
     "wof:name":"Bambadinka",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

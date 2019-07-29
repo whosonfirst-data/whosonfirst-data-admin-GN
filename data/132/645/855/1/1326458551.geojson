@@ -26,6 +26,27 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u0627\u0621"
+    ],
+    "name:ceb_x_preferred":[
+        "Safa"
+    ],
+    "name:deu_x_preferred":[
+        "Safa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Safa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0444\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Safa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1326458551,
-    "wof:lastmodified":1537087112,
+    "wof:lastmodified":1564217179,
     "wof:name":"Safa",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mangue"
+    ],
+    "name:deu_x_preferred":[
+        "Mangue"
+    ],
+    "name:fra_x_preferred":[
+        "Mangue"
+    ],
+    "name:swe_x_preferred":[
+        "Mangue"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1277105791,
-    "wof:lastmodified":1536734656,
+    "wof:lastmodified":1564217658,
     "wof:name":"Mangue",
     "wof:parent_id":421175263,
     "wof:placetype":"locality",

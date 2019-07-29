@@ -27,6 +27,15 @@
     "iso:country":"GN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Binikala"
+    ],
+    "name:msa_x_preferred":[
+        "Binikala"
+    ],
+    "name:spa_x_preferred":[
+        "Binikala"
+    ],
     "name:und_x_variant":[
         "Banikala",
         "Binikala"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209019575,
-    "wof:lastmodified":1537623997,
+    "wof:lastmodified":1564217675,
     "wof:name":"Binikala",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
