@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "lbl:latitude":10.659343,
     "lbl:longitude":-8.616978,
     "mps:latitude":10.659343,
@@ -183,7 +186,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255841,
+    "wof:lastmodified":1565712821,
     "wof:name":"Mandiana",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

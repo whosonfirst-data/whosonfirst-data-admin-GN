@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DL"
+    ],
     "lbl:latitude":10.855004,
     "lbl:longitude":-12.193336,
     "mps:latitude":10.855004,
@@ -183,7 +186,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255828,
+    "wof:lastmodified":1565712820,
     "wof:name":"Dalaba",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

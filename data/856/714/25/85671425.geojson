@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KE"
+    ],
     "lbl:latitude":9.372509,
     "lbl:longitude":-8.915581,
     "mps:latitude":9.372509,
@@ -198,7 +201,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255844,
+    "wof:lastmodified":1565712821,
     "wof:name":"K\u00e9rouan\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

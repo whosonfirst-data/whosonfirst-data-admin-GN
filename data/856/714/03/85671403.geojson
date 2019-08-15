@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FO"
+    ],
     "lbl:latitude":9.388769,
     "lbl:longitude":-13.107543,
     "mps:latitude":9.388769,
@@ -258,7 +261,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255829,
+    "wof:lastmodified":1565712820,
     "wof:name":"For\u00e9cariah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MM"
+    ],
     "lbl:latitude":10.414424,
     "lbl:longitude":-11.903176,
     "mps:latitude":10.414424,
@@ -202,7 +205,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255835,
+    "wof:lastmodified":1565712820,
     "wof:name":"Mamou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

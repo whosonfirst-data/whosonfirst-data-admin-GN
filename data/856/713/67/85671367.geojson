@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
+    ],
     "lbl:latitude":11.195916,
     "lbl:longitude":-14.254114,
     "mps:latitude":11.195916,
@@ -209,7 +212,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255823,
+    "wof:lastmodified":1565829823,
     "wof:name":"Boke",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
@@ -218,6 +221,7 @@
     "wof:population":450278,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:shortcode":"BK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YO"
+    ],
     "lbl:latitude":7.595779,
     "lbl:longitude":-9.113285,
     "mps:latitude":7.595779,
@@ -206,7 +209,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255839,
+    "wof:lastmodified":1565712821,
     "wof:name":"Yomou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

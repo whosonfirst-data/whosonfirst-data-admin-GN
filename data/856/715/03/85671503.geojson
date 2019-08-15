@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TE"
+    ],
     "lbl:latitude":10.977354,
     "lbl:longitude":-13.461314,
     "mps:latitude":10.977354,
@@ -192,7 +195,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255844,
+    "wof:lastmodified":1565712821,
     "wof:name":"T\u00e9lim\u00e9l\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

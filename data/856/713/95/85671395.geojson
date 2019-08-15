@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DU"
+    ],
     "lbl:latitude":10.091254,
     "lbl:longitude":-13.584204,
     "mps:latitude":10.091254,
@@ -192,7 +195,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255822,
+    "wof:lastmodified":1565712819,
     "wof:name":"Dubr\u00e9ka",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ML"
+    ],
     "lbl:latitude":12.034384,
     "lbl:longitude":-12.073704,
     "mps:latitude":12.034384,
@@ -736,7 +739,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1564217394,
+    "wof:lastmodified":1565712820,
     "wof:name":"Mali",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

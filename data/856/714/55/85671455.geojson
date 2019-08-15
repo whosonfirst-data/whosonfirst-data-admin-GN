@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LE"
+    ],
     "lbl:latitude":11.397359,
     "lbl:longitude":-12.718403,
     "mps:latitude":11.397359,
@@ -183,7 +186,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255840,
+    "wof:lastmodified":1565712821,
     "wof:name":"L\u00e9louma",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

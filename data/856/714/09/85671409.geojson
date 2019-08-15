@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FR"
+    ],
     "lbl:latitude":10.474611,
     "lbl:longitude":-13.462079,
     "mps:latitude":10.474611,
@@ -267,7 +270,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255838,
+    "wof:lastmodified":1565712820,
     "wof:name":"Fria",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

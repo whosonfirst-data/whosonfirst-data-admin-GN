@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DI"
+    ],
     "lbl:latitude":11.559533,
     "lbl:longitude":-10.694906,
     "mps:latitude":11.559533,
@@ -198,7 +201,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255823,
+    "wof:lastmodified":1565712819,
     "wof:name":"Dinguiraye",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

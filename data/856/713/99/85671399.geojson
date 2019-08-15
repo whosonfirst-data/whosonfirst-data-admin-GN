@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Faranah Prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FA"
+    ],
     "lbl:latitude":10.078615,
     "lbl:longitude":-10.756319,
     "mps:latitude":10.078615,
@@ -198,11 +201,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255826,
+    "wof:lastmodified":1565829827,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:shortcode":"FA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

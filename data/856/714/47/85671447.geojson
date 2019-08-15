@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KO"
+    ],
     "lbl:latitude":10.86316,
     "lbl:longitude":-10.177019,
     "mps:latitude":10.86316,
@@ -213,7 +216,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255843,
+    "wof:lastmodified":1565712821,
     "wof:name":"Kouroussa",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NZ"
+    ],
     "lbl:latitude":8.059331,
     "lbl:longitude":-8.765327,
     "mps:latitude":8.059331,
@@ -220,7 +223,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255841,
+    "wof:lastmodified":1565712821,
     "wof:name":"Nz\u00e9r\u00e9kor\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KS"
+    ],
     "lbl:latitude":9.251162,
     "lbl:longitude":-9.870157,
     "mps:latitude":9.251162,
@@ -270,7 +273,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255830,
+    "wof:lastmodified":1565712820,
     "wof:name":"Kissidougou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

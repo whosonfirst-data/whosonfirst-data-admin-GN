@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DB"
+    ],
     "lbl:latitude":10.732207,
     "lbl:longitude":-11.280362,
     "mps:latitude":10.732207,
@@ -181,7 +184,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1564217391,
+    "wof:lastmodified":1565712819,
     "wof:name":"Dabola",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

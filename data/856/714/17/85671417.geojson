@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":8.704655,
     "lbl:longitude":-10.289954,
     "mps:latitude":8.704655,
@@ -283,7 +286,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255836,
+    "wof:lastmodified":1565712820,
     "wof:name":"Gu\u00e9ck\u00e9dou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

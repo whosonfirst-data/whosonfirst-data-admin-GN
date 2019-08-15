@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":10.138658,
     "lbl:longitude":-9.192014,
     "mps:latitude":10.138658,
@@ -262,7 +265,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255837,
+    "wof:lastmodified":1565712820,
     "wof:name":"Kankan",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MC"
+    ],
     "lbl:latitude":8.537396,
     "lbl:longitude":-9.237141,
     "mps:latitude":8.537396,
@@ -282,7 +285,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255839,
+    "wof:lastmodified":1565712820,
     "wof:name":"Macenta",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

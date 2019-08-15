@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":12.246677,
     "lbl:longitude":-13.122043,
     "mps:latitude":12.246677,
@@ -195,7 +198,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255837,
+    "wof:lastmodified":1565712820,
     "wof:name":"Koundara",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

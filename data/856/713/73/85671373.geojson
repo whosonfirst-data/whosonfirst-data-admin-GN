@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CK"
+    ],
     "lbl:latitude":9.541031,
     "lbl:longitude":-13.678174,
     "mps:latitude":9.541031,
@@ -503,7 +506,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1564217391,
+    "wof:lastmodified":1565712819,
     "wof:name":"Conakry",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

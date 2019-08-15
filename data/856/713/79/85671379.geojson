@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":9.749221,
     "lbl:longitude":-13.351121,
     "mps:latitude":9.749221,
@@ -264,7 +267,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255827,
+    "wof:lastmodified":1565712820,
     "wof:name":"Coyah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

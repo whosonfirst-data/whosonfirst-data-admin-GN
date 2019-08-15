@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "prefecture"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":11.409119,
     "lbl:longitude":-12.331123,
     "mps:latitude":11.409119,
@@ -264,7 +267,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563255830,
+    "wof:lastmodified":1565712820,
     "wof:name":"Lab\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
