@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.986602,
     "lbl:longitude":-12.081791,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mamou",
     "meso:adm2_name":"Dalaba",
     "meso:dissme":"MamouDalaba",
@@ -176,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
@@ -187,7 +189,7 @@
     "wof:concordances":{
         "gn:id":2422383,
         "gp:id":2345579,
-        "qs:id":140050
+        "qs_pg:id":140050
     },
     "wof:country":"GN",
     "wof:created":1459008740,
@@ -201,7 +203,7 @@
         }
     ],
     "wof:id":421167693,
-    "wof:lastmodified":1564218026,
+    "wof:lastmodified":1566639714,
     "wof:name":"Dalaba",
     "wof:parent_id":85671385,
     "wof:placetype":"county",

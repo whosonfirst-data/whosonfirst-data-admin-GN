@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.90333,11.06333,-13.86333,11.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hamdallaye",
         "Hamdallay"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326567025,
-    "wof:lastmodified":1537623971,
+    "wof:lastmodified":1566639139,
     "wof:name":"Hamdallay",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

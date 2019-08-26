@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.16389,8.57889,-9.12389,8.61889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -35,7 +39,7 @@
         "gn:id":2415479
     },
     "wof:country":"GN",
-    "wof:geomhash":"83a30a84ec81e0274259d236fc7d18e5",
+    "wof:geomhash":"d5f2ad308f5559a8775ff8f8e52648ff",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209433499,
-    "wof:lastmodified":1536287168,
+    "wof:lastmodified":1566639541,
     "wof:name":"Sokebaladou",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -9.14389,
-    8.598889999999999,
+    8.59889,
     -9.14389,
-    8.598889999999999
+    8.59889
 ],
   "geometry": {"coordinates":[-9.14389,8.59889],"type":"Point"}
 }

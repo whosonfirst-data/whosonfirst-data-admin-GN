@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.76028,9.90556,-13.72028,9.94556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293525669,
-    "wof:lastmodified":1536732211,
+    "wof:lastmodified":1566639309,
     "wof:name":"Menkine",
     "wof:parent_id":421199269,
     "wof:placetype":"locality",

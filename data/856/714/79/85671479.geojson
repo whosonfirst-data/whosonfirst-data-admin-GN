@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":10.659343,
     "lbl:longitude":-8.616978,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.659343,
     "mps:longitude":-8.616978,
     "mz:hierarchy_label":1,
@@ -63,7 +64,7 @@
     "name:swe_x_preferred":[
         "Mandiana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00e9fecture de Mandiana"
     ],
     "ne:abbrev":"",
@@ -139,9 +140,9 @@
     "qs:woeid":56059378,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-03-01",
+    "src:population_date":"2014-03-01",
     "statoids:area_km":"12300",
     "statoids:area_mi":"4749",
     "statoids:as_of_date":"2014-03-01",
@@ -186,11 +187,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565712821,
+    "wof:lastmodified":1566639290,
     "wof:name":"Mandiana",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":335999,
     "wof:population_rank":10,

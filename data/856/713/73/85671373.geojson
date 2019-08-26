@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":9.541031,
     "lbl:longitude":-13.678174,
+    "lbl:min_zoom":8.0,
     "mps:latitude":9.541031,
     "mps:longitude":-13.678174,
     "mz:hierarchy_label":1,
@@ -351,7 +352,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion Administrative de Conakry"
     ],
     "name:urd_x_preferred":[
@@ -463,9 +464,9 @@
     "qs:woeid":56059372,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-03-01",
+    "src:population_date":"2014-03-01",
     "statoids:area_km":"308",
     "statoids:area_mi":"119",
     "statoids:as_of_date":"2014-03-01",
@@ -506,11 +507,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565712819,
+    "wof:lastmodified":1566639286,
     "wof:name":"Conakry",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":1660973,
     "wof:population_rank":12,

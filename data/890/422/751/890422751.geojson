@@ -11,8 +11,11 @@
     "geom:longitude":-9.88333,
     "gn:country":"GN",
     "gn:fcode":"PPLA2",
-    "gn:pop":14223,
+    "gn:population":14223,
     "iso:country":"GN",
+    "lbl:bbox":"-9.90333,10.63,-9.86333,10.67",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -64,7 +67,7 @@
     "name:swe_x_preferred":[
         "Kouroussa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurussa"
     ],
     "ne:ADM0CAP":0.0,
@@ -175,7 +178,7 @@
     "wof:concordances":{
         "gn:id":2418437,
         "gp:id":1337097,
-        "qs:id":1035555,
+        "qs_pg:id":1035555,
         "wd:id":"Q731232",
         "wk:page":"Kouroussa"
     },
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890422751,
-    "wof:lastmodified":1563256691,
+    "wof:lastmodified":1566639722,
     "wof:name":"Kouroussa",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

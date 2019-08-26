@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.07,9.08,-10.03,9.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Benguadou",
         "Bangadou"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243292523,
-    "wof:lastmodified":1537624001,
+    "wof:lastmodified":1566639815,
     "wof:name":"Bangadou",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

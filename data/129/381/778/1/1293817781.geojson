@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.62,11.59667,-12.58,11.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pantari",
         "Dantari"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293817781,
-    "wof:lastmodified":1537623990,
+    "wof:lastmodified":1566639376,
     "wof:name":"Dantari",
     "wof:parent_id":890454189,
     "wof:placetype":"locality",

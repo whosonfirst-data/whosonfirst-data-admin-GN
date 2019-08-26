@@ -11,7 +11,7 @@
     "geom:longitude":-9.341505,
     "gn:country":"GN",
     "gn:fcode":"ADM2",
-    "gn:pop":296192,
+    "gn:population":296192,
     "iso:country":"GN",
     "label:eng_x_preferred_longname":[
         "Macenta Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":8.471092,
     "lbl:longitude":-9.199886,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Nzerekore",
     "meso:adm2_name":"Macenta",
     "meso:dissme":"NzerekoreMacenta",
@@ -36,6 +38,7 @@
     "mps:longitude":-9.199886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u0442\u0430"
     ],
@@ -105,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion Administrative de Macenta"
     ],
     "name:urd_x_preferred":[
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -135,7 +138,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2417987,
-        "qs:id":91428
+        "qs_pg:id":91428
     },
     "wof:country":"GN",
     "wof:created":1469052941,
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890455263,
-    "wof:lastmodified":1564218033,
+    "wof:lastmodified":1566639723,
     "wof:name":"Macenta",
     "wof:parent_id":85671465,
     "wof:placetype":"county",

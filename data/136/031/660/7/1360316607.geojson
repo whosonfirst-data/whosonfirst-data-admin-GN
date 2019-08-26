@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.0533,10.2133,-12.0133,10.2533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Soyah"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1360316607,
-    "wof:lastmodified":1564217949,
+    "wof:lastmodified":1566639658,
     "wof:name":"Soyah",
     "wof:parent_id":421188475,
     "wof:placetype":"locality",

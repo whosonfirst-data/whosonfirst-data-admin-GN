@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.092873,
     "lbl:longitude":-13.482909,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kindia",
     "meso:adm2_name":"Dubreka",
     "meso:dissme":"KindiaDubreka",
@@ -33,6 +35,7 @@
     "mps:longitude":-13.482909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Dubr\u00e9ka"
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Dubr\u00e9ka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Debreeka"
     ],
     "qs:gn_country":"GN",
@@ -104,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gn:id":2421535,
         "gp:id":2345581,
-        "qs:id":191335,
+        "qs_pg:id":191335,
         "wd:id":"Q985362",
         "wk:page":"Dubr\u00e9ka"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421199273,
-    "wof:lastmodified":1563256682,
+    "wof:lastmodified":1566639719,
     "wof:name":"Dubreka",
     "wof:parent_id":85671395,
     "wof:placetype":"county",

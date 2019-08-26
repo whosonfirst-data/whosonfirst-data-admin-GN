@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":11.409119,
     "lbl:longitude":-12.331123,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.409119,
     "mps:longitude":-12.331123,
     "mz:hierarchy_label":1,
@@ -124,7 +125,7 @@
         "Labe Prefecture"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0baa\u0bc7  \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
+        "\u0bb2\u0baa\u0bc7 \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c2c\u0c46 \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -138,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion Administrative de Lab\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -223,9 +224,9 @@
     "qs:woeid":56059374,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-03-01",
+    "src:population_date":"2014-03-01",
     "statoids:area_km":"3014",
     "statoids:area_mi":"1164",
     "statoids:as_of_date":"2014-03-01",
@@ -267,11 +268,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565712820,
+    "wof:lastmodified":1566639287,
     "wof:name":"Lab\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":318938,
     "wof:population_rank":10,

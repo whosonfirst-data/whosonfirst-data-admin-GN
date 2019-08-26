@@ -11,7 +11,7 @@
     "geom:longitude":-9.108511,
     "gn:country":"GN",
     "gn:fcode":"ADM2",
-    "gn:pop":234785,
+    "gn:population":234785,
     "iso:country":"GN",
     "label:eng_x_preferred_longname":[
         "Kankan Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":10.278501,
     "lbl:longitude":-9.274655,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kankan",
     "meso:adm2_name":"Kankan",
     "meso:dissme":"KankanKankan",
@@ -36,6 +38,7 @@
     "mps:longitude":-9.274655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kankan Prefecture"
     ],
@@ -69,7 +72,7 @@
     "name:swe_x_preferred":[
         "Kankan Prefecture"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion Administrative de Kankan"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -97,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2419991,
-        "qs:id":91431,
+        "qs_pg:id":91431,
         "wd:id":"Q581719",
         "wk:page":"Kankan Prefecture"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890429077,
-    "wof:lastmodified":1563256705,
+    "wof:lastmodified":1566639726,
     "wof:name":"Kankan",
     "wof:parent_id":85671421,
     "wof:placetype":"county",

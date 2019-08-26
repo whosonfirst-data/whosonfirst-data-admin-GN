@@ -11,7 +11,7 @@
     "geom:longitude":-8.796476,
     "gn:country":"GN",
     "gn:fcode":"ADM2",
-    "gn:pop":278035,
+    "gn:population":278035,
     "iso:country":"GN",
     "label:eng_x_preferred_longname":[
         "Nzerekore Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":7.943795,
     "lbl:longitude":-8.822758,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Nzerekore",
     "meso:adm2_name":"Nzerekore",
     "meso:dissme":"NzerekoreNzerekore",
@@ -36,6 +38,7 @@
     "mps:longitude":-8.822758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nzerekore Prefecture"
     ],
@@ -69,7 +72,7 @@
     "name:swe_x_preferred":[
         "Nzerekore Prefecture"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion Administrative de Nz\u00e9r\u00e9kor\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -97,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2416968,
-        "qs:id":91426,
+        "qs_pg:id":91426,
         "wd:id":"Q1471203",
         "wk:page":"Nz\u00e9r\u00e9kor\u00e9 Prefecture"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890455259,
-    "wof:lastmodified":1563256693,
+    "wof:lastmodified":1566639722,
     "wof:name":"Nzerekore",
     "wof:parent_id":85671483,
     "wof:placetype":"county",

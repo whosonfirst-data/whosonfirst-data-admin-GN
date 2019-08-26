@@ -11,7 +11,7 @@
     "geom:longitude":-11.793063,
     "gn:country":"GN",
     "gn:fcode":"ADM2",
-    "gn:pop":114366,
+    "gn:population":114366,
     "iso:country":"GN",
     "label:eng_x_preferred_longname":[
         "Koubia Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":11.695589,
     "lbl:longitude":-11.916398,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Labe",
     "meso:adm2_name":"Koubia",
     "meso:dissme":"LabeKoubia",
@@ -36,6 +38,7 @@
     "mps:longitude":-11.916398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0431\u0438\u044f"
     ],
@@ -63,7 +66,7 @@
     "name:swe_x_preferred":[
         "Koubia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00e9fecture de Koubia"
     ],
     "qs:name":"Pr\u00e9fecture de Koubia",
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":2595302,
         "hasc:id":"GN.KB",
-        "qs:id":575130
+        "qs_pg:id":575130
     },
     "wof:country":"GN",
     "wof:created":1469052890,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890454187,
-    "wof:lastmodified":1564218034,
+    "wof:lastmodified":1566639723,
     "wof:name":"Koubia",
     "wof:parent_id":85671467,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-8.68667,8.29667,-8.64667,8.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouraso",
         "Orata"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276883789,
-    "wof:lastmodified":1537623935,
+    "wof:lastmodified":1566639392,
     "wof:name":"Orata",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

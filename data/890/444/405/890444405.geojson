@@ -11,8 +11,11 @@
     "geom:longitude":-8.8179,
     "gn:country":"GN",
     "gn:fcode":"PPLA",
-    "gn:pop":132728,
+    "gn:population":132728,
     "iso:country":"GN",
+    "lbl:bbox":"-8.8379,7.73624,-8.7979,7.77624",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -271,12 +274,12 @@
     "wof:concordances":{
         "gn:id":2416969,
         "gp:id":1337916,
-        "qs:id":1035547,
+        "qs_pg:id":1035547,
         "wd:id":"Q1002799",
         "wk:page":"Nz\u00e9r\u00e9kor\u00e9"
     },
     "wof:concordances_alt":{
-        "qs:id":1170089
+        "qs_pg:id":1170089
     },
     "wof:country":"GN",
     "wof:created":1469052467,
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":890444405,
-    "wof:lastmodified":1563256705,
+    "wof:lastmodified":1566639725,
     "wof:name":"Nz\u00e9r\u00e9kor\u00e9",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

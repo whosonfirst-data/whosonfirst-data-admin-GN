@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.05333,8.89667,-10.01333,8.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koundiadou",
         "Kond\u00e9adou"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343389505,
-    "wof:lastmodified":1537623956,
+    "wof:lastmodified":1566639205,
     "wof:name":"Kondeadou",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",

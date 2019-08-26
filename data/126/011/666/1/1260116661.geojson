@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.42,9.49667,-9.38,9.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Di\u00e9rabadougou",
         "Diarabadougou",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260116661,
-    "wof:lastmodified":1537623989,
+    "wof:lastmodified":1566639584,
     "wof:name":"Diarabadou",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

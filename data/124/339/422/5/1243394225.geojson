@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.63667,11.44667,-12.59667,11.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Korb\u00e9"
     ],
@@ -33,9 +37,6 @@
         "Korb\u00e9"
     ],
     "name:spa_x_preferred":[
-        "Korb\u00e9"
-    ],
-    "name:und_x_variant":[
         "Korb\u00e9"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1243394225,
-    "wof:lastmodified":1564218058,
+    "wof:lastmodified":1566639742,
     "wof:name":"Korbe",
     "wof:parent_id":890454189,
     "wof:placetype":"locality",

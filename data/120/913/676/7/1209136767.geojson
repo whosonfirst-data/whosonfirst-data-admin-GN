@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.04861,9.76306,-13.00861,9.80306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kouendigouba",
         "Kouend\u00e9gouba"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209136767,
-    "wof:lastmodified":1537624006,
+    "wof:lastmodified":1566639498,
     "wof:name":"Kouendegouba",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

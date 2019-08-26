@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.56167,8.75333,-9.52167,8.79333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Binikala"
     ],
@@ -37,8 +41,7 @@
         "Binikala"
     ],
     "name:und_x_variant":[
-        "Banikala",
-        "Binikala"
+        "Banikala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209019575,
-    "wof:lastmodified":1564217675,
+    "wof:lastmodified":1566639472,
     "wof:name":"Binikala",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-14.68667,10.86333,-14.64667,10.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kassomba",
         "Kassoumba"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360121681,
-    "wof:lastmodified":1537623964,
+    "wof:lastmodified":1566639651,
     "wof:name":"Kassoumba",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

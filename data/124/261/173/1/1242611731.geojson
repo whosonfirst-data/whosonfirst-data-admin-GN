@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.13667,9.13,-13.09667,9.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cond\u00e9\u00efr\u00e9",
         "Kondeyir\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242611731,
-    "wof:lastmodified":1537623956,
+    "wof:lastmodified":1566639760,
     "wof:name":"Kondeyire",
     "wof:parent_id":421175263,
     "wof:placetype":"locality",

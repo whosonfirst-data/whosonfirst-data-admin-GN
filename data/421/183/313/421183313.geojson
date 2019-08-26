@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.64936,
     "lbl:longitude":-8.610824,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kankan",
     "meso:adm2_name":"Mandiana",
     "meso:dissme":"KankanMandiana",
@@ -33,6 +35,7 @@
     "mps:longitude":-8.610824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0646\u062f\u064a\u0627\u0646\u0627"
@@ -118,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041c\u0430\u043d\u0434\u0456\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00e9fecture de Mandiana"
     ],
     "name:urd_x_preferred":[
@@ -152,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
@@ -163,7 +166,7 @@
     "wof:concordances":{
         "gn:id":2595305,
         "gp:id":56059730,
-        "qs:id":972304,
+        "qs_pg:id":972304,
         "wd:id":"Q1470878",
         "wk:page":"Mandiana Prefecture"
     },
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421183313,
-    "wof:lastmodified":1563256688,
+    "wof:lastmodified":1566639721,
     "wof:name":"Mandiana",
     "wof:parent_id":85671479,
     "wof:placetype":"county",

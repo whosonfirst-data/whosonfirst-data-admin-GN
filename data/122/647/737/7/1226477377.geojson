@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.65333,9.26333,-9.61333,9.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bambadou",
         "Banbadou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226477377,
-    "wof:lastmodified":1537624001,
+    "wof:lastmodified":1566639938,
     "wof:name":"Banbadou",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

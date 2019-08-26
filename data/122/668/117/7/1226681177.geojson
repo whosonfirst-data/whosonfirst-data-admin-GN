@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.68667,11.54667,-9.64667,11.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Sela"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1226681177,
-    "wof:lastmodified":1564218292,
+    "wof:lastmodified":1566639909,
     "wof:name":"Sela",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

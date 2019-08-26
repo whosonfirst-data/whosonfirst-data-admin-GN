@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-14.33667,10.24667,-14.29667,10.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaossou",
         "Kaounsou"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343994637,
-    "wof:lastmodified":1537623965,
+    "wof:lastmodified":1566639216,
     "wof:name":"Kaounsou",
     "wof:parent_id":421199269,
     "wof:placetype":"locality",

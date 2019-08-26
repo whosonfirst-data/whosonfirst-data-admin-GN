@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-8.60333,11.43,-8.56333,11.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Leda"
     ],
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":1226571607,
-    "wof:lastmodified":1564218297,
+    "wof:lastmodified":1566639912,
     "wof:name":"Leda",
     "wof:parent_id":85671479,
     "wof:placetype":"locality",

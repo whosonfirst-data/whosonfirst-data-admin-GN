@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.10333,10.69667,-13.06333,10.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Tarihoye"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1243587577,
-    "wof:lastmodified":1564218117,
+    "wof:lastmodified":1566639783,
     "wof:name":"Tarihoy",
     "wof:parent_id":421180037,
     "wof:placetype":"locality",

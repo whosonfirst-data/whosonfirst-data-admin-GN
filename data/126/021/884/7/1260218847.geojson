@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.30333,11.48,-9.26333,11.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kofoulani",
         "Koloufani",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260218847,
-    "wof:lastmodified":1537623954,
+    "wof:lastmodified":1566639592,
     "wof:name":"Koufoulani",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.93667,11.24667,-10.89667,11.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e9r\u00e9b\u00e9le",
         "M\u00e9r\u00e9b\u00e9"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209142595,
-    "wof:lastmodified":1537623942,
+    "wof:lastmodified":1566639501,
     "wof:name":"Merebe",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

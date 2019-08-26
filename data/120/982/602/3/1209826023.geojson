@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.16917,8.55194,-10.12917,8.59194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gu\u00e9k\u00e9dou-Lele",
         "Gu\u00e9ck\u00e9dou Lele"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209826023,
-    "wof:lastmodified":1537623973,
+    "wof:lastmodified":1566639493,
     "wof:name":"Gueckedou Lele",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

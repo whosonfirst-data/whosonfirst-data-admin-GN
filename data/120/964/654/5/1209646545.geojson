@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.73667,10.43,-12.69667,10.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kouny\u00e9ya",
         "Kound\u00e9yagb\u00e9"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209646545,
-    "wof:lastmodified":1537623952,
+    "wof:lastmodified":1566639476,
     "wof:name":"Koundeyagbe",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

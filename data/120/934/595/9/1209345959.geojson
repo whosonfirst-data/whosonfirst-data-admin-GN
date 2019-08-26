@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-11.58667,10.69667,-11.54667,10.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dingoure",
         "Diogore",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209345959,
-    "wof:lastmodified":1537623988,
+    "wof:lastmodified":1566639522,
     "wof:name":"Diogoure",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

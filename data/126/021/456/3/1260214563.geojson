@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.06167,9.55222,-13.02167,9.59222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260214563,
-    "wof:lastmodified":1536805416,
+    "wof:lastmodified":1566639593,
     "wof:name":"Bomilo",
     "wof:parent_id":421175263,
     "wof:placetype":"locality",

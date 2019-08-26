@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":7.874618,
     "lbl:longitude":-8.332888,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.874618,
     "mps:longitude":-8.332888,
     "mz:hierarchy_label":1,
@@ -96,7 +97,7 @@
     "name:tur_x_preferred":[
         "Lola"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00e9fecture de Lola"
     ],
     "name:uzb_x_preferred":[
@@ -175,9 +176,9 @@
     "qs:woeid":56059376,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-03-01",
+    "src:population_date":"2014-03-01",
     "statoids:area_km":"3940",
     "statoids:area_mi":"1521",
     "statoids:as_of_date":"2014-03-01",
@@ -222,11 +223,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565712820,
+    "wof:lastmodified":1566639287,
     "wof:name":"Lola",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":171561,
     "wof:population_rank":9,

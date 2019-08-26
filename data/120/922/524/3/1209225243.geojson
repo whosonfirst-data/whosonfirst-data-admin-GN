@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-8.415,7.73722,-8.375,7.77722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -35,7 +39,7 @@
         "gn:id":2423011
     },
     "wof:country":"GN",
-    "wof:geomhash":"a8ff1489fd636d6e7e375f8450b2eb5d",
+    "wof:geomhash":"1060661ba9f09067df4e35a0a1516590",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209225243,
-    "wof:lastmodified":1536293818,
+    "wof:lastmodified":1566639494,
     "wof:name":"Blakabata",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -8.395,
-    7.7572199999999984,
+    7.75722,
     -8.395,
-    7.7572199999999984
+    7.75722
 ],
   "geometry": {"coordinates":[-8.395,7.75722],"type":"Point"}
 }

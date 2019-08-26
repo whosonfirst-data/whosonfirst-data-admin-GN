@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.35694,8.7425,-10.31694,8.7825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Demba"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310315599,
-    "wof:lastmodified":1564217886,
+    "wof:lastmodified":1566639620,
     "wof:name":"Demba",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

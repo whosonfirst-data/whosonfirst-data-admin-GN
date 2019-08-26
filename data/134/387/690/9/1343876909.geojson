@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.17389,7.81694,-9.13389,7.85694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N \u2019 Z\u00e9r\u00e9ko\u00e9l\u00e9",
         "Nz\u00e9r\u00e9ko\u00e9l\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343876909,
-    "wof:lastmodified":1537623935,
+    "wof:lastmodified":1566639282,
     "wof:name":"Nzerekoele",
     "wof:parent_id":421203701,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-8.83667,10.19667,-8.79667,10.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0628\u0648\u0628\u0629"
     ],
@@ -69,8 +73,7 @@
         "Koma"
     ],
     "name:und_x_variant":[
-        "Kama",
-        "Koma"
+        "Kama"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1259714723,
-    "wof:lastmodified":1564218209,
+    "wof:lastmodified":1566639849,
     "wof:name":"Koma",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

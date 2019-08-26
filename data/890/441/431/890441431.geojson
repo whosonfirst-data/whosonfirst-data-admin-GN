@@ -11,8 +11,11 @@
     "geom:longitude":-10.1336,
     "gn:country":"GN",
     "gn:fcode":"PPLA2",
-    "gn:pop":79140,
+    "gn:population":79140,
     "iso:country":"GN",
+    "lbl:bbox":"-10.1536,8.54744,-10.1136,8.58744",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043a\u0435\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gu\u00e9k\u00e9dou"
     ],
     "name:urd_x_preferred":[
@@ -259,7 +262,7 @@
     "wof:concordances":{
         "gn:id":2420562,
         "gp:id":1335882,
-        "qs:id":278626,
+        "qs_pg:id":278626,
         "wd:id":"Q740687",
         "wk:page":"Gu\u00e9ck\u00e9dou"
     },
@@ -276,7 +279,7 @@
         }
     ],
     "wof:id":890441431,
-    "wof:lastmodified":1563256691,
+    "wof:lastmodified":1566639722,
     "wof:name":"Gueckedou",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

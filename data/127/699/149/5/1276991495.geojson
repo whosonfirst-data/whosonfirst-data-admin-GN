@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-8.38278,7.72889,-8.34278,7.76889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bl\u00e8egouma",
         "Blay\u00e9gouma"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276991495,
-    "wof:lastmodified":1537623997,
+    "wof:lastmodified":1566639443,
     "wof:name":"Blayegouma",
     "wof:parent_id":421182003,
     "wof:placetype":"locality",

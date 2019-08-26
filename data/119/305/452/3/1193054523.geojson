@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.35333,9.48,-13.31333,9.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dokoufourou",
         "Dakofourou"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193054523,
-    "wof:lastmodified":1537623992,
+    "wof:lastmodified":1566639560,
     "wof:name":"Dakofourou",
     "wof:parent_id":421175263,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-8.42722,7.68556,-8.38722,7.72556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zigou\u00e9ta",
         "Zougu\u00e9po"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344072217,
-    "wof:lastmodified":1537623904,
+    "wof:lastmodified":1566639229,
     "wof:name":"Zouguepo",
     "wof:parent_id":421182003,
     "wof:placetype":"locality",

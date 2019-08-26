@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.15306,7.9675,-9.11306,8.0075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Banambal\u00e1",
         "Banambala"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293794477,
-    "wof:lastmodified":1537624002,
+    "wof:lastmodified":1566639320,
     "wof:name":"Banambala",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.75079,9.06362,-10.71079,9.10362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Timbekurdu",
         "Timbekundu",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1293408569,
-    "wof:lastmodified":1537623904,
+    "wof:lastmodified":1566639334,
     "wof:name":"Timbekundu",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

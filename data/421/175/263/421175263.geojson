@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.414386,
     "lbl:longitude":-13.054858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kindia",
     "meso:adm2_name":"Forecariah",
     "meso:dissme":"KindiaForecariah",
@@ -143,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0440\u0435\u043a\u0430\u0440\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Forikaria"
     ],
     "name:urd_x_preferred":[
@@ -266,7 +268,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
@@ -277,7 +279,7 @@
     "wof:concordances":{
         "gn:id":2420985,
         "gp:id":2345583,
-        "qs:id":946783,
+        "qs_pg:id":946783,
         "wd:id":"Q3077142",
         "wk:page":"For\u00e9cariah"
     },
@@ -293,7 +295,7 @@
         }
     ],
     "wof:id":421175263,
-    "wof:lastmodified":1563256677,
+    "wof:lastmodified":1566639717,
     "wof:name":"Forecariah",
     "wof:parent_id":85671403,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.30333,8.99667,-9.26333,9.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fenariah",
         "F\u00e9naria"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293235845,
-    "wof:lastmodified":1564217451,
+    "wof:lastmodified":1566639328,
     "wof:name":"Fenaria",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.703221,
     "lbl:longitude":-10.26688,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Nzerekore",
     "meso:adm2_name":"Gueckedou",
     "meso:dissme":"NzerekoreGueckedou",
@@ -33,6 +35,7 @@
     "mps:longitude":-10.26688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0648\u0643\u064a\u062f\u0648"
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043a\u0435\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion Administrative de Gu\u00e9ck\u00e9dou"
     ],
     "name:urd_x_preferred":[
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
@@ -172,7 +175,7 @@
     "wof:concordances":{
         "gn:id":2420561,
         "gp:id":2345586,
-        "qs:id":1142821,
+        "qs_pg:id":1142821,
         "wd:id":"Q623142",
         "wk:page":"Gu\u00e9ck\u00e9dou Prefecture"
     },
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421191559,
-    "wof:lastmodified":1563256679,
+    "wof:lastmodified":1566639718,
     "wof:name":"Gueckedou",
     "wof:parent_id":85671417,
     "wof:placetype":"county",

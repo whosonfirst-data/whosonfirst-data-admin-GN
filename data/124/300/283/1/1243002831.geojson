@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.17,11.34667,-9.13,11.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e9ni\u00e9bakoro",
         "Kini\u00e9bakoro"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243002831,
-    "wof:lastmodified":1537623960,
+    "wof:lastmodified":1566639732,
     "wof:name":"Kiniebakoro",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",
