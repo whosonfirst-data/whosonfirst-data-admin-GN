@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.42833,8.46278,-10.38833,8.50278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oua\u00ef",
         "Owet",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309722577,
-    "wof:lastmodified":1537623932,
+    "wof:lastmodified":1566639712,
     "wof:name":"Owe",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

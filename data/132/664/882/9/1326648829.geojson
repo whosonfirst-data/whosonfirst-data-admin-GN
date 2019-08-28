@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.05667,8.28833,-9.01667,8.32833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gabouh\u00e9la",
         "Gobo\u00e8la"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326648829,
-    "wof:lastmodified":1537623975,
+    "wof:lastmodified":1566639179,
     "wof:name":"Goboela",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

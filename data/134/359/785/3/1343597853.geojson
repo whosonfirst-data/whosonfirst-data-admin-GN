@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.83667,10.41333,-9.79667,10.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Senk\u00e9f\u00e9",
         "Sonk\u00e9l\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343597853,
-    "wof:lastmodified":1537623920,
+    "wof:lastmodified":1566639246,
     "wof:name":"Sonkele",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.67727,9.52598,-13.63727,9.56598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277006207,
-    "wof:lastmodified":1536870759,
+    "wof:lastmodified":1566639391,
     "wof:name":"Tonguiwondi",
     "wof:parent_id":421191023,
     "wof:placetype":"locality",

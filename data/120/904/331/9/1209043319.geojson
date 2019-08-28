@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.66056,9.77361,-13.62056,9.81361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kansarah",
         "Kansarakhar\u00e9"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209043319,
-    "wof:lastmodified":1537623966,
+    "wof:lastmodified":1566639516,
     "wof:name":"Kansarakhare",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

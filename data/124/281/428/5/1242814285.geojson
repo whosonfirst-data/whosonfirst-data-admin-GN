@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.25333,10.76333,-10.21333,10.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koloman Kamba\u00efa",
         "Koloman-Kambaya",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242814285,
-    "wof:lastmodified":1537623957,
+    "wof:lastmodified":1566639754,
     "wof:name":"Koloman",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

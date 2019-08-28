@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-14.57,10.81333,-14.53,10.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kanfarand\u00e9"
     ],
@@ -44,8 +48,7 @@
     ],
     "name:und_x_variant":[
         "Victoria",
-        "Saint Eugenie",
-        "Kanfarand\u00e9"
+        "Saint Eugenie"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242812737,
-    "wof:lastmodified":1564218071,
+    "wof:lastmodified":1566639751,
     "wof:name":"Kanfarande",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

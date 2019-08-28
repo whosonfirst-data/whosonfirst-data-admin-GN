@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.49639,9.67417,-13.45639,9.71417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kassahiya",
         "Kassaniya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327270395,
-    "wof:lastmodified":1537624006,
+    "wof:lastmodified":1566639204,
     "wof:name":"Kassaniya",
     "wof:parent_id":421202513,
     "wof:placetype":"locality",

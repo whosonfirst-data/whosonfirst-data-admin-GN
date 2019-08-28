@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.07,10.06333,-10.03,10.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360118649,
-    "wof:lastmodified":1536897143,
+    "wof:lastmodified":1566639670,
     "wof:name":"Mamouria",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

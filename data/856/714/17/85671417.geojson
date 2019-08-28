@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":8.704655,
     "lbl:longitude":-10.289954,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.704655,
     "mps:longitude":-10.289954,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043a\u0435\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion Administrative de Gu\u00e9ck\u00e9dou"
     ],
     "name:urd_x_preferred":[
@@ -238,9 +239,9 @@
     "qs:woeid":56059376,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2014-03-01",
+    "src:population_date":"2014-03-01",
     "statoids:area_km":"4400",
     "statoids:area_mi":"1699",
     "statoids:as_of_date":"2014-03-01",
@@ -286,11 +287,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565712820,
+    "wof:lastmodified":1566639288,
     "wof:name":"Gu\u00e9ck\u00e9dou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"prefecture",
     "wof:population":221715,
     "wof:population_rank":10,

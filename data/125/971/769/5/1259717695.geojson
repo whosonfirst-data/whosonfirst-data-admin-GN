@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.78667,11.26333,-13.74667,11.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Borou",
         "Borouko"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259717695,
-    "wof:lastmodified":1537623994,
+    "wof:lastmodified":1566639849,
     "wof:name":"Borouko",
     "wof:parent_id":421180037,
     "wof:placetype":"locality",

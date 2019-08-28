@@ -9,15 +9,18 @@
     "geom:bbox":"-14.29665,10.94094,-14.29665,10.94094",
     "geom:latitude":10.94094,
     "geom:longitude":-14.29665,
-    "gn:gn_country":"GN",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":15460,
+    "gn:country":"GN",
+    "gn:fcode":"PPLA",
     "gn:population":15460,
     "iso:country":"GN",
+    "lbl:bbox":"-14.31665,10.92094,-14.27665,10.96094",
     "lbl:latitude":10.94094,
     "lbl:longitude":-14.29665,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u064a"
@@ -151,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boqu\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +178,7 @@
     "qs_pg:qs_id":1035581,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":1125914245,
-    "wof:lastmodified":1563256711,
+    "wof:lastmodified":1566639728,
     "wof:name":"Bok\u00e9",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",

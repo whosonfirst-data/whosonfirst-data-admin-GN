@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.22,10.41333,-9.18,10.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kassa"
     ],
@@ -48,8 +52,7 @@
         "Kassa"
     ],
     "name:und_x_variant":[
-        "Kass\u00e9",
-        "Kassa"
+        "Kass\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1225975287,
-    "wof:lastmodified":1564218318,
+    "wof:lastmodified":1566639928,
     "wof:name":"Kassa",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

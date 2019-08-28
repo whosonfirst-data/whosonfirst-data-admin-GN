@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.11278,8.24861,-9.07278,8.28861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zigui-Porasso",
         "Ko\u00efma Tankoro",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343973055,
-    "wof:lastmodified":1537623958,
+    "wof:lastmodified":1566639220,
     "wof:name":"Koima Tongoro",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

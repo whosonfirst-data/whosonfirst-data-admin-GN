@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":10.625075,
     "lbl:longitude":-9.951975,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":10.625075,
     "mps:longitude":-9.951975,
     "mz:hierarchy_label":1,
@@ -759,13 +761,8 @@
     "name:ukr_x_variant":[
         "\u0490\u0432\u0456\u043d\u0435\u044f"
     ],
-    "name:und_x_preferred":[
-        "Gvineja"
-    ],
     "name:und_x_variant":[
-        "Republika Gvineja"
-    ],
-    "name:unk_x_variant":[
+        "Republika Gvineja",
         "Guinean People\u2019s Republic"
     ],
     "name:urd_x_preferred":[
@@ -924,7 +921,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"224",
     "statoids:ds":"RG",
@@ -969,7 +966,7 @@
         "mzb:id":"guinea",
         "ne:adm0_a3":"GIN",
         "nyt:id":"66239885191146414081",
-        "qs:id":898865,
+        "qs_pg:id":898865,
         "uncrt:id":"RG",
         "wd:id":"Q1006",
         "wk:page":"Guinea",
@@ -991,7 +988,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565712821,
+    "wof:lastmodified":1566639291,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

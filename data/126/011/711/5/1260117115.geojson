@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-11.30333,11.11333,-11.26333,11.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Soria"
     ],
@@ -220,8 +224,7 @@
         "\u0421\u043e\u0440\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Souria",
-        "Soria"
+        "Souria"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u0627"
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":1260117115,
-    "wof:lastmodified":1564217836,
+    "wof:lastmodified":1566639587,
     "wof:name":"Soria",
     "wof:parent_id":421188475,
     "wof:placetype":"locality",

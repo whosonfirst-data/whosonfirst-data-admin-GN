@@ -11,7 +11,7 @@
     "geom:longitude":-12.692406,
     "gn:country":"GN",
     "gn:fcode":"ADM2",
-    "gn:pop":161465,
+    "gn:population":161465,
     "iso:country":"GN",
     "label:eng_x_preferred_longname":[
         "Lelouma Prefecture"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":11.538602,
     "lbl:longitude":-12.580376,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Labe",
     "meso:adm2_name":"Lelouma",
     "meso:dissme":"LabeLelouma",
@@ -36,6 +38,7 @@
     "mps:longitude":-12.580376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u064a\u0644\u0648\u0645\u0627"
     ],
@@ -120,9 +123,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u0435\u043b\u043e\u0443\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "L\u00e9louma"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0644\u0624\u0645\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
     ],
@@ -140,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -151,7 +151,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2595303,
-        "qs:id":575131,
+        "qs_pg:id":575131,
         "wd:id":"Q253661",
         "wk:page":"L\u00e9louma Prefecture"
     },
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":890454189,
-    "wof:lastmodified":1563256695,
+    "wof:lastmodified":1566639723,
     "wof:name":"Lelouma",
     "wof:parent_id":85671455,
     "wof:placetype":"county",

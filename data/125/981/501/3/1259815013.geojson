@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.3588,12.0623,-12.3188,12.1023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259815013,
-    "wof:lastmodified":1536877071,
+    "wof:lastmodified":1566639875,
     "wof:name":"Petel",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

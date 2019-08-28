@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-8.99111,7.2975,-8.95111,7.3375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226057833,
-    "wof:lastmodified":1536707967,
+    "wof:lastmodified":1566639899,
     "wof:name":"Kohempa",
     "wof:parent_id":421203701,
     "wof:placetype":"locality",

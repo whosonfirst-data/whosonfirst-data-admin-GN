@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.57,10.63,-12.53,10.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koulakour\u00e9",
         "Kouraour\u00e9",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260110973,
-    "wof:lastmodified":1537623950,
+    "wof:lastmodified":1566639584,
     "wof:name":"Kourahoure",
     "wof:parent_id":421182471,
     "wof:placetype":"locality",

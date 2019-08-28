@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.62,11.84667,-9.58,11.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dentinian",
         "Dentinia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360320099,
-    "wof:lastmodified":1537623990,
+    "wof:lastmodified":1566639680,
     "wof:name":"Dentinia",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.975395,
     "lbl:longitude":-8.319608,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Nzerekore",
     "meso:adm2_name":"Lola",
     "meso:dissme":"NzerekoreLola",
@@ -33,6 +35,7 @@
     "mps:longitude":-8.319608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0644\u0648\u0644\u0627"
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u043e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00e9fecture de Lola"
     ],
     "name:urd_x_preferred":[
@@ -155,7 +158,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
@@ -166,7 +169,7 @@
     "wof:concordances":{
         "gn:id":2595304,
         "gp:id":56059732,
-        "qs:id":540293,
+        "qs_pg:id":540293,
         "wd:id":"Q623145",
         "wk:page":"Lola Prefecture"
     },
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1563256689,
+    "wof:lastmodified":1566639721,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",

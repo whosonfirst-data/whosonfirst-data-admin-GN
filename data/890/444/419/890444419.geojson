@@ -11,8 +11,11 @@
     "geom:longitude":-12.86576,
     "gn:country":"GN",
     "gn:fcode":"PPLA",
-    "gn:pop":117062,
+    "gn:population":117062,
     "iso:country":"GN",
+    "lbl:bbox":"-12.88576,10.03692,-12.84576,10.07692",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043d\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kindla"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":2419533,
         "gp:id":1336491,
-        "qs:id":1035567,
+        "qs_pg:id":1035567,
         "wd:id":"Q997057",
         "wk:page":"Kindia"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":890444419,
-    "wof:lastmodified":1563256702,
+    "wof:lastmodified":1566639725,
     "wof:name":"Kindia",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

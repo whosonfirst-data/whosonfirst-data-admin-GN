@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.10333,10.91333,-10.06333,10.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karankaman",
         "Karankama"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276479745,
-    "wof:lastmodified":1537623965,
+    "wof:lastmodified":1566639424,
     "wof:name":"Karankama",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

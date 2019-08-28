@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.23667,9.09667,-10.19667,9.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dink\u00e9",
         "Dingu\u00e9"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209645685,
-    "wof:lastmodified":1537623988,
+    "wof:lastmodified":1566639474,
     "wof:name":"Dingue",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

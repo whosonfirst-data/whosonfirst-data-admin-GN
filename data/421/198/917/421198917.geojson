@@ -9,12 +9,16 @@
     "geom:bbox":"-13.75231,9.47954,-13.75231,9.47954",
     "geom:latitude":9.47954,
     "geom:longitude":-13.75231,
-    "gn:gn_country":"GN",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"GN",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"GN",
+    "lbl:bbox":"-13.85231,9.37954,-13.65231,9.57954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e\u0443\u043c"
@@ -96,7 +100,6 @@
     "wof:concordances":{
         "gn:id":7731886,
         "gp:id":56060913,
-        "qs:id":1206090,
         "qs_pg:id":1206090,
         "wd:id":"Q3192252",
         "wk:page":"Kaloum"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421198917,
-    "wof:lastmodified":1563256678,
+    "wof:lastmodified":1566639718,
     "wof:name":"Kaloum",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

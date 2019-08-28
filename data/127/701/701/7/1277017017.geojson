@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.77,10.54667,-10.73,10.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Madinah"
     ],
@@ -388,7 +392,7 @@
         }
     ],
     "wof:id":1277017017,
-    "wof:lastmodified":1564217540,
+    "wof:lastmodified":1566639383,
     "wof:name":"Medina",
     "wof:parent_id":890420101,
     "wof:placetype":"locality",

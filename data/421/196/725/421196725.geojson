@@ -10,8 +10,12 @@
     "geom:latitude":10.36667,
     "geom:longitude":-13.35,
     "iso:country":"GN",
+    "lbl:bbox":"-13.37,10.34667,-13.33,10.38667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tondon"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Tondon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tendon"
     ],
     "qs:gn_country":"GN",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2414616,
         "gp:id":1339230,
-        "qs:id":1297519,
+        "qs_pg:id":1297519,
         "wd:id":"Q7820819",
         "wk:page":"Tondon"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421196725,
-    "wof:lastmodified":1563256679,
+    "wof:lastmodified":1566639718,
     "wof:name":"Tondon",
     "wof:parent_id":421199273,
     "wof:placetype":"locality",

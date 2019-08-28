@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.42,11.38,-12.38,11.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Popodara"
     ],
@@ -37,8 +41,7 @@
     ],
     "name:und_x_variant":[
         "Popodao",
-        "Popodaka",
-        "Popodara"
+        "Popodaka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1260220801,
-    "wof:lastmodified":1564217813,
+    "wof:lastmodified":1566639572,
     "wof:name":"Popodara",
     "wof:parent_id":421184941,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.32,11.74667,-9.28,11.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nounou"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260014419,
-    "wof:lastmodified":1564217822,
+    "wof:lastmodified":1566639578,
     "wof:name":"Nounou",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",

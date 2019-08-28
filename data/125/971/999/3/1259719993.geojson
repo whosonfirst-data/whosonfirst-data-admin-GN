@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-12.1298,12.0424,-12.0898,12.0824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tembou",
         "Tanbou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259719993,
-    "wof:lastmodified":1537623916,
+    "wof:lastmodified":1566639847,
     "wof:name":"Tanbou",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

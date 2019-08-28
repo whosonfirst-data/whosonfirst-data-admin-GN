@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.08667,9.88,-10.04667,9.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kouya-Leya",
         "Kouya Laya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277105543,
-    "wof:lastmodified":1537623950,
+    "wof:lastmodified":1566639458,
     "wof:name":"Kouya Laya",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",

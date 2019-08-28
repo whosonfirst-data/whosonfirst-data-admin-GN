@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.23667,10.06333,-13.19667,10.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ninguetti",
         "Ningu\u00e9ti"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277013815,
-    "wof:lastmodified":1537623937,
+    "wof:lastmodified":1566639388,
     "wof:name":"Ningueti",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

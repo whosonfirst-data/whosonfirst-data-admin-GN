@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.88694,
     "lbl:longitude":-12.629807,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Mamou",
     "meso:adm2_name":"Pita",
     "meso:dissme":"MamouPita",
@@ -284,7 +286,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191573,
@@ -295,7 +297,7 @@
     "wof:concordances":{
         "gn:id":2416443,
         "gp:id":2345598,
-        "qs:id":913626
+        "qs_pg:id":913626
     },
     "wof:country":"GN",
     "wof:created":1459009331,
@@ -309,7 +311,7 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1564218032,
+    "wof:lastmodified":1566639721,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",

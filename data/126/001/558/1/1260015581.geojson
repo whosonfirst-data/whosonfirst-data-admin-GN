@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-13.63667,12.49667,-13.59667,12.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sinntian Maound\u00e9",
         "Sinti\u00e2n Maound\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260015581,
-    "wof:lastmodified":1537623923,
+    "wof:lastmodified":1566639577,
     "wof:name":"Sintian Maounde",
     "wof:parent_id":421203703,
     "wof:placetype":"locality",

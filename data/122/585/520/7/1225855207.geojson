@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.18611,7.7675,-9.14611,7.8075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boou\u00e9"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225855207,
-    "wof:lastmodified":1537623995,
+    "wof:lastmodified":1566639966,
     "wof:name":"Booue",
     "wof:parent_id":421203701,
     "wof:placetype":"locality",

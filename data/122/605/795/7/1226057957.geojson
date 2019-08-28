@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-9.51639,8.44389,-9.47639,8.48389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226057957,
-    "wof:lastmodified":1536707778,
+    "wof:lastmodified":1566639900,
     "wof:name":"Oueguota",
     "wof:parent_id":890455263,
     "wof:placetype":"locality",

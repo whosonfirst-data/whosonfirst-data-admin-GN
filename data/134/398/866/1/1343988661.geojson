@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
     "iso:country":"GN",
+    "lbl:bbox":"-10.08667,9.23,-10.04667,9.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kenema"
     ],
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":1343988661,
-    "wof:lastmodified":1564217278,
+    "wof:lastmodified":1566639207,
     "wof:name":"Kenema",
     "wof:parent_id":1108784625,
     "wof:placetype":"locality",
