@@ -178,6 +178,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459010161,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8235a1e1a3c6668463a3beffb05977ab",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421203703,
-    "wof:lastmodified":1566639715,
+    "wof:lastmodified":1582358466,
     "wof:name":"Koundara",
     "wof:parent_id":85671443,
     "wof:placetype":"county",

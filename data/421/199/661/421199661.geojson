@@ -178,6 +178,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009997,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b1c6ad5c86c5618a529146cb595b50b",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421199661,
-    "wof:lastmodified":1566639719,
+    "wof:lastmodified":1582358468,
     "wof:name":"Beyla",
     "wof:parent_id":85671361,
     "wof:placetype":"county",

@@ -918,8 +918,9 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "meso",
         "naturalearth",
-        "meso"
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -974,6 +975,11 @@
     },
     "wof:country":"GN",
     "wof:country_alpha3":"GIN",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"2adec76d8cd3f706673435ba32eb58e6",
     "wof:hierarchy":[
         {
@@ -988,7 +994,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566639291,
+    "wof:lastmodified":1582358457,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

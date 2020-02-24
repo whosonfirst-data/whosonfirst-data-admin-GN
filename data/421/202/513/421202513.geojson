@@ -193,6 +193,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459010120,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"391018499580b1df2e05167edff6f8d5",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421202513,
-    "wof:lastmodified":1566639715,
+    "wof:lastmodified":1582358466,
     "wof:name":"Coyah",
     "wof:parent_id":85671379,
     "wof:placetype":"county",

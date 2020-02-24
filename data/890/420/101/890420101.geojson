@@ -98,6 +98,9 @@
     },
     "wof:country":"GN",
     "wof:created":1469051318,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9131f71fadd1a75175e157a4953d9e6",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890420101,
-    "wof:lastmodified":1566639726,
+    "wof:lastmodified":1582358468,
     "wof:name":"Dabola",
     "wof:parent_id":85671381,
     "wof:placetype":"county",

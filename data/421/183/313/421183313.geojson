@@ -172,6 +172,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009365,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f67ca2fcde8ef59586d8aeb4b646022",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421183313,
-    "wof:lastmodified":1566639721,
+    "wof:lastmodified":1582358468,
     "wof:name":"Mandiana",
     "wof:parent_id":85671479,
     "wof:placetype":"county",

@@ -106,6 +106,9 @@
     },
     "wof:country":"GN",
     "wof:created":1469051791,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"111f3c1e840c2828b1d092b9e2eff41b",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890429077,
-    "wof:lastmodified":1566639726,
+    "wof:lastmodified":1582358468,
     "wof:name":"Kankan",
     "wof:parent_id":85671421,
     "wof:placetype":"county",

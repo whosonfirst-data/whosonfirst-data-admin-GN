@@ -52,6 +52,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009695,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0c5cd88b508b7cab3327292ac084dab",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421191509,
-    "wof:lastmodified":1566639719,
+    "wof:lastmodified":1582358467,
     "wof:name":"Kindia-Centre",
     "wof:parent_id":890455267,
     "wof:placetype":"localadmin",

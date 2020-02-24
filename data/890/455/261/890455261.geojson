@@ -167,6 +167,9 @@
     },
     "wof:country":"GN",
     "wof:created":1469052940,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"813db102b283c49a075e95dba786c752",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890455261,
-    "wof:lastmodified":1566639723,
+    "wof:lastmodified":1582358468,
     "wof:name":"Mali",
     "wof:parent_id":85671467,
     "wof:placetype":"county",

@@ -124,6 +124,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009984,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e77bb491bdd244ec2e28bc8eac60988e",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421199273,
-    "wof:lastmodified":1566639719,
+    "wof:lastmodified":1582358467,
     "wof:name":"Dubreka",
     "wof:parent_id":85671395,
     "wof:placetype":"county",

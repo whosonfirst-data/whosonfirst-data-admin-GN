@@ -61,6 +61,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009695,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5d1992498373034cb1d1544d05825f2",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421191507,
-    "wof:lastmodified":1566639719,
+    "wof:lastmodified":1582358467,
     "wof:name":"Sougu\u00e9ta",
     "wof:parent_id":890455267,
     "wof:placetype":"localadmin",

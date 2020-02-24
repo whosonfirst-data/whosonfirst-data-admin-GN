@@ -106,6 +106,9 @@
     },
     "wof:country":"GN",
     "wof:created":1469052940,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"09a2fe94e3578c835b42172e72025dd0",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890455259,
-    "wof:lastmodified":1566639722,
+    "wof:lastmodified":1582358468,
     "wof:name":"Nzerekore",
     "wof:parent_id":85671483,
     "wof:placetype":"county",

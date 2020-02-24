@@ -187,6 +187,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009427,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5495b44f011b5005f39ca311e6cee9c2",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421184941,
-    "wof:lastmodified":1566639720,
+    "wof:lastmodified":1582358468,
     "wof:name":"Labe",
     "wof:parent_id":85671451,
     "wof:placetype":"county",

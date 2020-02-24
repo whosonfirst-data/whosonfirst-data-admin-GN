@@ -231,6 +231,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009933,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"137e2a09ebd92634fe9bd533067cfd33",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":421198017,
-    "wof:lastmodified":1566639718,
+    "wof:lastmodified":1582358467,
     "wof:name":"Siguiri",
     "wof:parent_id":85671489,
     "wof:placetype":"county",

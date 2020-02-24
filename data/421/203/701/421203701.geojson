@@ -172,6 +172,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459010161,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e573fd61f5dbf946709a306bfd6322e9",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421203701,
-    "wof:lastmodified":1566639715,
+    "wof:lastmodified":1582358466,
     "wof:name":"Yomou",
     "wof:parent_id":85671499,
     "wof:placetype":"county",

@@ -74,6 +74,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009588,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ffc490dc9aac7b0e80f084f5d595a94",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421188933,
-    "wof:lastmodified":1566639716,
+    "wof:lastmodified":1582358467,
     "wof:name":"Konkour\u00e9",
     "wof:parent_id":421188475,
     "wof:placetype":"localadmin",

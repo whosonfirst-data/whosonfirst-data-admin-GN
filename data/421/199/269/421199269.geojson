@@ -172,6 +172,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009983,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"836838c9d7a74d2f0106d3dbd04b359f",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421199269,
-    "wof:lastmodified":1566639719,
+    "wof:lastmodified":1582358468,
     "wof:name":"Boffa",
     "wof:parent_id":85671363,
     "wof:placetype":"county",
