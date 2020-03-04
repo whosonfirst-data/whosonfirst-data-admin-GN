@@ -193,6 +193,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459008740,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"95720da86ee3488d1baceb998ce50cec",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421167693,
-    "wof:lastmodified":1566639714,
+    "wof:lastmodified":1582358465,
     "wof:name":"Dalaba",
     "wof:parent_id":85671385,
     "wof:placetype":"county",

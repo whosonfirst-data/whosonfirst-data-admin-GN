@@ -301,6 +301,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009331,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6fac6ac4c6793693ed7c820328c27886",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1566639721,
+    "wof:lastmodified":1582358468,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",

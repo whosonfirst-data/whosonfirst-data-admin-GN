@@ -92,6 +92,9 @@
     },
     "wof:country":"GN",
     "wof:created":1469052890,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"531dfa3a0711af43d8f5a16e34486141",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890454187,
-    "wof:lastmodified":1566639723,
+    "wof:lastmodified":1582358468,
     "wof:name":"Koubia",
     "wof:parent_id":85671467,
     "wof:placetype":"county",

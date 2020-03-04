@@ -285,6 +285,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009061,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a205dd4687902ebd85d80a9ecdeb066",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":421175263,
-    "wof:lastmodified":1566639717,
+    "wof:lastmodified":1582358467,
     "wof:name":"Forecariah",
     "wof:parent_id":85671403,
     "wof:placetype":"county",

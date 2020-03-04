@@ -145,6 +145,9 @@
     },
     "wof:country":"GN",
     "wof:created":1469052941,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7eeb06e24bdc40b6a708051119079285",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":890455267,
-    "wof:lastmodified":1566639723,
+    "wof:lastmodified":1582358468,
     "wof:name":"Kindia",
     "wof:parent_id":85671429,
     "wof:placetype":"county",

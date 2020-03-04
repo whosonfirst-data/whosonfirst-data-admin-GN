@@ -424,6 +424,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009677,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c3dce34051d2f5f7379b9427c797b75",
     "wof:hierarchy":[
         {
@@ -434,7 +437,7 @@
         }
     ],
     "wof:id":421191023,
-    "wof:lastmodified":1566639719,
+    "wof:lastmodified":1582358467,
     "wof:name":"Conakry",
     "wof:parent_id":85671395,
     "wof:placetype":"county",

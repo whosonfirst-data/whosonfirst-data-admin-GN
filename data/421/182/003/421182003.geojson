@@ -175,6 +175,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459009315,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"691fad999f6e20ccf744237b691c27ad",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1566639721,
+    "wof:lastmodified":1582358468,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",

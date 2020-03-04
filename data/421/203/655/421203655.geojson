@@ -181,6 +181,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459010159,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c1be26363d88f81ce4f22c97cc43a7bc",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":421203655,
-    "wof:lastmodified":1566639715,
+    "wof:lastmodified":1582358466,
     "wof:name":"Kouroussa",
     "wof:parent_id":85671447,
     "wof:placetype":"county",

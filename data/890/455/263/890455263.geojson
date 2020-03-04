@@ -142,6 +142,9 @@
     },
     "wof:country":"GN",
     "wof:created":1469052941,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01d1a0ef94df874751d1e99f98992b2f",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890455263,
-    "wof:lastmodified":1566639723,
+    "wof:lastmodified":1582358468,
     "wof:name":"Macenta",
     "wof:parent_id":85671465,
     "wof:placetype":"county",

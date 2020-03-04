@@ -214,6 +214,9 @@
     },
     "wof:country":"GN",
     "wof:created":1459010008,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"9bef214d08a94f5befa9a482f02c99d7",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421200003,
-    "wof:lastmodified":1566639719,
+    "wof:lastmodified":1582358468,
     "wof:name":"Kamsar",
     "wof:parent_id":890420105,
     "wof:placetype":"locality",
