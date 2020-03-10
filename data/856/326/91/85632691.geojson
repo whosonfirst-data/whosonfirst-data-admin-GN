@@ -950,9 +950,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Guinea",
-        "digitalenvoy:country_code":[
-            324
-        ],
+        "digitalenvoy:country_code":324,
         "fb:id":"en.guinea",
         "fifa:id":"GUI",
         "fips:code":"GV",
@@ -996,7 +994,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529135,
+    "wof:lastmodified":1583797340,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
