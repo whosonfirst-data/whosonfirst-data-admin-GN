@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0627\u0643\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0646\u0627\u0643\u0631\u0649"
+    ],
     "name:ast_x_preferred":[
         "Conakri"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:bam_x_preferred":[
         "K\u0254nakri"
+    ],
+    "name:bcl_x_preferred":[
+        "Conakry"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u043d\u0430\u043a\u0440\u044b"
@@ -94,11 +100,20 @@
     "name:deu_x_preferred":[
         "Conakry"
     ],
+    "name:diq_x_preferred":[
+        "Conakry"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03bd\u03b1\u03ba\u03c1\u03b9"
     ],
     "name:ell_x_variant":[
         "\u039a\u03bf\u03bd\u03b1\u03ba\u03c1\u03af"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Conakry"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Conakry"
     ],
     "name:eng_x_preferred":[
         "Conakry"
@@ -280,8 +295,14 @@
     "name:nov_x_preferred":[
         "Konakri"
     ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07d0\u07e3\u07ca\u07de\u07d9\u07cc\u07eb"
+    ],
     "name:oci_x_preferred":[
         "Conakry"
+    ],
+    "name:olo_x_preferred":[
+        "Konakri"
     ],
     "name:oss_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
@@ -300,6 +321,9 @@
     ],
     "name:por_x_preferred":[
         "Conacri"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0646\u0627\u06a9\u0631\u06cc"
     ],
     "name:ron_x_preferred":[
         "Conakry"
@@ -394,6 +418,9 @@
     "name:war_x_preferred":[
         "Conakry"
     ],
+    "name:wol_x_preferred":[
+        "Konakri"
+    ],
     "name:wuu_x_preferred":[
         "\u79d1\u7eb3\u514b\u91cc"
     ],
@@ -408,6 +435,12 @@
     ],
     "name:yue_x_preferred":[
         "\u5eb7\u7d0d\u514b\u7acb"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u79d1\u7d0d\u514b\u91cc"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u67ef\u90a3\u514b\u91cc"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7d0d\u514b\u91cc"
@@ -442,8 +475,8 @@
     "wof:belongsto":[
         102191573,
         85632691,
-        85671395,
-        421191023
+        421191023,
+        85671395
     ],
     "wof:breaches":[],
     "wof:capital_of":85632691,
@@ -473,7 +506,7 @@
         }
     ],
     "wof:id":421189675,
-    "wof:lastmodified":1582358467,
+    "wof:lastmodified":1587427339,
     "wof:name":"Conakry",
     "wof:parent_id":421191023,
     "wof:placetype":"locality",
