@@ -479,7 +479,9 @@
         85671395
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632691,
+    "wof:capital_of":[
+        85632691
+    ],
     "wof:concordances":{
         "gn:id":2422465,
         "gp:id":1334760,
@@ -506,7 +508,7 @@
         }
     ],
     "wof:id":421189675,
-    "wof:lastmodified":1587427339,
+    "wof:lastmodified":1607390879,
     "wof:name":"Conakry",
     "wof:parent_id":421191023,
     "wof:placetype":"locality",
