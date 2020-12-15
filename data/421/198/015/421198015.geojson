@@ -217,6 +217,9 @@
         "wd:id":"Q1006013",
         "wk:page":"Dinguiraye"
     },
+    "wof:coterminous":[
+        85671393
+    ],
     "wof:country":"GN",
     "wof:created":1459009933,
     "wof:geom_alt":[
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":421198015,
-    "wof:lastmodified":1582358467,
+    "wof:lastmodified":1607986541,
     "wof:name":"Dinguiraye",
     "wof:parent_id":85671393,
     "wof:placetype":"county",

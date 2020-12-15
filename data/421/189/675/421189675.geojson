@@ -492,6 +492,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1035579
     },
+    "wof:coterminous":[
+        421191023
+    ],
     "wof:country":"GN",
     "wof:created":1459009633,
     "wof:geom_alt":[
@@ -508,7 +511,7 @@
         }
     ],
     "wof:id":421189675,
-    "wof:lastmodified":1607390879,
+    "wof:lastmodified":1607986540,
     "wof:name":"Conakry",
     "wof:parent_id":421191023,
     "wof:placetype":"locality",

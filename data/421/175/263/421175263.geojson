@@ -283,6 +283,9 @@
         "wd:id":"Q3077142",
         "wk:page":"For\u00e9cariah"
     },
+    "wof:coterminous":[
+        85671403
+    ],
     "wof:country":"GN",
     "wof:created":1459009061,
     "wof:geom_alt":[
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421175263,
-    "wof:lastmodified":1582358467,
+    "wof:lastmodified":1607986541,
     "wof:name":"Forecariah",
     "wof:parent_id":85671403,
     "wof:placetype":"county",

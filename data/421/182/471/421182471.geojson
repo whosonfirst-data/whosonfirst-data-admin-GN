@@ -299,6 +299,9 @@
         "gp:id":2345598,
         "qs_pg:id":913626
     },
+    "wof:coterminous":[
+        85671485
+    ],
     "wof:country":"GN",
     "wof:created":1459009331,
     "wof:geom_alt":[
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1607986543,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",
