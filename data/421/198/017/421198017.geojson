@@ -229,6 +229,9 @@
         "wd:id":"Q1100303",
         "wk:page":"Siguiri"
     },
+    "wof:coterminous":[
+        85671489
+    ],
     "wof:country":"GN",
     "wof:created":1459009933,
     "wof:geom_alt":[
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":421198017,
-    "wof:lastmodified":1582358467,
+    "wof:lastmodified":1607986541,
     "wof:name":"Siguiri",
     "wof:parent_id":85671489,
     "wof:placetype":"county",
