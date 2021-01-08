@@ -20,7 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
-    "mz:min_zoom":4.0,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Conakry"
@@ -485,6 +485,7 @@
     "wof:concordances":{
         "gn:id":2422465,
         "gp:id":1334760,
+        "ne:id":1159150997,
         "qs_pg:id":1115625,
         "wd:id":"Q3733",
         "wk:page":"Conakry"
@@ -511,7 +512,8 @@
         }
     ],
     "wof:id":421189675,
-    "wof:lastmodified":1607986540,
+    "wof:lastmodified":1608688178,
+    "wof:megacity":1,
     "wof:name":"Conakry",
     "wof:parent_id":421191023,
     "wof:placetype":"locality",
