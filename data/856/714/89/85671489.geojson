@@ -50,10 +50,10 @@
         "Siguiri"
     ],
     "name:fra_x_preferred":[
-        "Kankan"
+        "Siguiri"
     ],
     "name:fra_x_variant":[
-        "Siguiri"
+        "Kankan"
     ],
     "name:ita_x_preferred":[
         "Siguiri"
@@ -203,7 +203,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1607986541,
+    "wof:lastmodified":1614894105,
     "wof:name":"Siguiri",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
