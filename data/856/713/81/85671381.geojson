@@ -41,10 +41,10 @@
         "Dabola"
     ],
     "name:fra_x_preferred":[
-        "Faranah"
+        "Dabola"
     ],
     "name:fra_x_variant":[
-        "Dabola"
+        "Faranah"
     ],
     "name:ita_x_preferred":[
         "Dabola"
@@ -188,7 +188,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1607986544,
+    "wof:lastmodified":1614894105,
     "wof:name":"Dabola",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
