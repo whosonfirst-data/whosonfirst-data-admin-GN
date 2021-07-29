@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Mamou Prefecture"
     ],
+    "name:fra_x_preferred":[
+        "Mamou"
+    ],
     "name:frr_x_preferred":[
         "Mamou"
     ],
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421188475,
-    "wof:lastmodified":1582358467,
+    "wof:lastmodified":1627522158,
     "wof:name":"Mamou",
     "wof:parent_id":85671473,
     "wof:placetype":"county",

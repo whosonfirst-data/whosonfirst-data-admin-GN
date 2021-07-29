@@ -63,6 +63,9 @@
     "name:fin_x_preferred":[
         "L\u00e9louman prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "L\u00e9louma"
+    ],
     "name:frr_x_preferred":[
         "L\u00e9louma"
     ],
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":890454189,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1627522158,
     "wof:name":"Lelouma",
     "wof:parent_id":85671455,
     "wof:placetype":"county",

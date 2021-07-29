@@ -51,6 +51,9 @@
     "name:eng_x_preferred":[
         "Nz\u00e9r\u00e9kor\u00e9 Prefecture"
     ],
+    "name:fra_x_preferred":[
+        "Nz\u00e9r\u00e9kor\u00e9"
+    ],
     "name:frr_x_preferred":[
         "Nz\u00e9r\u00e9kor\u00e9"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890455259,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1627522158,
     "wof:name":"Nzerekore",
     "wof:parent_id":85671483,
     "wof:placetype":"county",

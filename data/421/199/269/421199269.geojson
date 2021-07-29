@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "Boffan prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Boffa"
+    ],
     "name:frr_x_preferred":[
         "Boffa"
     ],
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":421199269,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1627522157,
     "wof:name":"Boffa",
     "wof:parent_id":85671363,
     "wof:placetype":"county",

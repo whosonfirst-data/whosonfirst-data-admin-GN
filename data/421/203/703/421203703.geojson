@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "Koundaran prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Koundara"
+    ],
     "name:frr_x_preferred":[
         "Koundara"
     ],
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":421203703,
-    "wof:lastmodified":1582358466,
+    "wof:lastmodified":1627522158,
     "wof:name":"Koundara",
     "wof:parent_id":85671443,
     "wof:placetype":"county",

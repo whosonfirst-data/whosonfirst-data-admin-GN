@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "Gaoualin prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Gaoual"
+    ],
     "name:frr_x_preferred":[
         "Gaoual"
     ],
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":421191557,
-    "wof:lastmodified":1582358467,
+    "wof:lastmodified":1627522158,
     "wof:name":"Gaoual",
     "wof:parent_id":85671413,
     "wof:placetype":"county",

@@ -54,6 +54,9 @@
     "name:eng_x_preferred":[
         "Bok\u00e9 Prefecture"
     ],
+    "name:fra_x_preferred":[
+        "Bok\u00e9"
+    ],
     "name:frr_x_preferred":[
         "Bok\u00e9"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890420105,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1627522157,
     "wof:name":"Boke",
     "wof:parent_id":85671367,
     "wof:placetype":"county",

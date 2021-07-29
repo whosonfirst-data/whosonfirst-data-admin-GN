@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "Mandianan prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Mandiana"
+    ],
     "name:frr_x_preferred":[
         "Mandiana"
     ],
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":421183313,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1627522158,
     "wof:name":"Mandiana",
     "wof:parent_id":85671479,
     "wof:placetype":"county",

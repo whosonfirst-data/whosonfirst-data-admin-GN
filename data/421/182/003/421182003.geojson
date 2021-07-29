@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "Lolan prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Lola"
+    ],
     "name:frr_x_preferred":[
         "Lola"
     ],
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1627522158,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",

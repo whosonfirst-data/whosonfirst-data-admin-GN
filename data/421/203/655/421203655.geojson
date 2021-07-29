@@ -61,6 +61,9 @@
     "name:fin_x_preferred":[
         "Kouroussan prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Kouroussa"
+    ],
     "name:frr_x_preferred":[
         "Kouroussa"
     ],
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421203655,
-    "wof:lastmodified":1607986540,
+    "wof:lastmodified":1627522158,
     "wof:name":"Kouroussa",
     "wof:parent_id":85671447,
     "wof:placetype":"county",

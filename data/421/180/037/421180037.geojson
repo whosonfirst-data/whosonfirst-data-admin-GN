@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "T\u00e9lim\u00e9l\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "T\u00e9lim\u00e9l\u00e9"
+    ],
     "name:ita_x_preferred":[
         "T\u00e9lim\u00e9l\u00e9"
     ],
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":421180037,
-    "wof:lastmodified":1607986540,
+    "wof:lastmodified":1627522158,
     "wof:name":"Telimele",
     "wof:parent_id":85671503,
     "wof:placetype":"county",

@@ -58,6 +58,9 @@
     "name:fin_x_preferred":[
         "Yomoun prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Yomou"
+    ],
     "name:frr_x_preferred":[
         "Yomou"
     ],
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":421203701,
-    "wof:lastmodified":1582358466,
+    "wof:lastmodified":1627522158,
     "wof:name":"Yomou",
     "wof:parent_id":85671499,
     "wof:placetype":"county",

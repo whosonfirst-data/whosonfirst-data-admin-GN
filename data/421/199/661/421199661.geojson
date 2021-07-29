@@ -61,6 +61,9 @@
     "name:fin_x_preferred":[
         "Beylan prefektuuri"
     ],
+    "name:fra_x_preferred":[
+        "Beyla"
+    ],
     "name:frr_x_preferred":[
         "Beyla"
     ],
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":421199661,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1627522157,
     "wof:name":"Beyla",
     "wof:parent_id":85671361,
     "wof:placetype":"county",
