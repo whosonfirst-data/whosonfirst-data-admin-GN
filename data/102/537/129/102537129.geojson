@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-12.29,11.3381666667,-12.29,11.3381666667",
+    "geom:bbox":"-12.29,11.338167,-12.29,11.338167",
     "geom:latitude":11.338167,
     "geom:longitude":-12.29,
     "iso:country":"GN",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Tata Airport"
+    ],
+    "name:eng_x_variant":[
+        "LEK",
+        "GULB"
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30bf\u7a7a\u6e2f"
@@ -62,7 +66,7 @@
         "wd:id":"Q4452362"
     },
     "wof:country":"GN",
-    "wof:geomhash":"6e354278a9bb2dd7614cb043b6a39b17",
+    "wof:geomhash":"c94510ccdef04b5fc999157043c031fc",
     "wof:hierarchy":[
         {
             "campus_id":102537129,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":102537129,
-    "wof:lastmodified":1566639205,
+    "wof:lastmodified":1631752834,
     "wof:name":"Labe Airport",
     "wof:parent_id":85671451,
     "wof:placetype":"campus",
@@ -84,9 +88,9 @@
 },
   "bbox": [
     -12.29,
-    11.338166666667,
+    11.338167,
     -12.29,
-    11.338166666667
+    11.338167
 ],
-  "geometry": {"coordinates":[-12.29,11.338166666667],"type":"Point"}
+  "geometry": {"coordinates":[-12.29,11.338167],"type":"Point"}
 }
