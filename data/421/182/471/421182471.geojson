@@ -89,7 +89,13 @@
         "Pita"
     ],
     "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e4\u05d9\u05ea\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Pita"
     ],
     "name:hye_x_preferred":[
         "\u054a\u056b\u057f\u0561"
@@ -317,7 +323,7 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1607986543,
+    "wof:lastmodified":1636502731,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",

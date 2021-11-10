@@ -68,7 +68,13 @@
         "\u05e4\u05d0\u05e8\u05d0\u05e0\u05d4"
     ],
     "name:hin_x_preferred":[
+        "\u092b\u093c\u0930\u093e\u0928\u0939"
+    ],
+    "name:hin_x_variant":[
         "\u092b\u0930\u093e\u0928\u093e\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Faranah"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u0580\u0561\u0576\u0561"
@@ -279,7 +285,7 @@
         }
     ],
     "wof:id":890439951,
-    "wof:lastmodified":1566639722,
+    "wof:lastmodified":1636502732,
     "wof:name":"Faranah",
     "wof:parent_id":421188473,
     "wof:placetype":"locality",

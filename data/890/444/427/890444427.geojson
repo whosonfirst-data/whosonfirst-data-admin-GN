@@ -28,10 +28,19 @@
     "name:eng_x_preferred":[
         "Koubia"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0628\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Koubia"
     ],
     "name:fra_x_preferred":[
+        "Koubia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Koubia"
     ],
     "name:ita_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890444427,
-    "wof:lastmodified":1566639725,
+    "wof:lastmodified":1636502734,
     "wof:name":"Koubia",
     "wof:parent_id":890454187,
     "wof:placetype":"locality",

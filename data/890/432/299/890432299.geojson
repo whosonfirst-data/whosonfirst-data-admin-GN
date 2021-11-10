@@ -22,11 +22,23 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0648\u0627\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09be\u0994\u09df\u09be\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u0443\u0430\u043b"
     ],
+    "name:deu_x_preferred":[
+        "Gaoual"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bf\u03c5\u03ac\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Gaoual"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0626\u0648\u0622\u0644"
     ],
     "name:fin_x_preferred":[
         "Gaoual"
@@ -34,8 +46,26 @@
     "name:fra_x_preferred":[
         "Gaoual"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05d5\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0906\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Gaoual"
+    ],
+    "name:ind_x_preferred":[
+        "Gaoual"
+    ],
     "name:ita_x_preferred":[
         "Gaoual"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30ef\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\uc6b0\uc54c"
     ],
     "name:msa_x_preferred":[
         "Gaoual"
@@ -48,6 +78,27 @@
     ],
     "name:spa_x_preferred":[
         "Gaoual"
+    ],
+    "name:swe_x_preferred":[
+        "Gaoual"
+    ],
+    "name:tur_x_preferred":[
+        "Gaoual"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0443\u0430\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0627\u0626\u0648\u0622\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Gaoual"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u52a0\u74e6\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u52a0\u74e6\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Guinea",
@@ -174,7 +225,7 @@
         }
     ],
     "wof:id":890432299,
-    "wof:lastmodified":1566639726,
+    "wof:lastmodified":1636502735,
     "wof:name":"Gaoual",
     "wof:parent_id":421191557,
     "wof:placetype":"locality",

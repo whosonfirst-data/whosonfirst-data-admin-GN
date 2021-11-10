@@ -65,6 +65,12 @@
     "name:frr_x_preferred":[
         "Bok\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Boke"
+    ],
     "name:ita_x_preferred":[
         "Prefettura di Bok\u00e9"
     ],
@@ -213,7 +219,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614894105,
+    "wof:lastmodified":1636502716,
     "wof:name":"Boke",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

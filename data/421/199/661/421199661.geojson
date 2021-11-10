@@ -137,7 +137,16 @@
         "\u0628\u06cc\u0626\u0644\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
     ],
     "name:vie_x_preferred":[
+        "Beyla"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Beyla"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u62c9\u7701"
@@ -194,7 +203,7 @@
         }
     ],
     "wof:id":421199661,
-    "wof:lastmodified":1627522157,
+    "wof:lastmodified":1636502730,
     "wof:name":"Beyla",
     "wof:parent_id":85671361,
     "wof:placetype":"county",

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hin_x_preferred":[
+        "\u0924\u0947\u0935\u0947\u0930\u0947"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632691
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209351577,
-    "wof:lastmodified":1566639510,
+    "wof:lastmodified":1636502726,
     "wof:name":"Tevere",
     "wof:parent_id":85632691,
     "wof:placetype":"locality",

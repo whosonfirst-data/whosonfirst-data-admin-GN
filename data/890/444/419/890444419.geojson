@@ -52,6 +52,9 @@
     "name:eus_x_preferred":[
         "Kindia"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0646\u062f\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kindia"
     ],
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890444419,
-    "wof:lastmodified":1566639725,
+    "wof:lastmodified":1636502734,
     "wof:name":"Kindia",
     "wof:parent_id":890455267,
     "wof:placetype":"locality",

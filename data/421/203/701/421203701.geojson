@@ -131,6 +131,9 @@
         "\u06cc\u0648\u0645\u0648 \u067e\u0631\u0641\u06a9\u062a\u0631\u06d2"
     ],
     "name:vie_x_preferred":[
+        "Yomou"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Yomou"
     ],
     "name:zho_x_preferred":[
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421203701,
-    "wof:lastmodified":1627522158,
+    "wof:lastmodified":1636502728,
     "wof:name":"Yomou",
     "wof:parent_id":85671499,
     "wof:placetype":"county",

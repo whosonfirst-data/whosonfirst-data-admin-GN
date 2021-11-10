@@ -92,6 +92,9 @@
         "\u05e4\u05d9\u05ea\u05d4"
     ],
     "name:hun_x_preferred":[
+        "Pita"
+    ],
+    "name:hun_x_variant":[
         "pita"
     ],
     "name:hye_x_preferred":[
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1607986543,
+    "wof:lastmodified":1636502720,
     "wof:name":"Pita",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

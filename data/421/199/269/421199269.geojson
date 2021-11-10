@@ -131,7 +131,16 @@
         "\u0628\u0648\u0641\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
     ],
     "name:vie_x_preferred":[
+        "Boffa"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Boffa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u535a\u6cd5"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u535a\u6cd5"
     ],
     "name:zho_x_preferred":[
         "\u535a\u6cd5\u7701"
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":421199269,
-    "wof:lastmodified":1627522157,
+    "wof:lastmodified":1636502730,
     "wof:name":"Boffa",
     "wof:parent_id":85671363,
     "wof:placetype":"county",

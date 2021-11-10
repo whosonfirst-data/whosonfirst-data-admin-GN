@@ -140,7 +140,16 @@
         "\u06a9\u0624\u0631\u0624\u0633\u0627 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
     ],
     "name:vie_x_preferred":[
+        "Kouroussa"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Kouroussa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e93\u9c81\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eab\u9b6f\u85a9"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u9b6f\u85a9\u7701"
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":421203655,
-    "wof:lastmodified":1627522158,
+    "wof:lastmodified":1636502729,
     "wof:name":"Kouroussa",
     "wof:parent_id":85671447,
     "wof:placetype":"county",

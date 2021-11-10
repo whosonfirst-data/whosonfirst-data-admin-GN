@@ -37,6 +37,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0645\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09ae\u09cc"
+    ],
     "name:ceb_x_preferred":[
         "Mamou Prefecture"
     ],
@@ -49,14 +55,32 @@
     "name:eng_x_preferred":[
         "Mamou Prefecture"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0645\u0648"
+    ],
     "name:fra_x_preferred":[
         "Mamou"
     ],
     "name:frr_x_preferred":[
         "Mamou"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u092e\u094c"
+    ],
+    "name:hun_x_preferred":[
+        "Mamou"
+    ],
+    "name:ind_x_preferred":[
+        "Mamou"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30e0\u30fc\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ubaa8\uc6b0"
     ],
     "name:nld_x_preferred":[
         "Mamou Prefecture"
@@ -79,11 +103,20 @@
     "name:swe_x_preferred":[
         "Mamou Prefecture"
     ],
+    "name:tur_x_preferred":[
+        "Mamou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043c\u043e\u0443"
+    ],
     "name:und_x_variant":[
         "R\u00e9gion Administrative de Mamou"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0645\u0624 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Mamou"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u6728\u7701"
@@ -140,7 +173,7 @@
         }
     ],
     "wof:id":421188475,
-    "wof:lastmodified":1627522158,
+    "wof:lastmodified":1636502729,
     "wof:name":"Mamou",
     "wof:parent_id":85671473,
     "wof:placetype":"county",

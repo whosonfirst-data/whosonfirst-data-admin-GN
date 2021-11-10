@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-14.29999048,10.9399898467,-14.29999048,10.9399898467",
+    "geom:bbox":"-14.29999,10.93999,-14.29999,10.93999",
     "geom:latitude":10.93999,
     "geom:longitude":-14.29999,
     "iso:country":"GN",
@@ -54,6 +54,9 @@
     "name:eus_x_preferred":[
         "Bok\u00e9"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0647"
+    ],
     "name:fin_x_preferred":[
         "Bok\u00e9"
     ],
@@ -70,6 +73,9 @@
         "\u092c\u094b\u0915\u093e"
     ],
     "name:hun_x_preferred":[
+        "Boke"
+    ],
+    "name:hun_x_variant":[
         "Bok\u00e9"
     ],
     "name:ind_x_preferred":[
@@ -266,7 +272,7 @@
     },
     "wof:country":"GN",
     "wof:created":1499131008,
-    "wof:geomhash":"15b3fa61f93e00132734a6bca2cea5b1",
+    "wof:geomhash":"41989415914109c15e2e6927c3c16585",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":1141908995,
-    "wof:lastmodified":1566639966,
+    "wof:lastmodified":1636502739,
     "wof:name":"Boke",
     "wof:parent_id":85671367,
     "wof:placetype":"locality",
@@ -286,10 +292,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -14.29999047998746,
-    10.93998984673993,
-    -14.29999047998746,
-    10.93998984673993
+    -14.29999,
+    10.93999,
+    -14.29999,
+    10.93999
 ],
-  "geometry": {"coordinates":[-14.29999047998746,10.93998984673993],"type":"Point"}
+  "geometry": {"coordinates":[-14.29999,10.93999],"type":"Point"}
 }

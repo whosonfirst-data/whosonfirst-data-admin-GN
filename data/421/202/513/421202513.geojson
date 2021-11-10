@@ -73,8 +73,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aaf\u0abe\u0ab9"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u092f\u093e\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Coyah"
     ],
     "name:ind_x_preferred":[
         "Coyah"
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":421202513,
-    "wof:lastmodified":1582358466,
+    "wof:lastmodified":1636502729,
     "wof:name":"Coyah",
     "wof:parent_id":85671379,
     "wof:placetype":"county",

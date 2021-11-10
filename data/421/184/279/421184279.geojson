@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0628\u0648\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09be\u09ac\u09cb\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u0431\u043e\u043b\u0430"
     ],
     "name:ceb_x_preferred":[
         "Dabola"
     ],
+    "name:deu_x_preferred":[
+        "Dabola"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bc\u03c0\u03cc\u03bb\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Dabola"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0628\u0648\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Dabola"
@@ -35,11 +47,26 @@
     "name:fra_x_preferred":[
         "Dabola"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05d5\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093e\u092c\u094b\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Dabola"
+    ],
+    "name:ind_x_preferred":[
+        "Dabola"
+    ],
     "name:ita_x_preferred":[
         "Dabola"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30dc\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\ubcfc\ub77c"
     ],
     "name:msa_x_preferred":[
         "Dabola"
@@ -60,6 +87,18 @@
         "Dabola"
     ],
     "name:swe_x_preferred":[
+        "Dabola"
+    ],
+    "name:tur_x_preferred":[
+        "Dabola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0431\u043e\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0628\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Dabola"
     ],
     "name:zho_x_preferred":[
@@ -112,7 +151,7 @@
         }
     ],
     "wof:id":421184279,
-    "wof:lastmodified":1566639720,
+    "wof:lastmodified":1636502731,
     "wof:name":"Dabola",
     "wof:parent_id":890420101,
     "wof:placetype":"locality",

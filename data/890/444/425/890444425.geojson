@@ -58,6 +58,9 @@
     "name:eus_x_preferred":[
         "Kankan"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u06a9\u0646"
+    ],
     "name:fin_x_preferred":[
         "Kankan"
     ],
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":890444425,
-    "wof:lastmodified":1566639724,
+    "wof:lastmodified":1636502733,
     "wof:name":"Kankan",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

@@ -31,10 +31,19 @@
     "name:eng_x_preferred":[
         "Lola"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lola"
     ],
     "name:fra_x_preferred":[
+        "Lola"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Lola"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125893125,
-    "wof:lastmodified":1566639727,
+    "wof:lastmodified":1636502736,
     "wof:name":"Lola",
     "wof:parent_id":421182003,
     "wof:placetype":"locality",

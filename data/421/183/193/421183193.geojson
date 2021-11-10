@@ -65,6 +65,9 @@
         "\u30de\u30e0\u30fc\u770c"
     ],
     "name:kor_x_preferred":[
+        "\ub9c8\ubaa8\uc6b0"
+    ],
+    "name:kor_x_variant":[
         "\ub9c8\ubb34"
     ],
     "name:lit_x_preferred":[
@@ -106,11 +109,20 @@
     "name:swe_x_variant":[
         "Mamou Prefecture"
     ],
+    "name:tur_x_preferred":[
+        "Mamou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043c\u043e\u0443"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0645\u0624"
     ],
     "name:urd_x_variant":[
         "\u0645\u0627\u0645\u0624 \u067e\u0631\u06cc\u0641\u06cc\u06a9\u0686\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Mamou"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u6728"
@@ -165,7 +177,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566639720,
+    "wof:lastmodified":1636502731,
     "wof:name":"Mamou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

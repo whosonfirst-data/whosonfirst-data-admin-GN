@@ -43,6 +43,9 @@
     "name:epo_x_preferred":[
         "Fria"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Fria"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab0\u0abf\u0a86"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u094d\u0930\u0940\u0906"
@@ -109,6 +115,7 @@
     "name:spa_x_preferred":[
         "Fria"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Fria"
     ],
@@ -263,7 +270,7 @@
         }
     ],
     "wof:id":890451659,
-    "wof:lastmodified":1566639726,
+    "wof:lastmodified":1636502735,
     "wof:name":"Fria",
     "wof:parent_id":421185157,
     "wof:placetype":"locality",
