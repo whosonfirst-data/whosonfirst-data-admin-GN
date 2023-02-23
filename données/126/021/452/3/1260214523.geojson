@@ -1,5 +1,5 @@
 {
-  "id": 1327364899,
+  "id":  1260214523,
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
@@ -7,8 +7,8 @@
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-10.05,11.81667,-10.05,11.81667",
-    "geom:latitude":11.81667,
-    "geom:longitude":-10.05,
+    "geom:latitude":11.7273973,
+    "geom:longitude":-10.1892619,
     "gn:admin1_code":"K",
     "gn:admin2_code":"39",
     "gn:asciiname":"Tomba kanssa",
@@ -19,7 +19,7 @@
     "gn:geonameid":2414641,
     "gn:latitude":11.7273973,
     "gn:longitude":-10.1892619,
-    "gn:modification_date":"2012-06-14",
+    "gn:modification_date":"2023-02-23",
     "gn:name":"Tomba kanssa",
     "gn:population":0,
     "gn:timezone":"Africa/Conakry",
@@ -40,7 +40,7 @@
         "Tomba kanssa"
     ],
     "name:und_x_variant":[
-        "TombaKanssa"
+        "Tomba Kansa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2414641,
-        "wk:page":"Tomba kan"
+        "wk:page":"Tomba kanssa"
     },
     "wof:country":"GN",
     "wof:geomhash":"0c6ae69bb68ba2dddcbc43008f201f45",
@@ -61,11 +61,11 @@
             "continent_id":102191573,
             "country_id":85632691,
             "county_id":421198017,
-            "locality_id":1327364899,
+            "locality_id":1260214523,
             "region_id":85671489
         }
     ],
-    "wof:id":1327364899,
+    "wof:id":1260214523,
     "wof:lastmodified":1566639123,
     "wof:name":"Tomba kanssa",
     "wof:parent_id":421198017,
@@ -77,5 +77,9 @@
 },
   "bbox": [
     -10.18,
-    11.72739,
-    -1
+    11.7273973,
+    -10.18,
+    11.73333
+],
+  "géométrie": {"coordonnées":[-10.18,11.7273973],"type":"Point"}
+}
