@@ -39,6 +39,15 @@
     "name:ces_x_preferred":[
         "Tomba"
     ],
+    "name:eng_x_colloquial":[
+        "Tomba kobila"
+    ],
+    "name:eng_x_historical":[
+        "Tomba kobila"
+    ],
+    "name:eng_x_preferred":[
+        "Tomba kobila"
+    ],
     "name:fin_x_preferred":[
         "Tomba"
     ],
@@ -67,8 +76,8 @@
     "wof:belongsto":[
         102191573,
         85632691,
-        85671489,
-        421198017
+        421198017,
+        85671489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,8 +95,8 @@
         }
     ],
     "wof:id":1360019847,
-    "wof:lastmodified":1566639662,
-    "wof:name":"Tomba",
+    "wof:lastmodified":1684699824,
+    "wof:name":"Tomba kobila ",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gn",
