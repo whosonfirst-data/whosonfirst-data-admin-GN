@@ -28,7 +28,13 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:aka_x_preferred":[
+        "Boffa"
+    ],
     "name:ara_x_preferred":[
+        "\u0628\u0648\u0641\u0627"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u0648\u0641\u0627"
     ],
     "name:ben_x_preferred":[
@@ -99,6 +105,9 @@
     ],
     "name:por_x_preferred":[
         "Boffa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0444\u0444\u0430"
     ],
     "name:spa_x_preferred":[
         "Boffa"
@@ -247,7 +256,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502717,
+    "wof:lastmodified":1690921872,
     "wof:name":"Boffa",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

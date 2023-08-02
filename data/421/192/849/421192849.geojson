@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0631\u0627\u0646\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u043d\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b0\u09be\u09a8\u09be"
     ],
@@ -58,6 +64,9 @@
     "name:eus_x_preferred":[
         "Faranah"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Faranah"
     ],
@@ -66,6 +75,9 @@
     ],
     "name:frr_x_preferred":[
         "Faranah"
+    ],
+    "name:ful_x_preferred":[
+        "Farana"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ab0\u0abe\u0aa8\u0abe\u0ab9"
@@ -117,6 +129,9 @@
     ],
     "name:nob_x_preferred":[
         "Faranah"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07dd\u07d9\u07ca\u07e3\u07ca\u07eb\u07eb"
     ],
     "name:pol_x_preferred":[
         "Faranah"
@@ -292,7 +307,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502728,
+    "wof:lastmodified":1690921887,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

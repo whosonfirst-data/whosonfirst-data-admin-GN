@@ -55,6 +55,9 @@
     "name:eng_x_preferred":[
         "Gaoual Prefecture"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0627\u0626\u0648\u0644"
+    ],
     "name:fin_x_preferred":[
         "Gaoualin prefektuuri"
     ],
@@ -97,6 +100,9 @@
     "name:nob_x_preferred":[
         "Gaoual"
     ],
+    "name:nqo_x_preferred":[
+        "\u07dc\u07ed\u07e5\u07ca\u07df \u07e1\u07d9\u07ca\u07ec\u07d3\u07ca\u07f0\u07d8\u07ca"
+    ],
     "name:pol_x_preferred":[
         "Prefektura Gaoual"
     ],
@@ -105,6 +111,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0413\u0430\u0443\u0430\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0443\u0430\u043b\u044c"
     ],
     "name:sin_x_preferred":[
         "\u0d9c\u0ddc\u0d8b\u0d85\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -129,6 +138,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0413\u0430\u0443\u0430\u043b\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u0443\u0430\u043b\u044c"
     ],
     "name:und_x_variant":[
         "R\u00e9gion Administrative de Gaoual"
@@ -203,7 +215,7 @@
         }
     ],
     "wof:id":421191557,
-    "wof:lastmodified":1636502730,
+    "wof:lastmodified":1690921895,
     "wof:name":"Gaoual",
     "wof:parent_id":85671413,
     "wof:placetype":"county",

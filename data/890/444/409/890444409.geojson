@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u0629 \u0645\u0627\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0644\u0629 \u0645\u0627\u0644\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09bf"
     ],
@@ -85,11 +88,17 @@
     "name:nld_x_preferred":[
         "Mali"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07ca\u07df\u07cc\u07eb"
+    ],
     "name:pol_x_preferred":[
         "Mali"
     ],
     "name:por_x_preferred":[
         "Mali"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438"
     ],
     "name:slk_x_preferred":[
         "Mali"
@@ -245,7 +254,7 @@
         }
     ],
     "wof:id":890444409,
-    "wof:lastmodified":1636502733,
+    "wof:lastmodified":1690921907,
     "wof:name":"Mali",
     "wof:parent_id":890455261,
     "wof:placetype":"locality",

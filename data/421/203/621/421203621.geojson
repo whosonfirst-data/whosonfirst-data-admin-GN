@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Lab\u00e9"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0431\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ac\u09c7"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:ful_x_preferred":[
         "Labe"
+    ],
+    "name:gle_x_preferred":[
+        "Lab\u00e9"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aac\u0ac7"
@@ -107,6 +119,9 @@
     "name:nob_x_preferred":[
         "Labe"
     ],
+    "name:nqo_x_preferred":[
+        "\u07df\u07ca\u07d3\u07cb\u07eb"
+    ],
     "name:pol_x_preferred":[
         "Lab\u00e9"
     ],
@@ -151,6 +166,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0628\u06d2"
+    ],
+    "name:vec_x_preferred":[
+        "Lab\u00e9"
     ],
     "name:vie_x_preferred":[
         "Lab\u00e9"
@@ -297,7 +315,7 @@
         }
     ],
     "wof:id":421203621,
-    "wof:lastmodified":1566639715,
+    "wof:lastmodified":1690921888,
     "wof:name":"Labe",
     "wof:parent_id":421184941,
     "wof:placetype":"localadmin",

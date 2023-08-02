@@ -82,6 +82,9 @@
     "name:por_x_preferred":[
         "Beyla"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u043b\u0430"
+    ],
     "name:spa_x_preferred":[
         "Beyla"
     ],
@@ -232,7 +235,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502716,
+    "wof:lastmodified":1690921870,
     "wof:name":"Beyla",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

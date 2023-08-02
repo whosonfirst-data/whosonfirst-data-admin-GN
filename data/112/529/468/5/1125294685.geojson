@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Madina-Oula"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07ca\u07ec\u07d8\u07cc\u07e3\u07ca-\u07e5\u07ce\u07df\u07ca\u07eb"
+    ],
     "name:spa_x_preferred":[
         "Madina-Oula"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125294685,
-    "wof:lastmodified":1566639727,
+    "wof:lastmodified":1690921913,
     "wof:name":"Madina-Oula",
     "wof:parent_id":890455267,
     "wof:placetype":"localadmin",

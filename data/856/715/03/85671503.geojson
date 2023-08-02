@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u062a\u0644\u064a\u0645\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062a\u0644\u064a\u0645\u0644\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u0438\u043c\u0435\u043b\u0435"
     ],
@@ -51,6 +54,12 @@
     ],
     "name:fra_x_preferred":[
         "Kindia"
+    ],
+    "name:fra_x_variant":[
+        "T\u00e9lim\u00e9l\u00e9"
+    ],
+    "name:ful_x_preferred":[
+        "T\u00e9limil\u00e9"
     ],
     "name:ita_x_preferred":[
         "T\u00e9lim\u00e9l\u00e9"
@@ -73,7 +82,13 @@
     "name:ron_x_preferred":[
         "T\u00e9lim\u00e9l\u00e9"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u0438\u043c\u0435\u043b\u0435"
+    ],
     "name:spa_x_preferred":[
+        "T\u00e9lim\u00e9l\u00e9"
+    ],
+    "name:swe_x_preferred":[
         "T\u00e9lim\u00e9l\u00e9"
     ],
     "ne:abbrev":"",
@@ -199,7 +214,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1607986540,
+    "wof:lastmodified":1690921882,
     "wof:name":"T\u00e9lim\u00e9l\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:aka_x_preferred":[
+        "Mamou"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0645\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043c\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09ae\u09cc"
@@ -55,8 +61,14 @@
     "name:frr_x_preferred":[
         "Mamou"
     ],
+    "name:ful_x_preferred":[
+        "Maamun"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aae\u0acc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05de\u05d0\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u092e\u0942"
@@ -96,6 +108,9 @@
     ],
     "name:nob_x_preferred":[
         "Mamou"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07ca\u07ef\u07e1\u07ce\u07f2\u07eb"
     ],
     "name:pol_x_preferred":[
         "Mamou"
@@ -270,7 +285,7 @@
         }
     ],
     "wof:id":890444407,
-    "wof:lastmodified":1636502734,
+    "wof:lastmodified":1690921907,
     "wof:name":"Mamou",
     "wof:parent_id":421188475,
     "wof:placetype":"locality",

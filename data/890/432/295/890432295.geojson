@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u043a\u0443\u043d\u0443"
     ],
+    "name:cat_x_preferred":[
+        "Tokounou"
+    ],
+    "name:ceb_x_preferred":[
+        "Tokonou"
+    ],
     "name:eng_x_preferred":[
         "Tokounou"
     ],
@@ -37,8 +43,14 @@
     "name:nld_x_preferred":[
         "Tokounou"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d5\u07cf\u07ed\u07de\u07ce\u07ec\u07e3\u07ce\u07f2\u07ec"
+    ],
     "name:spa_x_preferred":[
         "Tokounou"
+    ],
+    "name:swe_x_preferred":[
+        "Tokonou"
     ],
     "qs:name":"Tokonou",
     "qs:photos_9r":0,
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":890432295,
-    "wof:lastmodified":1566639726,
+    "wof:lastmodified":1690921911,
     "wof:name":"Tokonou",
     "wof:parent_id":890429077,
     "wof:placetype":"locality",

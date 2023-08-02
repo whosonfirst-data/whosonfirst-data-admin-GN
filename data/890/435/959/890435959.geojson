@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Beyla"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u0987\u09b2\u09be"
     ],
@@ -49,6 +55,9 @@
     "name:fin_x_preferred":[
         "Beyla"
     ],
+    "name:fra_x_preferred":[
+        "Beyla"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d9\u05dc\u05d4"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:nld_x_preferred":[
         "Beyla"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07cb\u07df\u07ca\u07eb"
     ],
     "name:pol_x_preferred":[
         "Beyla"
@@ -234,7 +246,7 @@
         }
     ],
     "wof:id":890435959,
-    "wof:lastmodified":1636502736,
+    "wof:lastmodified":1690921913,
     "wof:name":"Beyla",
     "wof:parent_id":421199661,
     "wof:placetype":"locality",

@@ -28,10 +28,16 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0646\u062f\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043d\u0434\u0438\u044f"
     ],
     "name:cat_x_preferred":[
+        "Kindia"
+    ],
+    "name:ceb_x_preferred":[
         "Kindia"
     ],
     "name:dan_x_preferred":[
@@ -55,6 +61,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0646\u062f\u06cc\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u06cc\u0646\u062f\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "Kindia"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:frr_x_preferred":[
         "Kindia"
+    ],
+    "name:ful_x_preferred":[
+        "Kinndiyaa"
     ],
     "name:hun_x_preferred":[
         "Kindia"
@@ -96,6 +108,9 @@
     ],
     "name:nob_x_preferred":[
         "Kindia"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07cc\u07f2\u07d8\u07cc\u07e6\u07ca\u07eb \u07e1\u07d9\u07ca\u07ec\u07d3\u07ca\u07f0\u07d8\u07ca"
     ],
     "name:pol_x_preferred":[
         "Kindia"
@@ -251,7 +266,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502718,
+    "wof:lastmodified":1690921875,
     "wof:name":"Kindia",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

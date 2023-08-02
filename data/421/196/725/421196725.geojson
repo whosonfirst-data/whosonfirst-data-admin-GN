@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Tondon"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d5\u07d0\u07f2\u07d8\u07d0\u07f2\u07eb"
+    ],
     "name:pol_x_preferred":[
         "Tondon"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421196725,
-    "wof:lastmodified":1566639718,
+    "wof:lastmodified":1690921894,
     "wof:name":"Tondon",
     "wof:parent_id":421199273,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0413\u0432\u0438\u043d\u0435\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Guinea"
     ],
@@ -40,6 +43,9 @@
     "name:aka_x_preferred":[
         "Gini"
     ],
+    "name:aka_x_variant":[
+        "Guinea"
+    ],
     "name:als_x_preferred":[
         "Guinea"
     ],
@@ -49,8 +55,14 @@
     "name:amh_x_variant":[
         "\u130a\u1292"
     ],
+    "name:ami_x_preferred":[
+        "Guinea"
+    ],
     "name:ang_x_preferred":[
         "Guinea"
+    ],
+    "name:anp_x_preferred":[
+        "\u0917\u0940\u0928\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u063a\u064a\u0646\u064a\u0627"
@@ -65,6 +77,9 @@
         "\u062c\u064a\u0646\u064a\u0627"
     ],
     "name:ast_x_preferred":[
+        "Guinea"
+    ],
+    "name:avk_x_preferred":[
         "Guinea"
     ],
     "name:azb_x_preferred":[
@@ -82,6 +97,9 @@
     "name:ban_x_preferred":[
         "Guinea"
     ],
+    "name:bar_x_preferred":[
+        "Guinea"
+    ],
     "name:bcl_x_preferred":[
         "Guineya"
     ],
@@ -96,6 +114,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0917\u093f\u0928\u0940"
+    ],
+    "name:bis_x_preferred":[
+        "Gini"
     ],
     "name:bjn_x_preferred":[
         "Guinea"
@@ -162,6 +183,9 @@
     ],
     "name:cym_x_variant":[
         "Guin\u00e9e"
+    ],
+    "name:dag_x_preferred":[
+        "Guinea"
     ],
     "name:dan_x_preferred":[
         "Guinea"
@@ -288,6 +312,9 @@
     "name:glv_x_preferred":[
         "Yn Ghuinea"
     ],
+    "name:gpe_x_preferred":[
+        "Guinea"
+    ],
     "name:grn_x_preferred":[
         "Gyn\u00e9a"
     ],
@@ -375,6 +402,9 @@
     "name:jpn_x_variant":[
         "\u30ae\u30cb\u30a2\u5171\u548c\u56fd"
     ],
+    "name:kaa_x_preferred":[
+        "Gvineya"
+    ],
     "name:kab_x_preferred":[
         "Ginya"
     ],
@@ -392,6 +422,9 @@
     ],
     "name:kbp_x_preferred":[
         "Kinee-Konakrii"
+    ],
+    "name:kcg_x_preferred":[
+        "Gini"
     ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u1782\u17b8\u178e\u17c1"
@@ -447,6 +480,9 @@
     "name:lit_x_preferred":[
         "Gvin\u0117ja"
     ],
+    "name:lld_x_preferred":[
+        "Guinea"
+    ],
     "name:lmo_x_preferred":[
         "Guinea"
     ],
@@ -480,6 +516,12 @@
     "name:mar_x_preferred":[
         "\u0917\u093f\u0928\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0432\u0438\u043d\u044d\u044f"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0413\u0432\u0438\u043d\u0435\u0439"
+    ],
     "name:min_x_preferred":[
         "Guinea"
     ],
@@ -493,7 +535,11 @@
         "Ginea"
     ],
     "name:mlt_x_variant":[
-        "Gineja"
+        "Gineja",
+        "Guinea"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd2\uabe4\uabc5\uabe4"
     ],
     "name:mon_x_preferred":[
         "\u0413\u0432\u0438\u043d\u0435\u0439"
@@ -591,6 +637,9 @@
     "name:pap_x_preferred":[
         "Guinea"
     ],
+    "name:pcd_x_preferred":[
+        "Guin\u00e9e"
+    ],
     "name:pih_x_preferred":[
         "Gini"
     ],
@@ -619,7 +668,8 @@
         "\u06ab\u06cc\u0627\u0646\u0627"
     ],
     "name:pus_x_variant":[
-        "\u06ab\u0648\u0646\u06d0"
+        "\u06ab\u0648\u0646\u06d0",
+        "\u06ab\u06cc\u0646\u0647"
     ],
     "name:que_x_preferred":[
         "Khiniya"
@@ -666,6 +716,12 @@
     "name:sgs_x_preferred":[
         "Gv\u0117niej\u0117"
     ],
+    "name:shi_x_preferred":[
+        "\u0194inya"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u102e\u1038\u107c\u102e\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dd2\u0dab\u0dd2\u0dba\u0dcf\u0dc0"
     ],
@@ -682,7 +738,13 @@
     "name:sme_x_preferred":[
         "Guinea"
     ],
+    "name:smn_x_preferred":[
+        "Guinea"
+    ],
     "name:smo_x_preferred":[
+        "Guinea"
+    ],
+    "name:sms_x_preferred":[
         "Guinea"
     ],
     "name:sna_x_preferred":[
@@ -779,14 +841,23 @@
     "name:tir_x_preferred":[
         "\u130a\u1292"
     ],
+    "name:tok_x_preferred":[
+        "ma Kine"
+    ],
     "name:ton_x_preferred":[
         "Kini"
+    ],
+    "name:trv_x_preferred":[
+        "Guinea"
     ],
     "name:tso_x_preferred":[
         "Gineya"
     ],
     "name:tuk_x_preferred":[
         "Gwine\u00fda"
+    ],
+    "name:tum_x_preferred":[
+        "Guinea"
     ],
     "name:tur_x_preferred":[
         "Gine"
@@ -1116,7 +1187,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1617827618,
+    "wof:lastmodified":1690921883,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -67,6 +67,9 @@
     "name:swe_x_preferred":[
         "K\u00e9rouan\u00e9"
     ],
+    "name:zho_x_preferred":[
+        "\u51f1\u9b6f\u74e6\u5167"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Guinea",
     "ne:ADM0_A3":"GIN",
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890444423,
-    "wof:lastmodified":1566639724,
+    "wof:lastmodified":1690921906,
     "wof:name":"K\u00e9rouan\u00e9",
     "wof:parent_id":421184459,
     "wof:placetype":"locality",

@@ -22,8 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aka_x_preferred":[
+        "Lola"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0644\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0644\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Lola"
     ],
     "name:ceb_x_preferred":[
         "Lola"
@@ -48,6 +60,9 @@
     ],
     "name:ita_x_preferred":[
         "Lola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30e9"
     ],
     "name:msa_x_preferred":[
         "Lola"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1125893125,
-    "wof:lastmodified":1636502736,
+    "wof:lastmodified":1690921914,
     "wof:name":"Lola",
     "wof:parent_id":421182003,
     "wof:placetype":"locality",

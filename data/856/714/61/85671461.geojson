@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Lola"
     ],
+    "name:dan_x_preferred":[
+        "Lola"
+    ],
     "name:deu_x_preferred":[
         "Lola"
     ],
@@ -79,6 +82,9 @@
     "name:nld_x_preferred":[
         "Lola"
     ],
+    "name:nqo_x_preferred":[
+        "\u07df\u07d0\u07ec\u07df\u07ca\u07eb"
+    ],
     "name:pol_x_preferred":[
         "Lola"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:swe_x_preferred":[
         "Lola"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e25\u0e25\u0e32"
     ],
     "name:tur_x_preferred":[
         "Lola"
@@ -226,7 +235,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502718,
+    "wof:lastmodified":1690921873,
     "wof:name":"Lola",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

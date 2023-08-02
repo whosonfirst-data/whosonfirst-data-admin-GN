@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0633\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u0633\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cc\u09b0\u09cc\u09b8\u09be"
     ],
@@ -79,6 +82,9 @@
     "name:nld_x_preferred":[
         "Kouroussa"
     ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07d9\u07ce\u07ec\u07db\u07ca\u07eb"
+    ],
     "name:pol_x_preferred":[
         "Kouroussa"
     ],
@@ -87,6 +93,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0443\u0441\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0440\u0443\u0441\u0430"
     ],
     "name:spa_x_preferred":[
         "Kouroussa"
@@ -240,7 +249,7 @@
         }
     ],
     "wof:id":890422751,
-    "wof:lastmodified":1636502732,
+    "wof:lastmodified":1690921902,
     "wof:name":"Kouroussa",
     "wof:parent_id":421203655,
     "wof:placetype":"locality",
