@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0633\u064a\u062f\u0648\u063a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0633\u064a\u062f\u0648\u062c\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Kissidougou"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b8\u09bf\u09a1\u0997\u09c2"
     ],
@@ -118,6 +124,9 @@
     "name:nob_x_preferred":[
         "Kissidougou"
     ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07db\u07cc\u07ec\u07d8\u07ce\u07ef"
+    ],
     "name:pol_x_preferred":[
         "Kissidougou"
     ],
@@ -139,6 +148,9 @@
     "name:swe_x_preferred":[
         "Kissidougou"
     ],
+    "name:szl_x_preferred":[
+        "Kissidougou"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb8\u0bcd\u0b9a\u0bbf\u0b9f\u0bcb\u0bb5\u0bc1\u0b95\u0bcb\u0bb5\u0bc1"
     ],
@@ -156,6 +168,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0633\u06cc\u062f\u0624\u06af\u0624"
+    ],
+    "name:uzb_x_preferred":[
+        "Kissidougou"
     ],
     "name:vie_x_preferred":[
         "Kissidougou"
@@ -280,7 +295,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502718,
+    "wof:lastmodified":1690921874,
     "wof:name":"Kissidougou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

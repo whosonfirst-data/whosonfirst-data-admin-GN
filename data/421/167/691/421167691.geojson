@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u042e\u043a\u0443\u043d\u043a\u0443\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0419\u043e\u0443\u043a\u043e\u0443\u043d\u043a\u043e\u0443\u043d"
     ],
@@ -38,6 +41,9 @@
     "name:nld_x_preferred":[
         "Youkounkoun"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e6\u07ce\u07de\u07ce\u07f2\u07de\u07ce\u07f2\u07eb"
+    ],
     "name:spa_x_preferred":[
         "Youkounkoun"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u06a9\u0648\u0646\u06a9\u0648\u0624\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c24\u6606\u6606"
     ],
     "qs:gn_country":"GN",
     "qs:gn_fcode":"PPL",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421167691,
-    "wof:lastmodified":1566639714,
+    "wof:lastmodified":1690921888,
     "wof:name":"Youkounkoun",
     "wof:parent_id":421203703,
     "wof:placetype":"locality",

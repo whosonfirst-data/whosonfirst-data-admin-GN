@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0645\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0648\u0645\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Yomou"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09df\u09cb\u09ae\u09cb\u0989"
     ],
@@ -79,6 +85,9 @@
     "name:nld_x_preferred":[
         "Yomou"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e6\u07cf\u07ed\u07e1\u07ce\u07f2\u07ec"
+    ],
     "name:pol_x_preferred":[
         "Yomou"
     ],
@@ -87,6 +96,9 @@
     ],
     "name:ron_x_preferred":[
         "Yomou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u043c\u0443"
     ],
     "name:spa_x_preferred":[
         "Yomou"
@@ -236,7 +248,7 @@
         }
     ],
     "wof:id":890444401,
-    "wof:lastmodified":1636502733,
+    "wof:lastmodified":1690921906,
     "wof:name":"Yomou",
     "wof:parent_id":421203701,
     "wof:placetype":"locality",

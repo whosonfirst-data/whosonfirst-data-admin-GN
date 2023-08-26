@@ -40,6 +40,12 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0644\u0648\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0648\u0644\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Lola"
+    ],
     "name:ceb_x_preferred":[
         "Lola"
     ],
@@ -106,6 +112,9 @@
     "name:nob_x_preferred":[
         "Lola"
     ],
+    "name:nqo_x_preferred":[
+        "\u07df\u07d0\u07ec\u07df\u07ca\u07eb \u07e1\u07d9\u07ca\u07ec\u07d3\u07ca\u07f0\u07d8\u07ca\u07ee"
+    ],
     "name:pol_x_preferred":[
         "Prefektura Lola"
     ],
@@ -114,6 +123,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u043e\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u043b\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0ddc\u0dbd\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1636502731,
+    "wof:lastmodified":1690921900,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",

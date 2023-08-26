@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0643\u0649"
+    ],
+    "name:aze_x_preferred":[
+        "Boke"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043a\u0435"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09c7"
     ],
@@ -110,6 +119,9 @@
     ],
     "name:nob_x_preferred":[
         "Bok\u00e9"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07cf\u07ec\u07de\u07cb\u07ec"
     ],
     "name:pol_x_preferred":[
         "Bok\u00e9"
@@ -282,7 +294,7 @@
         }
     ],
     "wof:id":1141908995,
-    "wof:lastmodified":1636502739,
+    "wof:lastmodified":1690921916,
     "wof:name":"Boke",
     "wof:parent_id":85671367,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0645\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0645\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09ae\u09cc"
     ],
@@ -61,6 +64,9 @@
     "name:frr_x_preferred":[
         "Mamou"
     ],
+    "name:ful_x_preferred":[
+        "Maamun"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e0\u05d4"
     ],
@@ -87,6 +93,9 @@
     ],
     "name:nob_x_preferred":[
         "Mamou"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07ca\u07ef\u07e1\u07ce\u07f2\u07eb \u07e1\u07d9\u07ca\u07ec\u07d3\u07ca\u07f0\u07d8\u07ca"
     ],
     "name:pol_x_preferred":[
         "Prefektura Mamou"
@@ -239,7 +248,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502718,
+    "wof:lastmodified":1690921875,
     "wof:name":"Mamou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

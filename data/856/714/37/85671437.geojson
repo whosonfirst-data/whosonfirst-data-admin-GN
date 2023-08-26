@@ -28,6 +28,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0628\u064a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0628\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0431\u0438\u044f"
     ],
@@ -196,7 +202,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502719,
+    "wof:lastmodified":1690921878,
     "wof:name":"Koubia",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

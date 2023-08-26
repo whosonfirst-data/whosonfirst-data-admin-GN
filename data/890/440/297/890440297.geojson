@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u062c\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u062c\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u0433\u0435"
     ],
@@ -35,6 +38,9 @@
         "Tougu\u00e9"
     ],
     "name:fin_x_preferred":[
+        "Tougu\u00e9"
+    ],
+    "name:fra_x_preferred":[
         "Tougu\u00e9"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:por_x_preferred":[
         "Tougu\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0433\u0435"
     ],
     "name:spa_x_preferred":[
         "Tougu\u00e9"
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":890440297,
-    "wof:lastmodified":1566639721,
+    "wof:lastmodified":1690921901,
     "wof:name":"Tougu\u00e9",
     "wof:parent_id":1108784627,
     "wof:placetype":"locality",

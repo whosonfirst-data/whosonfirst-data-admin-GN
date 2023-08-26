@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0643\u064a\u062f\u0648\u063a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u064a\u0643\u064a\u062f\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0643\u064a\u062f\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Gu\u00e9ck\u00e9dougou"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09af\u09bc\u09c7\u0995\u0995\u09c7\u09a6\u09c1\u0997\u09cb\u09af\u09bc\u09be"
     ],
@@ -60,6 +69,9 @@
     ],
     "name:fra_x_variant":[
         "Gueckedou"
+    ],
+    "name:gle_x_preferred":[
+        "Gu\u00e9ck\u00e9dougou"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0a8f\u0a95\u0ac7\u0aa1\u0acc\u0a97\u0acc"
@@ -109,6 +121,9 @@
     "name:nob_x_preferred":[
         "Gu\u00e9ck\u00e9dougou"
     ],
+    "name:nqo_x_preferred":[
+        "\u07dc\u07ed\u07de\u07cb\u07d8\u07ce\u07ef"
+    ],
     "name:pol_x_preferred":[
         "Gu\u00e9ck\u00e9dougou"
     ],
@@ -130,6 +145,9 @@
     "name:swe_x_preferred":[
         "Gueckedou"
     ],
+    "name:swe_x_variant":[
+        "Gu\u00e9ck\u00e9dou"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0b8f\u0b95\u0bcd\u0b95\u0bc7\u0b9f\u0bca\u0bb5\u0bc1\u0b95\u0bcb\u0bb5\u0bc1"
     ],
@@ -150,6 +168,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u06cc\u06a9\u06cc\u062f\u0624"
+    ],
+    "name:vec_x_preferred":[
+        "Gu\u00e9ck\u00e9dou"
     ],
     "name:vie_x_preferred":[
         "Gueckedougou"
@@ -285,7 +306,7 @@
         }
     ],
     "wof:id":890441431,
-    "wof:lastmodified":1636502732,
+    "wof:lastmodified":1690921902,
     "wof:name":"Gueckedou",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Yalenzou"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e6\u07ca\u07ec\u07df\u07cb\u07f2\u07d6\u07ed\u07ce\u07ec"
+    ],
     "name:spa_x_preferred":[
         "Yalenzou"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421184611,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1690921897,
     "wof:name":"Yalenzou",
     "wof:parent_id":890455259,
     "wof:placetype":"localadmin",

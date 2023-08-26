@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0632\u064a\u0631\u064a\u0643\u0648\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0632\u064a\u0631\u064a\u0643\u0648\u0631\u0649"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0437\u0435\u0440\u044d\u043a\u0430\u0440\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u099e\u09cd\u099c\u09c7\u09b0\u09c7 \u0995\u09cb\u09b0\u09c7"
     ],
@@ -115,6 +121,9 @@
     "name:nob_x_preferred":[
         "Nzerekore"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d2\u07db\u07d9\u07cd\u07dc\u07d8\u07fa\u07cd\u07ec"
+    ],
     "name:pol_x_preferred":[
         "Nz\u00e9r\u00e9kor\u00e9"
     ],
@@ -137,6 +146,9 @@
         "\u041d\u0437\u0435\u0440\u0435\u043a\u043e\u0440\u0435"
     ],
     "name:swe_x_preferred":[
+        "Nz\u00e9r\u00e9kor\u00e9"
+    ],
+    "name:szl_x_preferred":[
         "Nz\u00e9r\u00e9kor\u00e9"
     ],
     "name:tam_x_preferred":[
@@ -165,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "Nzerekore"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u6cfd\u96f7\u79d1\u96f7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Guinea",
@@ -294,7 +309,7 @@
         }
     ],
     "wof:id":890444405,
-    "wof:lastmodified":1566639725,
+    "wof:lastmodified":1690921909,
     "wof:name":"Nz\u00e9r\u00e9kor\u00e9",
     "wof:parent_id":890455259,
     "wof:placetype":"locality",

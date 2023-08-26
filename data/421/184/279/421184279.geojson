@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0628\u0648\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Dabola"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09ac\u09cb\u09b2\u09be"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:nld_x_preferred":[
         "Dabola"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d8\u07ca\u07d3\u07cf\u07df\u07ca\u07eb"
     ],
     "name:pol_x_preferred":[
         "Dabola"
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421184279,
-    "wof:lastmodified":1636502731,
+    "wof:lastmodified":1690921898,
     "wof:name":"Dabola",
     "wof:parent_id":890420101,
     "wof:placetype":"locality",

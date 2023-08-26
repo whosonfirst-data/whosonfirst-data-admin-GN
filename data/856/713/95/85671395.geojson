@@ -28,6 +28,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u064a\u0643\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u064a\u0643\u0627"
+    ],
     "name:ast_x_preferred":[
         "Dubr\u00e9ka"
     ],
@@ -67,10 +73,22 @@
     "name:nld_x_preferred":[
         "Dubr\u00e9ka"
     ],
+    "name:nob_x_preferred":[
+        "Dubr\u00e9ka"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d8\u07ce\u07ec\u07d3\u07d9\u07cb\u07de\u07ca\u07ec"
+    ],
     "name:pol_x_preferred":[
         "Dubr\u00e9ka"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u0440\u0435\u043a\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Dubr\u00e9ka"
+    ],
+    "name:swe_x_preferred":[
         "Dubr\u00e9ka"
     ],
     "name:und_x_variant":[
@@ -199,7 +217,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1607986542,
+    "wof:lastmodified":1690921870,
     "wof:name":"Dubr\u00e9ka",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

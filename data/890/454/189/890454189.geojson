@@ -102,17 +102,26 @@
     "name:nob_x_preferred":[
         "L\u00e9louma"
     ],
+    "name:nqo_x_preferred":[
+        "\u07df\u07cb\u07df\u07ce\u07e1\u07ca\u07eb \u07e1\u07d9\u07ca\u07ec\u07ec\u07d3\u07ca\u07f0\u07f0\u07d8\u07ca"
+    ],
     "name:pol_x_preferred":[
         "Prefektura L\u00e9louma"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u0435\u043b\u0443\u043c\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u0435\u043b\u0443\u043c\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dda\u0dbd\u0ddc\u0d8b\u0db8\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:swe_x_preferred":[
         "Lelouma Prefecture"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc6\u0bb2\u0bc2\u0bae\u0bbe \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c46\u0c32\u0c4b\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -173,7 +182,7 @@
         }
     ],
     "wof:id":890454189,
-    "wof:lastmodified":1627522158,
+    "wof:lastmodified":1690921904,
     "wof:name":"Lelouma",
     "wof:parent_id":85671455,
     "wof:placetype":"county",

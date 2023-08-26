@@ -40,6 +40,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0648\u0646\u062f\u0627\u0631\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041a\u0443\u043d\u0434\u0430\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Koundara"
+    ],
     "name:ceb_x_preferred":[
         "Koundara Prefecture"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Koundara Prefecture"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0646\u062f\u0631\u0647"
     ],
     "name:fin_x_preferred":[
         "Koundaran prefektuuri"
@@ -97,6 +106,9 @@
     "name:nob_x_preferred":[
         "Koundara"
     ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07ce\u07f2\u07d8\u07d9\u07ca\u07eb \u07e1\u07d9\u07ca\u07ec\u07d3\u07ca\u07f0\u07d8\u07ca"
+    ],
     "name:pol_x_preferred":[
         "Prefektura Koundara"
     ],
@@ -105,6 +117,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u044e\u0440-\u0434\u0435-\u041a\u0443\u043d\u0434\u0430\u0440\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043d\u0434\u0430\u0440\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dc0\u0dd4\u0db1\u0dca\u0da9\u0dbb\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -203,7 +218,7 @@
         }
     ],
     "wof:id":421203703,
-    "wof:lastmodified":1636502728,
+    "wof:lastmodified":1690921889,
     "wof:name":"Koundara",
     "wof:parent_id":85671443,
     "wof:placetype":"county",

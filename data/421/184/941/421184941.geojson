@@ -55,6 +55,9 @@
     "name:eng_x_preferred":[
         "Lab\u00e9 Prefecture"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Lab\u00e9n prefektuuri"
     ],
@@ -100,6 +103,9 @@
     "name:nob_x_preferred":[
         "Lab\u00e9"
     ],
+    "name:nqo_x_preferred":[
+        "\u07df\u07ca\u07d3\u07cb\u07eb \u07e1\u07d9\u07ca\u07ec\u07d3\u07ca\u07f0\u07d8\u07ca"
+    ],
     "name:pol_x_preferred":[
         "Lab\u00e9"
     ],
@@ -112,6 +118,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041b\u0430\u0431\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u0430\u0431\u0435"
+    ],
     "name:sin_x_preferred":[
         "\u0dbd\u0db6\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
@@ -120,6 +129,9 @@
     ],
     "name:swe_x_preferred":[
         "Labe Prefecture"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0baa\u0bc7 \u0baa\u0bcd\u0bb0\u0bc0\u0baa\u0bc6\u0b95\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0bb1\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c2c\u0c46 \u0c2a\u0c4d\u0c30\u0c3f\u0c2b\u0c46\u0c15\u0c4d\u0c1a\u0c30\u0c4d"
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":421184941,
-    "wof:lastmodified":1582358468,
+    "wof:lastmodified":1690921898,
     "wof:name":"Labe",
     "wof:parent_id":85671451,
     "wof:placetype":"county",

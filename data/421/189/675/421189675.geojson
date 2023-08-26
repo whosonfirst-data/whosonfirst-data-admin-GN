@@ -25,10 +25,19 @@
     "name:afr_x_preferred":[
         "Conakry"
     ],
+    "name:aka_x_preferred":[
+        "Conakry"
+    ],
     "name:amh_x_preferred":[
         "\u12ae\u1293\u12ad\u122a"
     ],
     "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u0627\u0643\u0631\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "Conakry"
+    ],
+    "name:ary_x_preferred":[
         "\u0643\u0648\u0646\u0627\u0643\u0631\u064a"
     ],
     "name:arz_x_preferred":[
@@ -37,11 +46,23 @@
     "name:ast_x_preferred":[
         "Conakri"
     ],
+    "name:ast_x_variant":[
+        "Conacri"
+    ],
+    "name:avk_x_preferred":[
+        "Conakry"
+    ],
     "name:aze_x_preferred":[
         "Konakri"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
+    ],
     "name:bam_x_preferred":[
         "K\u0254nakri"
+    ],
+    "name:ban_x_preferred":[
+        "Conakry"
     ],
     "name:bcl_x_preferred":[
         "Conakry"
@@ -193,6 +214,12 @@
     "name:ido_x_preferred":[
         "Conakry"
     ],
+    "name:ile_x_preferred":[
+        "Conakry"
+    ],
+    "name:ina_x_preferred":[
+        "Conakry"
+    ],
     "name:ind_x_preferred":[
         "Conakry"
     ],
@@ -259,6 +286,9 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0928\u093e\u0915\u094d\u0930\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
     ],
@@ -273,6 +303,9 @@
     ],
     "name:msa_x_preferred":[
         "Conakry"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0648\u0646\u0627\u06a9\u0631\u06cc"
     ],
     "name:nah_x_preferred":[
         "Conacri"
@@ -346,6 +379,9 @@
     "name:slv_x_preferred":[
         "Conakry"
     ],
+    "name:smn_x_preferred":[
+        "Conakry"
+    ],
     "name:sna_x_preferred":[
         "Conakry"
     ],
@@ -357,6 +393,9 @@
     ],
     "name:sqi_x_preferred":[
         "Konakri"
+    ],
+    "name:srd_x_preferred":[
+        "Conakry"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
@@ -378,6 +417,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a\u0440\u0438"
+    ],
+    "name:tgk_x_variant":[
+        "\u041a\u043e\u043d\u0430\u043a\u0440\u04e3"
     ],
     "name:tgl_x_preferred":[
         "Conakry"
@@ -475,8 +517,8 @@
     "wof:belongsto":[
         102191573,
         85632691,
-        421191023,
-        85671395
+        85671395,
+        421191023
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -512,7 +554,7 @@
         }
     ],
     "wof:id":421189675,
-    "wof:lastmodified":1608688178,
+    "wof:lastmodified":1690921891,
     "wof:megacity":1,
     "wof:name":"Conakry",
     "wof:parent_id":421191023,

@@ -40,6 +40,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09be\u09b9"
     ],
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":421202513,
-    "wof:lastmodified":1636502729,
+    "wof:lastmodified":1690921890,
     "wof:name":"Coyah",
     "wof:parent_id":85671379,
     "wof:placetype":"county",

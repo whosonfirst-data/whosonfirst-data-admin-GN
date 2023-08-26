@@ -42,6 +42,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0645\u0627\u0644\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0644\u064a"
+    ],
     "name:bar_x_preferred":[
         "Mali"
     ],
@@ -105,11 +108,17 @@
     "name:nob_x_preferred":[
         "Mali"
     ],
+    "name:nqo_x_preferred":[
+        "\u07e1\u07ca\u07ef\u07df\u07cc\u07eb \u07e1\u07d9\u07ca\u07ec\u07d3\u07ca\u07f0\u07d8\u07ca"
+    ],
     "name:pol_x_preferred":[
         "Prefektura Mali"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u041c\u0430\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043b\u0438"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dcf\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
@@ -189,7 +198,7 @@
         }
     ],
     "wof:id":890455261,
-    "wof:lastmodified":1636502732,
+    "wof:lastmodified":1690921904,
     "wof:name":"Mali",
     "wof:parent_id":85671467,
     "wof:placetype":"county",
