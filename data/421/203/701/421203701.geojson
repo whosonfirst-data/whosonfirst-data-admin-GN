@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26313,
-    "geom:area_square_m":3225513903.111165,
+    "geom:area_square_m":3225513903.111127,
     "geom:bbox":"-9.478702,7.193552,-8.79467,7.881317",
     "geom:latitude":7.538897,
     "geom:longitude":-9.110367,
@@ -169,6 +169,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":6000,
+    "statoids:areami":2317,
+    "statoids:capital":"Yomou",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV29",
+    "statoids:hasc":"GN.YO",
+    "statoids:iso":"YO",
+    "statoids:name":"Yomou",
+    "statoids:population":114371,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -178,6 +190,7 @@
     "wof:concordances":{
         "gn:id":2414077,
         "gp:id":2345602,
+        "hasc:id":"GN.YO",
         "qs_pg:id":234654,
         "wd:id":"Q623139",
         "wk:page":"Yomou Prefecture"
@@ -187,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e573fd61f5dbf946709a306bfd6322e9",
+    "wof:geomhash":"20c81f81d49444409dadf80ac8479407",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -197,7 +210,7 @@
         }
     ],
     "wof:id":421203701,
-    "wof:lastmodified":1690921888,
+    "wof:lastmodified":1694492941,
     "wof:name":"Yomou",
     "wof:parent_id":85671499,
     "wof:placetype":"county",

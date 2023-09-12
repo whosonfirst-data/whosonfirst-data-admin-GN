@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.061569,
-    "geom:area_square_m":12927112187.204653,
+    "geom:area_square_m":12927112056.068394,
     "geom:bbox":"-11.477589,9.050755,-10.109886,10.591152",
     "geom:latitude":9.992474,
     "geom:longitude":-10.739467,
@@ -151,6 +151,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":13000,
+    "statoids:areami":5019,
+    "statoids:capital":"Faranah",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV09",
+    "statoids:hasc":"GN.FA",
+    "statoids:iso":"FA",
+    "statoids:name":"Faranah",
+    "statoids:population":280170,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -160,6 +172,7 @@
     "wof:concordances":{
         "gn:id":2421272,
         "gp:id":2345582,
+        "hasc:id":"GN.FA",
         "qs_pg:id":1097033,
         "wd:id":"Q1396210",
         "wk:page":"Faranah Prefecture"
@@ -169,7 +182,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2601adb0eddfea226b1f32f34066236f",
+    "wof:geomhash":"9ba0c1f24d926fc12e2516a50c704373",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -179,7 +192,7 @@
         }
     ],
     "wof:id":421188473,
-    "wof:lastmodified":1690921892,
+    "wof:lastmodified":1694492941,
     "wof:name":"Faranah",
     "wof:parent_id":85671399,
     "wof:placetype":"county",

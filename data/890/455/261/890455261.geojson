@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.693446,
-    "geom:area_square_m":8384110990.076359,
+    "geom:area_square_m":8384110990.076368,
     "geom:bbox":"-12.829768,11.657418,-11.37375,12.44284",
     "geom:latitude":12.098291,
     "geom:longitude":-12.173327,
@@ -169,6 +169,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:areakm":9790,
+    "statoids:areami":3780,
+    "statoids:capital":"Mali",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV22",
+    "statoids:hasc":"GN.ML",
+    "statoids:iso":"ML",
+    "statoids:name":"Mali",
+    "statoids:population":288001,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191573,
@@ -179,6 +191,7 @@
     "wof:concordances":{
         "gn:id":2417885,
         "gp:id":2345595,
+        "hasc:id":"GN.ML",
         "qs_pg:id":91427,
         "wd:id":"Q1781017",
         "wk:page":"Mali Prefecture"
@@ -188,7 +201,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"813db102b283c49a075e95dba786c752",
+    "wof:geomhash":"553dbbbb3c19a6f18c19f67bd59f0078",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -198,7 +211,7 @@
         }
     ],
     "wof:id":890455261,
-    "wof:lastmodified":1690921904,
+    "wof:lastmodified":1694492941,
     "wof:name":"Mali",
     "wof:parent_id":85671467,
     "wof:placetype":"county",

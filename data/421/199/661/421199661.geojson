@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.030087,
-    "geom:area_square_m":12583853885.212931,
+    "geom:area_square_m":12583853885.212936,
     "geom:bbox":"-8.957743,8.231804,-7.641071,9.587204",
     "geom:latitude":8.894395,
     "geom:longitude":-8.332058,
@@ -190,6 +190,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":17452,
+    "statoids:areami":6738,
+    "statoids:capital":"Beyla",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV01",
+    "statoids:hasc":"GN.BE",
+    "statoids:iso":"BE",
+    "statoids:name":"Beyla",
+    "statoids:population":326082,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -199,6 +211,7 @@
     "wof:concordances":{
         "gn:id":2423124,
         "gp:id":2345574,
+        "hasc:id":"GN.BE",
         "qs_pg:id":195007,
         "wd:id":"Q853169",
         "wk:page":"Beyla Prefecture"
@@ -208,7 +221,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b1c6ad5c86c5618a529146cb595b50b",
+    "wof:geomhash":"36edb26c7c8af79f7b8a2c95d91b619d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -218,7 +231,7 @@
         }
     ],
     "wof:id":421199661,
-    "wof:lastmodified":1690921896,
+    "wof:lastmodified":1694492941,
     "wof:name":"Beyla",
     "wof:parent_id":85671361,
     "wof:placetype":"county",

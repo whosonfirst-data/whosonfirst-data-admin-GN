@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.463321,
-    "geom:area_square_m":17719284740.941307,
+    "geom:area_square_m":17719284740.941364,
     "geom:bbox":"-10.265643,10.857695,-8.762202,12.50263",
     "geom:latitude":11.679165,
     "geom:longitude":-9.473358,
@@ -270,6 +270,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":15500,
+    "statoids:areami":5985,
+    "statoids:capital":"Siguiri",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV39",
+    "statoids:hasc":"GN.SI",
+    "statoids:iso":"SI",
+    "statoids:name":"Siguiri",
+    "statoids:population":687002,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -279,6 +291,7 @@
     "wof:concordances":{
         "gn:id":2415703,
         "gp:id":2345599,
+        "hasc:id":"GN.SI",
         "qs_pg:id":520292,
         "wd:id":"Q1100303",
         "wk:page":"Siguiri"
@@ -291,7 +304,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"137e2a09ebd92634fe9bd533067cfd33",
+    "wof:geomhash":"efc9f37ed91b14261c247614b8a71a73",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -301,7 +314,7 @@
         }
     ],
     "wof:id":421198017,
-    "wof:lastmodified":1690921893,
+    "wof:lastmodified":1694492941,
     "wof:name":"Siguiri",
     "wof:parent_id":85671489,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622526,
-    "geom:area_square_m":7558279177.752153,
+    "geom:area_square_m":7558279177.752127,
     "geom:bbox":"-13.98072,10.39759,-12.78771,11.38299",
     "geom:latitude":10.917598,
     "geom:longitude":-13.362389,
@@ -213,6 +213,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":9000,
+    "statoids:areami":3475,
+    "statoids:capital":"T\u00e9lim\u00e9l\u00e9",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV27",
+    "statoids:hasc":"GN.TE",
+    "statoids:iso":"TE",
+    "statoids:name":"T\u00e9lim\u00e9l\u00e9",
+    "statoids:population":284409,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -222,6 +234,7 @@
     "wof:concordances":{
         "gn:id":2414926,
         "gp:id":2345600,
+        "hasc:id":"GN.TE",
         "qs_pg:id":274217,
         "wd:id":"Q7862201",
         "wk:page":"T\u00e9lim\u00e9l\u00e9"
@@ -234,7 +247,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd8cac39c563724d424eb7f38ef45632",
+    "wof:geomhash":"95cf0255575ea83091b4b7c1de2dcac7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -244,7 +257,7 @@
         }
     ],
     "wof:id":421180037,
-    "wof:lastmodified":1690921890,
+    "wof:lastmodified":1694492674,
     "wof:name":"Telimele",
     "wof:parent_id":85671503,
     "wof:placetype":"county",

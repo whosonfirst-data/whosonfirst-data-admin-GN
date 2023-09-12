@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.771177,
-    "geom:area_square_m":9411283738.247421,
+    "geom:area_square_m":9411283738.247423,
     "geom:bbox":"-9.746353,8.764279,-8.608682,9.926731",
     "geom:latitude":9.263666,
     "geom:longitude":-9.10499,
@@ -187,6 +187,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":9750,
+    "statoids:areami":3764,
+    "statoids:capital":"K\u00e9rouan\u00e9",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV15",
+    "statoids:hasc":"GN.KE",
+    "statoids:iso":"KE",
+    "statoids:name":"K\u00e9rouan\u00e9",
+    "statoids:population":207547,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -196,6 +208,7 @@
     "wof:concordances":{
         "gn:id":2419618,
         "gp:id":2345588,
+        "hasc:id":"GN.KE",
         "qs_pg:id":998617,
         "wd:id":"Q962654",
         "wk:page":"K\u00e9rouan\u00e9 Prefecture"
@@ -205,7 +218,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a53db20b48b71b24b5d4a291139516cf",
+    "wof:geomhash":"4da9df2ade03e4056a49cbf4376c0b7e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -215,7 +228,7 @@
         }
     ],
     "wof:id":421184459,
-    "wof:lastmodified":1690921899,
+    "wof:lastmodified":1694492503,
     "wof:name":"Kerouane",
     "wof:parent_id":85671425,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293851,
-    "geom:area_square_m":3557043608.93785,
+    "geom:area_square_m":3557043608.937842,
     "geom:bbox":"-12.238168,11.320463,-11.30453,12.216144",
     "geom:latitude":11.77508,
     "geom:longitude":-11.793063,
@@ -43,6 +43,9 @@
         "\u041a\u0443\u0431\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
+        "Koubia"
+    ],
+    "name:eng_x_preferred":[
         "Koubia"
     ],
     "name:fas_x_preferred":[
@@ -104,7 +107,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"531dfa3a0711af43d8f5a16e34486141",
+    "wof:geomhash":"d9b48ea6d952d2924059e23ae85199ba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890454187,
-    "wof:lastmodified":1636502733,
+    "wof:lastmodified":1694492941,
     "wof:name":"Koubia",
     "wof:parent_id":85671467,
     "wof:placetype":"county",

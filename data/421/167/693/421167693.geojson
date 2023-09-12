@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256043,
-    "geom:area_square_m":3108746749.664148,
+    "geom:area_square_m":3108746749.664108,
     "geom:bbox":"-12.50854,10.481095,-11.739682,11.29792",
     "geom:latitude":10.913167,
     "geom:longitude":-12.14032,
@@ -48,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03bb\u03ac\u03bc\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Dalaba"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0644\u0627\u0628\u0627"
@@ -222,6 +225,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":4400,
+    "statoids:areami":1699,
+    "statoids:capital":"Dalaba",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV06",
+    "statoids:hasc":"GN.DL",
+    "statoids:iso":"DL",
+    "statoids:name":"Dalaba",
+    "statoids:population":133677,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -231,6 +246,7 @@
     "wof:concordances":{
         "gn:id":2422383,
         "gp:id":2345579,
+        "hasc:id":"GN.DL",
         "qs_pg:id":140050
     },
     "wof:country":"GN",
@@ -238,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95720da86ee3488d1baceb998ce50cec",
+    "wof:geomhash":"cfe8ebd5fc1bb9b60b306c78be999512",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -248,7 +264,7 @@
         }
     ],
     "wof:id":421167693,
-    "wof:lastmodified":1636502728,
+    "wof:lastmodified":1694492941,
     "wof:name":"Dalaba",
     "wof:parent_id":85671385,
     "wof:placetype":"county",

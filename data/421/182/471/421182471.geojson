@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37178,
-    "geom:area_square_m":4514214318.651683,
+    "geom:area_square_m":4514214318.651658,
     "geom:bbox":"-12.98175,10.48125,-12.189854,11.337872",
     "geom:latitude":10.896686,
     "geom:longitude":-12.635784,
@@ -72,6 +72,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03af\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pita"
     ],
     "name:epo_x_preferred":[
         "Pita"
@@ -294,6 +297,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":4320,
+    "statoids:areami":1668,
+    "statoids:capital":"Pita",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV25",
+    "statoids:hasc":"GN.PI",
+    "statoids:iso":"PI",
+    "statoids:name":"Pita",
+    "statoids:population":278530,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -303,6 +318,7 @@
     "wof:concordances":{
         "gn:id":2416443,
         "gp:id":2345598,
+        "hasc:id":"GN.PI",
         "qs_pg:id":913626
     },
     "wof:coterminous":[
@@ -313,7 +329,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6fac6ac4c6793693ed7c820328c27886",
+    "wof:geomhash":"cba727a58303723322fb8f9e1f01ac7a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +339,7 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1636502731,
+    "wof:lastmodified":1694492941,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",

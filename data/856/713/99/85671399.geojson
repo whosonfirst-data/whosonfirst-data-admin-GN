@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.109169,
-    "geom:area_square_m":13505702862.905775,
+    "geom:area_square_m":13505701203.055767,
     "geom:bbox":"-11.449173,9.047617,-10.122426,10.662089",
     "geom:latitude":10.017603,
     "geom:longitude":-10.746262,
     "iso:country":"GN",
     "label:eng_x_preferred_longname":[
         "Faranah Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
     ],
     "label:eng_x_preferred_shortcode":[
         "FA"
@@ -22,7 +25,7 @@
     "mps:latitude":10.078615,
     "mps:longitude":-10.756319,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
@@ -197,6 +200,20 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2014-03-01",
+    "statoids:areakm":13000,
+    "statoids:areami":5019,
+    "statoids:capital":"Faranah",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV09",
+    "statoids:hasc":"GN.FA",
+    "statoids:iso":"FA",
+    "statoids:name":"Faranah",
+    "statoids:population":280170,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wd:wordcount":136,
     "wof:belongsto":[
         102191573,
@@ -205,10 +222,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56059379,
+        "hasc:id":"GN.FA",
         "wd:id":"Q597843"
     },
     "wof:country":"GN",
-    "wof:geomhash":"ef92e2e942c7e5b7a0dad58dd55484d2",
+    "wof:geomhash":"5c89f6949e6784cd733b7f83e127fe5b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -223,10 +241,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921871,
+    "wof:lastmodified":1694493128,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
+    "wof:population":280170,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gn",
     "wof:shortcode":"FA",
     "wof:superseded_by":[],

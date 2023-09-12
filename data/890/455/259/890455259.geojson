@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333634,
-    "geom:area_square_m":4085750870.317561,
+    "geom:area_square_m":4085750870.317501,
     "geom:bbox":"-9.213116,7.403594,-8.440683,8.38237",
     "geom:latitude":7.952384,
     "geom:longitude":-8.796476,
@@ -106,6 +106,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:areakm":4625,
+    "statoids:areami":1786,
+    "statoids:capital":"Nz\u00e9r\u00e9kor\u00e9",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV38",
+    "statoids:hasc":"GN.NZ",
+    "statoids:iso":"NZ",
+    "statoids:name":"Nz\u00e9r\u00e9kor\u00e9",
+    "statoids:population":396949,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191573,
@@ -115,6 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2416968,
+        "hasc:id":"GN.NZ",
         "qs_pg:id":91426,
         "wd:id":"Q1471203",
         "wk:page":"Nz\u00e9r\u00e9kor\u00e9 Prefecture"
@@ -124,7 +137,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09a2fe94e3578c835b42172e72025dd0",
+    "wof:geomhash":"5643e90a4c5e3d7c4358c4778ea06225",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -134,7 +147,7 @@
         }
     ],
     "wof:id":890455259,
-    "wof:lastmodified":1690921903,
+    "wof:lastmodified":1694492674,
     "wof:name":"Nzerekore",
     "wof:parent_id":85671483,
     "wof:placetype":"county",
