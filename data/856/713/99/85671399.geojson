@@ -201,7 +201,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2014-03-01",
+    "src:population_date":"2014-03-01",
     "statoids:areakm":13000,
     "statoids:areami":5019,
     "statoids:capital":"Faranah",
@@ -241,7 +241,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694493128,
+    "wof:lastmodified":1694639831,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

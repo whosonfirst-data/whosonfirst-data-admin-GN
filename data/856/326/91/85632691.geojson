@@ -1118,7 +1118,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"224",
     "statoids:ds":"RG",
     "statoids:fifa":"GUI",
@@ -1191,7 +1191,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694492102,
+    "wof:lastmodified":1694639556,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
