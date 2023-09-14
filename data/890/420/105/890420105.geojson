@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.879526,
-    "geom:area_square_m":10672313315.517927,
+    "geom:area_square_m":10672313315.517748,
     "geom:bbox":"-15.06466,10.46156,-13.74012,11.68742",
     "geom:latitude":11.089565,
     "geom:longitude":-14.341581,
@@ -124,6 +124,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:areakm":11053,
+    "statoids:areami":4268,
+    "statoids:capital":"Bok\u00e9",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV03",
+    "statoids:hasc":"GN.BK",
+    "statoids:iso":"BK",
+    "statoids:name":"Bok\u00e9",
+    "statoids:population":450278,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wd:wordcount":68,
     "wof:belongsto":[
         102191573,
@@ -134,6 +146,7 @@
     "wof:concordances":{
         "gn:id":2422923,
         "gp:id":2345576,
+        "hasc:id":"GN.BK",
         "qs_pg:id":91438,
         "wd:id":"Q891238",
         "wk:page":"Bok\u00e9 Prefecture"
@@ -143,7 +156,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e0c67ed705bfe0491706056e03d7e3b",
+    "wof:geomhash":"d7b05941b04ce9238b62f6602fe81fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +166,7 @@
         }
     ],
     "wof:id":890420105,
-    "wof:lastmodified":1690921910,
+    "wof:lastmodified":1694492942,
     "wof:name":"Boke",
     "wof:parent_id":85671367,
     "wof:placetype":"county",

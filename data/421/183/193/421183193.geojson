@@ -158,6 +158,18 @@
     "qs:woe_adm0":23424835,
     "qs:woe_id":56059375,
     "src:geom":"quattroshapes",
+    "statoids:areakm":8000,
+    "statoids:areami":3089,
+    "statoids:capital":"Mamou",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV23",
+    "statoids:hasc":"GN.MM",
+    "statoids:iso":"MM",
+    "statoids:name":"Mamou",
+    "statoids:population":318981,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wd:wordcount":130,
     "wof:belongsto":[
         102191573,
@@ -166,12 +178,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56059375,
+        "hasc:id":"GN.MM",
         "qs_pg:id":794917,
         "wd:id":"Q623295"
     },
     "wof:country":"GN",
     "wof:created":1459009361,
-    "wof:geomhash":"ae5347093970146f3d81c6524581dd9a",
+    "wof:geomhash":"91afc939e551230ae016b98b97617937",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -186,7 +199,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921899,
+    "wof:lastmodified":1694493261,
     "wof:name":"Mamou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

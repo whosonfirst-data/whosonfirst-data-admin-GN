@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372462,
-    "geom:area_square_m":4560873995.211816,
+    "geom:area_square_m":4560873995.211829,
     "geom:bbox":"-8.608833,7.533727,-7.945582,8.497423",
     "geom:latitude":7.984688,
     "geom:longitude":-8.324582,
@@ -184,6 +184,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":3940,
+    "statoids:areami":1521,
+    "statoids:capital":"Lola",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV36",
+    "statoids:hasc":"GN.LO",
+    "statoids:iso":"LO",
+    "statoids:name":"Lola",
+    "statoids:population":171561,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -193,6 +205,7 @@
     "wof:concordances":{
         "gn:id":2595304,
         "gp:id":56059732,
+        "hasc:id":"GN.LO",
         "qs_pg:id":540293,
         "wd:id":"Q623145",
         "wk:page":"Lola Prefecture"
@@ -202,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"691fad999f6e20ccf744237b691c27ad",
+    "wof:geomhash":"7624b2b380404614c50e1bcfeb5a7599",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -212,7 +225,7 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1690921900,
+    "wof:lastmodified":1694492941,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",

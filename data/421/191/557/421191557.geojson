@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.927545,
-    "geom:area_square_m":11229933433.414976,
+    "geom:area_square_m":11229933433.414938,
     "geom:bbox":"-14.068395,11.05887,-12.694077,12.324675",
     "geom:latitude":11.722541,
     "geom:longitude":-13.353451,
@@ -187,6 +187,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":11500,
+    "statoids:areami":4440,
+    "statoids:capital":"Gaoual",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV12",
+    "statoids:hasc":"GN.GA",
+    "statoids:iso":"GA",
+    "statoids:name":"Gaoual",
+    "statoids:population":193612,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -196,6 +208,7 @@
     "wof:concordances":{
         "gn:id":2420825,
         "gp:id":2345585,
+        "hasc:id":"GN.GA",
         "qs_pg:id":1142820,
         "wd:id":"Q614669",
         "wk:page":"Gaoual Prefecture"
@@ -205,7 +218,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"56e446fd6366f01019fff6388a1b6e8d",
+    "wof:geomhash":"7f6b4d54da28c15a619ba1f25a46980b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -215,7 +228,7 @@
         }
     ],
     "wof:id":421191557,
-    "wof:lastmodified":1690921895,
+    "wof:lastmodified":1694492941,
     "wof:name":"Gaoual",
     "wof:parent_id":85671413,
     "wof:placetype":"county",

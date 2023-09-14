@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.949699,
-    "geom:area_square_m":11502865843.465649,
+    "geom:area_square_m":11502865843.465628,
     "geom:bbox":"-11.336954,10.916456,-10.004747,12.22548",
     "geom:latitude":11.608006,
     "geom:longitude":-10.725193,
@@ -252,6 +252,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":14500,
+    "statoids:areami":5598,
+    "statoids:capital":"Dinguiraye",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV07",
+    "statoids:hasc":"GN.DI",
+    "statoids:iso":"DI",
+    "statoids:name":"Dinguiraye",
+    "statoids:population":196469,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -261,6 +273,7 @@
     "wof:concordances":{
         "gn:id":2421903,
         "gp:id":2345580,
+        "hasc:id":"GN.DI",
         "qs_pg:id":520293,
         "wd:id":"Q1006013",
         "wk:page":"Dinguiraye"
@@ -273,7 +286,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f49ac1131e490b6481aa703983333d0",
+    "wof:geomhash":"b2795ae13ff1d420ad7130588b58837e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -283,7 +296,7 @@
         }
     ],
     "wof:id":421198015,
-    "wof:lastmodified":1690921893,
+    "wof:lastmodified":1694492941,
     "wof:name":"Dinguiraye",
     "wof:parent_id":85671393,
     "wof:placetype":"county",

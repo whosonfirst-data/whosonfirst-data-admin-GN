@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174514,
-    "geom:area_square_m":2115456540.689593,
+    "geom:area_square_m":2115456540.689579,
     "geom:bbox":"-12.607821,11.131298,-11.986852,11.695563",
     "geom:latitude":11.38185,
     "geom:longitude":-12.307607,
@@ -184,6 +184,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":3014,
+    "statoids:areami":1164,
+    "statoids:capital":"Lab\u00e9",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV34",
+    "statoids:hasc":"GN.LA",
+    "statoids:iso":"LA",
+    "statoids:name":"Lab\u00e9",
+    "statoids:population":318938,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -193,6 +205,7 @@
     "wof:concordances":{
         "gn:id":2418360,
         "gp:id":2345593,
+        "hasc:id":"GN.LA",
         "qs_pg:id":1014979,
         "wd:id":"Q1781303",
         "wk:page":"Lab\u00e9 Prefecture"
@@ -202,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5495b44f011b5005f39ca311e6cee9c2",
+    "wof:geomhash":"79c452e2ad0e9d26ccfce54bf375ce15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -212,7 +225,7 @@
         }
     ],
     "wof:id":421184941,
-    "wof:lastmodified":1690921898,
+    "wof:lastmodified":1694492503,
     "wof:name":"Labe",
     "wof:parent_id":85671451,
     "wof:placetype":"county",

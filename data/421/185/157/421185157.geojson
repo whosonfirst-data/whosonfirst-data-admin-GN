@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130401,
-    "geom:area_square_m":1585396740.242149,
+    "geom:area_square_m":1585396740.242123,
     "geom:bbox":"-13.84372,10.25049,-13.350948,10.8047",
     "geom:latitude":10.506976,
     "geom:longitude":-13.587218,
@@ -196,6 +196,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":1811,
+    "statoids:areami":699,
+    "statoids:capital":"Fria",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV11",
+    "statoids:hasc":"GN.FR",
+    "statoids:iso":"FR",
+    "statoids:name":"Fria",
+    "statoids:population":96700,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -205,6 +217,7 @@
     "wof:concordances":{
         "gn:id":2420883,
         "gp:id":2345584,
+        "hasc:id":"GN.FR",
         "qs_pg:id":1311107,
         "wd:id":"Q1456064",
         "wk:page":"Fria"
@@ -214,7 +227,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad7b504b6a91b0519728293fea1d8ea6",
+    "wof:geomhash":"bac7e692c525cf5f6d83888dce8c1ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -224,7 +237,7 @@
         }
     ],
     "wof:id":421185157,
-    "wof:lastmodified":1690921901,
+    "wof:lastmodified":1694492941,
     "wof:name":"Fria",
     "wof:parent_id":85671409,
     "wof:placetype":"county",

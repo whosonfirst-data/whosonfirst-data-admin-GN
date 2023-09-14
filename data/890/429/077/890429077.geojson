@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.428067,
-    "geom:area_square_m":17386458032.014202,
+    "geom:area_square_m":17386458032.014233,
     "geom:bbox":"-9.929428,9.387556,-8.101483,11.063484",
     "geom:latitude":10.06024,
     "geom:longitude":-9.108511,
@@ -118,6 +118,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:areakm":11564,
+    "statoids:areami":4465,
+    "statoids:capital":"Kankan",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV32",
+    "statoids:hasc":"GN.KA",
+    "statoids:iso":"KA",
+    "statoids:name":"Kankan",
+    "statoids:population":473359,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191573,
@@ -127,6 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2419991,
+        "hasc:id":"GN.KA",
         "qs_pg:id":91431,
         "wd:id":"Q581719",
         "wk:page":"Kankan Prefecture"
@@ -136,7 +149,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"111f3c1e840c2828b1d092b9e2eff41b",
+    "wof:geomhash":"43fd538a30f08b96056b0a30495078e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +159,7 @@
         }
     ],
     "wof:id":890429077,
-    "wof:lastmodified":1690921910,
+    "wof:lastmodified":1694492941,
     "wof:name":"Kankan",
     "wof:parent_id":85671421,
     "wof:placetype":"county",

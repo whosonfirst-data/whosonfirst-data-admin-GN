@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.228207,
-    "geom:area_square_m":245933159023.607544,
+    "geom:area_square_m":245933159023.611481,
     "geom:bbox":"-15.394584,7.190909,-7.637853,12.674579",
     "geom:latitude":10.439596,
     "geom:longitude":-10.932205,
@@ -14,6 +14,9 @@
     "iso:country":"GN",
     "itu:country_code":[
         "224"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "GN"
@@ -1114,7 +1117,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"224",
     "statoids:ds":"RG",
     "statoids:fifa":"GUI",
@@ -1173,7 +1177,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"9c8d9ebbda4a0fc8dc7616f09a176c3d",
+    "wof:geomhash":"b737ba3eeacf44ca36cc00cc11f97011",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1187,12 +1191,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921883,
+    "wof:lastmodified":1694639556,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":10628972,
-    "wof:population_rank":14,
+    "wof:population":12771246,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gn",
     "wof:shortcode":"GN",
     "wof:superseded_by":[],

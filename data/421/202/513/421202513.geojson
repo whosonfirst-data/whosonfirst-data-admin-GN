@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094019,
-    "geom:area_square_m":1145825033.794509,
+    "geom:area_square_m":1145825033.794502,
     "geom:bbox":"-13.50298,9.539449,-13.11475,9.96295",
     "geom:latitude":9.734663,
     "geom:longitude":-13.3167,
@@ -187,6 +187,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":2166,
+    "statoids:areami":836,
+    "statoids:capital":"Coyah",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV30",
+    "statoids:hasc":"GN.CO",
+    "statoids:iso":"CO",
+    "statoids:name":"Coyah",
+    "statoids:population":263861,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -196,6 +208,7 @@
     "wof:concordances":{
         "gn:id":2422457,
         "gp:id":56059731,
+        "hasc:id":"GN.CO",
         "qs_pg:id":224039,
         "wd:id":"Q1021470",
         "wk:page":"Coyah"
@@ -205,7 +218,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"391018499580b1df2e05167edff6f8d5",
+    "wof:geomhash":"32899331907cb82d05b41af1bf7ce811",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -215,7 +228,7 @@
         }
     ],
     "wof:id":421202513,
-    "wof:lastmodified":1690921890,
+    "wof:lastmodified":1694492941,
     "wof:name":"Coyah",
     "wof:parent_id":85671379,
     "wof:placetype":"county",

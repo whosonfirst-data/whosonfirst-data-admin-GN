@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033166,
-    "geom:area_square_m":404327200.104141,
+    "geom:area_square_m":404327200.104158,
     "geom:bbox":"-13.725689,9.48907,-13.46002,9.754",
     "geom:latitude":9.626875,
     "geom:longitude":-13.561247,
@@ -108,6 +108,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bd\u03b1\u03ba\u03c1\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Conakry"
     ],
     "name:epo_x_preferred":[
         "Konakrio"
@@ -411,6 +414,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "statoids:areakm":308,
+    "statoids:areami":119,
+    "statoids:capital":"Conakry",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV04",
+    "statoids:hasc":"GN.CK",
+    "statoids:iso":"C",
+    "statoids:name":"Conakry",
+    "statoids:population":1660973,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -420,6 +435,7 @@
     "wof:concordances":{
         "gn:id":8335012,
         "gp:id":2345577,
+        "hasc:id":"GN.CK",
         "qs_pg:id":59609
     },
     "wof:coterminous":[
@@ -430,7 +446,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c3dce34051d2f5f7379b9427c797b75",
+    "wof:geomhash":"f7059f09dc7d82a6249423194fad10d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -440,7 +456,7 @@
         }
     ],
     "wof:id":421191023,
-    "wof:lastmodified":1607986540,
+    "wof:lastmodified":1694492547,
     "wof:name":"Conakry",
     "wof:parent_id":85671395,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.657563,
-    "geom:area_square_m":8042506768.455462,
+    "geom:area_square_m":8042506768.455442,
     "geom:bbox":"-9.940766,7.743213,-8.873133,8.896439",
     "geom:latitude":8.451911,
     "geom:longitude":-9.341505,
@@ -136,6 +136,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:areakm":8600,
+    "statoids:areami":3320,
+    "statoids:capital":"Macenta",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV21",
+    "statoids:hasc":"GN.MC",
+    "statoids:iso":"MC",
+    "statoids:name":"Macenta",
+    "statoids:population":278456,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -144,6 +156,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2417987,
+        "hasc:id":"GN.MC",
         "qs_pg:id":91428
     },
     "wof:coterminous":[
@@ -154,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01d1a0ef94df874751d1e99f98992b2f",
+    "wof:geomhash":"da59ca5aeaf95d12023f9c9fc29b89d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +177,7 @@
         }
     ],
     "wof:id":890455263,
-    "wof:lastmodified":1636502733,
+    "wof:lastmodified":1694492941,
     "wof:name":"Macenta",
     "wof:parent_id":85671465,
     "wof:placetype":"county",

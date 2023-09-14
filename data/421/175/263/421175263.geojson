@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.359747,
-    "geom:area_square_m":4388458967.45882,
+    "geom:area_square_m":4388458967.458789,
     "geom:bbox":"-13.51455,9.014157,-12.58222,9.73352",
     "geom:latitude":9.410879,
     "geom:longitude":-13.047628,
@@ -294,6 +294,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":4200,
+    "statoids:areami":1622,
+    "statoids:capital":"For\u00e9cariah",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV10",
+    "statoids:hasc":"GN.FO",
+    "statoids:iso":"FO",
+    "statoids:name":"For\u00e9cariah",
+    "statoids:population":242942,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -303,6 +315,7 @@
     "wof:concordances":{
         "gn:id":2420985,
         "gp:id":2345583,
+        "hasc:id":"GN.FO",
         "qs_pg:id":946783,
         "wd:id":"Q3077142",
         "wk:page":"For\u00e9cariah"
@@ -315,7 +328,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a205dd4687902ebd85d80a9ecdeb066",
+    "wof:geomhash":"8fb43c369eb65aab106575011e671859",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -325,7 +338,7 @@
         }
     ],
     "wof:id":421175263,
-    "wof:lastmodified":1690921893,
+    "wof:lastmodified":1694492941,
     "wof:name":"Forecariah",
     "wof:parent_id":85671403,
     "wof:placetype":"county",

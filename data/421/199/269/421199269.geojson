@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.428742,
-    "geom:area_square_m":5214745918.375849,
+    "geom:area_square_m":5214745918.375731,
     "geom:bbox":"-14.547828,9.83101,-13.63319,10.86681",
     "geom:latitude":10.376062,
     "geom:longitude":-14.051696,
@@ -181,6 +181,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":9100,
+    "statoids:areami":3514,
+    "statoids:capital":"Boffa",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV02",
+    "statoids:hasc":"GN.BF",
+    "statoids:iso":"BF",
+    "statoids:name":"Boffa",
+    "statoids:population":212583,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -190,6 +202,7 @@
     "wof:concordances":{
         "gn:id":2422967,
         "gp:id":2345575,
+        "hasc:id":"GN.BF",
         "qs_pg:id":191333,
         "wd:id":"Q890340",
         "wk:page":"Boffa Prefecture"
@@ -199,7 +212,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"836838c9d7a74d2f0106d3dbd04b359f",
+    "wof:geomhash":"765b669e2afa46904123829e3d940253",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -209,7 +222,7 @@
         }
     ],
     "wof:id":421199269,
-    "wof:lastmodified":1690921896,
+    "wof:lastmodified":1694492941,
     "wof:name":"Boffa",
     "wof:parent_id":85671363,
     "wof:placetype":"county",

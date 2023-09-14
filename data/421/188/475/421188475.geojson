@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.841818,
-    "geom:area_square_m":10235005771.307968,
+    "geom:area_square_m":10235005771.308018,
     "geom:bbox":"-12.44323,9.85362,-11.137166,11.269235",
     "geom:latitude":10.493141,
     "geom:longitude":-11.805377,
@@ -154,6 +154,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":8000,
+    "statoids:areami":3089,
+    "statoids:capital":"Mamou",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV23",
+    "statoids:hasc":"GN.MM",
+    "statoids:iso":"MM",
+    "statoids:name":"Mamou",
+    "statoids:population":318981,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -163,6 +175,7 @@
     "wof:concordances":{
         "gn:id":2417831,
         "gp:id":2345596,
+        "hasc:id":"GN.MM",
         "qs_pg:id":1097034,
         "wd:id":"Q623295",
         "wk:page":"Mamou Prefecture"
@@ -172,7 +185,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c269e898212f59724e29d2767999ef2f",
+    "wof:geomhash":"3971fff6053d98ed57928f4c27a32120",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -182,7 +195,7 @@
         }
     ],
     "wof:id":421188475,
-    "wof:lastmodified":1690921892,
+    "wof:lastmodified":1694492941,
     "wof:name":"Mamou",
     "wof:parent_id":85671473,
     "wof:placetype":"county",

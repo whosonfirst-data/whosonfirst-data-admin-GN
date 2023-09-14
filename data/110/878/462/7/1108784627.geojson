@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.496326,
-    "geom:area_square_m":6013892104.472742,
+    "geom:area_square_m":6013892104.472734,
     "geom:bbox":"-12.011669,10.987454,-11.047884,12.032625",
     "geom:latitude":11.500585,
     "geom:longitude":-11.51689,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tougue"
+    ],
     "name:fra_x_preferred":[
         "Tougu\u00e9"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"GN",
     "wof:created":1481764190,
-    "wof:geomhash":"083c928aa1674ec5237e9a65f3360758",
+    "wof:geomhash":"409cac7966ca5198ca46e0d732734592",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784627,
-    "wof:lastmodified":1628266727,
+    "wof:lastmodified":1694492890,
     "wof:name":"Tougue",
     "wof:parent_id":85671497,
     "wof:placetype":"county",

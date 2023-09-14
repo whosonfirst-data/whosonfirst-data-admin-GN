@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.961422,
-    "geom:area_square_m":11678905817.126266,
+    "geom:area_square_m":11678905817.126251,
     "geom:bbox":"-9.226534,10.0,-7.947204,11.63614",
     "geom:latitude":10.759246,
     "geom:longitude":-8.620378,
@@ -175,6 +175,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":12300,
+    "statoids:areami":4749,
+    "statoids:capital":"Mandiana",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV37",
+    "statoids:hasc":"GN.MD",
+    "statoids:iso":"MD",
+    "statoids:name":"Mandiana",
+    "statoids:population":335999,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -184,6 +196,7 @@
     "wof:concordances":{
         "gn:id":2595305,
         "gp:id":56059730,
+        "hasc:id":"GN.MD",
         "qs_pg:id":972304,
         "wd:id":"Q1470878",
         "wk:page":"Mandiana Prefecture"
@@ -193,7 +206,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4f67ca2fcde8ef59586d8aeb4b646022",
+    "wof:geomhash":"85bb7a5816742710c39c3754f780179b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -203,7 +216,7 @@
         }
     ],
     "wof:id":421183313,
-    "wof:lastmodified":1690921900,
+    "wof:lastmodified":1694492941,
     "wof:name":"Mandiana",
     "wof:parent_id":85671479,
     "wof:placetype":"county",

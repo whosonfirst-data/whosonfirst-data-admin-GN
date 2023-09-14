@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.730083,
-    "geom:area_square_m":8887825292.617649,
+    "geom:area_square_m":8887825292.617596,
     "geom:bbox":"-13.29204,9.58057,-12.1251,10.63553",
     "geom:latitude":10.093756,
     "geom:longitude":-12.74299,
@@ -52,6 +52,9 @@
         "Kindia"
     ],
     "name:deu_x_preferred":[
+        "Kindia"
+    ],
+    "name:eng_x_preferred":[
         "Kindia"
     ],
     "name:epo_x_preferred":[
@@ -144,6 +147,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2419531,
+        "hasc:id":"GN.KI",
         "qs_pg:id":91430
     },
     "wof:coterminous":[
@@ -154,7 +158,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7eeb06e24bdc40b6a708051119079285",
+    "wof:geomhash":"93477184790f76c0dbc76875d64e9947",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":890455267,
-    "wof:lastmodified":1636502732,
+    "wof:lastmodified":1694492941,
     "wof:name":"Kindia",
     "wof:parent_id":85671429,
     "wof:placetype":"county",

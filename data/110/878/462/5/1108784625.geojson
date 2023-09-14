@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509077,
-    "geom:area_square_m":6213072374.58276,
+    "geom:area_square_m":6213072374.582718,
     "geom:bbox":"-10.468407,8.808269,-9.597887,9.700256",
     "geom:latitude":9.242824,
     "geom:longitude":-10.027285,
@@ -36,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kissidougo"
+    ],
     "name:fra_x_preferred":[
         "Kissidougou"
     ],
@@ -52,7 +55,7 @@
     },
     "wof:country":"GN",
     "wof:created":1481764182,
-    "wof:geomhash":"0f07e57ca63647cc44848870a6420fba",
+    "wof:geomhash":"3e01e9af432e88f1532125de535e1888",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108784625,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kissidougo",
     "wof:parent_id":85671435,
     "wof:placetype":"county",

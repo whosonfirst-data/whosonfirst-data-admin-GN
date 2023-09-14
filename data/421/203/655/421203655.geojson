@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.302733,
-    "geom:area_square_m":15834034382.061092,
+    "geom:area_square_m":15834034382.061026,
     "geom:bbox":"-10.908789,9.542492,-9.374717,11.430617",
     "geom:latitude":10.582,
     "geom:longitude":-10.101278,
@@ -196,6 +196,18 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
+    "statoids:areakm":16220,
+    "statoids:areami":6263,
+    "statoids:capital":"Kouroussa",
+    "statoids:country":"GN",
+    "statoids:date":"2014-03-01",
+    "statoids:gec":"GV19",
+    "statoids:hasc":"GN.KO",
+    "statoids:iso":"KO",
+    "statoids:name":"Kouroussa",
+    "statoids:population":268630,
+    "statoids:timezone":"+0",
+    "statoids:type":"prefecture",
     "wof:belongsto":[
         102191573,
         85632691,
@@ -205,6 +217,7 @@
     "wof:concordances":{
         "gn:id":2418435,
         "gp:id":2345592,
+        "hasc:id":"GN.KO",
         "qs_pg:id":998618,
         "wd:id":"Q1471573",
         "wk:page":"Kouroussa Prefecture"
@@ -217,7 +230,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c1be26363d88f81ce4f22c97cc43a7bc",
+    "wof:geomhash":"38c831a2b61fa0ecc550b738ab3417fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -227,7 +240,7 @@
         }
     ],
     "wof:id":421203655,
-    "wof:lastmodified":1690921889,
+    "wof:lastmodified":1694492941,
     "wof:name":"Kouroussa",
     "wof:parent_id":85671447,
     "wof:placetype":"county",
