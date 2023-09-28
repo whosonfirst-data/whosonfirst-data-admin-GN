@@ -1156,6 +1156,7 @@
         "hasc:id":"GN",
         "icao:code":"3X",
         "ioc:id":"GUI",
+        "iso:code":"GN",
         "itu:id":"GUI",
         "loc:id":"n79088885",
         "m49:code":"324",
@@ -1170,6 +1171,7 @@
         "wk:page":"Guinea",
         "wmo:id":"GN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
     "wof:country_alpha3":"GIN",
     "wof:geom_alt":[
@@ -1191,7 +1193,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639556,
+    "wof:lastmodified":1695881214,
     "wof:name":"Guinea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
