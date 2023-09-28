@@ -213,6 +213,7 @@
         "wd:id":"Q962654",
         "wk:page":"K\u00e9rouan\u00e9 Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459009411,
     "wof:geom_alt":[
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":421184459,
-    "wof:lastmodified":1694492503,
+    "wof:lastmodified":1695885994,
     "wof:name":"Kerouane",
     "wof:parent_id":85671425,
     "wof:placetype":"county",

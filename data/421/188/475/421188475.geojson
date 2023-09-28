@@ -180,6 +180,7 @@
         "wd:id":"Q623295",
         "wk:page":"Mamou Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459009559,
     "wof:geom_alt":[
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421188475,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886069,
     "wof:name":"Mamou",
     "wof:parent_id":85671473,
     "wof:placetype":"county",

@@ -213,6 +213,7 @@
         "wd:id":"Q614669",
         "wk:page":"Gaoual Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459009697,
     "wof:geom_alt":[
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":421191557,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886070,
     "wof:name":"Gaoual",
     "wof:parent_id":85671413,
     "wof:placetype":"county",

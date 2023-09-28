@@ -195,6 +195,7 @@
         "wd:id":"Q623139",
         "wk:page":"Yomou Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459010161,
     "wof:geom_alt":[
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":421203701,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886069,
     "wof:name":"Yomou",
     "wof:parent_id":85671499,
     "wof:placetype":"county",

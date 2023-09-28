@@ -151,6 +151,7 @@
         "wd:id":"Q891238",
         "wk:page":"Bok\u00e9 Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1469051318,
     "wof:geom_alt":[
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":890420105,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886071,
     "wof:name":"Boke",
     "wof:parent_id":85671367,
     "wof:placetype":"county",

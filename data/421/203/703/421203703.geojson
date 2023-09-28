@@ -216,6 +216,7 @@
         "wd:id":"Q1781312",
         "wk:page":"Koundara Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459010161,
     "wof:geom_alt":[
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":421203703,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886069,
     "wof:name":"Koundara",
     "wof:parent_id":85671443,
     "wof:placetype":"county",

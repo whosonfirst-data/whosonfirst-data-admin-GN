@@ -102,6 +102,7 @@
         "hasc:id":"GN.KB",
         "qs_pg:id":575130
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1469052890,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890454187,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886071,
     "wof:name":"Koubia",
     "wof:parent_id":85671467,
     "wof:placetype":"county",

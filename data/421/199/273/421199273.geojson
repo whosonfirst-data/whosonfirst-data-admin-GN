@@ -150,6 +150,7 @@
         "wd:id":"Q985362",
         "wk:page":"Dubr\u00e9ka"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671395
     ],
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421199273,
-    "wof:lastmodified":1694492547,
+    "wof:lastmodified":1695886409,
     "wof:name":"Dubreka",
     "wof:parent_id":85671395,
     "wof:placetype":"county",

@@ -222,6 +222,7 @@
         "wd:id":"Q1471573",
         "wk:page":"Kouroussa Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671447
     ],
@@ -240,7 +241,7 @@
         }
     ],
     "wof:id":421203655,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886070,
     "wof:name":"Kouroussa",
     "wof:parent_id":85671447,
     "wof:placetype":"county",

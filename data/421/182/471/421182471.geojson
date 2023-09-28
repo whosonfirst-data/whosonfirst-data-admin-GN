@@ -321,6 +321,7 @@
         "hasc:id":"GN.PI",
         "qs_pg:id":913626
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671485
     ],
@@ -339,7 +340,7 @@
         }
     ],
     "wof:id":421182471,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886070,
     "wof:name":"Pita",
     "wof:parent_id":85671485,
     "wof:placetype":"county",

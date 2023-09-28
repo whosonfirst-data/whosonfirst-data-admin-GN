@@ -296,6 +296,7 @@
         "wd:id":"Q1100303",
         "wk:page":"Siguiri"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671489
     ],
@@ -314,7 +315,7 @@
         }
     ],
     "wof:id":421198017,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886070,
     "wof:name":"Siguiri",
     "wof:parent_id":85671489,
     "wof:placetype":"county",
