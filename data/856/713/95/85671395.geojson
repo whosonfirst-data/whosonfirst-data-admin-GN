@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.300614,
-    "geom:area_square_m":3659991322.424383,
+    "geom:area_square_m":3659991322.424393,
     "geom:bbox":"-13.913435,9.50019,-13.113585,10.404169",
     "geom:latitude":10.058967,
     "geom:longitude":-13.517581,
@@ -194,15 +194,17 @@
         "gn:id":2421533,
         "gp:id":-56059377,
         "hasc:id":"GN.DU",
+        "iso:code":"GN-DU",
         "iso:id":"GN-DU",
         "unlc:id":"GN-DU",
         "wd:id":"Q985362"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421199273
     ],
     "wof:country":"GN",
-    "wof:geomhash":"0057ecff6ae67a21b780d5af344160ed",
+    "wof:geomhash":"9c1932111262e2a4e7a54f292e548c17",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -217,7 +219,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921870,
+    "wof:lastmodified":1695884473,
     "wof:name":"Dubr\u00e9ka",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.896531,
-    "geom:area_square_m":10878100028.119951,
+    "geom:area_square_m":10878101043.967916,
     "geom:bbox":"-15.081125,10.473375,-13.758767,11.66885",
     "geom:latitude":11.104419,
     "geom:longitude":-14.364229,
@@ -218,11 +218,13 @@
         "gn:id":2422923,
         "gp:id":-56059373,
         "hasc:id":"GN.BK",
+        "iso:code":"GN-BK",
         "iso:id":"GN-BK",
         "wd:id":"Q891238"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"e30da1d77584dc35ad1720072d256bb3",
+    "wof:geomhash":"22add1028c299b053e1e6da015c42932",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -237,7 +239,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921870,
+    "wof:lastmodified":1695884939,
     "wof:name":"Boke",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

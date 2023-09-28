@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.23562,
-    "geom:area_square_m":2886005284.425188,
+    "geom:area_square_m":2886005815.330651,
     "geom:bbox":"-8.57278,7.544295,-8.067229,8.219965",
     "geom:latitude":7.873139,
     "geom:longitude":-8.328075,
@@ -215,12 +215,14 @@
         "gn:id":2595304,
         "gp:id":-56059376,
         "hasc:id":"GN.LO",
+        "iso:code":"GN-LO",
         "iso:id":"GN-LO",
         "unlc:id":"GN-LO",
         "wd:id":"Q229004"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"c0d4348b1963b52cd064f19dc737a1b4",
+    "wof:geomhash":"dd6b353febc95e0da30ed7f026ea5da8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -235,7 +237,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921873,
+    "wof:lastmodified":1695884940,
     "wof:name":"Lola",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

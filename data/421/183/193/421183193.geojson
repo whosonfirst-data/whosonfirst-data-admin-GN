@@ -179,9 +179,11 @@
     "wof:concordances":{
         "gp:id":56059375,
         "hasc:id":"GN.MM",
+        "iso:code":"GN-MM",
         "qs_pg:id":794917,
         "wd:id":"Q623295"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
     "wof:created":1459009361,
     "wof:geomhash":"91afc939e551230ae016b98b97617937",
@@ -199,7 +201,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694493261,
+    "wof:lastmodified":1695884940,
     "wof:name":"Mamou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

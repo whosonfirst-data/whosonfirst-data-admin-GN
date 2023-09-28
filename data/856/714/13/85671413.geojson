@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.916696,
-    "geom:area_square_m":11098638373.829258,
+    "geom:area_square_m":11098640971.188702,
     "geom:bbox":"-14.047955,11.129476,-12.704154,12.310858",
     "geom:latitude":11.721226,
     "geom:longitude":-13.359717,
@@ -236,12 +236,14 @@
         "gn:id":2420825,
         "gp:id":-56059373,
         "hasc:id":"GN.GA",
+        "iso:code":"GN-GA",
         "iso:id":"GN-GA",
         "unlc:id":"GN-GA",
         "wd:id":"Q3095240"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"c1610dea430a5b1a74a95311c492644e",
+    "wof:geomhash":"db28ca6fcc30f5fc51e53107e86fa4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -256,7 +258,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921881,
+    "wof:lastmodified":1695884940,
     "wof:name":"Gaoual",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

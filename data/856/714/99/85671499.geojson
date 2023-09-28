@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333568,
-    "geom:area_square_m":4088537831.423529,
+    "geom:area_square_m":4088539081.399188,
     "geom:bbox":"-9.490708,7.190208,-8.725742,8.053227",
     "geom:latitude":7.583452,
     "geom:longitude":-9.087376,
@@ -241,12 +241,14 @@
         "gn:id":2414077,
         "gp:id":-56059376,
         "hasc:id":"GN.YO",
+        "iso:code":"GN-YO",
         "iso:id":"GN-YO",
         "unlc:id":"GN-YO",
         "wd:id":"Q784157"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"8b39b2d29a650833afbf4009621dfcb9",
+    "wof:geomhash":"e600c26285e01e609bf0a4a7ffd97aed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -261,7 +263,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921878,
+    "wof:lastmodified":1695884940,
     "wof:name":"Yomou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
