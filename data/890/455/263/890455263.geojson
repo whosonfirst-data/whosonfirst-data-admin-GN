@@ -159,6 +159,7 @@
         "hasc:id":"GN.MC",
         "qs_pg:id":91428
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671465
     ],
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":890455263,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886071,
     "wof:name":"Macenta",
     "wof:parent_id":85671465,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.656292,
-    "geom:area_square_m":7979656179.396169,
+    "geom:area_square_m":7979656122.8851,
     "geom:bbox":"-12.426006,9.881676,-11.249235,11.326182",
     "geom:latitude":10.481152,
     "geom:longitude":-11.863166,
@@ -229,11 +229,13 @@
         "gn:id":2417831,
         "gp:id":-56059375,
         "hasc:id":"GN.MM",
+        "iso:code":"GN-MM",
         "iso:id":"GN-MM",
         "wd:id":"Q623295"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"72099badbc9f4d5b435efeba889da9f8",
+    "wof:geomhash":"b64f27bf9023aa0a361f1343d55b5a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -248,7 +250,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921875,
+    "wof:lastmodified":1695884940,
     "wof:name":"Mamou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

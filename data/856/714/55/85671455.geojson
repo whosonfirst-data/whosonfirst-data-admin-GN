@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194391,
-    "geom:area_square_m":2356252864.292421,
+    "geom:area_square_m":2356254509.505245,
     "geom:bbox":"-12.989718,10.985867,-12.461628,11.725678",
     "geom:latitude":11.400202,
     "geom:longitude":-12.722418,
@@ -176,12 +176,14 @@
         "gn:id":2595303,
         "gp:id":-56059374,
         "hasc:id":"GN.LE",
+        "iso:code":"GN-LE",
         "iso:id":"GN-LE",
         "unlc:id":"GN-LE",
         "wd:id":"Q3270350"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"19f75ae4a36533cf53d16eb558b81c98",
+    "wof:geomhash":"c82a7cbd261033d2c51edec49c673987",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -196,7 +198,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921879,
+    "wof:lastmodified":1695884326,
     "wof:name":"L\u00e9louma",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

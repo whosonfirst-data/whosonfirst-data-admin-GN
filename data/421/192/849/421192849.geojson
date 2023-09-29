@@ -286,13 +286,15 @@
         "gn:id":2421272,
         "gp:id":56059379,
         "hasc:id":"GN.FA",
+        "iso:code":"GN-FA",
         "iso:id":"GN-FA",
         "qs_pg:id":1181313,
         "wd:id":"Q597843"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
     "wof:created":1459009750,
-    "wof:geomhash":"114b82e76332d79916803d05985b3a2f",
+    "wof:geomhash":"05fcb1021e14b6483670741477d8dc6b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921887,
+    "wof:lastmodified":1695884940,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

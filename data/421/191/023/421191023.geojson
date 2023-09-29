@@ -438,6 +438,7 @@
         "hasc:id":"GN.CK",
         "qs_pg:id":59609
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421189675
     ],
@@ -456,7 +457,7 @@
         }
     ],
     "wof:id":421191023,
-    "wof:lastmodified":1694492547,
+    "wof:lastmodified":1695886409,
     "wof:name":"Conakry",
     "wof:parent_id":85671395,
     "wof:placetype":"county",

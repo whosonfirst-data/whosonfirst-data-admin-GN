@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.743398,
-    "geom:area_square_m":9072564750.378317,
+    "geom:area_square_m":9072563443.529739,
     "geom:bbox":"-10.478244,8.860002,-9.221203,9.716565",
     "geom:latitude":9.254319,
     "geom:longitude":-9.882043,
@@ -275,12 +275,14 @@
         "gn:id":2419470,
         "gp:id":-56059379,
         "hasc:id":"GN.KS",
+        "iso:code":"GN-KS",
         "iso:id":"GN-KS",
         "unlc:id":"GN-KS",
         "wd:id":"Q1358885"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"838223ea34bb11949522a5ae4de53b20",
+    "wof:geomhash":"c6d9deb0e65699cb5bb4a0791f4bc38e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -295,7 +297,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921874,
+    "wof:lastmodified":1695884939,
     "wof:name":"Kissidougou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

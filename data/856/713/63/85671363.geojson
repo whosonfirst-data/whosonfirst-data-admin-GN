@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.420947,
-    "geom:area_square_m":5119969220.792464,
+    "geom:area_square_m":5119969678.894586,
     "geom:bbox":"-14.550893,9.850043,-13.612442,10.740843",
     "geom:latitude":10.373918,
     "geom:longitude":-14.059591,
@@ -236,12 +236,14 @@
         "gn:id":2422967,
         "gp:id":-56059373,
         "hasc:id":"GN.BF",
+        "iso:code":"GN-BF",
         "iso:id":"GN-BF",
         "unlc:id":"GN-BF",
         "wd:id":"Q2908600"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"d467b636b87d970a3beb10e35191c66b",
+    "wof:geomhash":"a3608a1a05d52d3a6104c7720a982a54",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -256,7 +258,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921872,
+    "wof:lastmodified":1695884939,
     "wof:name":"Boffa",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

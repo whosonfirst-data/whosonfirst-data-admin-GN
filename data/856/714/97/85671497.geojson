@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370934,
-    "geom:area_square_m":4495486962.453671,
+    "geom:area_square_m":4495488641.414845,
     "geom:bbox":"-12.005489,10.99951,-11.119313,12.040403",
     "geom:latitude":11.440913,
     "geom:longitude":-11.516997,
@@ -185,12 +185,14 @@
         "gn:id":2414544,
         "gp:id":-56059374,
         "hasc:id":"GN.TO",
+        "iso:code":"GN-TO",
         "iso:id":"GN-TO",
         "unlc:id":"GN-TO",
         "wd:id":"Q7828837"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"0e7db501881f031d4aa6dc2b223ef44d",
+    "wof:geomhash":"972e38577d8b93507c4f5341973fa0eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +207,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921879,
+    "wof:lastmodified":1695884326,
     "wof:name":"Tougu\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.735819,
-    "geom:area_square_m":8998734709.920876,
+    "geom:area_square_m":8998734709.920866,
     "geom:bbox":"-9.919899,7.754584,-8.856339,9.089725",
     "geom:latitude":8.489765,
     "geom:longitude":-9.326348,
@@ -281,15 +281,17 @@
         "gn:id":2417987,
         "gp:id":-56059376,
         "hasc:id":"GN.MC",
+        "iso:code":"GN-MC",
         "iso:id":"GN-MC",
         "unlc:id":"GN-MC",
         "wd:id":"Q1032064"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890455263
     ],
     "wof:country":"GN",
-    "wof:geomhash":"d652551c8669ba03abe7c2b91dc23b8d",
+    "wof:geomhash":"dcd9a244fd3531ce3a6e3c9c0159bf04",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921877,
+    "wof:lastmodified":1695884940,
     "wof:name":"Macenta",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470481,
-    "geom:area_square_m":5740371160.851863,
+    "geom:area_square_m":5740371372.353653,
     "geom:bbox":"-9.3361,8.910652,-8.465766,9.740195",
     "geom:latitude":9.343519,
     "geom:longitude":-8.923871,
@@ -185,12 +185,14 @@
         "gn:id":2419618,
         "gp:id":-56059378,
         "hasc:id":"GN.KE",
+        "iso:code":"GN-KE",
         "iso:id":"GN-KE",
         "unlc:id":"GN-KE",
         "wd:id":"Q1152900"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"d80bba68ca7d55bf2ace0e46e0f62eef",
+    "wof:geomhash":"5e0054ad467d63a3ead347e377ebacbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +207,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921882,
+    "wof:lastmodified":1695884326,
     "wof:name":"K\u00e9rouan\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.038856,
-    "geom:area_square_m":12694366050.433617,
+    "geom:area_square_m":12694366196.452145,
     "geom:bbox":"-8.969148,8.015171,-7.662447,9.418651",
     "geom:latitude":8.796998,
     "geom:longitude":-8.344479,
@@ -215,12 +215,14 @@
         "gn:id":2423124,
         "gp:id":-56059376,
         "hasc:id":"GN.BE",
+        "iso:code":"GN-BE",
         "iso:id":"GN-BE",
         "unlc:id":"GN-BE",
         "wd:id":"Q3048208"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"926fe0efb6d4ed618a80664f6a9e8ca8",
+    "wof:geomhash":"aed305d7ba0140d304c1dd1c45ddb7f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -235,7 +237,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921870,
+    "wof:lastmodified":1695884939,
     "wof:name":"Beyla",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

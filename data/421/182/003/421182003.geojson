@@ -210,6 +210,7 @@
         "wd:id":"Q623145",
         "wk:page":"Lola Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459009315,
     "wof:geom_alt":[
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":421182003,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886070,
     "wof:name":"Lola",
     "wof:parent_id":85671461,
     "wof:placetype":"county",

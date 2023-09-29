@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"GN.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1481764182,
     "wof:geomhash":"3e01e9af432e88f1532125de535e1888",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108784625,
-    "wof:lastmodified":1694492854,
+    "wof:lastmodified":1695886316,
     "wof:name":"Kissidougo",
     "wof:parent_id":85671435,
     "wof:placetype":"county",

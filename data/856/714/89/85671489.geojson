@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.467732,
-    "geom:area_square_m":17775806615.067043,
+    "geom:area_square_m":17775806615.067005,
     "geom:bbox":"-10.207718,10.863844,-8.726517,12.497533",
     "geom:latitude":11.63024,
     "geom:longitude":-9.405549,
@@ -214,14 +214,16 @@
         "gn:id":2415702,
         "gp:id":-56059378,
         "hasc:id":"GN.SI",
+        "iso:code":"GN-SI",
         "iso:id":"GN-SI",
         "unlc:id":"GN-SI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421198017
     ],
     "wof:country":"GN",
-    "wof:geomhash":"b2fee7bba74d3fd960cd60b44225ed2b",
+    "wof:geomhash":"17d0413630c17558f4f696c18b0b0546",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -236,7 +238,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502718,
+    "wof:lastmodified":1695884940,
     "wof:name":"Siguiri",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

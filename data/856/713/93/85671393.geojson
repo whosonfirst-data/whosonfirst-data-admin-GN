@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.074948,
-    "geom:area_square_m":13019426765.176119,
+    "geom:area_square_m":13019426765.17605,
     "geom:bbox":"-11.423079,10.944963,-9.888772,12.219462",
     "geom:latitude":11.617804,
     "geom:longitude":-10.683534,
@@ -230,15 +230,17 @@
         "gn:id":2421902,
         "gp:id":-56059379,
         "hasc:id":"GN.DI",
+        "iso:code":"GN-DI",
         "iso:id":"GN-DI",
         "unlc:id":"GN-DI",
         "wd:id":"Q1006013"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421198015
     ],
     "wof:country":"GN",
-    "wof:geomhash":"fabb7699115cebbe4b4ac342b53c9923",
+    "wof:geomhash":"3c85e855087cd3800bd2adf44f7a4184",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -253,7 +255,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921871,
+    "wof:lastmodified":1695884939,
     "wof:name":"Dinguiraye",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

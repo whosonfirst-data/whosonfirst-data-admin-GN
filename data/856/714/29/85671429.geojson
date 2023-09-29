@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.706445,
-    "geom:area_square_m":8600325563.520611,
+    "geom:area_square_m":8600325563.520605,
     "geom:bbox":"-13.281831,9.562935,-12.109807,10.619042",
     "geom:latitude":10.083633,
     "geom:longitude":-12.733217,
@@ -244,14 +244,16 @@
         "gn:id":2419531,
         "gp:id":-56059377,
         "hasc:id":"GN.KD",
+        "iso:code":"GN-KD",
         "iso:id":"GN-KD",
         "wd:id":"Q1741960"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890455267
     ],
     "wof:country":"GN",
-    "wof:geomhash":"b73c46ea34993e0e7d84c02ed75d4d0a",
+    "wof:geomhash":"d60e20f920989bfad96cc442fbea686f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -266,7 +268,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921875,
+    "wof:lastmodified":1695884939,
     "wof:name":"Kindia",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

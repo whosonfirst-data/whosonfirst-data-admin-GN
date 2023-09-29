@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195008,
-    "geom:area_square_m":2371168899.389821,
+    "geom:area_square_m":2371170543.742849,
     "geom:bbox":"-13.828634,10.239199,-13.19629,10.714778",
     "geom:latitude":10.467728,
     "geom:longitude":-13.493696,
@@ -269,12 +269,14 @@
         "gn:id":2420883,
         "gp:id":-56059373,
         "hasc:id":"GN.FR",
+        "iso:code":"GN-FR",
         "iso:id":"GN-FR",
         "unlc:id":"GN-FR",
         "wd:id":"Q1456064"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"4b34f984311af6eb574532fed9e64743",
+    "wof:geomhash":"9e5db9878372fc662cde5936c1193282",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -289,7 +291,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921877,
+    "wof:lastmodified":1695884940,
     "wof:name":"Fria",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

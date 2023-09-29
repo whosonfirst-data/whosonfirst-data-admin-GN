@@ -249,6 +249,7 @@
         "hasc:id":"GN.DL",
         "qs_pg:id":140050
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459008740,
     "wof:geom_alt":[
@@ -264,7 +265,7 @@
         }
     ],
     "wof:id":421167693,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886069,
     "wof:name":"Dalaba",
     "wof:parent_id":85671385,
     "wof:placetype":"county",

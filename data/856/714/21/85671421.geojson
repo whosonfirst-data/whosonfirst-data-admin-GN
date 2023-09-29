@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.400264,
-    "geom:area_square_m":17051384788.929808,
+    "geom:area_square_m":17051382378.962696,
     "geom:bbox":"-9.955201,9.335173,-8.070433,10.749676",
     "geom:latitude":9.9971,
     "geom:longitude":-9.049288,
@@ -265,11 +265,13 @@
         "gn:id":2419991,
         "gp:id":-56059378,
         "hasc:id":"GN.KA",
+        "iso:code":"GN-KA",
         "iso:id":"GN-KA",
         "wd:id":"Q581719"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"d99db55ebf86e1c060b7c8740f9ae471",
+    "wof:geomhash":"471fe3acc92e055a2b3a688c0af0a3aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921876,
+    "wof:lastmodified":1695884940,
     "wof:name":"Kankan",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

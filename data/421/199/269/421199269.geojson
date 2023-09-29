@@ -207,6 +207,7 @@
         "wd:id":"Q890340",
         "wk:page":"Boffa Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459009983,
     "wof:geom_alt":[
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":421199269,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886070,
     "wof:name":"Boffa",
     "wof:parent_id":85671363,
     "wof:placetype":"county",

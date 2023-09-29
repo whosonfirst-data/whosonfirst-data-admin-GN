@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.495574,
-    "geom:area_square_m":6021777998.089458,
+    "geom:area_square_m":6021777998.089483,
     "geom:bbox":"-11.606406,9.994283,-10.598107,11.112552",
     "geom:latitude":10.673737,
     "geom:longitude":-11.238334,
@@ -205,14 +205,16 @@
         "gn:id":2422441,
         "gp:id":-56059379,
         "hasc:id":"GN.DB",
+        "iso:code":"GN-DB",
         "iso:id":"GN-DB",
         "unlc:id":"GN-DB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890420101
     ],
     "wof:country":"GN",
-    "wof:geomhash":"75145b1ea2a9709eda0b10aabe512fb8",
+    "wof:geomhash":"15c0c24570c1ae141bdb372f48529ca0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -227,7 +229,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636502717,
+    "wof:lastmodified":1695884939,
     "wof:name":"Dabola",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

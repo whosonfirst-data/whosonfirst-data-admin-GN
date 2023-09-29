@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340794,
-    "geom:area_square_m":4137542958.695389,
+    "geom:area_square_m":4137542958.695446,
     "geom:bbox":"-12.964035,10.469938,-12.121839,11.321661",
     "geom:latitude":10.928098,
     "geom:longitude":-12.623445,
@@ -314,15 +314,17 @@
         "gn:id":2416440,
         "gp:id":-56059375,
         "hasc:id":"GN.PI",
+        "iso:code":"GN-PI",
         "iso:id":"GN-PI",
         "unlc:id":"GN-PI",
         "wd:id":"Q211340"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421182471
     ],
     "wof:country":"GN",
-    "wof:geomhash":"f266a01af23f007ce05440e1bd9ec96e",
+    "wof:geomhash":"377f146ff3dd8da46ee819c7890f1042",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921880,
+    "wof:lastmodified":1695884940,
     "wof:name":"Pita",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

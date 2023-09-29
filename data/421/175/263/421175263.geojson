@@ -320,6 +320,7 @@
         "wd:id":"Q3077142",
         "wk:page":"For\u00e9cariah"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671403
     ],
@@ -338,7 +339,7 @@
         }
     ],
     "wof:id":421175263,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886069,
     "wof:name":"Forecariah",
     "wof:parent_id":85671403,
     "wof:placetype":"county",

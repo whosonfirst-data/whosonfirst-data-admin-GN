@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117652,
-    "geom:area_square_m":1433724421.661645,
+    "geom:area_square_m":1433724629.55682,
     "geom:bbox":"-13.528193,9.524482,-13.089549,9.998574",
     "geom:latitude":9.760566,
     "geom:longitude":-13.329521,
@@ -257,12 +257,14 @@
         "gn:id":2595299,
         "gp:id":-56059377,
         "hasc:id":"GN.CO",
+        "iso:code":"GN-CO",
         "iso:id":"GN-CO",
         "unlc:id":"GN-CO",
         "wd:id":"Q1021470"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"13a994d53da7f3bc3dd01a1f002c924c",
+    "wof:geomhash":"d873b25461525089d62b6501bbd683d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -277,7 +279,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921872,
+    "wof:lastmodified":1695884939,
     "wof:name":"Coyah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

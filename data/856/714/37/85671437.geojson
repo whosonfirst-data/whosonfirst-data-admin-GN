@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.279113,
-    "geom:area_square_m":3380151641.830213,
+    "geom:area_square_m":3380150385.299905,
     "geom:bbox":"-12.31747,11.285668,-11.343989,12.134609",
     "geom:latitude":11.652988,
     "geom:longitude":-11.765606,
@@ -182,12 +182,14 @@
         "gn:id":2595302,
         "gp:id":-56059374,
         "hasc:id":"GN.KB",
+        "iso:code":"GN-KB",
         "iso:id":"GN-KB",
         "unlc:id":"GN-KB",
         "wd:id":"Q3199237"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"dbf5bc4de93c34f5f5984b0f0f814a49",
+    "wof:geomhash":"91f1de3fca858270d0c4c91d2040e2bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -202,7 +204,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921878,
+    "wof:lastmodified":1695884940,
     "wof:name":"Koubia",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.631316,
-    "geom:area_square_m":7664987267.198778,
+    "geom:area_square_m":7664987267.198736,
     "geom:bbox":"-14.144532,10.397239,-12.874868,11.366102",
     "geom:latitude":10.91821,
     "geom:longitude":-13.398595,
@@ -191,15 +191,17 @@
         "gn:id":2414925,
         "gp:id":-56059377,
         "hasc:id":"GN.TE",
+        "iso:code":"GN-TE",
         "iso:id":"GN-TE",
         "unlc:id":"GN-TE",
         "wd:id":"Q7862201"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421180037
     ],
     "wof:country":"GN",
-    "wof:geomhash":"323e8fc401bb3193e6361c50aed0e94a",
+    "wof:geomhash":"331dff4d965f3d2f1b6b6c317a9c0822",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +216,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921882,
+    "wof:lastmodified":1695884473,
     "wof:name":"T\u00e9lim\u00e9l\u00e9",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

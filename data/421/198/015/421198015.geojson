@@ -278,6 +278,7 @@
         "wd:id":"Q1006013",
         "wk:page":"Dinguiraye"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671393
     ],
@@ -296,7 +297,7 @@
         }
     ],
     "wof:id":421198015,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886069,
     "wof:name":"Dinguiraye",
     "wof:parent_id":85671393,
     "wof:placetype":"county",

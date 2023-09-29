@@ -222,6 +222,7 @@
         "wd:id":"Q1456064",
         "wk:page":"Fria"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1459009434,
     "wof:geom_alt":[
@@ -237,7 +238,7 @@
         }
     ],
     "wof:id":421185157,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886071,
     "wof:name":"Fria",
     "wof:parent_id":85671409,
     "wof:placetype":"county",

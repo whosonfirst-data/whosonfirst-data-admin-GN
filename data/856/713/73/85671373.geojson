@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002042,
-    "geom:area_square_m":24903560.373046,
+    "geom:area_square_m":24903560.373045,
     "geom:bbox":"-13.7262263663,9.50580475509,-13.6432669967,9.57390613556",
     "geom:latitude":9.53811,
     "geom:longitude":-13.682231,
@@ -489,10 +489,12 @@
         "gn:id":2422464,
         "gp:id":-56059372,
         "hasc:id":"GN.CK",
+        "iso:code":"GN-C",
         "iso:id":"GN-C"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"0903c8061a6072158b17b10c943c4243",
+    "wof:geomhash":"d7b4b45e7ae2a11b89f46db99906d5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -507,7 +509,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566639286,
+    "wof:lastmodified":1695884326,
     "wof:name":"Conakry",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.381012,
-    "geom:area_square_m":4656910446.996481,
+    "geom:area_square_m":4656911541.906418,
     "geom:bbox":"-10.735283,8.2696,-9.769992,9.185176",
     "geom:latitude":8.710929,
     "geom:longitude":-10.282701,
@@ -290,11 +290,13 @@
         "gn:id":2420561,
         "gp:id":-56059376,
         "hasc:id":"GN.GU",
+        "iso:code":"GN-GU",
         "iso:id":"GN-GU",
         "wd:id":"Q740687"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"53c3bade2b2a50325e4455b822dce9c1",
+    "wof:geomhash":"7d6eda66fc351e7d0e9a187ff52a6144",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690921876,
+    "wof:lastmodified":1695884505,
     "wof:name":"Gu\u00e9ck\u00e9dou",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

@@ -151,6 +151,7 @@
         "hasc:id":"GN.DB",
         "qs_pg:id":91437
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85671381
     ],
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":890420101,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886071,
     "wof:name":"Dabola",
     "wof:parent_id":85671381,
     "wof:placetype":"county",

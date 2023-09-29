@@ -21,7 +21,7 @@
     ],
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
@@ -410,11 +410,13 @@
     "wof:concordances":{
         "gn:id":2422464,
         "gp:id":56059372,
+        "iso:code":"GN-C",
         "qs_pg:id":1095745
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GN",
     "wof:created":1459009548,
-    "wof:geomhash":"a9a532d6ae9be14d8b651632e87d8820",
+    "wof:geomhash":"7aa78aa31a56222104a48f34412f2f94",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -429,7 +431,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566639717,
+    "wof:lastmodified":1695884281,
     "wof:name":"Conakry",
     "wof:parent_id":85632691,
     "wof:placetype":"region",

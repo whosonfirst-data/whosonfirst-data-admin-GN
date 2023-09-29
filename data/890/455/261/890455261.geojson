@@ -196,6 +196,7 @@
         "wd:id":"Q1781017",
         "wk:page":"Mali Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GN",
     "wof:created":1469052940,
     "wof:geom_alt":[
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":890455261,
-    "wof:lastmodified":1694492941,
+    "wof:lastmodified":1695886071,
     "wof:name":"Mali",
     "wof:parent_id":85671467,
     "wof:placetype":"county",
