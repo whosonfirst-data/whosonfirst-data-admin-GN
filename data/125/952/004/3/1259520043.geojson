@@ -28,14 +28,20 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Tomba Doula"
+    ],
+    "name:eng_x_variant":[
+        "Tomba Foulah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
         85632691,
-        85671489,
-        421198017
+        421198017,
+        85671489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":1259520043,
-    "wof:lastmodified":1566639834,
-    "wof:name":"Tomba Foulah",
+    "wof:lastmodified":1701902039,
+    "wof:name":"Tomba Doula",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gn",
