@@ -28,6 +28,7 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0627\u0646\u0627"
     ],
@@ -175,6 +176,9 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0440\u0430\u043d\u0430"
     ],
+    "name:und_x_variant":[
+        "Faranah Region"
+    ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0631\u0627\u0646\u0627\u06c1"
     ],
@@ -184,6 +188,51 @@
     "name:zho_x_preferred":[
         "\u6cd5\u62c9\u7d0d"
     ],
+    "ne:adm0_a3":"GIN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"GIN-5636",
+    "ne:adm1_code":"GIN-5636",
+    "ne:admin":"Guinea",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"13",
+    "ne:code_hasc":"GN.FA",
+    "ne:datarank":"8",
+    "ne:diss_me":"5636",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"GV09",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Guinea",
+    "ne:gn_a1_code":"GN.09",
+    "ne:gn_id":"2421272",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Faranah Prefecture",
+    "ne:gns_adm1":"GV09",
+    "ne:gns_id":"-1179585",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Faranah",
+    "ne:gu_a3":"GIN",
+    "ne:iso_3166_2":"GN-",
+    "ne:iso_a2":"GN",
+    "ne:labelrank":"7",
+    "ne:latitude":"9.98517000000",
+    "ne:longitude":"-10.88100000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":7,
+    "ne:name":"Faranah",
+    "ne:name_len":7,
+    "ne:provnum_ne":"0",
+    "ne:region":"Faranah",
+    "ne:region_cod":"GN.F",
+    "ne:sameascity":"7",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"GIN",
+    "ne:type":"Pr\u00e9fecture",
+    "ne:type_en":"Prefecture",
+    "ne:woe_id":-56059379,
+    "ne:woe_label":"Faranah, GN, Guinea",
+    "ne:woe_name":"Faranah",
     "qs:a0":"Guinea",
     "qs:a0_lc":"GN",
     "qs:a1":"Faranah",
@@ -192,18 +241,37 @@
     "qs:a1r_lc":"GN.F",
     "qs:adm0":"Guinea",
     "qs:adm0_a3":"GIN",
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
     "qs:level":"adm1",
+    "qs:name":"Faranah",
+    "qs:name_adm0":"Guin\u00e9e",
+    "qs:name_adm1":"Faranah",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":1,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1181313,
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Prefecture",
+    "qs:woe_adm0":23424835,
+    "qs:woe_id":56059379,
     "qs:woeid":56059379,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population_date":"2014-03-01",
+    "statoids:area_km":"13000",
+    "statoids:area_mi":"5019",
     "statoids:areakm":13000,
     "statoids:areami":5019,
+    "statoids:as_of_date":"2014-03-01",
     "statoids:capital":"Faranah",
     "statoids:country":"GN",
     "statoids:date":"2014-03-01",
@@ -221,14 +289,32 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "fips:code":"GV09",
+        "gn:id":2421272,
         "gp:id":56059379,
         "hasc:id":"GN.FA",
         "iso:code":"GN-FA",
+        "iso:id":"GN-FA",
+        "qs_pg:id":1181313,
         "wd:id":"Q597843"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56059379
+        ],
+        "hasc:id":[
+            "GN.FA"
+        ],
+        "iso:code":[
+            "GN-FA"
+        ],
+        "wd:id":[
+            "Q597843"
+        ]
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"GN",
-    "wof:geomhash":"5c89f6949e6784cd733b7f83e127fe5b",
+    "wof:geomhash":"ef92e2e942c7e5b7a0dad58dd55484d2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -243,16 +329,19 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1695884286,
+    "wof:lastmodified":1706239753,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
+    "wof:placetype_local":"prefecture",
     "wof:population":280170,
     "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gn",
     "wof:shortcode":"FA",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421192849
+    ],
     "wof:tags":[]
 },
   "bbox": [
