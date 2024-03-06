@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-11.074218,10.314919,-11.074218,10.314919",
@@ -21,7 +23,7 @@
     ],
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
@@ -294,7 +296,7 @@
     "wof:concordances_official":"iso:code",
     "wof:country":"GN",
     "wof:created":1459009750,
-    "wof:geomhash":"05fcb1021e14b6483670741477d8dc6b",
+    "wof:geomhash":"114b82e76332d79916803d05985b3a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1695884940,
+    "wof:lastmodified":1706239753,
     "wof:name":"Faranah",
     "wof:parent_id":85632691,
     "wof:placetype":"region",
@@ -318,7 +320,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-gn",
     "wof:shortcode":"FA",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85671399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
