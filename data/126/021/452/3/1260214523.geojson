@@ -34,7 +34,7 @@
         "Tomba Kanssa"
     ],
     "name:eng_x_variant":[
-        "Tomba Dougoula"
+        "Tomba Kansa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1260214523,
-    "wof:lastmodified":1701974986,
+    "wof:lastmodified":1736405214,
     "wof:name":"Tomba Kanssa",
     "wof:parent_id":421198017,
     "wof:placetype":"locality",
